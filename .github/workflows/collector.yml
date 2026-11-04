@@ -1,13 +1,18 @@
-name: Mon Premier Robot de Collecte
+name: Robot de Collecte data.json
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # S'exécute toutes les 6 heures
-  workflow_dispatch: # Permet de lancer le robot à la main quand tu veux pour tester !
+    - cron: '0 */4 * * *' # S'exécute toutes les 4 heures
+  workflow_dispatch: # Permet de le lancer manuellement quand tu veux
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
+    
+    # ⚠️ Important : donne les droits d'écriture au robot sur le dépôt
+    permissions:
+      contents: write
+
     steps:
       - name: Récupérer le code du dépôt
         uses: actions/checkout@v4
@@ -22,3 +27,10 @@ jobs:
 
       - name: Lancer le script de collecte
         run: python Parser.py
+
+      - name: Mettre à jour automatiquement data.json sur GitHub
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: mise à jour automatique de data.json" && git push)
