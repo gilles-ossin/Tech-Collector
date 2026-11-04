@@ -1,0 +1,10 @@
+{
+    "items": [
+        {
+            "title": "Exemple de projet Tech Africain",
+            "type": "sdk",
+            "date": "2026-11-04T16:00:00+00:00",
+            "github_url": "https://github.com/exemple/projet"
+        }
+    ]
+}
