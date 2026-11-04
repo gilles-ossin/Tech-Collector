@@ -1,4 +1,4 @@
-name: Robot de Collecte data.json
+name: Robot de Collecte data
 
 on:
   schedule:
