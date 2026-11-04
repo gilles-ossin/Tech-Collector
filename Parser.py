@@ -11,7 +11,7 @@ def run_collector():
     
     # 2. Construire la requête pour l'API GitHub
     # On cherche les mots-clés "africa", "sdk" ou "package" mis à jour après la date calculée
-    query = f"africa sdk package librair library pushed:>{one_year_ago}"
+    query = f"africa (sdk OR package) pushed:>{one_year_ago}"
     url = f"https://api.github.com/search/repositories?q={query}&sort=updated&order=desc"
     
     print(f"🔍 Interrogation de l'API GitHub : {query}")
