@@ -1,11 +1,3773 @@
 {
-    "source": "github-actions-bot",
-    "items": [
-        {
-            "title": "Exemple de projet Tech Africain",
-            "type": "sdk",
-            "date": "2026-11-04T16:00:00+00:00",
-            "github_url": "https://github.com/exemple/projet"
-        }
-    ]
+  "source": "github-actions-bot",
+  "last_update": "2026-11-05T00:35:28.373479+00:00",
+  "queries_used": [
+    "wave flutter",
+    "africa package pushed:>=2025-11-05",
+    "africa in:readme sdk pushed:>=2025-11-05",
+    "africa in:readme package pushed:>=2025-11-05"
+  ],
+  "total_found": 376,
+  "items": [
+    {
+      "title": "shoutout-demo",
+      "description": "ShoutOut Demo",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/JadzAdCo/shoutout-demo",
+      "updated_at": "2026-11-05T00:34:13Z",
+      "pushed_at": "2026-11-05T00:35:25Z",
+      "stars": 0,
+      "author": "JadzAdCo"
+    },
+    {
+      "title": "casey",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AnEntrypoint/casey",
+      "updated_at": "2026-11-05T00:35:13Z",
+      "pushed_at": "2026-11-05T00:35:09Z",
+      "stars": 2,
+      "author": "AnEntrypoint"
+    },
+    {
+      "title": "astrodeck",
+      "description": "Telescope control that's easy for amateurs but powerful for pros",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/epim/astrodeck",
+      "updated_at": "2026-11-04T22:28:37Z",
+      "pushed_at": "2026-11-05T00:34:57Z",
+      "stars": 2,
+      "author": "epim"
+    },
+    {
+      "title": "TechLearn-Kenya",
+      "description": "TechLearn is a revolutionary 🔥 learning management system specifically designed to empower African youth 👨‍💻👩‍💻 with cutting-edge technology skills.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mwakidenis/TechLearn-Kenya",
+      "updated_at": "2026-11-05T00:34:50Z",
+      "pushed_at": "2026-11-05T00:34:46Z",
+      "stars": 16,
+      "author": "mwakidenis"
+    },
+    {
+      "title": "neo",
+      "description": "Puddle Island: a home-made learning game for little kids",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/rjdunlap/neo",
+      "updated_at": "2026-11-05T00:16:15Z",
+      "pushed_at": "2026-11-05T00:34:01Z",
+      "stars": 0,
+      "author": "rjdunlap"
+    },
+    {
+      "title": "ERPNext-Comms",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/atilioobadia-cpu/ERPNext-Comms",
+      "updated_at": "2026-11-05T00:34:02Z",
+      "pushed_at": "2026-11-05T00:33:58Z",
+      "stars": 0,
+      "author": "atilioobadia-cpu"
+    },
+    {
+      "title": "APEX",
+      "description": "Production-grade terminal AI coding agent with 85+ models support, multi-agent system, and rich terminal UI. Built in Gabon 🇬🇦 for the world.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Ggboykxz/APEX",
+      "updated_at": "2026-11-05T00:33:51Z",
+      "pushed_at": "2026-11-05T00:33:47Z",
+      "stars": 5,
+      "author": "Ggboykxz"
+    },
+    {
+      "title": "orbit-x",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Orbit-X-Online/orbit-x",
+      "updated_at": "2026-11-05T00:33:39Z",
+      "pushed_at": "2026-11-05T00:33:35Z",
+      "stars": 0,
+      "author": "Orbit-X-Online"
+    },
+    {
+      "title": "GoldTickerLive",
+      "description": "Bilingual gold price tracker with live XAU/USD, karat pricing, local currency conversion, charts, calculator, and export tools.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/vctb12/GoldTickerLive",
+      "updated_at": "2026-11-05T00:33:19Z",
+      "pushed_at": "2026-11-05T00:33:15Z",
+      "stars": 5,
+      "author": "vctb12"
+    },
+    {
+      "title": "DigiFarm",
+      "description": "🌱🚜 A full-stack web application revolutionizing agricultural support by providing 🧠 intelligent crop diagnostics, 🛒 seamless marketplace integration, and 📚 a comprehensive farming knowledge hub. Built with ⚡ Django REST Framework backend and 🌐 React frontend.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mwakidenis/DigiFarm",
+      "updated_at": "2026-11-05T00:33:02Z",
+      "pushed_at": "2026-11-05T00:32:56Z",
+      "stars": 16,
+      "author": "mwakidenis"
+    },
+    {
+      "title": "smart-delivery-ops",
+      "description": "AI-powered delivery operations platform: customer storefront, restaurant portal, dispatch, dynamic pricing with coupons and a sandbox payment seam — Kafka -> dbt marts (Airflow), benchmarked ML in MLflow, and a LangGraph copilot with pgvector RAG; multi-tenant Postgres RLS; load-tested, monitored, fully demoable",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SiwarAttia6191/smart-delivery-ops",
+      "updated_at": "2026-11-05T00:29:50Z",
+      "pushed_at": "2026-11-05T00:32:38Z",
+      "stars": 0,
+      "author": "SiwarAttia6191"
+    },
+    {
+      "title": "miktrotik-hotspot-billing",
+      "description": "Connect. Pay. Browse — Seamlessly.  This is a comprehensive WiFi billing system designed specifically for Kenya, featuring M-Pesa integration, MikroTik router control, and a modern web-based admin dashboard.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mwakidenis/miktrotik-hotspot-billing",
+      "updated_at": "2026-11-05T00:32:40Z",
+      "pushed_at": "2026-11-05T00:32:36Z",
+      "stars": 45,
+      "author": "mwakidenis"
+    },
+    {
+      "title": "calvinmaggz-maker.github.io",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/calvinmaggz-maker/calvinmaggz-maker.github.io",
+      "updated_at": "2026-11-05T00:32:29Z",
+      "pushed_at": "2026-11-05T00:32:26Z",
+      "stars": 0,
+      "author": "calvinmaggz-maker"
+    },
+    {
+      "title": "OpenRisk",
+      "description": "Unified Risk & Threat Intelligence Management Platform",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/opendefender/OpenRisk",
+      "updated_at": "2026-11-05T00:23:05Z",
+      "pushed_at": "2026-11-05T00:32:18Z",
+      "stars": 35,
+      "author": "opendefender"
+    },
+    {
+      "title": "eventfinder-south-africa",
+      "description": "Native Android (Kotlin + Jetpack Compose) app to discover, save and create local South African events. Free REST APIs, offline-first Room cache, osmdroid maps, 72 unit tests, GitHub Actions CI.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Zulfique/eventfinder-south-africa",
+      "updated_at": "2026-11-05T00:32:18Z",
+      "pushed_at": "2026-11-05T00:32:14Z",
+      "stars": 0,
+      "author": "Zulfique"
+    },
+    {
+      "title": "Cpay",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/norbertm09/Cpay",
+      "updated_at": "2026-11-05T00:09:11Z",
+      "pushed_at": "2026-11-05T00:32:03Z",
+      "stars": 0,
+      "author": "norbertm09"
+    },
+    {
+      "title": "Lynia",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/unnfazzed/Lynia",
+      "updated_at": "2026-11-04T23:43:19Z",
+      "pushed_at": "2026-11-05T00:31:38Z",
+      "stars": 0,
+      "author": "unnfazzed"
+    },
+    {
+      "title": "aoe2mc",
+      "description": "This project aims to convert AOE2 games to Minecraft. Starting with map conversion, but other plans are fully accurate replays, bots playing AOE2 inside of MC, and players being able to play AOE2 in MC",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Larspolo/aoe2mc",
+      "updated_at": "2026-11-05T00:28:13Z",
+      "pushed_at": "2026-11-05T00:31:23Z",
+      "stars": 1,
+      "author": "Larspolo"
+    },
+    {
+      "title": "jnvoy",
+      "description": "Privacy and security gateway for LLM traffic: redacts personal data before it reaches a model, blocks prompt injection, keeps an audit log.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Jeevan2191999/jnvoy",
+      "updated_at": "2026-11-05T00:31:08Z",
+      "pushed_at": "2026-11-05T00:31:04Z",
+      "stars": 0,
+      "author": "Jeevan2191999"
+    },
+    {
+      "title": "cs249r_book",
+      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/harvard-edge/cs249r_book",
+      "updated_at": "2026-11-05T00:31:19Z",
+      "pushed_at": "2026-11-05T00:31:01Z",
+      "stars": 29938,
+      "author": "harvard-edge"
+    },
+    {
+      "title": "web3-create-a-short-video-explainer-for--29897b",
+      "description": "Create a Short Video Explainer for Hisa: $5000 up for grabs. - Automated High-Performance Deliverable",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/wiliancolomboo-tech/web3-create-a-short-video-explainer-for--29897b",
+      "updated_at": "2026-11-05T00:30:57Z",
+      "pushed_at": "2026-11-05T00:30:53Z",
+      "stars": 0,
+      "author": "wiliancolomboo-tech"
+    },
+    {
+      "title": "dchub-mcp-server",
+      "description": "DCPI (Data Center Power Index): a daily score of where data centers can get grid power, across 300+ markets. Live power-grid, energy, queue, fiber, gas & M&A data for AI agents: 94 tools, global facility map, 1,700+ tracked M&A deals. Capacity to buy or lease via source_capacity. Remote MCP at dchub.cloud/mcp. Query & cite (CC-BY-4.0).",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/azmartone67/dchub-mcp-server",
+      "updated_at": "2026-11-05T00:30:58Z",
+      "pushed_at": "2026-11-05T00:30:52Z",
+      "stars": 3,
+      "author": "azmartone67"
+    },
+    {
+      "title": "ultimate-awesome",
+      "description": "Every awesome list on every topic, including awesome lists of awesome lists, updated daily.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/andrew/ultimate-awesome",
+      "updated_at": "2026-11-05T00:30:41Z",
+      "pushed_at": "2026-11-05T00:30:36Z",
+      "stars": 222,
+      "author": "andrew"
+    },
+    {
+      "title": "HustleHub",
+      "description": "HustleHub+ secure freelance marketplace",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SuthuGongo/HustleHub",
+      "updated_at": "2026-11-05T00:30:36Z",
+      "pushed_at": "2026-11-05T00:30:31Z",
+      "stars": 0,
+      "author": "SuthuGongo"
+    },
+    {
+      "title": "kite",
+      "description": "KITE Local: privacy-first KML/KMZ/GeoJSON viewer that keeps your folder tree. One HTML file, nothing uploaded. Try it: https://ifsnop.github.io/kite/",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ifsnop/kite",
+      "updated_at": "2026-11-05T00:21:28Z",
+      "pushed_at": "2026-11-05T00:30:13Z",
+      "stars": 2,
+      "author": "ifsnop"
+    },
+    {
+      "title": "Khazan-Blade-Mastery",
+      "description": "The First Berserker Khazan Cheat Tool: Master Edition 2026 Guide",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/fireplyz55/Khazan-Blade-Mastery",
+      "updated_at": "2026-11-05T00:30:09Z",
+      "pushed_at": "2026-11-05T00:30:04Z",
+      "stars": 55,
+      "author": "fireplyz55"
+    },
+    {
+      "title": "BRVM-stock-ai-agent",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/sanaaloute/BRVM-stock-ai-agent",
+      "updated_at": "2026-11-05T00:29:28Z",
+      "pushed_at": "2026-11-05T00:29:23Z",
+      "stars": 0,
+      "author": "sanaaloute"
+    },
+    {
+      "title": "fireside-group-mobile",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/fireside101/fireside-group-mobile",
+      "updated_at": "2026-11-05T00:29:07Z",
+      "pushed_at": "2026-11-05T00:29:03Z",
+      "stars": 0,
+      "author": "fireside101"
+    },
+    {
+      "title": "tarime-hardware",
+      "description": "Tarime Hardware application and read-only client design preview",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Fredrick-Mtana-Mwita/tarime-hardware",
+      "updated_at": "2026-11-05T00:28:37Z",
+      "pushed_at": "2026-11-05T00:28:40Z",
+      "stars": 0,
+      "author": "Fredrick-Mtana-Mwita"
+    },
+    {
+      "title": "marautat",
+      "description": "3.0 Agent",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SaddyMalingu/marautat",
+      "updated_at": "2026-11-05T00:27:56Z",
+      "pushed_at": "2026-11-05T00:27:52Z",
+      "stars": 0,
+      "author": "SaddyMalingu"
+    },
+    {
+      "title": "entrust-platform",
+      "description": "Entrust Africa platform monorepo: website, CLEAR Export, shared packages",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Entrust-Africa/entrust-platform",
+      "updated_at": "2026-11-05T00:27:55Z",
+      "pushed_at": "2026-11-05T00:27:50Z",
+      "stars": 0,
+      "author": "Entrust-Africa"
+    },
+    {
+      "title": "Actors",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ArndRosemeier/Actors",
+      "updated_at": "2026-11-05T00:10:39Z",
+      "pushed_at": "2026-11-05T00:27:46Z",
+      "stars": 0,
+      "author": "ArndRosemeier"
+    },
+    {
+      "title": "geopolitical-simulator",
+      "description": "Geopolitical strategy game in Rust fully built by Codex",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/timborovkov/geopolitical-simulator",
+      "updated_at": "2026-11-05T00:27:41Z",
+      "pushed_at": "2026-11-05T00:27:37Z",
+      "stars": 0,
+      "author": "timborovkov"
+    },
+    {
+      "title": "mmgconciergeapp",
+      "description": "Luxury car rental and concierge services",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/franklinnweke/mmgconciergeapp",
+      "updated_at": "2026-11-05T00:27:22Z",
+      "pushed_at": "2026-11-05T00:27:18Z",
+      "stars": 0,
+      "author": "franklinnweke"
+    },
+    {
+      "title": "ipbesllm",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ipbes/ipbesllm",
+      "updated_at": "2026-11-05T00:27:04Z",
+      "pushed_at": "2026-11-05T00:27:00Z",
+      "stars": 2,
+      "author": "ipbes"
+    },
+    {
+      "title": "OpenFrontIO",
+      "description": "Online browser-based RTS game",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/openfrontio/OpenFrontIO",
+      "updated_at": "2026-11-05T00:25:03Z",
+      "pushed_at": "2026-11-05T00:25:45Z",
+      "stars": 2875,
+      "author": "openfrontio"
+    },
+    {
+      "title": "ai-pulse",
+      "description": "AI news, research papers and a day-by-day AI regulation tracker, updated every 6 hours",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/shru14/ai-pulse",
+      "updated_at": "2026-11-05T00:25:47Z",
+      "pushed_at": "2026-11-05T00:25:43Z",
+      "stars": 1,
+      "author": "shru14"
+    },
+    {
+      "title": "MealMate",
+      "description": "OPSC6312 Part 2 – Recipe & Meal Planner Android App",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ST10455971/MealMate",
+      "updated_at": "2026-11-05T00:25:30Z",
+      "pushed_at": "2026-11-05T00:25:27Z",
+      "stars": 0,
+      "author": "ST10455971"
+    },
+    {
+      "title": "PAB_WebApp",
+      "description": "Public Help Centre web application for Philisa Abafazi Bethu",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Kwethukubonga/PAB_WebApp",
+      "updated_at": "2026-11-05T00:21:38Z",
+      "pushed_at": "2026-11-05T00:25:03Z",
+      "stars": 0,
+      "author": "Kwethukubonga"
+    },
+    {
+      "title": "NicoStan",
+      "description": "Efficient MCMC for Stan models, with advanced between-chain adaptation and diffusion-pathspace HMC",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CerulloE1996/NicoStan",
+      "updated_at": "2026-11-05T00:24:00Z",
+      "pushed_at": "2026-11-05T00:23:56Z",
+      "stars": 0,
+      "author": "CerulloE1996"
+    },
+    {
+      "title": "av-layers",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/jdorrance/av-layers",
+      "updated_at": "2026-11-05T00:23:24Z",
+      "pushed_at": "2026-11-05T00:23:18Z",
+      "stars": 0,
+      "author": "jdorrance"
+    },
+    {
+      "title": "mycity-app",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/praxisjbs/mycity-app",
+      "updated_at": "2026-11-04T23:34:29Z",
+      "pushed_at": "2026-11-05T00:22:22Z",
+      "stars": 0,
+      "author": "praxisjbs"
+    },
+    {
+      "title": "music-recommendation-system",
+      "description": "Hybrid Music Recommendation System with Apple Music Clean UI, FP-Growth Association Rules, and Acoustic Feature Vectors",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/stuartmzimba/music-recommendation-system",
+      "updated_at": "2026-11-05T00:22:28Z",
+      "pushed_at": "2026-11-05T00:22:22Z",
+      "stars": 0,
+      "author": "stuartmzimba"
+    },
+    {
+      "title": "SearchTern-Listings",
+      "description": "A curated, auto-updated feed of internship and new grad roles for college students.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/KSaifStack/SearchTern-Listings",
+      "updated_at": "2026-11-05T00:22:33Z",
+      "pushed_at": "2026-11-05T00:22:21Z",
+      "stars": 6,
+      "author": "KSaifStack"
+    },
+    {
+      "title": "TonJam",
+      "description": "Web3 streaming platform and mp3 NFT market place ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Ton-Jam/TonJam",
+      "updated_at": "2026-11-05T00:22:18Z",
+      "pushed_at": "2026-11-05T00:22:14Z",
+      "stars": 1,
+      "author": "Ton-Jam"
+    },
+    {
+      "title": "DeadPackets",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/DeadPackets/DeadPackets",
+      "updated_at": "2026-11-05T00:21:55Z",
+      "pushed_at": "2026-11-05T00:21:51Z",
+      "stars": 4,
+      "author": "DeadPackets"
+    },
+    {
+      "title": "touchline",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/tpkhoon/touchline",
+      "updated_at": "2026-11-05T00:21:43Z",
+      "pushed_at": "2026-11-05T00:21:39Z",
+      "stars": 0,
+      "author": "tpkhoon"
+    },
+    {
+      "title": "Jobly",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/kenzimayaka-glitch/Jobly",
+      "updated_at": "2026-11-04T23:46:04Z",
+      "pushed_at": "2026-11-05T00:20:32Z",
+      "stars": 0,
+      "author": "kenzimayaka-glitch"
+    },
+    {
+      "title": "Nkoapp",
+      "description": "Budgeting webapp for African filmmakers ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Nkobudget/Nkoapp",
+      "updated_at": "2026-11-05T00:20:21Z",
+      "pushed_at": "2026-11-05T00:20:18Z",
+      "stars": 1,
+      "author": "Nkobudget"
+    },
+    {
+      "title": "Varsivo-OPSC",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/BokgaboM/Varsivo-OPSC",
+      "updated_at": "2026-11-05T00:19:26Z",
+      "pushed_at": "2026-11-05T00:19:21Z",
+      "stars": 0,
+      "author": "BokgaboM"
+    },
+    {
+      "title": "One-TVOS",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/S1rHades/One-TVOS",
+      "updated_at": "2026-11-05T00:19:23Z",
+      "pushed_at": "2026-11-05T00:19:18Z",
+      "stars": 0,
+      "author": "S1rHades"
+    },
+    {
+      "title": "Calories-",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/harshskapadia/Calories-",
+      "updated_at": "2026-11-05T00:19:15Z",
+      "pushed_at": "2026-11-05T00:19:11Z",
+      "stars": 0,
+      "author": "harshskapadia"
+    },
+    {
+      "title": "mframa",
+      "description": "Mframa — Know your air, Accra. Real-time PM2.5 protection for Accra, Ghana: live air quality from 85 OpenAQ sensors, +1h offline-station nowcasting (bake-off winner, ACC 0.705), exposure tracking Android companion, Telegram alerts. TechHub Africa Hackathon 2026.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/qsxcv20/mframa",
+      "updated_at": "2026-11-05T00:18:06Z",
+      "pushed_at": "2026-11-05T00:18:02Z",
+      "stars": 0,
+      "author": "qsxcv20"
+    },
+    {
+      "title": "healthsim",
+      "description": "Simulate synthetic South African health insurance portfolios and panels with a known data-generating process (R package)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Sbusiso-Mdingi/healthsim",
+      "updated_at": "2026-11-05T00:18:01Z",
+      "pushed_at": "2026-11-05T00:17:58Z",
+      "stars": 0,
+      "author": "Sbusiso-Mdingi"
+    },
+    {
+      "title": "enhansome-twill",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-twill",
+      "updated_at": "2026-11-05T00:17:55Z",
+      "pushed_at": "2026-11-05T00:17:51Z",
+      "stars": 0,
+      "author": "enhansome"
+    },
+    {
+      "title": "em-macro",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/EthanC100/em-macro",
+      "updated_at": "2026-11-05T00:17:37Z",
+      "pushed_at": "2026-11-05T00:17:32Z",
+      "stars": 0,
+      "author": "EthanC100"
+    },
+    {
+      "title": "TOP",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/elijahamisu/TOP",
+      "updated_at": "2026-11-05T00:17:30Z",
+      "pushed_at": "2026-11-05T00:17:26Z",
+      "stars": 0,
+      "author": "elijahamisu"
+    },
+    {
+      "title": "ndopify-mono",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/wutsi/ndopify-mono",
+      "updated_at": "2026-11-05T00:12:04Z",
+      "pushed_at": "2026-11-05T00:13:48Z",
+      "stars": 0,
+      "author": "wutsi"
+    },
+    {
+      "title": "raceday_management_system",
+      "description": "A full-stack event management system for the South African road running and cycling community. Built with ASP.NET Core Web API (ADO.NET), MVC frontend, Azure Blob Storage, and Docker.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/pande26/raceday_management_system",
+      "updated_at": "2026-11-05T00:13:06Z",
+      "pushed_at": "2026-11-05T00:13:02Z",
+      "stars": 0,
+      "author": "pande26"
+    },
+    {
+      "title": "vcstudio-video-content-project",
+      "description": "an inhouse video creation tool for veilcode studio",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ghost-sys-coder/vcstudio-video-content-project",
+      "updated_at": "2026-11-05T00:11:33Z",
+      "pushed_at": "2026-11-05T00:11:30Z",
+      "stars": 0,
+      "author": "ghost-sys-coder"
+    },
+    {
+      "title": "TunnelBear-Windows-Setup-Guide",
+      "description": "TunnelBear VPN Setup for Windows 11 and 10: 2026 Install Guide and Configuration Tips",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/imjsbetterthanug-bit/TunnelBear-Windows-Setup-Guide",
+      "updated_at": "2026-11-05T00:11:22Z",
+      "pushed_at": "2026-11-05T00:11:19Z",
+      "stars": 70,
+      "author": "imjsbetterthanug-bit"
+    },
+    {
+      "title": "wise-program-remover-toolkit",
+      "description": "Wise Program Uninstaller 2026 Ultimate Cleanup Tool with Bonus Features",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/VinayakGanthade/wise-program-remover-toolkit",
+      "updated_at": "2026-11-05T00:11:15Z",
+      "pushed_at": "2026-11-05T00:11:12Z",
+      "stars": 0,
+      "author": "VinayakGanthade"
+    },
+    {
+      "title": "askwri-v2",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/rosazadeh/askwri-v2",
+      "updated_at": "2026-11-05T00:11:04Z",
+      "pushed_at": "2026-11-05T00:11:00Z",
+      "stars": 0,
+      "author": "rosazadeh"
+    },
+    {
+      "title": "Pula",
+      "description": "Teacherr Copilot",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ngobeni2302-alt/Pula",
+      "updated_at": "2026-11-05T00:10:54Z",
+      "pushed_at": "2026-11-05T00:10:49Z",
+      "stars": 0,
+      "author": "ngobeni2302-alt"
+    },
+    {
+      "title": "dzgrid",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/plinthworks/dzgrid",
+      "updated_at": "2026-11-05T00:10:17Z",
+      "pushed_at": "2026-11-05T00:10:13Z",
+      "stars": 0,
+      "author": "plinthworks"
+    },
+    {
+      "title": "solomedia-frontend",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/solomedia-account/solomedia-frontend",
+      "updated_at": "2026-11-05T00:10:05Z",
+      "pushed_at": "2026-11-05T00:10:00Z",
+      "stars": 0,
+      "author": "solomedia-account"
+    },
+    {
+      "title": "Frontend-esm-core",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/amourgit/Frontend-esm-core",
+      "updated_at": "2026-11-05T00:09:00Z",
+      "pushed_at": "2026-11-05T00:08:55Z",
+      "stars": 1,
+      "author": "amourgit"
+    },
+    {
+      "title": "mitsinjo-grid",
+      "description": "Mitsinjo Grid — AI-powered decision support & 3D digital twin for rural solar microgrids. Simulates 24-hour energy flows, battery storage,  and essential load shedding with a Meta AI copilot. Built with Next.js 15, Turborepo, Three.js, and TypeScript.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Tokiarivelo/mitsinjo-grid",
+      "updated_at": "2026-11-05T00:08:19Z",
+      "pushed_at": "2026-11-05T00:08:14Z",
+      "stars": 2,
+      "author": "Tokiarivelo"
+    },
+    {
+      "title": "Babbel-Language-Setup-Guide",
+      "description": "Babbel Language Learning Setup for Windows 11 and 10 in 2026",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/israelmartinsda244-ux/Babbel-Language-Setup-Guide",
+      "updated_at": "2026-11-05T00:08:03Z",
+      "pushed_at": "2026-11-05T00:07:59Z",
+      "stars": 68,
+      "author": "israelmartinsda244-ux"
+    },
+    {
+      "title": "JacquesBronk",
+      "description": "It's me. Rendered by a CronJob in my homelab.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/JacquesBronk/JacquesBronk",
+      "updated_at": "2026-11-05T00:07:39Z",
+      "pushed_at": "2026-11-05T00:07:35Z",
+      "stars": 0,
+      "author": "JacquesBronk"
+    },
+    {
+      "title": "omoladeodetara",
+      "description": "GitHub profile repository for Omolade Jordan Odetara",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/omoladeodetara/omoladeodetara",
+      "updated_at": "2026-11-05T00:06:53Z",
+      "pushed_at": "2026-11-05T00:06:49Z",
+      "stars": 0,
+      "author": "omoladeodetara"
+    },
+    {
+      "title": "exec-job-radar",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/heyaryansingh/exec-job-radar",
+      "updated_at": "2026-11-05T00:06:20Z",
+      "pushed_at": "2026-11-05T00:06:16Z",
+      "stars": 0,
+      "author": "heyaryansingh"
+    },
+    {
+      "title": "scrapper",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/MrLEO-PE/scrapper",
+      "updated_at": "2026-11-05T00:06:00Z",
+      "pushed_at": "2026-11-05T00:05:56Z",
+      "stars": 0,
+      "author": "MrLEO-PE"
+    },
+    {
+      "title": "awesome-nano-banana-pro-prompts",
+      "description": "🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+      "updated_at": "2026-11-05T00:05:35Z",
+      "pushed_at": "2026-11-05T00:05:25Z",
+      "stars": 13734,
+      "author": "YouMind-OpenLab"
+    },
+    {
+      "title": "WhatsApp-Voice-Commerce-Agent",
+      "description": "A multilingual, voice-first conversational commerce agent for WhatsApp and the web, with PayPal payments.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/yigagilbert/WhatsApp-Voice-Commerce-Agent",
+      "updated_at": "2026-11-05T00:05:19Z",
+      "pushed_at": "2026-11-05T00:05:13Z",
+      "stars": 0,
+      "author": "yigagilbert"
+    },
+    {
+      "title": "sajel",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/BouazizFortas95/sajel",
+      "updated_at": "2026-11-05T00:04:20Z",
+      "pushed_at": "2026-11-05T00:04:14Z",
+      "stars": 0,
+      "author": "BouazizFortas95"
+    },
+    {
+      "title": "GBV-SafeSpace",
+      "description": "🌿✨HERA SafeSpace is a digital platform using AI to support women and girls in Africa, especially Kenya, by providing a safe space to learn, report, and access help against gender-based violence.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mwakidenis/GBV-SafeSpace",
+      "updated_at": "2026-11-05T00:02:50Z",
+      "pushed_at": "2026-11-05T00:02:46Z",
+      "stars": 16,
+      "author": "mwakidenis"
+    },
+    {
+      "title": "mzizi-api",
+      "description": "api.mzizi.dev — the Mzizi registry API, as a pure-Rust Cloudflare Worker.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mzizi-dev/mzizi-api",
+      "updated_at": "2026-11-05T00:01:57Z",
+      "pushed_at": "2026-11-05T00:02:34Z",
+      "stars": 0,
+      "author": "mzizi-dev"
+    },
+    {
+      "title": "AGOT-Releases",
+      "description": "GIS, GeoAI, Digital Twins, Simulations, Many Worlds",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/aerocorp13/AGOT-Releases",
+      "updated_at": "2026-11-04T23:57:30Z",
+      "pushed_at": "2026-11-05T00:02:24Z",
+      "stars": 0,
+      "author": "aerocorp13"
+    },
+    {
+      "title": "Felexia",
+      "description": "Felexia ERP",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/danielgoldman1991-max/Felexia",
+      "updated_at": "2026-11-05T00:02:04Z",
+      "pushed_at": "2026-11-05T00:01:59Z",
+      "stars": 0,
+      "author": "danielgoldman1991-max"
+    },
+    {
+      "title": "sabi-meta-hackathon",
+      "description": "Sabi: a WhatsApp-native bookkeeping and promotion agent for Nigerian traders, built on Meta's Muse models (Meta hackathon, Indie track)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/IsraelViz/sabi-meta-hackathon",
+      "updated_at": "2026-11-05T00:01:44Z",
+      "pushed_at": "2026-11-05T00:01:40Z",
+      "stars": 0,
+      "author": "IsraelViz"
+    },
+    {
+      "title": "Campus-Homes",
+      "description": "CampusHomes: verified student accommodation platform (mirror of Festo-Wampamba/Campus-Homes)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/akoletco/Campus-Homes",
+      "updated_at": "2026-11-05T00:01:18Z",
+      "pushed_at": "2026-11-05T00:01:14Z",
+      "stars": 0,
+      "author": "akoletco"
+    },
+    {
+      "title": "Campus-Homes",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Festo-Wampamba/Campus-Homes",
+      "updated_at": "2026-11-05T00:01:15Z",
+      "pushed_at": "2026-11-05T00:01:11Z",
+      "stars": 0,
+      "author": "Festo-Wampamba"
+    },
+    {
+      "title": "SimFlyActiveAirports",
+      "description": "SimFly Active Airports - Distance Calculator and Airport Information",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/KyndraRocks/SimFlyActiveAirports",
+      "updated_at": "2026-11-05T00:00:59Z",
+      "pushed_at": "2026-11-05T00:00:55Z",
+      "stars": 0,
+      "author": "KyndraRocks"
+    },
+    {
+      "title": "darwin-node",
+      "description": "Storage node for the Darwin network, with payments in DARWIN on Robinhood Chain",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Project-DSpace/darwin-node",
+      "updated_at": "2026-11-05T00:00:46Z",
+      "pushed_at": "2026-11-05T00:00:42Z",
+      "stars": 1,
+      "author": "Project-DSpace"
+    },
+    {
+      "title": "Clipboard-Fusion-Full-Version-Unlocked",
+      "description": "Download Clipboard Fusion — a clipboard tool for Windows with free download. This software monitors clipboard activity, allowing you to store and quickly access multiple items like texts, images, and files. Synchronize across devices and use specific keyboard shortcuts. Free setup for Windows.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/shyguy-22/Clipboard-Fusion-Full-Version-Unlocked",
+      "updated_at": "2026-11-05T00:00:11Z",
+      "pushed_at": "2026-11-05T00:00:08Z",
+      "stars": 0,
+      "author": "shyguy-22"
+    },
+    {
+      "title": "global-stage-radar",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/wonbosong-arch/global-stage-radar",
+      "updated_at": "2026-11-04T23:59:52Z",
+      "pushed_at": "2026-11-04T23:59:48Z",
+      "stars": 0,
+      "author": "wonbosong-arch"
+    },
+    {
+      "title": "ogyamada",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ogyamada/ogyamada",
+      "updated_at": "2026-11-04T22:08:59Z",
+      "pushed_at": "2026-11-04T23:59:19Z",
+      "stars": 0,
+      "author": "ogyamada"
+    },
+    {
+      "title": "smspp-project",
+      "description": "Umbrella project that can be used to fetch and build all the SMS++ modules at once. | mirror of https://gitlab.com/smspp/smspp-project",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SMSpp-Project/smspp-project",
+      "updated_at": "2026-11-04T23:59:16Z",
+      "pushed_at": "2026-11-04T23:59:12Z",
+      "stars": 0,
+      "author": "SMSpp-Project"
+    },
+    {
+      "title": "Schule",
+      "description": "https://github.com/public-apis/public-apis.git",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ghebrehiwotnatnael-cmd/Schule",
+      "updated_at": "2026-11-04T23:58:30Z",
+      "pushed_at": "2026-11-04T23:58:24Z",
+      "stars": 0,
+      "author": "ghebrehiwotnatnael-cmd"
+    },
+    {
+      "title": "ophancer",
+      "description": "Job platform",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/lightorbglobal-001/ophancer",
+      "updated_at": "2026-11-04T23:58:14Z",
+      "pushed_at": "2026-11-04T23:58:10Z",
+      "stars": 0,
+      "author": "lightorbglobal-001"
+    },
+    {
+      "title": "insys",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Babs76/insys",
+      "updated_at": "2026-11-04T23:57:03Z",
+      "pushed_at": "2026-11-04T23:57:33Z",
+      "stars": 0,
+      "author": "Babs76"
+    },
+    {
+      "title": "code",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/salondzpro/code",
+      "updated_at": "2026-11-04T23:57:09Z",
+      "pushed_at": "2026-11-04T23:57:05Z",
+      "stars": 0,
+      "author": "salondzpro"
+    },
+    {
+      "title": "louis-agent",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/bosbevk/louis-agent",
+      "updated_at": "2026-11-04T21:55:13Z",
+      "pushed_at": "2026-11-04T23:57:00Z",
+      "stars": 0,
+      "author": "bosbevk"
+    },
+    {
+      "title": "education-kb",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/gmilano/education-kb",
+      "updated_at": "2026-11-04T23:56:33Z",
+      "pushed_at": "2026-11-04T23:56:29Z",
+      "stars": 1,
+      "author": "gmilano"
+    },
+    {
+      "title": "soilKey",
+      "description": "Automated soil profile classification per WRB 2022, SiBCS 5 and USDA Soil Taxonomy 13",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/HugoMachadoRodrigues/soilKey",
+      "updated_at": "2026-11-04T23:48:33Z",
+      "pushed_at": "2026-11-04T23:56:12Z",
+      "stars": 3,
+      "author": "HugoMachadoRodrigues"
+    },
+    {
+      "title": "enhansome-ddd",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-ddd",
+      "updated_at": "2026-11-04T23:55:19Z",
+      "pushed_at": "2026-11-04T23:55:15Z",
+      "stars": 0,
+      "author": "enhansome"
+    },
+    {
+      "title": "Civitas-EGEN-Kernel",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/amourgit/Civitas-EGEN-Kernel",
+      "updated_at": "2026-11-04T23:51:56Z",
+      "pushed_at": "2026-11-04T23:55:00Z",
+      "stars": 0,
+      "author": "amourgit"
+    },
+    {
+      "title": "MLIMISMART-PROJECT",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/lauren-03/MLIMISMART-PROJECT",
+      "updated_at": "2026-11-04T23:54:59Z",
+      "pushed_at": "2026-11-04T23:54:56Z",
+      "stars": 0,
+      "author": "lauren-03"
+    },
+    {
+      "title": "bceao-exchange-rate",
+      "description": "Official BCEAO CFA franc (XOF) rates for 8 West African countries — zero-dependency SDK",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AllRates-Today/bceao-exchange-rate",
+      "updated_at": "2026-11-04T23:53:59Z",
+      "pushed_at": "2026-11-04T23:53:55Z",
+      "stars": 0,
+      "author": "AllRates-Today"
+    },
+    {
+      "title": "siterra",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/glendonC/siterra",
+      "updated_at": "2026-11-04T23:53:56Z",
+      "pushed_at": "2026-11-04T23:53:52Z",
+      "stars": 0,
+      "author": "glendonC"
+    },
+    {
+      "title": "jovita",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/topeadenola/jovita",
+      "updated_at": "2026-11-04T23:52:57Z",
+      "pushed_at": "2026-11-04T23:52:53Z",
+      "stars": 0,
+      "author": "topeadenola"
+    },
+    {
+      "title": "courier-skills",
+      "description": "AI agent skill for building production-ready notifications across email, SMS, push, in-app, Slack, Teams, and WhatsApp. Covers deliverability, compliance, and growth patterns.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/trycourier/courier-skills",
+      "updated_at": "2026-11-04T22:05:40Z",
+      "pushed_at": "2026-11-04T23:52:43Z",
+      "stars": 16,
+      "author": "trycourier"
+    },
+    {
+      "title": "Ajochain",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Afar88/Ajochain",
+      "updated_at": "2026-11-04T23:51:00Z",
+      "pushed_at": "2026-11-04T23:50:54Z",
+      "stars": 0,
+      "author": "Afar88"
+    },
+    {
+      "title": "watchboard",
+      "description": "AI-powered intelligence dashboards for any topic. 48 trackers, 3D globe, interactive maps, nightly AI updates. Create a new tracker in 25 minutes.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ArtemioPadilla/watchboard",
+      "updated_at": "2026-11-04T23:50:36Z",
+      "pushed_at": "2026-11-04T23:50:32Z",
+      "stars": 21,
+      "author": "ArtemioPadilla"
+    },
+    {
+      "title": "ansai-core",
+      "description": "Ansai Core is the shared infrastructure layer of the  Ansai Technologies ecosystem.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Ansai-technologies/ansai-core",
+      "updated_at": "2026-11-04T23:50:33Z",
+      "pushed_at": "2026-11-04T23:50:29Z",
+      "stars": 0,
+      "author": "Ansai-technologies"
+    },
+    {
+      "title": "square-radar",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/jbnikky13/square-radar",
+      "updated_at": "2026-11-04T23:48:02Z",
+      "pushed_at": "2026-11-04T23:47:59Z",
+      "stars": 0,
+      "author": "jbnikky13"
+    },
+    {
+      "title": "enhansome-public-datasets",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-public-datasets",
+      "updated_at": "2026-11-04T23:46:13Z",
+      "pushed_at": "2026-11-04T23:46:09Z",
+      "stars": 0,
+      "author": "enhansome"
+    },
+    {
+      "title": "BillGlassMinistriesApp",
+      "description": "An app replicating the Bill Glass Ministries App Website",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/robinjes/BillGlassMinistriesApp",
+      "updated_at": "2026-11-04T23:46:06Z",
+      "pushed_at": "2026-11-04T23:46:03Z",
+      "stars": 1,
+      "author": "robinjes"
+    },
+    {
+      "title": "felipealfonsog",
+      "description": "Journey through the cryptic corridors of code. Unravel the secrets encoded in the shadows. Welcome to the realm where algorithms whisper in binary tongues. Dare to explore, for within lies the essence of innovation.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/felipealfonsog/felipealfonsog",
+      "updated_at": "2026-11-04T23:45:45Z",
+      "pushed_at": "2026-11-04T23:45:40Z",
+      "stars": 4,
+      "author": "felipealfonsog"
+    },
+    {
+      "title": "GBV-SafeSpace-unclean",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/episodic-rush/GBV-SafeSpace-unclean",
+      "updated_at": "2026-11-04T23:45:22Z",
+      "pushed_at": "2026-11-04T23:45:17Z",
+      "stars": 0,
+      "author": "episodic-rush"
+    },
+    {
+      "title": "WhatIf-Portfolio-Simulator-Group",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SiddiqMalik/WhatIf-Portfolio-Simulator-Group",
+      "updated_at": "2026-11-04T23:45:18Z",
+      "pushed_at": "2026-11-04T23:45:13Z",
+      "stars": 0,
+      "author": "SiddiqMalik"
+    },
+    {
+      "title": "portfolio_tracker_v2",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mehdizle/portfolio_tracker_v2",
+      "updated_at": "2026-11-04T23:45:16Z",
+      "pushed_at": "2026-11-04T23:45:12Z",
+      "stars": 0,
+      "author": "mehdizle"
+    },
+    {
+      "title": "LearnGeo",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/cosmiccatmain/LearnGeo",
+      "updated_at": "2026-11-04T23:43:12Z",
+      "pushed_at": "2026-11-04T23:43:06Z",
+      "stars": 2,
+      "author": "cosmiccatmain"
+    },
+    {
+      "title": "clearcut",
+      "description": "Agent-native invoicing for South Africa: Rust core, REST API, MCP server and Claude plugin. VAT-correct, e-invoicing ready.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/konethegreat/clearcut",
+      "updated_at": "2026-11-04T23:40:06Z",
+      "pushed_at": "2026-11-04T23:40:02Z",
+      "stars": 0,
+      "author": "konethegreat"
+    },
+    {
+      "title": "koolbase-flutter",
+      "description": "Flutter SDK for Koolbase",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/koolbase/koolbase-flutter",
+      "updated_at": "2026-11-04T23:39:52Z",
+      "pushed_at": "2026-11-04T23:40:00Z",
+      "stars": 4,
+      "author": "koolbase"
+    },
+    {
+      "title": "FedLens",
+      "description": "Free, keyless MV3 browser extension for global macro intelligence: indicators, news radar, event extraction, calibrated policy forecasts and country comparisons for 12 economies. Deterministic-first NLP, no backend.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/zayrhabeeb/FedLens",
+      "updated_at": "2026-11-04T23:39:55Z",
+      "pushed_at": "2026-11-04T23:39:50Z",
+      "stars": 0,
+      "author": "zayrhabeeb"
+    },
+    {
+      "title": "fjall-deploy-buildkite-plugin",
+      "description": "Buildkite plugin that installs the Fjall CLI and runs fjall ci run to deploy, destroy, or build an application on AWS. Reads FJALL_API_KEY from the agent secret store, records the result as build meta-data, and exits 2 when a plan has changes pending approval.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/fjall-tech/fjall-deploy-buildkite-plugin",
+      "updated_at": "2026-11-04T23:39:52Z",
+      "pushed_at": "2026-11-04T23:39:49Z",
+      "stars": 0,
+      "author": "fjall-tech"
+    },
+    {
+      "title": "Tavchain",
+      "description": "Tavchain EVM blockchain node source and Tavchain Testnet network configuration.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/safeney/Tavchain",
+      "updated_at": "2026-11-04T23:39:08Z",
+      "pushed_at": "2026-11-04T23:39:02Z",
+      "stars": 0,
+      "author": "safeney"
+    },
+    {
+      "title": "kidsbookagent",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/pokrov/kidsbookagent",
+      "updated_at": "2026-11-04T23:31:51Z",
+      "pushed_at": "2026-11-04T23:31:44Z",
+      "stars": 0,
+      "author": "pokrov"
+    },
+    {
+      "title": "FACTBOX-WEBSITE",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Zisan03/FACTBOX-WEBSITE",
+      "updated_at": "2026-11-04T23:31:29Z",
+      "pushed_at": "2026-11-04T23:31:25Z",
+      "stars": 0,
+      "author": "Zisan03"
+    },
+    {
+      "title": "gaiatryst-frequency-monitor",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Kapil072/gaiatryst-frequency-monitor",
+      "updated_at": "2026-11-04T23:31:18Z",
+      "pushed_at": "2026-11-04T23:31:13Z",
+      "stars": 1,
+      "author": "Kapil072"
+    },
+    {
+      "title": "mzizi-registry",
+      "description": "Mzizi component registry — 575 components over a shadcn-compatible API and an MCP server at mzizi.dev, with the brand system, DNA-helix frontend architecture and Ubuntu doctrine. An open-architecture project of the Bundu Foundation. Not mzizi-dev/mzizi, which is the Mzizi language.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mzizi-dev/mzizi-registry",
+      "updated_at": "2026-11-04T22:57:52Z",
+      "pushed_at": "2026-11-04T23:26:20Z",
+      "stars": 1,
+      "author": "mzizi-dev"
+    },
+    {
+      "title": "orbit-pop",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/jfrjimenez37-del/orbit-pop",
+      "updated_at": "2026-11-04T23:21:30Z",
+      "pushed_at": "2026-11-04T23:21:25Z",
+      "stars": 0,
+      "author": "jfrjimenez37-del"
+    },
+    {
+      "title": "Remote-Jobs-Open-To-You",
+      "description": "Remote tech jobs you can take from outside the US: worldwide, EMEA/LATAM/APAC/Africa, or your country. Rebuilt daily from 18,000+ company career pages; every link goes to the employer.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/jordan-belfort-ai/Remote-Jobs-Open-To-You",
+      "updated_at": "2026-11-04T23:18:31Z",
+      "pushed_at": "2026-11-04T23:18:27Z",
+      "stars": 0,
+      "author": "jordan-belfort-ai"
+    },
+    {
+      "title": "public-apis",
+      "description": "A collaborative list of public APIs for developers",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/marcelscruz/public-apis",
+      "updated_at": "2026-11-04T23:18:19Z",
+      "pushed_at": "2026-11-04T23:18:14Z",
+      "stars": 9675,
+      "author": "marcelscruz"
+    },
+    {
+      "title": "raymotion",
+      "description": "Motion graphics written in C++: a Remotion-style video engine on raylib, OpenGL and ffmpeg. Compositions are code, rendered deterministically frame by frame to MP4.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/pebaryan/raymotion",
+      "updated_at": "2026-11-04T23:17:17Z",
+      "pushed_at": "2026-11-04T23:17:14Z",
+      "stars": 10,
+      "author": "pebaryan"
+    },
+    {
+      "title": "weatherwise",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/princebirring/weatherwise",
+      "updated_at": "2026-11-04T23:15:55Z",
+      "pushed_at": "2026-11-04T23:15:54Z",
+      "stars": 0,
+      "author": "princebirring"
+    },
+    {
+      "title": "meta-global-hackathone",
+      "description": "AutoFTE — a used-car exporter's whole business (website, CRM, auction, chat, Android app) run by eight Digital FTEs on Meta's Muse Spark Open. Demo data only.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/my5757980/meta-global-hackathone",
+      "updated_at": "2026-11-04T23:12:59Z",
+      "pushed_at": "2026-11-04T23:12:55Z",
+      "stars": 0,
+      "author": "my5757980"
+    },
+    {
+      "title": "KANDO",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Liezljvv74/KANDO",
+      "updated_at": "2026-11-04T22:37:17Z",
+      "pushed_at": "2026-11-04T23:10:34Z",
+      "stars": 0,
+      "author": "Liezljvv74"
+    },
+    {
+      "title": "awesome-go-awelist",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/0xmzn/awesome-go-awelist",
+      "updated_at": "2026-11-04T23:09:46Z",
+      "pushed_at": "2026-11-04T23:09:41Z",
+      "stars": 0,
+      "author": "0xmzn"
+    },
+    {
+      "title": "Awesome-ChatGPT-Plugins",
+      "description": "The curation of most useful ChatGPT Plugins - Free and Open Source",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Asdivyansh/Awesome-ChatGPT-Plugins",
+      "updated_at": "2026-11-04T23:09:12Z",
+      "pushed_at": "2026-11-04T23:09:07Z",
+      "stars": 20,
+      "author": "Asdivyansh"
+    },
+    {
+      "title": "amahric-dub-main",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ababuu/amahric-dub-main",
+      "updated_at": "2026-11-04T23:08:37Z",
+      "pushed_at": "2026-11-04T23:08:33Z",
+      "stars": 0,
+      "author": "ababuu"
+    },
+    {
+      "title": "boosty",
+      "description": "Boosty MCP servers for DeFi - Volume generation, trading, and wallet management",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nirholas/boosty",
+      "updated_at": "2026-11-04T23:08:33Z",
+      "pushed_at": "2026-11-04T23:08:27Z",
+      "stars": 30,
+      "author": "nirholas"
+    },
+    {
+      "title": "awesome-go-with-stars",
+      "description": "Awesome-go list with stars. Automatically updated.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/amanbolat/awesome-go-with-stars",
+      "updated_at": "2026-11-04T23:06:36Z",
+      "pushed_at": "2026-11-04T23:06:31Z",
+      "stars": 858,
+      "author": "amanbolat"
+    },
+    {
+      "title": "UCAI",
+      "description": "Universal Contract AI Interface (UCAI) 🔗 ABI to MCP | The open standard for connecting AI agents to blockchain. MCP server generator for smart contracts. Claude + Uniswap, Aave, ERC20, NFTs, DeFi. Python CLI, Web3 integration, transaction simulation. Polygon, Arbitrum, Base, Ethereum EVM chains. Claude, GPT, LLM tooling, Solidity, OpenAI.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nirholas/UCAI",
+      "updated_at": "2026-11-04T23:03:49Z",
+      "pushed_at": "2026-11-04T23:03:40Z",
+      "stars": 38,
+      "author": "nirholas"
+    },
+    {
+      "title": "open-english",
+      "description": "📛 Renamed → maid-cafe-english (this repo is kept permanently; links/releases/auto-update keep working) / 改名: maid-cafe-english(このリポジトリは永久に残します)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/aon-co-jp/open-english",
+      "updated_at": "2026-11-04T23:02:49Z",
+      "pushed_at": "2026-11-04T23:02:44Z",
+      "stars": 0,
+      "author": "aon-co-jp"
+    },
+    {
+      "title": "mcp-notify",
+      "description": "Monitor the Model Context Protocol (MCP) Registry for new, updated, and removed servers. Get real-time notifications via Discord, Slack, Email, Telegram, Microsoft Teams, Webhooks, or RSS feeds. Includes CLI, Go SDK, REST API, and MCP server for AI assistants.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nirholas/mcp-notify",
+      "updated_at": "2026-11-04T23:01:38Z",
+      "pushed_at": "2026-11-04T23:01:34Z",
+      "stars": 32,
+      "author": "nirholas"
+    },
+    {
+      "title": "github-to-mcp",
+      "description": "Convert GitHub repositories to MCP servers automatically. Extract tools from OpenAPI, GraphQL & REST APIs for Claude Desktop, Cursor, Windsurf, Cline & VS Code. AI-powered code generation creates type-safe TypeScript/Python MCP servers. Zero config setup - just paste a repo URL. Built for AI assistants & LLM tool integration.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nirholas/github-to-mcp",
+      "updated_at": "2026-11-04T22:59:48Z",
+      "pushed_at": "2026-11-04T22:59:44Z",
+      "stars": 34,
+      "author": "nirholas"
+    },
+    {
+      "title": "extract-llms-docs",
+      "description": "Extract documentation for AI agents from any site with llms.txt support. Features MCP server, REST API, batch processing, and multiple export formats.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nirholas/extract-llms-docs",
+      "updated_at": "2026-11-04T22:58:59Z",
+      "pushed_at": "2026-11-04T22:58:55Z",
+      "stars": 35,
+      "author": "nirholas"
+    },
+    {
+      "title": "Group-1_Minzo_Tech_Interview",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AGpeter2018/Group-1_Minzo_Tech_Interview",
+      "updated_at": "2026-11-04T22:57:34Z",
+      "pushed_at": "2026-11-04T22:57:42Z",
+      "stars": 0,
+      "author": "AGpeter2018"
+    },
+    {
+      "title": "crossbill-agent",
+      "description": "Crossbill is an AI agent for freelancers paid by overseas clients. Describe the job and it drafts a PayPal invoice, sends it once you approve, chases late payers, and records every payment in rand.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/lindani11/crossbill-agent",
+      "updated_at": "2026-11-04T22:57:02Z",
+      "pushed_at": "2026-11-04T22:56:57Z",
+      "stars": 0,
+      "author": "lindani11"
+    },
+    {
+      "title": "lugha-translator",
+      "description": "AI-powered translator for African languages built with React Native, Expo and Claude API",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/prudence-dera/lugha-translator",
+      "updated_at": "2026-11-04T22:52:39Z",
+      "pushed_at": "2026-11-04T22:52:36Z",
+      "stars": 0,
+      "author": "prudence-dera"
+    },
+    {
+      "title": "HyenaX2",
+      "description": "HyenaX is an AI-powered soccer prediction platform developed by Vertex Stream Group. The site utilizes machine learning and statistical modeling to generate highly accurate probability indices and match verdicts specifically for soccer games worldwide.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mbuyiselon39/HyenaX2",
+      "updated_at": "2026-11-04T22:43:44Z",
+      "pushed_at": "2026-11-04T22:43:38Z",
+      "stars": 0,
+      "author": "mbuyiselon39"
+    },
+    {
+      "title": "irexpro",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Chrix4u/irexpro",
+      "updated_at": "2026-11-04T22:43:19Z",
+      "pushed_at": "2026-11-04T22:43:13Z",
+      "stars": 0,
+      "author": "Chrix4u"
+    },
+    {
+      "title": "DSB-Unit-03",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CharleyHananiaGA/DSB-Unit-03",
+      "updated_at": "2026-11-04T22:41:40Z",
+      "pushed_at": "2026-11-04T22:41:35Z",
+      "stars": 0,
+      "author": "CharleyHananiaGA"
+    },
+    {
+      "title": "Binance-MCP",
+      "description": "A Model Context Protocol (MCP) server for Binance.com API. Offers standardized access to spot trading, wallets, staking, simple earn, convert, mining, algo trading, VIP loans, NFTs, pay, copy trading, dual investments, C2C/P2P, fiat ops, and rebates. Built in TypeScript/Node.js. Manages auth, requests, and errors for AI agents/devs.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nirholas/Binance-MCP",
+      "updated_at": "2026-11-04T22:40:11Z",
+      "pushed_at": "2026-11-04T22:40:07Z",
+      "stars": 40,
+      "author": "nirholas"
+    },
+    {
+      "title": "central-bank-exchange-rates",
+      "description": "Official exchange rates from 120+ central banks and tax authorities as daily JSON and CSV files. No API key, no sign-up. ECB, Fed, BoE, RBI, PBoC, HMRC and more.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AllRates-Today/central-bank-exchange-rates",
+      "updated_at": "2026-11-04T22:39:22Z",
+      "pushed_at": "2026-11-04T22:39:18Z",
+      "stars": 4,
+      "author": "AllRates-Today"
+    },
+    {
+      "title": "kopor",
+      "description": "Kopor™ — offline-first business book, credit, stock and mobile-money payments for Sierra Leone. © 2026 Abdulai Bah. All rights reserved. Not open source.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AbdulaiBah479/kopor",
+      "updated_at": "2026-11-04T22:36:57Z",
+      "pushed_at": "2026-11-04T22:37:00Z",
+      "stars": 0,
+      "author": "AbdulaiBah479"
+    },
+    {
+      "title": "enhansome-waves",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-waves",
+      "updated_at": "2026-11-04T22:32:23Z",
+      "pushed_at": "2026-11-04T22:32:18Z",
+      "stars": 0,
+      "author": "enhansome"
+    },
+    {
+      "title": "LedgerApi",
+      "description": "A double-entry ledger service built with ASP.NET Core 8, EF Core and PostgreSQL. It records money movements as immutable debit/credit entries, derives balances from those entries, and guarantees each request moves money at most once.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AbubakarImam/LedgerApi",
+      "updated_at": "2026-11-04T22:31:24Z",
+      "pushed_at": "2026-11-04T22:31:22Z",
+      "stars": 0,
+      "author": "AbubakarImam"
+    },
+    {
+      "title": "lyra-intel",
+      "description": "Lyra Intel is an intelligence platform designed to analyze repositories of any size - from small projects to enterprise monorepos with millions of lines of code. With 70+ components, it provides end-to-end analysis, security scanning, AI integration, and more. ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nirholas/lyra-intel",
+      "updated_at": "2026-11-04T22:23:19Z",
+      "pushed_at": "2026-11-04T22:23:15Z",
+      "stars": 29,
+      "author": "nirholas"
+    },
+    {
+      "title": "-Desenvolvimento-de-Aplicativo-Flag-Game",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/kleslyrocha-gif/-Desenvolvimento-de-Aplicativo-Flag-Game",
+      "updated_at": "2026-11-04T22:20:14Z",
+      "pushed_at": "2026-11-04T22:20:09Z",
+      "stars": 0,
+      "author": "kleslyrocha-gif"
+    },
+    {
+      "title": "crazy-8",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/moeketsi200/crazy-8",
+      "updated_at": "2026-11-04T22:19:57Z",
+      "pushed_at": "2026-11-04T22:19:52Z",
+      "stars": 0,
+      "author": "moeketsi200"
+    },
+    {
+      "title": "Knowzoneai",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/abasiono23/Knowzoneai",
+      "updated_at": "2026-11-04T22:19:09Z",
+      "pushed_at": "2026-11-04T22:19:05Z",
+      "stars": 0,
+      "author": "abasiono23"
+    },
+    {
+      "title": "RaceDay-Event-Management-System",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nhlavutelorequest/RaceDay-Event-Management-System",
+      "updated_at": "2026-11-04T22:18:00Z",
+      "pushed_at": "2026-11-04T22:17:55Z",
+      "stars": 1,
+      "author": "nhlavutelorequest"
+    },
+    {
+      "title": "world-football-rankings",
+      "description": "World Football Rankings — unofficial live men's world ranking projection with daily results, fixtures and points predictions, for web and iOS",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/kevinch10/world-football-rankings",
+      "updated_at": "2026-11-04T22:11:31Z",
+      "pushed_at": "2026-11-04T22:11:27Z",
+      "stars": 0,
+      "author": "kevinch10"
+    },
+    {
+      "title": "RondiTrack",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Damian-Salley/RondiTrack",
+      "updated_at": "2026-11-04T22:05:46Z",
+      "pushed_at": "2026-11-04T22:05:42Z",
+      "stars": 0,
+      "author": "Damian-Salley"
+    },
+    {
+      "title": "bnbchain-mcp",
+      "description": "Developer tools for AI crypto agents  🛠️ Build apps with DeFi trading, DEX swaps, smart contract deployment, token operations, staking, bridging, wallet automation, honeypot detection, security analysis, price oracles, market data & protocol analytics on BSC and opBNB",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nirholas/bnbchain-mcp",
+      "updated_at": "2026-11-04T22:05:22Z",
+      "pushed_at": "2026-11-04T22:05:17Z",
+      "stars": 35,
+      "author": "nirholas"
+    },
+    {
+      "title": "eea",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/wgo26/eea",
+      "updated_at": "2026-11-04T22:02:05Z",
+      "pushed_at": "2026-11-04T22:01:59Z",
+      "stars": 0,
+      "author": "wgo26"
+    },
+    {
+      "title": "novu",
+      "description": "The open-source communication infrastructure for agents and products",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/novuhq/novu",
+      "updated_at": "2026-11-05T00:04:23Z",
+      "pushed_at": "2026-11-04T22:01:13Z",
+      "stars": 40273,
+      "author": "novuhq"
+    },
+    {
+      "title": "enhansome-substreams",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-substreams",
+      "updated_at": "2026-11-04T22:00:35Z",
+      "pushed_at": "2026-11-04T22:00:31Z",
+      "stars": 0,
+      "author": "enhansome"
+    },
+    {
+      "title": "Capstone-project",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Phinatech/Capstone-project",
+      "updated_at": "2026-11-04T21:58:31Z",
+      "pushed_at": "2026-11-04T21:58:27Z",
+      "stars": 0,
+      "author": "Phinatech"
+    },
+    {
+      "title": "jimny-sidequests",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/inesmith/jimny-sidequests",
+      "updated_at": "2026-11-04T21:53:33Z",
+      "pushed_at": "2026-11-04T21:53:29Z",
+      "stars": 0,
+      "author": "inesmith"
+    },
+    {
+      "title": "zenzeleni-android",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Luna99coder/zenzeleni-android",
+      "updated_at": "2026-11-04T21:53:14Z",
+      "pushed_at": "2026-11-04T21:53:10Z",
+      "stars": 0,
+      "author": "Luna99coder"
+    },
+    {
+      "title": "VocalHire_Remake",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AlbanZ1/VocalHire_Remake",
+      "updated_at": "2026-11-04T21:51:30Z",
+      "pushed_at": "2026-11-04T21:51:26Z",
+      "stars": 0,
+      "author": "AlbanZ1"
+    },
+    {
+      "title": "LiftWave",
+      "description": "LiftWave - Fitness app built with Flutter (iOS + watchOS + Android)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/jonaso220/LiftWave",
+      "updated_at": "2026-11-04T21:49:14Z",
+      "pushed_at": "2026-11-04T21:49:10Z",
+      "stars": 0,
+      "author": "jonaso220"
+    },
+    {
+      "title": "koraidv-web",
+      "description": "Kora IDV Web SDK - Identity Verification for Web (React, Vanilla JS)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/badedokun/koraidv-web",
+      "updated_at": "2026-11-04T21:49:03Z",
+      "pushed_at": "2026-11-04T21:49:00Z",
+      "stars": 0,
+      "author": "badedokun"
+    },
+    {
+      "title": "Webignite-Desktop",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/EdWebIgnite/Webignite-Desktop",
+      "updated_at": "2026-11-04T21:43:38Z",
+      "pushed_at": "2026-11-04T21:48:45Z",
+      "stars": 0,
+      "author": "EdWebIgnite"
+    },
+    {
+      "title": "koraidv-koraidv-android",
+      "description": "The repo for Kora IDV Android SDK",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/badedokun/koraidv-koraidv-android",
+      "updated_at": "2026-11-04T21:48:37Z",
+      "pushed_at": "2026-11-04T21:48:33Z",
+      "stars": 0,
+      "author": "badedokun"
+    },
+    {
+      "title": "koraidv-koraidv-ios",
+      "description": "The repo for Kora IDV iOS SDK",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/badedokun/koraidv-koraidv-ios",
+      "updated_at": "2026-11-04T21:48:31Z",
+      "pushed_at": "2026-11-04T21:48:28Z",
+      "stars": 0,
+      "author": "badedokun"
+    },
+    {
+      "title": "SaloAleh",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/MahmoudMabrok/SaloAleh",
+      "updated_at": "2026-11-04T21:46:38Z",
+      "pushed_at": "2026-11-04T21:46:34Z",
+      "stars": 3,
+      "author": "MahmoudMabrok"
+    },
+    {
+      "title": "defi-agents",
+      "description": "DeFi agent definitions JSON API + MCP - Production-ready agents for Web3, crypto trading, portfolio management, and blockchain automation. MCP compatible.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nirholas/defi-agents",
+      "updated_at": "2026-11-04T21:45:36Z",
+      "pushed_at": "2026-11-04T21:45:31Z",
+      "stars": 37,
+      "author": "nirholas"
+    },
+    {
+      "title": "songa-app",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ndambuki8/songa-app",
+      "updated_at": "2026-11-04T21:42:33Z",
+      "pushed_at": "2026-11-04T21:42:29Z",
+      "stars": 0,
+      "author": "ndambuki8"
+    },
+    {
+      "title": "open-source-ios-apps",
+      "description": ":iphone: Collaborative List of Open-Source iOS Apps",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/dkhamsing/open-source-ios-apps",
+      "updated_at": "2026-11-04T23:56:09Z",
+      "pushed_at": "2026-11-04T21:40:30Z",
+      "stars": 53033,
+      "author": "dkhamsing"
+    },
+    {
+      "title": "pharmprep-app",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/sword3366/pharmprep-app",
+      "updated_at": "2026-11-04T21:40:25Z",
+      "pushed_at": "2026-11-04T21:40:20Z",
+      "stars": 0,
+      "author": "sword3366"
+    },
+    {
+      "title": "seed_classifer",
+      "description": "classifying maize seed and providing some recomendation",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/femyfede/seed_classifer",
+      "updated_at": "2026-11-04T21:40:22Z",
+      "pushed_at": "2026-11-04T21:40:18Z",
+      "stars": 0,
+      "author": "femyfede"
+    },
+    {
+      "title": "AdvancedAirconApp",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ST10439133/AdvancedAirconApp",
+      "updated_at": "2026-11-04T21:39:06Z",
+      "pushed_at": "2026-11-04T21:39:03Z",
+      "stars": 0,
+      "author": "ST10439133"
+    },
+    {
+      "title": "lms-crypto-production",
+      "description": "Amma Wallet LMS",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SM-Web-Systems/lms-crypto-production",
+      "updated_at": "2026-11-04T21:38:56Z",
+      "pushed_at": "2026-11-04T21:38:52Z",
+      "stars": 0,
+      "author": "SM-Web-Systems"
+    },
+    {
+      "title": "LastWave-Desktop",
+      "description": "High-Resolution Lossless Desktop Music Player for Windows, Linux & macOS",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Clash-Projects/LastWave-Desktop",
+      "updated_at": "2026-11-04T20:11:10Z",
+      "pushed_at": "2026-11-04T17:27:58Z",
+      "stars": 933,
+      "author": "Clash-Projects"
+    },
+    {
+      "title": "wavely-crossborder",
+      "description": "开源跨境电商全链路演示：ERP（订单 / SKU / 多仓库存 / 补货采购 / 审批流 / RBAC）、5 语言独立站 + AI 客服、Flutter 仓库 App、1688 采集插件、AI 本地化与 AI 商品短片。React · Flutter · Supabase",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/xiaozhuangping-cpu/wavely-crossborder",
+      "updated_at": "2026-11-04T16:52:48Z",
+      "pushed_at": "2026-11-04T16:52:43Z",
+      "stars": 0,
+      "author": "xiaozhuangping-cpu"
+    },
+    {
+      "title": "cafriplotsR",
+      "description": "R package for managing cafriplots network (and other inventories from Central Africa)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/umr-amap/cafriplotsR",
+      "updated_at": "2026-11-04T15:58:11Z",
+      "pushed_at": "2026-11-04T15:58:07Z",
+      "stars": 5,
+      "author": "umr-amap"
+    },
+    {
+      "title": "wnpp.debian.net",
+      "description": ":earth_africa: Code powering website \"Debian Packages that Need Lovin'\" created in 2009",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/hartwork/wnpp.debian.net",
+      "updated_at": "2026-11-04T15:25:51Z",
+      "pushed_at": "2026-11-04T15:25:55Z",
+      "stars": 69,
+      "author": "hartwork"
+    },
+    {
+      "title": "Music_Wavely",
+      "description": "A free, open-source, cross-platform music player with local library management, AI DJ, synced lyrics, and legal online sources.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Dani-Devlop/Music_Wavely",
+      "updated_at": "2026-11-04T10:12:52Z",
+      "pushed_at": "2026-11-04T10:11:15Z",
+      "stars": 0,
+      "author": "Dani-Devlop"
+    },
+    {
+      "title": "waveform_pro",
+      "description": "Production-quality Flutter waveform widget. GPU-accelerated rendering, zoom, region selection, cue markers, and audio peak extraction.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/govindtank/waveform_pro",
+      "updated_at": "2026-11-04T10:02:45Z",
+      "pushed_at": "2026-11-04T10:01:16Z",
+      "stars": 4,
+      "author": "govindtank"
+    },
+    {
+      "title": "afrogeo",
+      "description": "Afrogeo is an offline-first Python package for validating African location data during user registration. It verifies country, state/province, city, district (e.g. LGA), and optionally confirms coordinates using hybrid geolocation checks.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/404codess/afrogeo",
+      "updated_at": "2026-11-04T06:08:46Z",
+      "pushed_at": "2026-11-04T06:08:42Z",
+      "stars": 1,
+      "author": "404codess"
+    },
+    {
+      "title": "guzo",
+      "description": "Guzo is an open-source African tourism platform where travellers explore countries, discover tours, compare travel packages, and book trips directly while travel agencies manage tours and bookings.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/YabseraDCodes/guzo",
+      "updated_at": "2026-10-30T09:24:23Z",
+      "pushed_at": "2026-11-03T21:52:38Z",
+      "stars": 0,
+      "author": "YabseraDCodes"
+    },
+    {
+      "title": "Wavelog-Mobile",
+      "description": "📻 The Wavelog app for Android. Log QSOs on the go, run contests, chase live DX spots, track DXCC & band/mode stats, check LoTW/eQSL/QRZ.com QSL confirmations, import & export ADIF, manage stations & logbooks. Self-hosted · Flutter · Wavelog v3.2.0+",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/TA4RX-SP9AQG/Wavelog-Mobile",
+      "updated_at": "2026-11-03T20:35:02Z",
+      "pushed_at": "2026-11-03T21:42:14Z",
+      "stars": 4,
+      "author": "TA4RX-SP9AQG"
+    },
+    {
+      "title": "WavePass-Android",
+      "description": "Flutter Android mobile application for venue managers, Wi-Fi router setup, and Bluetooth receipt printing.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Icedmist/WavePass-Android",
+      "updated_at": "2026-11-03T18:15:41Z",
+      "pushed_at": "2026-11-03T18:22:36Z",
+      "stars": 0,
+      "author": "Icedmist"
+    },
+    {
+      "title": "SoundWave",
+      "description": "Aplikasi pemesanan tiket konser menggunakan Flutter + Riverpod di klien, Express + Firestore di backend, Midtrans Sandbox untuk pembayaran, Tiket ber QR dengan verifikasi offline",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ysnalqdr/SoundWave",
+      "updated_at": "2026-11-03T12:32:26Z",
+      "pushed_at": "2026-11-03T12:32:22Z",
+      "stars": 0,
+      "author": "ysnalqdr"
+    },
+    {
+      "title": "solaris-record",
+      "description": "Cross-platform Wuthering Waves convene tracker: pity, pulls, stats, multi-account.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Kirara02/solaris-record",
+      "updated_at": "2026-11-03T06:09:12Z",
+      "pushed_at": "2026-11-03T05:08:40Z",
+      "stars": 2,
+      "author": "Kirara02"
+    },
+    {
+      "title": "atom-i18n",
+      "description": ":atom: One Atom i18n Package for Any Locale :earth_asia: :earth_americas: :earth_africa:",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/liuderchi/atom-i18n",
+      "updated_at": "2026-03-24T08:30:19Z",
+      "pushed_at": "2026-11-02T16:29:36Z",
+      "stars": 74,
+      "author": "liuderchi"
+    },
+    {
+      "title": "WakeWave",
+      "description": "Alarm clock that wakes you with a fresh, high-energy song on every ring. Flutter · iOS AlarmKit · Android.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/harshitbhatiayt/WakeWave",
+      "updated_at": "2026-11-02T14:08:56Z",
+      "pushed_at": "2026-11-02T14:09:21Z",
+      "stars": 0,
+      "author": "harshitbhatiayt"
+    },
+    {
+      "title": "SALTshaker",
+      "description": "A python package for planning astronomical observations with the Southern African Large Telescope.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enzoperesafonso/SALTshaker",
+      "updated_at": "2026-11-02T07:58:31Z",
+      "pushed_at": "2026-11-02T07:58:35Z",
+      "stars": 0,
+      "author": "enzoperesafonso"
+    },
+    {
+      "title": "waveform",
+      "description": "a keyboard-first soundcloud client for desktop. flutter, macos / windows / linux",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mollykitten/waveform",
+      "updated_at": "2026-10-31T13:44:56Z",
+      "pushed_at": "2026-11-02T07:09:29Z",
+      "stars": 6,
+      "author": "mollykitten"
+    },
+    {
+      "title": "nyuchi-docs",
+      "description": "Nyuchi Docs — engineering + product documentation for Nyuchi Africa (docs.nyuchi.com). Astro 6 + Starlight with a Pagefind/Ask-AI search package + Cloudflare Worker MCP.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nyuchi/nyuchi-docs",
+      "updated_at": "2026-10-04T12:17:12Z",
+      "pushed_at": "2026-11-01T21:21:43Z",
+      "stars": 0,
+      "author": "nyuchi"
+    },
+    {
+      "title": "africatourismgate",
+      "description": "Africa Tourism Gate is a travel booking platform that includes:  REST API (NestJS) for users, bookings, accommodations, flights, car rentals, cruises, activities, packages, payments, reviews, promotions, and support.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/thecarinsiwa/africatourismgate",
+      "updated_at": "2026-11-01T18:39:08Z",
+      "pushed_at": "2026-11-01T18:39:02Z",
+      "stars": 1,
+      "author": "thecarinsiwa"
+    },
+    {
+      "title": "lead-collective-violence",
+      "description": "Replication package: Lead Exposure and Collective Violence: Evidence from Informal Battery Recycling in Africa (Crawfurd)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/lcrawfurd/lead-collective-violence",
+      "updated_at": "2026-10-30T15:57:31Z",
+      "pushed_at": "2026-10-30T15:57:28Z",
+      "stars": 0,
+      "author": "lcrawfurd"
+    },
+    {
+      "title": "smile-identity-core-python",
+      "description": "The Official Smile Identity Python 3 package",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/smileidentity/smile-identity-core-python",
+      "updated_at": "2026-10-30T09:04:25Z",
+      "pushed_at": "2026-10-30T09:04:22Z",
+      "stars": 2,
+      "author": "smileidentity"
+    },
+    {
+      "title": "audio_waveforms",
+      "description": "Use this plugin to generate waveforms while recording audio in any file formats supported by given encoders or from audio files. We can use gestures to scroll through the waveforms or seek to any position while playing audio and also style waveforms",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SimformSolutionsPvtLtd/audio_waveforms",
+      "updated_at": "2026-10-23T08:48:26Z",
+      "pushed_at": "2026-10-30T06:44:09Z",
+      "stars": 351,
+      "author": "SimformSolutionsPvtLtd"
+    },
+    {
+      "title": "sonaly-wave",
+      "description": "Videos y música sin anuncios, en segundo plano, con descargas MP3/MP4. Gratis y open source. Android.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/skullkirim/sonaly-wave",
+      "updated_at": "2026-10-30T03:51:53Z",
+      "pushed_at": "2026-10-30T03:52:12Z",
+      "stars": 0,
+      "author": "skullkirim"
+    },
+    {
+      "title": "WaveBreakerGame",
+      "description": "A small 2D game created with flutter and flame for Windows and mobile",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Adaaat/WaveBreakerGame",
+      "updated_at": "2026-10-29T23:52:57Z",
+      "pushed_at": "2026-10-29T23:45:35Z",
+      "stars": 0,
+      "author": "Adaaat"
+    },
+    {
+      "title": "upgrade_arena",
+      "description": "Flutter and Flame top-down survival game with kill-based weapons and escalating boss waves.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/solotomek/upgrade_arena",
+      "updated_at": "2026-10-29T20:37:25Z",
+      "pushed_at": "2026-10-29T20:38:09Z",
+      "stars": 0,
+      "author": "solotomek"
+    },
+    {
+      "title": "PyBVMAC",
+      "description": "a python package that combines tools to perform data analysis on the Central African Stock Exchange(BVMAC)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Rizinkovic/PyBVMAC",
+      "updated_at": "2026-10-27T10:28:57Z",
+      "pushed_at": "2026-10-28T13:29:17Z",
+      "stars": 0,
+      "author": "Rizinkovic"
+    },
+    {
+      "title": "flutter_notchpay",
+      "description": "💳📱 A secure, complete, and beautiful Flutter SDK for NotchPay. Accept Mobile Money (MTN, Orange, Moov, Wave, Airtel) and Card payments natively with a polished checkout experience! 🚀✨",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/BorisGautier/flutter_notchpay",
+      "updated_at": "2026-07-28T11:53:58Z",
+      "pushed_at": "2026-10-26T21:37:31Z",
+      "stars": 1,
+      "author": "BorisGautier"
+    },
+    {
+      "title": "animated-shoes-display-app-ui",
+      "description": "A modern, animated shoes e-commerce display UI built with Flutter featuring wave animations, animated PageView catalog, color/size pickers, custom pill bottom nav, and Material 3 design. Runs on Android, iOS, Web, Windows, macOS & Linux.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/dersterngreifer/animated-shoes-display-app-ui",
+      "updated_at": "2026-10-26T11:26:34Z",
+      "pushed_at": "2026-10-26T11:26:30Z",
+      "stars": 0,
+      "author": "dersterngreifer"
+    },
+    {
+      "title": "rohd-wave-viewer",
+      "description": "ROHD Wave Viewer is a waveform viewer Flutter app, part of the ROHD ecosystem. It works in-browser, integrated as a Flutter widget, used as part of a debug stack which integrates it (e.g. ROHD DevTool Extension, eventually), or run as a native desktop application. Waveforms can be passed via an API or read from a standard file format (e.g. VCD).",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/intel/rohd-wave-viewer",
+      "updated_at": "2026-10-25T19:48:35Z",
+      "pushed_at": "2026-10-25T20:28:56Z",
+      "stars": 14,
+      "author": "intel"
+    },
+    {
+      "title": "Flutter-Flame-Game",
+      "description": "SpaceBlaster - 2D Shooter Game A fun and fast-paced 2D shooter game built with the Flame Engine. Blast enemies, dodge obstacles, and survive waves in a simple arcade-style experience. Perfect for learning game dev in Flutter",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Sadiq1180/Flutter-Flame-Game",
+      "updated_at": "2026-10-24T06:32:34Z",
+      "pushed_at": "2026-10-24T06:32:30Z",
+      "stars": 1,
+      "author": "Sadiq1180"
+    },
+    {
+      "title": "azampay",
+      "description": "The Azampay PHP Integration Package is a robust solution that simplifies payment processing in Tanzania and East Africa by providing seamless integration with mobile money, bank payments, and merchant services through a single, developer-friendly interface.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/tairocruiz/azampay",
+      "updated_at": "2026-10-23T06:37:02Z",
+      "pushed_at": "2026-10-23T06:37:02Z",
+      "stars": 2,
+      "author": "tairocruiz"
+    },
+    {
+      "title": "Eqeus-Platform",
+      "description": "South African built courier service for managing travel of packages from one place to another",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/rightalign-io/Eqeus-Platform",
+      "updated_at": "2026-10-22T21:07:47Z",
+      "pushed_at": "2026-10-22T21:07:42Z",
+      "stars": 0,
+      "author": "rightalign-io"
+    },
+    {
+      "title": "momokit-core",
+      "description": "Read-only split of packages/core — unified West African mobile money payments for PHP",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/aspic36/momokit-core",
+      "updated_at": "2026-10-22T16:46:50Z",
+      "pushed_at": "2026-10-22T17:06:45Z",
+      "stars": 0,
+      "author": "aspic36"
+    },
+    {
+      "title": "WAYA",
+      "description": "Waya is an African-inspired mobile logistics and delivery tracking app built with React Native and Expo. Featuring expressive African art, fluid animations, real-time rider tracking, package delivery management, and a seamless customer experience.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/gifted-g1/WAYA",
+      "updated_at": "2026-10-22T16:21:39Z",
+      "pushed_at": "2026-10-22T16:21:31Z",
+      "stars": 0,
+      "author": "gifted-g1"
+    },
+    {
+      "title": "fob-flutter-wave",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/FriendsOfBotble/fob-flutter-wave",
+      "updated_at": "2026-10-21T08:21:14Z",
+      "pushed_at": "2026-10-21T08:38:47Z",
+      "stars": 2,
+      "author": "FriendsOfBotble"
+    },
+    {
+      "title": "Africantrust-Safari-showcase",
+      "description": "A showcase of the Africantrust Safari tourism website, featuring Tanzania safari packages, destinations, and travel experiences.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/reggiemsofe23/Africantrust-Safari-showcase",
+      "updated_at": "2026-10-21T07:41:08Z",
+      "pushed_at": "2026-10-21T07:41:03Z",
+      "stars": 0,
+      "author": "reggiemsofe23"
+    },
+    {
+      "title": "waveguard",
+      "description": "Drowning-risk advisory for Lianga, Surigao del Sur: cost-sensitive Random Forest on Open-Meteo marine data plus a Flutter mobile app.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/John06-jp/waveguard",
+      "updated_at": "2026-10-20T13:41:20Z",
+      "pushed_at": "2026-10-20T13:41:16Z",
+      "stars": 0,
+      "author": "John06-jp"
+    },
+    {
+      "title": "aicore-customs-ai",
+      "description": "AI-powered customs anomaly detection pilot package for West Africa - AICore Digital LLC",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/elycheikhmourid1-hash/aicore-customs-ai",
+      "updated_at": "2026-10-18T21:58:38Z",
+      "pushed_at": "2026-10-18T21:58:33Z",
+      "stars": 0,
+      "author": "elycheikhmourid1-hash"
+    },
+    {
+      "title": "wavezero",
+      "description": "Android-first local/offline music player built with Flutter and native Kotlin/Media3 playback.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/omarkhair70-droid/wavezero",
+      "updated_at": "2026-09-16T03:48:22Z",
+      "pushed_at": "2026-10-17T16:20:38Z",
+      "stars": 0,
+      "author": "omarkhair70-droid"
+    },
+    {
+      "title": "wave-wifi-analyser",
+      "description": "wave - wifi analyser: A modern Flutter WiFi analyser with live Android scans, channel graphs, signal history, MVVM architecture, Riverpod state management, and light/dark themes.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SamWraith/wave-wifi-analyser",
+      "updated_at": "2026-10-17T16:07:53Z",
+      "pushed_at": "2026-10-17T16:08:31Z",
+      "stars": 0,
+      "author": "SamWraith"
+    },
+    {
+      "title": "riftclass-arena",
+      "description": "Isometric arena roguelite for mobile built with Flutter and Flame: four classes, upgradeable abilities, three worlds with waves and bosses.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Juul94/riftclass-arena",
+      "updated_at": "2026-10-16T23:18:47Z",
+      "pushed_at": "2026-10-16T23:18:43Z",
+      "stars": 0,
+      "author": "Juul94"
+    },
+    {
+      "title": "bbcm-agents",
+      "description": "WhatsApp AI agents for small South African law firms — install-ready n8n package",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Chedevs1111/bbcm-agents",
+      "updated_at": "2026-10-16T16:39:16Z",
+      "pushed_at": "2026-10-16T16:39:12Z",
+      "stars": 0,
+      "author": "Chedevs1111"
+    },
+    {
+      "title": "South-African-Cargo-Management-system",
+      "description": "South African cargo management businesses struggle with capturing proof of how package conditions are transported from area to area so this system helps them easy identify on whether the package was transported already damaged or did it get damaged during transit, by allowing workers and clients to upload the picture of the package.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Divine66-geek/South-African-Cargo-Management-system",
+      "updated_at": "2026-10-14T06:40:00Z",
+      "pushed_at": "2026-10-14T06:39:56Z",
+      "stars": 0,
+      "author": "Divine66-geek"
+    },
+    {
+      "title": "StellarVortex",
+      "description": "🚀 Stellar Vortex is a high-performance twin-stick space shooter game powered by Flutter & Flame. Pilot unique ship classes, collect weapon upgrades, dodge meteors, defeat progressive enemy waves, and challenge flagship bosses with responsive keyboard/mouse and virtual touch joysticks.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mangelsr/StellarVortex",
+      "updated_at": "2026-10-14T03:47:05Z",
+      "pushed_at": "2026-10-14T03:47:01Z",
+      "stars": 0,
+      "author": "mangelsr"
+    },
+    {
+      "title": "ResWave",
+      "description": "A research community and academic support platform built with Flutter.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Vanshika-g2530/ResWave",
+      "updated_at": "2026-10-12T06:46:51Z",
+      "pushed_at": "2026-10-12T06:46:47Z",
+      "stars": 0,
+      "author": "Vanshika-g2530"
+    },
+    {
+      "title": "AidaGateway",
+      "description": "💳 Simplify payment integration in Laravel with AidaGateway, a straightforward and efficient package for seamless transactions.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Alfan129/AidaGateway",
+      "updated_at": "2026-10-12T04:29:45Z",
+      "pushed_at": "2026-10-12T04:29:42Z",
+      "stars": 0,
+      "author": "Alfan129"
+    },
+    {
+      "title": "replication_package_news_based_multidimensional_political_instability",
+      "description": "This repository is a replication package for the paper \"News-Based Multidimensional Political Instability in West and Central Africa\"",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/PhilippKronenberg/replication_package_news_based_multidimensional_political_instability",
+      "updated_at": "2026-10-11T14:55:14Z",
+      "pushed_at": "2026-10-11T14:55:11Z",
+      "stars": 0,
+      "author": "PhilippKronenberg"
+    },
+    {
+      "title": "221-sdk-dart",
+      "description": "SDK Dart et Flutter de l'API 221 : données de référence du Sénégal (jours fériés, opérateurs, banques, géographie), webhooks, 221 Pay",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/stars-organisation/221-sdk-dart",
+      "updated_at": "2026-10-10T23:06:29Z",
+      "pushed_at": "2026-10-10T23:06:26Z",
+      "stars": 0,
+      "author": "stars-organisation"
+    },
+    {
+      "title": "RiftWave-Music",
+      "description": "🎧 Open-source, ad-free music streaming app built with Flutter — no ads, no tracking, no account required",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/RiftWaveOrg/RiftWave-Music",
+      "updated_at": "2026-10-10T06:32:37Z",
+      "pushed_at": "2026-10-10T06:32:31Z",
+      "stars": 0,
+      "author": "RiftWaveOrg"
+    },
+    {
+      "title": "Modlinq",
+      "description": "Mod manager for Zenless Zone Zero, Wuthering Waves and Neverness to Everness",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/hugobugomugo/Modlinq",
+      "updated_at": "2026-09-28T16:00:53Z",
+      "pushed_at": "2026-10-10T00:45:29Z",
+      "stars": 0,
+      "author": "hugobugomugo"
+    },
+    {
+      "title": "flutter-minimal-auth-ui",
+      "description": "Minimal black and white welcome and login screens built in Flutter, with a custom wave header, outlined input fields, password toggle and social login buttons.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/YaqoobDeveloper/flutter-minimal-auth-ui",
+      "updated_at": "2026-10-10T15:05:53Z",
+      "pushed_at": "2026-10-08T16:17:26Z",
+      "stars": 2,
+      "author": "YaqoobDeveloper"
+    },
+    {
+      "title": "HoloWave",
+      "description": "Lecteur de musique locale Android en Flutter ; sources en développement.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/0x80070006/HoloWave",
+      "updated_at": "2026-10-08T14:15:20Z",
+      "pushed_at": "2026-10-08T14:15:15Z",
+      "stars": 1,
+      "author": "0x80070006"
+    },
+    {
+      "title": "fibre-connect-sa",
+      "description": "The trusted platform for South African households and businesses to search for coverage, compare fibre and broadband packages, and secure the best internet connectivity.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Phathu87/fibre-connect-sa",
+      "updated_at": "2026-10-08T13:19:18Z",
+      "pushed_at": "2026-10-08T13:19:13Z",
+      "stars": 0,
+      "author": "Phathu87"
+    },
+    {
+      "title": "roadDB",
+      "description": ":exclamation: This is a read-only mirror of the CRAN R package repository.  roadDB — Access Data from the ROCEEH Out of Africa Database (ROAD)  ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/cran/roadDB",
+      "updated_at": "2026-10-08T02:04:35Z",
+      "pushed_at": "2026-10-08T02:04:30Z",
+      "stars": 0,
+      "author": "cran"
+    },
+    {
+      "title": "TBCFinall-",
+      "description": "Booking platform for a collection of African safari lodges and beach properties, lets guests browse properties, book rooms and packages, and pay online, while staff manage listings, rates, and reservations from an admin dashboard.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/timsheldon1/TBCFinall-",
+      "updated_at": "2026-10-06T10:02:55Z",
+      "pushed_at": "2026-10-06T10:02:51Z",
+      "stars": 0,
+      "author": "timsheldon1"
+    },
+    {
+      "title": "ugpayments",
+      "description": "ugpayments is a Flutter package that simplifies payment integrations for Uganda-based applications. It provides a unified API for Mobile Money, card payments via PesaPal, and bank transfers — supporting Android, iOS, and macOS out of the box. Built specifically for the East African fintech ecosystem, where payment fragmentation is a real problem ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nicowalter256/ugpayments",
+      "updated_at": "2026-10-06T09:11:40Z",
+      "pushed_at": "2026-10-06T09:11:36Z",
+      "stars": 30,
+      "author": "nicowalter256"
+    },
+    {
+      "title": "web2wave_flutter",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/web2wave/web2wave_flutter",
+      "updated_at": "2026-10-05T15:06:40Z",
+      "pushed_at": "2026-10-05T15:06:20Z",
+      "stars": 1,
+      "author": "web2wave"
+    },
+    {
+      "title": "wave_like_app",
+      "description": "Application mobile de paiement et de gestion de portefeuille numérique développé avec flutter.projet",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/kafandoraymond05-maker/wave_like_app",
+      "updated_at": "2026-10-04T13:55:24Z",
+      "pushed_at": "2026-10-04T13:55:20Z",
+      "stars": 0,
+      "author": "kafandoraymond05-maker"
+    },
+    {
+      "title": "MedVerify",
+      "description": "A counterfeit-medicine verification service where a pharmacist or patient scans a code on a package to confirm the drug is genuine, addressing the circulation of fake malaria and antibiotic drugs in East Africa. ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Daniel-Obuya/MedVerify",
+      "updated_at": "2026-10-01T08:57:14Z",
+      "pushed_at": "2026-10-01T08:40:03Z",
+      "stars": 1,
+      "author": "Daniel-Obuya"
+    },
+    {
+      "title": "Lenasola-Tours",
+      "description": "Lenasola Tours is a Nairobi-based luxury safari company crafting deeply personal East African experiences. We believe every journey should feel handcrafted — not packaged.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Naneu-j/Lenasola-Tours",
+      "updated_at": "2026-09-30T15:34:36Z",
+      "pushed_at": "2026-09-30T15:34:31Z",
+      "stars": 0,
+      "author": "Naneu-j"
+    },
+    {
+      "title": "flutter_recorder",
+      "description": "A low-level audio recorder plugin which uses miniaudio as backend and supporting all the platforms. It can detect silence and save to WAV/Opus audio file. Audio wave and FFT data can be get in real-time as for the volume level.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/alnitak/flutter_recorder",
+      "updated_at": "2026-09-30T11:28:23Z",
+      "pushed_at": "2026-09-30T11:29:25Z",
+      "stars": 58,
+      "author": "alnitak"
+    },
+    {
+      "title": "mood_wave_tracker",
+      "description": "A calm, local-first Flutter app for independently tracking and visualizing mania and depression levels over time.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/rakima/mood_wave_tracker",
+      "updated_at": "2026-09-30T09:55:12Z",
+      "pushed_at": "2026-09-30T09:55:07Z",
+      "stars": 0,
+      "author": "rakima"
+    },
+    {
+      "title": "audio_waveform_player",
+      "description": "A sleek Telegram and WhatsApp-style audio voice note player for Flutter with dynamic waveforms, touch scrubbing, and speed toggles.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/BalochCodes/audio_waveform_player",
+      "updated_at": "2026-09-28T18:13:22Z",
+      "pushed_at": "2026-09-28T18:13:18Z",
+      "stars": 0,
+      "author": "BalochCodes"
+    },
+    {
+      "title": "opensms-swift",
+      "description": "Official Swift client for opensms: prepaid SMS for Africa. Mirror of packages/swift in opensms-io/opensms-sdks.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/opensms-io/opensms-swift",
+      "updated_at": "2026-09-24T16:13:48Z",
+      "pushed_at": "2026-09-24T16:14:34Z",
+      "stars": 0,
+      "author": "opensms-io"
+    },
+    {
+      "title": "opensms-php",
+      "description": "Official PHP client for opensms: prepaid SMS for Africa. Mirror of packages/php in opensms-io/opensms-sdks.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/opensms-io/opensms-php",
+      "updated_at": "2026-09-24T16:13:55Z",
+      "pushed_at": "2026-09-24T16:14:25Z",
+      "stars": 1,
+      "author": "opensms-io"
+    },
+    {
+      "title": "opensms-go",
+      "description": "Official Go client for opensms: prepaid SMS for Africa. Mirror of packages/go in opensms-io/opensms-sdks.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/opensms-io/opensms-go",
+      "updated_at": "2026-09-24T16:13:34Z",
+      "pushed_at": "2026-09-24T16:14:15Z",
+      "stars": 0,
+      "author": "opensms-io"
+    },
+    {
+      "title": "statAfrikR",
+      "description": ":exclamation: This is a read-only mirror of the CRAN R package repository.  statAfrikR — Statistical Tools for African National Statistics Institutes. Homepage: https://statafrikr.org/, https://github.com/damoko2004/statAfrikR, https://damoko2004.github.io/statAfrikR/  Report bugs for this package: https://github.com/d ...",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/cran/statAfrikR",
+      "updated_at": "2026-09-24T15:19:26Z",
+      "pushed_at": "2026-09-24T15:19:21Z",
+      "stars": 0,
+      "author": "cran"
+    },
+    {
+      "title": "void_survivor_game",
+      "description": "VOID SURVIVOR is an endless 2D zombie survival game built with Flutter and Flame. Fight escalating waves, face unique bosses, unlock weapons, upgrade your loadout, collect drops, complete daily challenges, earn XP, and build long-term progression with local storage.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ahmedsaied0200/void_survivor_game",
+      "updated_at": "2026-09-23T19:49:40Z",
+      "pushed_at": "2026-09-23T19:49:35Z",
+      "stars": 0,
+      "author": "ahmedsaied0200"
+    },
+    {
+      "title": "flutter-wave-slider",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SiliconValley007/flutter-wave-slider",
+      "updated_at": "2026-09-22T16:20:53Z",
+      "pushed_at": "2026-09-22T16:20:48Z",
+      "stars": 0,
+      "author": "SiliconValley007"
+    },
+    {
+      "title": "voice_wave_bubble",
+      "description": "An interactive audio message player & voice recorder bubble widget for Flutter with scrubbing soundwave bars, speed toggles, and live recording animations.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ShahzainBaloch/voice_wave_bubble",
+      "updated_at": "2026-09-21T19:13:03Z",
+      "pushed_at": "2026-09-21T19:12:59Z",
+      "stars": 0,
+      "author": "ShahzainBaloch"
+    },
+    {
+      "title": "Coffee_Shop_Website",
+      "description": "A premium specialty coffee storefront and analytics dashboard, built as a portfolio project. The look is black, white and gold, inspired by upscale roasters, with real branded packaging photography and prices in South African rand (ZAR).",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Bile23/Coffee_Shop_Website",
+      "updated_at": "2026-09-21T12:42:47Z",
+      "pushed_at": "2026-09-21T12:42:43Z",
+      "stars": 0,
+      "author": "Bile23"
+    },
+    {
+      "title": "flutter_timer_bloc",
+      "description": "A professional Flutter Timer application built using the BLoC state management pattern, featuring custom animated wave effects, precise stream-based countdown control (Play, Pause, Resume, Reset), and a clean architecture",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/jafarmaksoud8-byte/flutter_timer_bloc",
+      "updated_at": "2026-09-21T10:14:42Z",
+      "pushed_at": "2026-09-21T10:14:38Z",
+      "stars": 0,
+      "author": "jafarmaksoud8-byte"
+    },
+    {
+      "title": "qb-toolkit",
+      "description": "QuickBooks Desktop toolkit for South African businesses — TypeScript monorepo with UI and integration packages",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/pensefact/qb-toolkit",
+      "updated_at": "2026-09-18T08:40:47Z",
+      "pushed_at": "2026-09-18T08:40:42Z",
+      "stars": 0,
+      "author": "pensefact"
+    },
+    {
+      "title": "FlutterWave.Core",
+      "description": "FlutterWave.Core is a Standard-Compliant .NET library built on top of FlutterWave API RESTful endpoints to enable software engineers to develop FinTech solutions in .NET.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SlimAhmad/FlutterWave.Core",
+      "updated_at": "2026-09-17T20:32:32Z",
+      "pushed_at": "2026-09-17T20:32:39Z",
+      "stars": 0,
+      "author": "SlimAhmad"
+    },
+    {
+      "title": "travel-agent-website",
+      "description": "A simple travel agent website showcasing African safari destinations with services for air ticketing, hotel booking, visa processing, car transfers, and tour packages.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/erizach29-collab/travel-agent-website",
+      "updated_at": "2026-09-16T08:00:25Z",
+      "pushed_at": "2026-09-16T08:00:21Z",
+      "stars": 0,
+      "author": "erizach29-collab"
+    },
+    {
+      "title": "wave-budget-tracker",
+      "description": "Wave is a private, offline-first Flutter budget tracker for income, expenses, accounts, e-wallets, budgets, savings, and planned cash flow.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/reynanmontejo/wave-budget-tracker",
+      "updated_at": "2026-09-14T07:09:36Z",
+      "pushed_at": "2026-09-14T07:09:56Z",
+      "stars": 0,
+      "author": "reynanmontejo"
+    },
+    {
+      "title": "wavelink_app",
+      "description": "Flutter assignment",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/dartbostone/wavelink_app",
+      "updated_at": "2026-09-13T11:39:25Z",
+      "pushed_at": "2026-09-13T11:31:43Z",
+      "stars": 1,
+      "author": "dartbostone"
+    },
+    {
+      "title": "Music_Wave",
+      "description": "Music Wave is a modern Flutter music app designed for an enjoyable listening experience. Users can explore songs, play, pause, skip tracks, manage favorites, and enjoy their favorite music through a simple and attractive interface.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Sohail-Ahmad-Sajid/Music_Wave",
+      "updated_at": "2026-09-13T03:04:39Z",
+      "pushed_at": "2026-09-13T03:04:35Z",
+      "stars": 0,
+      "author": "Sohail-Ahmad-Sajid"
+    },
+    {
+      "title": "ConWave-messages",
+      "description": "Flutter chat application with Firebase Authentication and real-time messaging through Cloud Firestore.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/abdeahbar/ConWave-messages",
+      "updated_at": "2026-09-12T20:32:16Z",
+      "pushed_at": "2026-09-12T20:08:06Z",
+      "stars": 0,
+      "author": "abdeahbar"
+    },
+    {
+      "title": "wavey-elytra",
+      "description": "Beetle-shell elytra physics for Minecraft 1.21.1 (Fabric): rigid hinge poses, dual-frequency flutter, tip lag, and an optional server-side flap boost.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AtinyFurina/wavey-elytra",
+      "updated_at": "2026-09-11T23:35:07Z",
+      "pushed_at": "2026-09-11T23:35:03Z",
+      "stars": 0,
+      "author": "AtinyFurina"
+    },
+    {
+      "title": "explore-SA",
+      "description": "explore south africa is a project i did in my first year. it shows different packages of hotel tour guide you can book prior to going to the place.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/deborahineza252/explore-SA",
+      "updated_at": "2026-09-11T22:44:59Z",
+      "pushed_at": "2026-09-11T22:44:55Z",
+      "stars": 0,
+      "author": "deborahineza252"
+    },
+    {
+      "title": "ai-wave-animation-package",
+      "description": "Assistant-style wave animations for Flutter: Gemini ribbons, Claude surfaces, Perplexity bars and a ChatGPT orb. Pure CustomPaint, every platform.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/neelakandanz/ai-wave-animation-package",
+      "updated_at": "2026-10-18T09:41:28Z",
+      "pushed_at": "2026-09-11T04:49:53Z",
+      "stars": 1,
+      "author": "neelakandanz"
+    },
+    {
+      "title": "Full-Wave-Rectifier-Flutter-App",
+      "description": "My first Flutter project, built as part of my EC Lab project. This app simulates a Full-Wave Rectifier and helped me learn the basics of Flutter, including Stateful and Stateless widgets, UI design, state management, and data visualization with FL Chart. A small project and a great learning experience! ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Mr-Scoder/Full-Wave-Rectifier-Flutter-App",
+      "updated_at": "2026-09-10T17:55:54Z",
+      "pushed_at": "2026-09-10T17:55:48Z",
+      "stars": 0,
+      "author": "Mr-Scoder"
+    },
+    {
+      "title": "News_Wave",
+      "description": "News Wave 🌊 — A modern, fully-responsive Flutter news application built with Clean Architecture, BLoC pattern, Dio, and Cached Network Images.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/OmarrSelim7/News_Wave",
+      "updated_at": "2026-09-09T09:42:31Z",
+      "pushed_at": "2026-09-09T09:40:49Z",
+      "stars": 0,
+      "author": "OmarrSelim7"
+    },
+    {
+      "title": "kenyacensus",
+      "description": "R package providing tidy access to Kenya Population & Housing Census data (1948–2019) — 13 datasets, 47 counties, 8 census years, with built-in visualization. Data sourced from KNBS.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/musanyaks/kenyacensus",
+      "updated_at": "2026-09-24T20:46:06Z",
+      "pushed_at": "2026-09-07T14:03:28Z",
+      "stars": 0,
+      "author": "musanyaks"
+    },
+    {
+      "title": "exploreafrica",
+      "description": "a curated collection of Africa travel guides, tour packages destinations, and travel tips to help plan trips across the continent",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Olamilekan-001/exploreafrica",
+      "updated_at": "2026-09-07T13:03:11Z",
+      "pushed_at": "2026-09-07T13:02:18Z",
+      "stars": 0,
+      "author": "Olamilekan-001"
+    },
+    {
+      "title": "Earthquake-Early-Warning-System",
+      "description": "Crowd-sourced earthquake early-warning system for Turkey — Flutter app + FastAPI backend with on-device P-wave detection and Android critical alerts",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/kaankaramannn/Earthquake-Early-Warning-System",
+      "updated_at": "2026-09-07T11:03:32Z",
+      "pushed_at": "2026-09-07T11:03:19Z",
+      "stars": 0,
+      "author": "kaankaramannn"
+    },
+    {
+      "title": "openafrik",
+      "description": "Agent-operated studio for long-form African-storytelling narration videos (idea to fully-prompted YouTube package)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/leksautomate/openafrik",
+      "updated_at": "2026-09-06T09:39:37Z",
+      "pushed_at": "2026-09-06T09:39:31Z",
+      "stars": 0,
+      "author": "leksautomate"
+    },
+    {
+      "title": "pos-flutter-test",
+      "description": "Démo POS Flutter (marché sénégalais) : FCFA, TVA 18%, offline-first, ticket 58mm, Mobile Money (Wave/OM/Free) & impression thermique",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Alouvelli/pos-flutter-test",
+      "updated_at": "2026-09-06T01:58:18Z",
+      "pushed_at": "2026-09-06T01:58:13Z",
+      "stars": 0,
+      "author": "Alouvelli"
+    },
+    {
+      "title": "ecocycle",
+      "description": "Eco-Cycle Wastewater Solutions - GFRP package treatment plants, Lebanon & Africa. Static one-pager, built as a single offline file.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/digitaldotdeveloper/ecocycle",
+      "updated_at": "2026-09-02T13:46:55Z",
+      "pushed_at": "2026-09-02T13:41:34Z",
+      "stars": 0,
+      "author": "digitaldotdeveloper"
+    },
+    {
+      "title": "atlas_sao",
+      "description": "Package with utilities to make the lists of targets for the south african observatory",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/HeloiseS/atlas_sao",
+      "updated_at": "2026-09-02T12:59:29Z",
+      "pushed_at": "2026-09-02T12:56:44Z",
+      "stars": 0,
+      "author": "HeloiseS"
+    },
+    {
+      "title": "beyond-retaliation",
+      "description": "Replication package for \"Beyond Retaliation: How South Africa Can Effectively Counter the USA's Tariff Wars\" (GDyn v3.6, GTAP 11)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Riaan-Rossouw/beyond-retaliation",
+      "updated_at": "2026-09-02T08:21:16Z",
+      "pushed_at": "2026-09-02T08:20:56Z",
+      "stars": 0,
+      "author": "Riaan-Rossouw"
+    },
+    {
+      "title": "happy_wave",
+      "description": "감정 보고 메시지를 바꿔 제안하는 HCI 채팅 앱 (chat_tunify 후속)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/yuju-k/happy_wave",
+      "updated_at": "2026-08-31T07:07:50Z",
+      "pushed_at": "2026-08-31T07:04:10Z",
+      "stars": 1,
+      "author": "yuju-k"
+    },
+    {
+      "title": "Supermarket-Dataset-main",
+      "description": "Axia Africa Data Science Supermarket Sales dataset package.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/DGideonTech/Supermarket-Dataset-main",
+      "updated_at": "2026-08-30T19:22:23Z",
+      "pushed_at": "2026-08-30T19:22:09Z",
+      "stars": 0,
+      "author": "DGideonTech"
+    },
+    {
+      "title": "Supermarket-Dataset",
+      "description": "Axia Africa Data Science Supermarket Sales dataset package.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/DGideonTech/Supermarket-Dataset",
+      "updated_at": "2026-08-30T18:28:37Z",
+      "pushed_at": "2026-08-30T18:28:37Z",
+      "stars": 0,
+      "author": "DGideonTech"
+    },
+    {
+      "title": "mahogany-travel-expeditions",
+      "description": "A responsive travel and tourism website for Mahogany Travel Expeditions, showcasing tour packages, destinations, activities, and travel experiences across Uganda and East Africa.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/peacemasika8-design/mahogany-travel-expeditions",
+      "updated_at": "2026-08-30T15:21:00Z",
+      "pushed_at": "2026-08-30T15:21:00Z",
+      "stars": 0,
+      "author": "peacemasika8-design"
+    },
+    {
+      "title": "quran-wave",
+      "description": "Flutter Quran audio player with local imports and official SoundCloud/YouTube embeds",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/nasazzam/quran-wave",
+      "updated_at": "2026-08-30T14:05:16Z",
+      "pushed_at": "2026-08-30T14:05:11Z",
+      "stars": 0,
+      "author": "nasazzam"
+    },
+    {
+      "title": "0823197431.github.io",
+      "description": "SKUBU is a South African retailer offering everyday essentials in refill quantities, helping customers save up to 60% by cutting packaging costs. With stores at Chuma Mall and Bambanani Mall, shoppers use a low‑cost SKUBU card, bring their own containers or free bags, and enjoy affordable, eco‑friendly shopping.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/0823197431/0823197431.github.io",
+      "updated_at": "2026-08-29T15:02:16Z",
+      "pushed_at": "2026-08-29T15:01:23Z",
+      "stars": 0,
+      "author": "0823197431"
+    },
+    {
+      "title": "AfriMarkets",
+      "description": "AfriMarkets is a Python package dedicated to African financial market data analysis and visualization. The project aims to provide an easy-to-use and extensible toolkit for retrieving, cleaning, analyzing, and visualizing market data from African stock exchanges and regional financial markets.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/XGEOSOFT-CORPORATION/AfriMarkets",
+      "updated_at": "2026-09-09T17:41:04Z",
+      "pushed_at": "2026-08-28T15:33:32Z",
+      "stars": 3,
+      "author": "XGEOSOFT-CORPORATION"
+    },
+    {
+      "title": "safaris-adventure--website-",
+      "description": "A modern Next.js safari website that helps travelers explore African destinations, discover tour packages, and make booking inquiries.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Briankiboi/safaris-adventure--website-",
+      "updated_at": "2026-08-28T08:44:35Z",
+      "pushed_at": "2026-08-28T08:42:06Z",
+      "stars": 0,
+      "author": "Briankiboi"
+    },
+    {
+      "title": "Mediadiva_SaaS",
+      "description": "Modern Arabic RTL freelance marketplace interface for North Africa featuring multi-step project creation wizard, gig details with tiered packages, escrow contract approval, and chat workspace.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/medissaoui711/Mediadiva_SaaS",
+      "updated_at": "2026-08-20T16:29:44Z",
+      "pushed_at": "2026-08-20T16:27:55Z",
+      "stars": 0,
+      "author": "medissaoui711"
+    },
+    {
+      "title": "chat_tunify",
+      "description": "감정 분석·메시지 추천 채팅 앱. 2024 프로토타입. 후속은 happy_wave",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/yuju-k/chat_tunify",
+      "updated_at": "2026-08-20T08:12:39Z",
+      "pushed_at": "2026-08-20T08:14:29Z",
+      "stars": 1,
+      "author": "yuju-k"
+    },
+    {
+      "title": "Centric-frontend",
+      "description": "Centric is a peer-to-peer logistics marketplace designed for African cities. Instead of building and maintaining a dedicated fleet, Centric coordinates verified people, existing journeys, package demand, trust, payments and evidence to move goods more efficiently.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/muhsar27/Centric-frontend",
+      "updated_at": "2026-08-19T01:14:46Z",
+      "pushed_at": "2026-08-19T14:45:32Z",
+      "stars": 0,
+      "author": "muhsar27"
+    },
+    {
+      "title": "wave",
+      "description": "A Flutter package for displaying waves.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/glorylab/wave",
+      "updated_at": "2026-10-14T05:55:25Z",
+      "pushed_at": "2026-08-17T19:33:15Z",
+      "stars": 1124,
+      "author": "glorylab"
+    },
+    {
+      "title": "africa-safari-horizon",
+      "description": "A modern safari travel platform showcasing African wildlife adventures, tour packages, destinations, and luxury safari experiences.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Jagannath-Pradhan/africa-safari-horizon",
+      "updated_at": "2026-08-17T18:28:12Z",
+      "pushed_at": "2026-08-17T18:27:58Z",
+      "stars": 0,
+      "author": "Jagannath-Pradhan"
+    },
+    {
+      "title": "DC-TOURS-SAFARIS",
+      "description": "Explore Africa with **DC Tours & Safaris**! Enjoy unforgettable safaris, wildlife tours, city adventures, cultural experiences & affordable travel packages. Discover amazing destinations with trusted service. Every Journey Tells a Story.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/cjonathantaban-gif/DC-TOURS-SAFARIS",
+      "updated_at": "2026-08-17T17:06:36Z",
+      "pushed_at": "2026-08-17T17:03:37Z",
+      "stars": 0,
+      "author": "cjonathantaban-gif"
+    },
+    {
+      "title": "alltow-digital-site",
+      "description": "\"AllTow Digital is a South African digital agency that builds fast, modern, mobile-first websites and runs SEO and digital marketing that turn visitors into paying customers — in clear, affordable packages.\"",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/NikitaGoncalves/alltow-digital-site",
+      "updated_at": "2026-08-15T21:31:45Z",
+      "pushed_at": "2026-08-15T21:31:20Z",
+      "stars": 0,
+      "author": "NikitaGoncalves"
+    },
+    {
+      "title": "Symphony",
+      "description": "Symphony is an ambient, cross-platform Flutter application built for Firebase that keeps you close to your people through shared resonance states, real-time messaging with analog sine-wave voice slices, ambient canvas drawing spaces, and time-locked FutureDrops.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/realHaris-gif/Symphony",
+      "updated_at": "2026-08-13T15:31:26Z",
+      "pushed_at": "2026-08-13T15:29:08Z",
+      "stars": 0,
+      "author": "realHaris-gif"
+    },
+    {
+      "title": "WaveFlutter",
+      "description": "A modern, responsive website built with HTML, CSS, JavaScript, and Vue.js. It showcases advanced front-end development skills, including Vue Router, API integration, reusable components, and clean, maintainable code, delivering a fast, interactive, and visually appealing user experience.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/alarix-vale/WaveFlutter",
+      "updated_at": "2026-08-12T10:15:29Z",
+      "pushed_at": "2026-08-12T10:14:30Z",
+      "stars": 0,
+      "author": "alarix-vale"
+    },
+    {
+      "title": "TicketWave_flutter_app",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Juanchoque1206/TicketWave_flutter_app",
+      "updated_at": "2026-08-12T00:53:04Z",
+      "pushed_at": "2026-08-12T00:53:00Z",
+      "stars": 0,
+      "author": "Juanchoque1206"
+    },
+    {
+      "title": "Hatua",
+      "description": "Hatua - A conversational AI agent built to help East African digital freelancers translate freelance careers into a formal remote employment package — a polished CV and an interview-prep document — tailored specifically to the user.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Gitush-prmt/Hatua",
+      "updated_at": "2026-08-10T14:57:20Z",
+      "pushed_at": "2026-08-10T13:48:28Z",
+      "stars": 0,
+      "author": "Gitush-prmt"
+    },
+    {
+      "title": "earthsign-travel-website",
+      "description": "Earthsign Travel: Your premier South African Travel Experts. Discover custom safari, city, and coastal trips with personalized packages that take you from the rugged bushveld to the pristine coastlines. Book your unforgettable Big 5 adventure or luxury villa getaway today.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Glamour95/earthsign-travel-website",
+      "updated_at": "2026-08-10T09:24:39Z",
+      "pushed_at": "2026-08-10T09:23:52Z",
+      "stars": 0,
+      "author": "Glamour95"
+    },
+    {
+      "title": "WaveBeat",
+      "description": "WaveBeat Flutter Music App",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/abdulhadi14022005-sketch/WaveBeat",
+      "updated_at": "2026-08-07T07:35:02Z",
+      "pushed_at": "2026-08-07T06:50:16Z",
+      "stars": 0,
+      "author": "abdulhadi14022005-sketch"
+    },
+    {
+      "title": "wavecall_flutter",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/sujalpandey28/wavecall_flutter",
+      "updated_at": "2026-08-07T05:32:11Z",
+      "pushed_at": "2026-08-07T05:31:31Z",
+      "stars": 0,
+      "author": "sujalpandey28"
+    },
+    {
+      "title": "Kv2-Safari",
+      "description": "KV2 Safari offers unforgettable African safari experiences with expertly crafted tours, wildlife adventures, and cultural encounters. Explore breathtaking landscapes, witness the Big Five, and enjoy personalized travel packages designed for comfort, adventure, and lasting memories.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/keisha-star/Kv2-Safari",
+      "updated_at": "2026-08-06T09:13:45Z",
+      "pushed_at": "2026-08-06T09:11:48Z",
+      "stars": 0,
+      "author": "keisha-star"
+    },
+    {
+      "title": "Magical-Butterflies",
+      "description": "Wave your hands in front of your webcam and glowing golden/white butterflies flutter to life and fly around you. You're composited into an animated twilight fairyland background. Real-time, runs on a normal laptop webcam, no GPU required.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/parvaneh9492/Magical-Butterflies",
+      "updated_at": "2026-08-06T06:20:25Z",
+      "pushed_at": "2026-08-06T06:20:25Z",
+      "stars": 0,
+      "author": "parvaneh9492"
+    },
+    {
+      "title": "flutter_audio_waveforms",
+      "description": "🎵 Drop-in replacement for audio_waveforms — record & play audio waveforms in Flutter, with SPM support and modern Flutter compatibility.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/GuimG/flutter_audio_waveforms",
+      "updated_at": "2026-08-04T08:44:40Z",
+      "pushed_at": "2026-08-04T08:43:44Z",
+      "stars": 0,
+      "author": "GuimG"
+    },
+    {
+      "title": "ctextcore",
+      "description": "An open-source Python package for existing NCHLT core technologies for ten South African languages.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ctextdev/ctextcore",
+      "updated_at": "2026-08-04T07:09:10Z",
+      "pushed_at": "2026-08-04T07:17:08Z",
+      "stars": 0,
+      "author": "ctextdev"
+    },
+    {
+      "title": "waveon",
+      "description": "A distributed network audio synchronization engine built with Flutter. Turns multiple devices into a unified surround-sound speaker using peer-to-peer socket programming and custom NTP-based millisecond sync over Wi-Fi/Hotspot.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/tsumith/waveon",
+      "updated_at": "2026-08-27T19:39:16Z",
+      "pushed_at": "2026-08-01T13:18:55Z",
+      "stars": 0,
+      "author": "tsumith"
+    },
+    {
+      "title": "somalia-dev-pipeline",
+      "description": "A production-grade enterprise pipeline library tailored for the East African tech ecosystem (specifically Somalia). This package delivers high-performance data normalizers, API wrappers, transaction parsers for local telecom mobile money systems (EVC Plus, Zaad, Sahal), and a regional ISO mapping engine.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/yousumohamed/somalia-dev-pipeline",
+      "updated_at": "2026-08-01T12:51:56Z",
+      "pushed_at": "2026-08-01T12:51:02Z",
+      "stars": 0,
+      "author": "yousumohamed"
+    },
+    {
+      "title": "Radio_wave_App",
+      "description": "A modern Flutter radio streaming application integrated with Firebase Auth, Cloud Firestore, and custom background audio controls.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/prajapatianuj2507-bit/Radio_wave_App",
+      "updated_at": "2026-08-01T12:41:47Z",
+      "pushed_at": "2026-08-01T12:39:52Z",
+      "stars": 0,
+      "author": "prajapatianuj2507-bit"
+    },
+    {
+      "title": "WaveChat",
+      "description": "WaveChat is a modern Flutter application that enables secure offline communication using Google Nearby Connections API. With no backend, no internet dependency, and all data stored locally, it delivers a fast, private, and seamless messaging experience through direct device-to-device connectivity.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ayushpanchal-dev/WaveChat",
+      "updated_at": "2026-08-01T09:07:09Z",
+      "pushed_at": "2026-08-01T09:27:25Z",
+      "stars": 0,
+      "author": "ayushpanchal-dev"
+    },
+    {
+      "title": "ChillWave_Flutter",
+      "description": "Ứng dụng phát nhạc trực tuyến đa nền tảng chạy mượt mà trên cả iOS và Android. Toàn bộ tài nguyên âm nhạc và hình ảnh được lưu trữ đám mây thông qua Google Cloud Storage (Google Drive API) giúp tối ưu dung lượng bộ nhớ thiết bị, kết hợp với cấu trúc BLoC pattern để tối ưu hóa hiệu năng tải nhạc.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/QQuanfwork-04/ChillWave_Flutter",
+      "updated_at": "2026-07-31T15:06:14Z",
+      "pushed_at": "2026-07-31T15:03:21Z",
+      "stars": 0,
+      "author": "QQuanfwork-04"
+    },
+    {
+      "title": "waveform_recorder",
+      "description": "A Flutter package for recording audio with real-time waveform visualization",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/csells/waveform_recorder",
+      "updated_at": "2026-07-09T12:27:40Z",
+      "pushed_at": "2026-07-29T16:25:02Z",
+      "stars": 13,
+      "author": "csells"
+    },
+    {
+      "title": "spaceinvaders",
+      "description": "Classic Space Invaders arcade shooter — Ticker-driven Flutter engine with advancing invader waves, dodgeable enemy fire, and local high scores.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Karthick-dev-cart/spaceinvaders",
+      "updated_at": "2026-07-28T12:49:41Z",
+      "pushed_at": "2026-07-28T18:11:15Z",
+      "stars": 0,
+      "author": "Karthick-dev-cart"
+    },
+    {
+      "title": "ugcensus",
+      "description": "R package providing tidy access to Uganda Population & Housing Census data (1991–2024) — 4 census years, 17 sub-regions, demographic analysis, population pyramids, choropleth maps, trend comparisons, and projections. Data sourced from UBOS.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/musanyaks/ugcensus",
+      "updated_at": "2026-09-25T07:08:52Z",
+      "pushed_at": "2026-07-26T18:55:47Z",
+      "stars": 0,
+      "author": "musanyaks"
+    },
+    {
+      "title": "vicyos_music_wave_progress_flutter",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/VicyosMusicPlayerPlugins/vicyos_music_wave_progress_flutter",
+      "updated_at": "2026-07-26T18:07:56Z",
+      "pushed_at": "2026-07-26T18:07:30Z",
+      "stars": 0,
+      "author": "VicyosMusicPlayerPlugins"
+    },
+    {
+      "title": "sacensus",
+      "description": "R package providing tidy access to South Africa Population & Housing Census data (1996–2022) — 4 census years, 9 provinces, demographic analysis, population pyramids, choropleth maps, trend comparisons, and projections. Data sourced from Stats SA.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/musanyaks/sacensus",
+      "updated_at": "2026-09-25T07:10:00Z",
+      "pushed_at": "2026-07-26T17:38:09Z",
+      "stars": 0,
+      "author": "musanyaks"
+    },
+    {
+      "title": "wave-screen",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Pathverse/wave-screen",
+      "updated_at": "2026-07-25T17:01:51Z",
+      "pushed_at": "2026-07-25T00:36:02Z",
+      "stars": 0,
+      "author": "Pathverse"
+    },
+    {
+      "title": "Etude-Filiere-Mali",
+      "description": "Analyse de la filière mil au Mali à partir de l'EHCVM-2 2021/2022. Pipeline R reproductible, package dédié et dashboard Shiny.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SMS-LH/Etude-Filiere-Mali",
+      "updated_at": "2026-07-24T21:46:37Z",
+      "pushed_at": "2026-07-24T21:45:05Z",
+      "stars": 0,
+      "author": "SMS-LH"
+    },
+    {
+      "title": "Chat-wave",
+      "description": "A real time messaging apclone inspired by telegram,built witj flutter + chats , groups, media sharing, and more\"",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/patenteskyle-png/Chat-wave",
+      "updated_at": "2026-07-24T17:29:03Z",
+      "pushed_at": "2026-07-24T17:28:31Z",
+      "stars": 0,
+      "author": "patenteskyle-png"
+    },
+    {
+      "title": "African_Pool_Pros-UI-",
+      "description": "Full UI/UX visual design package for mobile 8-ball pool game built by Unity.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Chungharon/African_Pool_Pros-UI-",
+      "updated_at": "2026-08-25T20:24:50Z",
+      "pushed_at": "2026-07-24T12:29:59Z",
+      "stars": 1,
+      "author": "Chungharon"
+    },
+    {
+      "title": "waveworld-mobile",
+      "description": "Flutter mobile application for WaveWorld Radio",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/yonelamakishi-collab/waveworld-mobile",
+      "updated_at": "2026-07-23T09:06:19Z",
+      "pushed_at": "2026-07-23T08:01:41Z",
+      "stars": 0,
+      "author": "yonelamakishi-collab"
+    },
+    {
+      "title": "siri_wave",
+      "description": "Create beautiful waveforms like in Siri.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/halildurmus/siri_wave",
+      "updated_at": "2026-10-08T04:42:53Z",
+      "pushed_at": "2026-07-21T18:58:57Z",
+      "stars": 89,
+      "author": "halildurmus"
+    },
+    {
+      "title": "sars-tax-records-preparation-system",
+      "description": "A free, offline, evidence-based SARS Tax Records Preparation System for South African taxpayers. Designed to reduce the administrative burden of annual tax preparation through mathematical integrity, evidence management, provenance, and accountant-ready handoff packages.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/HalieusMinistries/sars-tax-records-preparation-system",
+      "updated_at": "2026-07-20T19:31:25Z",
+      "pushed_at": "2026-07-20T19:31:08Z",
+      "stars": 0,
+      "author": "HalieusMinistries"
+    },
+    {
+      "title": "ribbon_banner",
+      "description": "A decorative Flutter widget that displays repeating text along a curved wave path with gradient fill, animated drop shadow, and shimmer effects.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/qalvinahmad/ribbon_banner",
+      "updated_at": "2026-07-20T10:15:23Z",
+      "pushed_at": "2026-07-20T10:14:39Z",
+      "stars": 0,
+      "author": "qalvinahmad"
+    },
+    {
+      "title": "VoiceWave-Flutter",
+      "description": "Flutter 录音波形可视化组件，对标 iPhone 语音备忘录，从 0 到 1",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ZhouPinC/VoiceWave-Flutter",
+      "updated_at": "2026-07-17T18:50:11Z",
+      "pushed_at": "2026-07-17T18:50:07Z",
+      "stars": 0,
+      "author": "ZhouPinC"
+    },
+    {
+      "title": "com.therealsouthafrica-booking-agent",
+      "description": "The Real South Africa Travel and Tourism website for travel to South Africa to include Cape Town and Johannesburg and Durban to include Kruger National Park via travel packages on our website ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/TheRealSouthAfrica/com.therealsouthafrica-booking-agent",
+      "updated_at": "2026-07-15T20:12:08Z",
+      "pushed_at": "2026-07-15T20:12:08Z",
+      "stars": 0,
+      "author": "TheRealSouthAfrica"
+    },
+    {
+      "title": "NECKGOD-traveler-tourism-website-",
+      "description": "“Neckgod Tourism website project showcasing tourism packages and services, focused on promoting travel destinations across East Africa with emphasis on Tanzania.”",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/godsonmkonyi101-cell/NECKGOD-traveler-tourism-website-",
+      "updated_at": "2026-07-10T08:57:18Z",
+      "pushed_at": "2026-07-14T22:27:38Z",
+      "stars": 0,
+      "author": "godsonmkonyi101-cell"
+    },
+    {
+      "title": "c003-lex-website",
+      "description": "LabelEx - South Africa's Leading Adhesive Label Manufacturer | Packaging | Labeling | Shrink Sleeve",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/wrkflowsolutions/c003-lex-website",
+      "updated_at": "2026-07-14T15:23:16Z",
+      "pushed_at": "2026-07-14T15:20:36Z",
+      "stars": 0,
+      "author": "wrkflowsolutions"
+    },
+    {
+      "title": "GlitzEvents",
+      "description": "Glitz Event is a South African platform that simplifies event planning by offering customizable packages for occasions like weddings, birthdays, and graduations. It includes services such as décor, catering, seating, and sound, allowing users to easily browse, book, and manage events.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Zaneradebe6/GlitzEvents",
+      "updated_at": "2026-07-14T13:37:57Z",
+      "pushed_at": "2026-07-14T13:37:10Z",
+      "stars": 0,
+      "author": "Zaneradebe6"
+    },
+    {
+      "title": "enviGS",
+      "description": "Enviromic genomic selection for West African cereals (R package)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/K-nie/enviGS",
+      "updated_at": "2026-07-12T18:30:30Z",
+      "pushed_at": "2026-07-12T18:30:15Z",
+      "stars": 0,
+      "author": "K-nie"
+    },
+    {
+      "title": "novatra",
+      "description": "Novatra is a cross-border remittance platform for emerging markets (starting in Africa), delivering fast, low-cost transfers with a fintech-first UX powered by Stellar settlement in the background. This monorepo contains the Next.js web app, NestJS API, Expo mobile app, and shared/settlement packages.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/NovatraHQ7/novatra",
+      "updated_at": "2026-07-12T16:24:54Z",
+      "pushed_at": "2026-07-12T16:14:21Z",
+      "stars": 0,
+      "author": "NovatraHQ7"
+    },
+    {
+      "title": "flutter_wave",
+      "description": "integration de moyens de paiements flutterwave",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/sylladev1805/flutter_wave",
+      "updated_at": "2026-07-11T08:52:39Z",
+      "pushed_at": "2026-07-11T08:52:34Z",
+      "stars": 0,
+      "author": "sylladev1805"
+    },
+    {
+      "title": "omni-assistant",
+      "description": "Home Nexus: one app for every smart device on every protocol (Zigbee, Z-Wave, Matter, MQTT, HTTP). Flutter ambient dashboard + Go bridge with embedded MQTT broker, 24/7 automations, voice control, and network auto-discovery.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mamoonk/omni-assistant",
+      "updated_at": "2026-07-09T19:32:46Z",
+      "pushed_at": "2026-07-09T19:32:11Z",
+      "stars": 0,
+      "author": "mamoonk"
+    },
+    {
+      "title": "rsa-id-parser",
+      "description": "npm package that parses South African ID numbers",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CBYMachumbe/rsa-id-parser",
+      "updated_at": "2026-07-09T16:41:06Z",
+      "pushed_at": "2026-07-09T16:40:56Z",
+      "stars": 0,
+      "author": "CBYMachumbe"
+    },
+    {
+      "title": "rnaturalearth",
+      "description": "An R package to hold and facilitate interaction with natural earth map data :earth_africa:",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ropensci/rnaturalearth",
+      "updated_at": "2026-09-08T12:47:07Z",
+      "pushed_at": "2026-07-09T13:13:05Z",
+      "stars": 267,
+      "author": "ropensci"
+    },
+    {
+      "title": "Medisys-AI",
+      "description": "Plateforme sécurisée de prise de RDV médicaux + suivi patients + IA de rappels, cas du Sénégal. Stack imposée : mobile Flutter + web, backend Python/FastAPI, forte exigence de sécurité (chiffrement, auth forte, audit, conformité PSSI/ISO 27001), un module IA de rappels intelligents, contexte local (Wave/Orange Money, connexion parfois faible)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/kmakosso/Medisys-AI",
+      "updated_at": "2026-07-07T15:36:05Z",
+      "pushed_at": "2026-07-07T15:33:31Z",
+      "stars": 0,
+      "author": "kmakosso"
+    },
+    {
+      "title": "PaperWave",
+      "description": "A modern Flutter music player featuring a hand-drawn notebook aesthetic, seamless offline playback, online music discovery, and a highly customizable listening experience.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Siddharthv06/PaperWave",
+      "updated_at": "2026-07-08T07:39:39Z",
+      "pushed_at": "2026-07-07T05:51:34Z",
+      "stars": 0,
+      "author": "Siddharthv06"
+    },
+    {
+      "title": "TuneWave-v2.0",
+      "description": "TuneWave is a feature-rich, cross-platform music streaming application built using Flutter. It mimics the functionality of premium music apps like Spotify or JioSaavn, providing a seamless listening experience with advanced features like user authentication, personalized playlists, and smart search.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Mohit-Javle/TuneWave-v2.0",
+      "updated_at": "2026-07-03T09:17:35Z",
+      "pushed_at": "2026-07-03T09:19:00Z",
+      "stars": 2,
+      "author": "Mohit-Javle"
+    },
+    {
+      "title": "earthnet-mobile",
+      "description": "Android app: on-device P-wave detection, S-wave countdown, expected intensity (Flutter)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/EarthNet-EEW/earthnet-mobile",
+      "updated_at": "2026-06-30T01:29:38Z",
+      "pushed_at": "2026-06-30T01:29:34Z",
+      "stars": 0,
+      "author": "EarthNet-EEW"
+    },
+    {
+      "title": "SouthAfricanIDValidator",
+      "description": "A sophisticated PHP package designed to validate South African ID numbers by checking both structural and contextual rules",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/MarjovanLier/SouthAfricanIDValidator",
+      "updated_at": "2026-06-28T07:39:52Z",
+      "pushed_at": "2026-06-28T07:39:47Z",
+      "stars": 1,
+      "author": "MarjovanLier"
+    },
+    {
+      "title": "behabior",
+      "description": "2D pixel defender built with Flutter & Flame Engine. Wave-based combat, Rive animations, skill tree, achievements, boss battles.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/siliconvalleyar-oss/behabior",
+      "updated_at": "2026-06-23T18:16:15Z",
+      "pushed_at": "2026-06-23T18:16:10Z",
+      "stars": 0,
+      "author": "siliconvalleyar-oss"
+    },
+    {
+      "title": "laravel-beem-africa",
+      "description": "A Laravel package to send SMS via Beem Africa using Laravel Notifications.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mg-techlegend/laravel-beem-africa",
+      "updated_at": "2026-07-27T18:22:14Z",
+      "pushed_at": "2026-06-22T22:53:38Z",
+      "stars": 2,
+      "author": "mg-techlegend"
+    },
+    {
+      "title": "waves_effect_flutter",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/rohu069/waves_effect_flutter",
+      "updated_at": "2026-06-22T12:00:36Z",
+      "pushed_at": "2026-06-22T12:18:10Z",
+      "stars": 0,
+      "author": "rohu069"
+    },
+    {
+      "title": "flutter-wave",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/bullwaveteam5/flutter-wave",
+      "updated_at": "2026-06-22T07:23:33Z",
+      "pushed_at": "2026-06-22T07:23:30Z",
+      "stars": 0,
+      "author": "bullwaveteam5"
+    },
+    {
+      "title": "HariWave",
+      "description": "HariWave is a modern Android music and audiobook player built with Flutter. It features smooth local playback, playlists, queue management, offline support, and a minimal mini-player. Designed for performance and a clean, Gen-Z friendly listening experience.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/hariomgupta70427/HariWave",
+      "updated_at": "2026-08-27T11:37:44Z",
+      "pushed_at": "2026-06-20T13:42:15Z",
+      "stars": 8,
+      "author": "hariomgupta70427"
+    },
+    {
+      "title": "laravel-notify-africa",
+      "description": "Laravel Notify Africa is a lightweight Laravel package for sending SMS via the Notify Africa API. It provides a clean, expressive interface for single and bulk messaging, integrates with Laravel Notifications, and simplifies SMS delivery without dealing with raw HTTP requests.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mg-techlegend/laravel-notify-africa",
+      "updated_at": "2026-06-20T13:16:07Z",
+      "pushed_at": "2026-06-20T13:16:05Z",
+      "stars": 1,
+      "author": "mg-techlegend"
+    },
+    {
+      "title": "travelitinerary",
+      "description": "travel website features which will include internary for particular places ,like kerala , thailand ,phillipines,singapore , south africa ,south korea etc , it will have a feature to share itineary by pdf with website logo , a feature which will have comparison with other websites with same itineary packages like veena world and makemytrip,",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/sahilkargutkar/travelitinerary",
+      "updated_at": "2026-06-17T12:26:44Z",
+      "pushed_at": "2026-06-17T12:00:17Z",
+      "stars": 0,
+      "author": "sahilkargutkar"
+    },
+    {
+      "title": "data-era",
+      "description": "R package wrapping the ERA agricultural evidence base",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/gaia-africa-project/data-era",
+      "updated_at": "2026-06-16T18:22:09Z",
+      "pushed_at": "2026-06-16T15:08:05Z",
+      "stars": 0,
+      "author": "gaia-africa-project"
+    },
+    {
+      "title": "africa-rct-e156-portfolio",
+      "description": "Umbrella portfolio linking the four Africa-site RCT E156 topic packages",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mahmood726-cyber/africa-rct-e156-portfolio",
+      "updated_at": "2026-06-13T17:06:57Z",
+      "pushed_at": "2026-06-13T17:06:53Z",
+      "stars": 0,
+      "author": "mahmood726-cyber"
+    },
+    {
+      "title": "flutter_wave_motion",
+      "description": "A Flutter application that simulates ECG style wave motion using custom painting . ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/vishalakshiyegappan-tech/flutter_wave_motion",
+      "updated_at": "2026-06-11T18:17:21Z",
+      "pushed_at": "2026-06-11T18:16:58Z",
+      "stars": 0,
+      "author": "vishalakshiyegappan-tech"
+    },
+    {
+      "title": "BidWave",
+      "description": "A real-time live auction marketplace built with Flutter & Firebase.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/FahadMehmood056/BidWave",
+      "updated_at": "2026-07-25T13:32:02Z",
+      "pushed_at": "2026-06-10T13:38:08Z",
+      "stars": 0,
+      "author": "FahadMehmood056"
+    },
+    {
+      "title": "Wave",
+      "description": "flutter transportation app with ride booking and real-time tracking features",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Tchindablerio/Wave",
+      "updated_at": "2026-06-08T20:01:58Z",
+      "pushed_at": "2026-06-08T20:01:46Z",
+      "stars": 0,
+      "author": "Tchindablerio"
+    },
+    {
+      "title": "SplitWave",
+      "description": "SplitWave is a Flutter vacation expense tracker that helps groups manage shared spending, split bills, and keep member names visible so everyone knows who paid and who owes.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AhmedH001/SplitWave",
+      "updated_at": "2026-06-08T11:46:43Z",
+      "pushed_at": "2026-06-08T11:46:39Z",
+      "stars": 0,
+      "author": "AhmedH001"
+    },
+    {
+      "title": "UniMatch-University-Application-System",
+      "description": "🎓UniMatch is a centralized decision-support and application coordination platform for South African high schools. It connects learners, school staff, parents/guardians, university admissions offices, and Department of Education stakeholders to manage programme information, eligibility guidance, secure fee payments, application packages",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Mabotse-Mosima/UniMatch-University-Application-System",
+      "updated_at": "2026-06-15T17:10:22Z",
+      "pushed_at": "2026-06-07T22:40:48Z",
+      "stars": 15,
+      "author": "Mabotse-Mosima"
+    },
+    {
+      "title": "laravel-beem-africa",
+      "description": "A comprehensive Laravel package for integrating with Beem's APIs. This package provides a unified interface for SMS, Airtime, OTP, Payment Checkout, Disbursements, Collections, USSD, Contacts, Moja (multi-channel messaging), and International SMS services.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/gowelle/laravel-beem-africa",
+      "updated_at": "2026-09-29T18:45:44Z",
+      "pushed_at": "2026-06-07T20:27:15Z",
+      "stars": 4,
+      "author": "gowelle"
+    },
+    {
+      "title": "maproutine",
+      "description": "An R package for standardizing, harmonizing, validating, and      preparing routine malaria surveillance data from DHIS2 systems for      geospatial risk modelling and epidemiological analysis across      sub-Saharan Africa.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Kokoda95/maproutine",
+      "updated_at": "2026-06-15T11:22:56Z",
+      "pushed_at": "2026-06-05T18:19:37Z",
+      "stars": 0,
+      "author": "Kokoda95"
+    },
+    {
+      "title": "ChatWave",
+      "description": "A secure messaging app built with flutter node.js",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/koficaleb362-create/ChatWave",
+      "updated_at": "2026-06-05T19:38:30Z",
+      "pushed_at": "2026-06-05T14:28:45Z",
+      "stars": 1,
+      "author": "koficaleb362-create"
+    },
+    {
+      "title": "voice_waveform_demo",
+      "description": "Flutter Android voice waveform demo",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/2p1r6ua/voice_waveform_demo",
+      "updated_at": "2026-05-30T17:12:32Z",
+      "pushed_at": "2026-05-30T17:12:29Z",
+      "stars": 1,
+      "author": "2p1r6ua"
+    },
+    {
+      "title": "conflict-digital-access",
+      "description": "Replication package for MSc thesis: how armed conflict shapes women's information and digital access across Nigeria, DRC, Ethiopia, Jordan, and Tajikistan using 18 DHS survey waves (2007–2024).",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Airahb/conflict-digital-access",
+      "updated_at": "2026-05-30T03:13:43Z",
+      "pushed_at": "2026-05-30T03:13:39Z",
+      "stars": 0,
+      "author": "Airahb"
+    },
+    {
+      "title": "waveform-flutter",
+      "description": "一个基于 Flutter 的音频波形可视化组件，支持实时麦克风录音并将 dBFS 音量数据映射为 12-58dp 的柱状条动画，从右向左滚动。Fork 自 agenthesh/waveform，感谢原作者 Hussain Surti。",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Chen1300245731/waveform-flutter",
+      "updated_at": "2026-05-29T08:37:10Z",
+      "pushed_at": "2026-05-29T08:37:04Z",
+      "stars": 0,
+      "author": "Chen1300245731"
+    },
+    {
+      "title": "WaveDay",
+      "description": "Production Flutter app for surfers — real-time wave, wind & weather data. Built with Clean Architecture, BLoC & SOLID principles. Android delivery for existing iOS client.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ahsanshah4105/WaveDay",
+      "updated_at": "2026-05-28T16:53:06Z",
+      "pushed_at": "2026-05-28T16:50:04Z",
+      "stars": 0,
+      "author": "ahsanshah4105"
+    },
+    {
+      "title": "africabridge_mobile.bis",
+      "description": "complet package of the app. vers.2.0",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/sokuro-land/africabridge_mobile.bis",
+      "updated_at": "2026-05-25T00:00:01Z",
+      "pushed_at": "2026-05-24T23:59:57Z",
+      "stars": 0,
+      "author": "sokuro-land"
+    },
+    {
+      "title": "Stonebridge---website",
+      "description": "StoneBridge is a trusted South African supply and logistics company dedicated to delivering reliable service, quality products, and efficient nationwide solutions. We specialize in packaging, bulk supply, and dependable delivery tailored to businesses of all sizes",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/workwolf52-maker/Stonebridge---website",
+      "updated_at": "2026-05-24T19:46:41Z",
+      "pushed_at": "2026-05-24T19:46:41Z",
+      "stars": 0,
+      "author": "workwolf52-maker"
+    },
+    {
+      "title": "LaChick-Premium-Dating-Platform",
+      "description": "LaChick is a LinkedIn-meets-Tinder dating platform built for the African market. Men create rich profiles; women browse and initiate contact. Monetisation is driven by tiered M-Pesa subscription packages that unlock visibility, chat, photo sharing, and posting privileges.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/steve-ongera/LaChick-Premium-Dating-Platform",
+      "updated_at": "2026-05-23T08:47:02Z",
+      "pushed_at": "2026-05-23T08:46:58Z",
+      "stars": 0,
+      "author": "steve-ongera"
+    },
+    {
+      "title": "Emoji-rebellion-Game",
+      "description": "🎮 Emoji Rebellion is a cyberpunk arcade survival game built with Flutter & Flame. Control a glowing DEL core, destroy chaotic rogue emojis, trigger powerful slam attacks, collect insane powerups, survive intense waves, and chain massive combos in a fast-paced neon battlefield.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/satyamsingh39/Emoji-rebellion-Game",
+      "updated_at": "2026-10-01T06:13:55Z",
+      "pushed_at": "2026-05-20T13:55:10Z",
+      "stars": 1,
+      "author": "satyamsingh39"
+    },
+    {
+      "title": "Stock-Wave",
+      "description": "Stock-Wave Applicarion ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AbdulrhmanElshaer31/Stock-Wave",
+      "updated_at": "2026-05-22T12:30:50Z",
+      "pushed_at": "2026-05-16T18:22:48Z",
+      "stars": 4,
+      "author": "AbdulrhmanElshaer31"
+    },
+    {
+      "title": "process_bar_with_sine",
+      "description": "An enhanced Flutter progress bar library following Material Design 3, featuring dynamic sine-wave animations. It offers deep customization for thumb shapes and track styles, delivering a fluid and personalized interactive experience. ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Tseshongfeeshur/process_bar_with_sine",
+      "updated_at": "2026-10-28T04:59:14Z",
+      "pushed_at": "2026-05-14T22:17:25Z",
+      "stars": 0,
+      "author": "Tseshongfeeshur"
+    },
+    {
+      "title": "flutter-wave-generator",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ayoub99-10/flutter-wave-generator",
+      "updated_at": "2026-05-14T12:01:51Z",
+      "pushed_at": "2026-05-14T12:01:47Z",
+      "stars": 0,
+      "author": "ayoub99-10"
+    },
+    {
+      "title": "africa-climate-finance-translation-gap",
+      "description": "Reproducibility package for the climate finance and technological readiness paper",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/BacemDataScience/africa-climate-finance-translation-gap",
+      "updated_at": "2026-05-12T03:18:01Z",
+      "pushed_at": "2026-05-14T07:59:36Z",
+      "stars": 0,
+      "author": "BacemDataScience"
+    },
+    {
+      "title": "new-wave",
+      "description": "A Flutter basic app",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/dhanasra/new-wave",
+      "updated_at": "2026-05-11T13:38:23Z",
+      "pushed_at": "2026-05-11T13:33:03Z",
+      "stars": 0,
+      "author": "dhanasra"
+    },
+    {
+      "title": "Wave-Meeting",
+      "description": "flutter application to make meeting with another person ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AbdelrahmanAli10138/Wave-Meeting",
+      "updated_at": "2026-05-10T21:39:29Z",
+      "pushed_at": "2026-05-10T21:39:25Z",
+      "stars": 0,
+      "author": "AbdelrahmanAli10138"
+    },
+    {
+      "title": "flutterwave-php",
+      "description": "Modern Laravel package for Flutterwave v4 API integration",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/gowelle/flutterwave-php",
+      "updated_at": "2026-07-18T03:12:51Z",
+      "pushed_at": "2026-05-09T11:02:54Z",
+      "stars": 1,
+      "author": "gowelle"
+    },
+    {
+      "title": "bigbang-dev",
+      "description": "A comprehensive mobile ecosystem (Android Kiosk & Flutter App) for corporate meal management, featuring real-time Mobile Money integration (Wave, Orange, MTN, Moov)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/biiiigbang20/bigbang-dev",
+      "updated_at": "2026-05-07T10:37:26Z",
+      "pushed_at": "2026-05-07T10:37:22Z",
+      "stars": 0,
+      "author": "biiiigbang20"
+    },
+    {
+      "title": "gisu-safaris",
+      "description": "Gisu Safaris offers unforgettable adventures across Uganda, Tanzania, Rwanda, and Kenya. Discover breathtaking wildlife, culture, and landscapes with expertly crafted safari packages. Book your dream East African journey today and experience nature at its finest.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Francishager/gisu-safaris",
+      "updated_at": "2026-05-05T14:15:37Z",
+      "pushed_at": "2026-05-05T14:13:06Z",
+      "stars": 0,
+      "author": "Francishager"
+    },
+    {
+      "title": "rsa_id_number",
+      "description": "A Dart package for validating and generating South African ID numbers.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/makhosi6/rsa_id_number",
+      "updated_at": "2026-04-30T20:54:17Z",
+      "pushed_at": "2026-04-30T20:54:11Z",
+      "stars": 5,
+      "author": "makhosi6"
+    },
+    {
+      "title": "ShipSync-Africa",
+      "description": "A complete logistics management system for tracking packages across countries with partial payments, receipts, and admin dashboards.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Jo-Dev28/ShipSync-Africa",
+      "updated_at": "2026-04-28T13:46:47Z",
+      "pushed_at": "2026-04-28T13:42:37Z",
+      "stars": 0,
+      "author": "Jo-Dev28"
+    },
+    {
+      "title": "-SolarStore-AI-Full-Project-Blueprint",
+      "description": "SolarStore AI is an end-to-end machine learning system that forecasts solar energy generation for Nigerian cities using NASA satellite data and predicts lithium-ion battery degradation using deep learning — packaged into an interactive Streamlit dashboard to support Africa's renewable energy transition",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/SobowaleAhmed/-SolarStore-AI-Full-Project-Blueprint",
+      "updated_at": "2026-05-09T15:36:35Z",
+      "pushed_at": "2026-04-26T19:25:32Z",
+      "stars": 1,
+      "author": "SobowaleAhmed"
+    },
+    {
+      "title": "laravel-billing-package",
+      "description": "A Laravel billing package for payments and subscriptions with FedaPay integration. Supports Mobile Money (MTN, Moov, Togocel), one-time payments, recurring subscriptions, and marketplace features with commissions and payouts for West African markets.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Ratoufa/laravel-billing-package",
+      "updated_at": "2026-03-31T11:41:12Z",
+      "pushed_at": "2026-04-25T06:42:19Z",
+      "stars": 0,
+      "author": "Ratoufa"
+    },
+    {
+      "title": "tonytours",
+      "description": "We offer unforgettable journeys including gorilla trekking in Bwindi Impenetrable National Park, wildlife safaris in Murchison Falls, cultural tours, and customized adventure packages. We are currently seeking international partners in the United States who would like to offer Uganda as part of their African travel portfolio. Just contact ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/kwikirizatony12-boop/tonytours",
+      "updated_at": "2026-04-21T06:13:29Z",
+      "pushed_at": "2026-04-21T06:06:12Z",
+      "stars": 1,
+      "author": "kwikirizatony12-boop"
+    },
+    {
+      "title": "django-mobile-money",
+      "description": "Django reusable package for African mobile money payments (Wave, Orange Money, MTN MoMo, Moov Money)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/oura02/django-mobile-money",
+      "updated_at": "2026-04-20T21:37:37Z",
+      "pushed_at": "2026-04-20T21:41:32Z",
+      "stars": 0,
+      "author": "oura02"
+    },
+    {
+      "title": "ABSFASTAVIATION.PK",
+      "description": "OUR SERVICES & DROPBOX FACILITY  🌍Sticker Visa Service 🔮E Visa Services 🌐Worldwide Visa Consultancy & file Preparations 👉 (Europe Schengen🇪🇺 Turkey🇹🇷 USA🇺🇸 Canada🇨🇦 Australia🇦🇺 South Africa🇿🇦 Japan🇯🇵 Brazil 🇧🇷 & more countries  🛩️Travel Heath Insurance 🏨Hotel Booking 🛳️Tours Packages  ✈️Air Ticket International & Domestic",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/meharabubakr329-alt/ABSFASTAVIATION.PK",
+      "updated_at": "2026-04-01T11:49:26Z",
+      "pushed_at": "2026-04-01T11:49:26Z",
+      "stars": 0,
+      "author": "meharabubakr329-alt"
+    },
+    {
+      "title": "Nightingale-plot-recreation",
+      "description": "A mini project in She Code Africa academy program. Recreated using Lets-plot package.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mideolatunde/Nightingale-plot-recreation",
+      "updated_at": "2026-03-31T19:50:44Z",
+      "pushed_at": "2026-03-31T19:50:41Z",
+      "stars": 0,
+      "author": "mideolatunde"
+    },
+    {
+      "title": "Tour_travel_website-cliq-adventures-",
+      "description": "Cliq Adventures is a travel website designed to showcase and manage curated trips across Africa and beyond. It highlights tailored travel packages for individuals, families, and groups, with a clean, responsive UI. Built for easy booking, engagement, and scalable expansion into a full travel platform.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Mainaavictor/Tour_travel_website-cliq-adventures-",
+      "updated_at": "2026-03-24T09:13:42Z",
+      "pushed_at": "2026-03-24T09:13:38Z",
+      "stars": 0,
+      "author": "Mainaavictor"
+    },
+    {
+      "title": "afex-dex",
+      "description": "AFEX All-54 Sovereign-State Library — Africa Export Index Data Exchange. Source code and structured upload packages for 54 African country export-index funds.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Tarawendesida/afex-dex",
+      "updated_at": "2026-03-23T09:34:24Z",
+      "pushed_at": "2026-03-23T09:34:21Z",
+      "stars": 0,
+      "author": "Tarawendesida"
+    },
+    {
+      "title": "far-north-plastics-website",
+      "description": "High-converting industrial website for Far North Plastics – specializing in plastic packaging manufacturing and custom printing solutions in South Africa.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/IntegratedSynergy/far-north-plastics-website",
+      "updated_at": "2026-03-23T08:25:12Z",
+      "pushed_at": "2026-03-23T08:25:09Z",
+      "stars": 0,
+      "author": "IntegratedSynergy"
+    },
+    {
+      "title": "Filthy_Takalotjob",
+      "description": "🚚 Professional TAKEALOT delivery system for FiveM - Complete package delivery roleplay with 5 unique routes, South African dialogue, and full QBCore/QBox compatibility",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/FilthyLytiez/Filthy_Takalotjob",
+      "updated_at": "2026-03-21T08:32:16Z",
+      "pushed_at": "2026-03-21T08:32:12Z",
+      "stars": 1,
+      "author": "FilthyLytiez"
+    }
+  ]
 }
