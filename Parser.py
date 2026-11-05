@@ -67,7 +67,8 @@ def run_collector():
                     "updated_at": repo.get("updated_at"),
                     "pushed_at": repo.get("pushed_at"),
                     "stars": repo.get("stargazers_count"),
-                    "author": repo.get("owner", {}).get("login")
+                    "author": repo.get("owner", {}).get("login"),
+                    "q?": query
                 }
 
         except requests.exceptions.HTTPError as e:
