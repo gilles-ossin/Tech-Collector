@@ -296,9 +296,9 @@ def run_collector():
         "total_found": len(items),
         "libraries": items,
     }
-    Racine du repo = dossier parent de Collectors/
+    #Racine du repo = dossier parent de Collectors/
     BASE_DIR = Path(__file__).resolve().parent.parent
-    SDKS_PATH = BASE_DIR / "data" / "SDKs.json"
+    SDKS_PATH = BASE_DIR / "datas" / "SDKs.json"
     
     with open(SDKS_PATH, "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=2)
