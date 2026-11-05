@@ -1,0 +1,38 @@
+name: Robot de Collecte SDK
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # S'exécute toutes les 4 heures
+  workflow_dispatch: # Permet de le lancer manuellement quand tu veux
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    
+    # ⚠️ Important : donne les droits d'écriture au robot sur le dépôt
+    permissions:
+      contents: write
+
+    steps:
+      - name: Récupérer le code du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Installer les dépendances (si besoin)
+        run: pip install requests
+
+      - name: Lancer le script de collecte
+        run: python Collectors/Parser-sdk.py
+
+      - name: Mettre à jour automatiquement data.json sur GitHub
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: mise à jour automatique de data.json" && git push)
+          git pull --rebase origin main
+          git push origin main
