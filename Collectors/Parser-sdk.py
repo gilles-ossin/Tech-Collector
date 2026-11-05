@@ -5,6 +5,7 @@ import re
 import time
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urljoin
+from Path import pathlib
 
 import requests
 
@@ -295,8 +296,11 @@ def run_collector():
         "total_found": len(items),
         "libraries": items,
     }
-
-    with open("SDKs.json", "w", encoding="utf-8") as file:
+    Racine du repo = dossier parent de Collectors/
+    BASE_DIR = Path(__file__).resolve().parent.parent
+    SDKS_PATH = BASE_DIR / "data" / "SDKs.json"
+    
+    with open(SDKS_PATH, "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=2)
 
     print("\n" + "=" * 40)
