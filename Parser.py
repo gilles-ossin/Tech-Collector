@@ -14,9 +14,9 @@ def run_collector():
 
     # Plusieurs recherches indépendantes
     queries = [
-        f"wave flutter",
+        f"location:ivory-coast",
         f"africa package pushed:>={one_year_ago}",
-        f"africa in:readme sdk pushed:>={one_year_ago}",
+        f"africa african open-source-africa in:readme sdk pushed:>={one_year_ago}",
         f"africa in:readme package pushed:>={one_year_ago}",
     ]
 
