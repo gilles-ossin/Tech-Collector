@@ -26,7 +26,7 @@ jobs:
         run: pip install requests
 
       - name: Lancer le script de collecte
-        run: python /Collectors/Parser-sdk.py
+        run: python Collectors/Parser-sdk.py
 
       - name: Mettre à jour automatiquement SDKs.json sur GitHub
         run: |
