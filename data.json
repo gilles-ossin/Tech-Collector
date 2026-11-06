@@ -1,6 +1,6 @@
 {
   "source": "github-actions-bot",
-  "last_update": "2026-11-06T11:39:51.983442+00:00",
+  "last_update": "2026-11-06T18:36:44.397053+00:00",
   "queries_used": [
     [
       "location:ivory-coast",
@@ -14,50 +14,32 @@
   "total_found": 100,
   "items": [
     {
-      "title": "vibe",
-      "description": "Docker-SBX wrapper with kit setup for safer agentic coding",
+      "title": "maniva",
+      "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/fluffynuts/vibe",
-      "updated_at": "2026-11-06T11:10:13Z",
-      "pushed_at": "2026-11-06T11:39:48Z",
-      "stars": 1,
-      "author": "fluffynuts",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "interledger.org-v5",
-      "description": "interledger.org built on astro with strapi for cms editing",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/interledger/interledger.org-v5",
-      "updated_at": "2026-11-06T11:07:30Z",
-      "pushed_at": "2026-11-06T11:39:37Z",
-      "stars": 1,
-      "author": "interledger",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "histeclipse",
-      "description": "Interactive 3D explorer of historical and future solar & lunar eclipses (static site)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/serroba/histeclipse",
-      "updated_at": "2026-11-06T11:39:07Z",
-      "pushed_at": "2026-11-06T11:39:28Z",
+      "github_url": "https://github.com/AgrDataSci/maniva",
+      "updated_at": "2026-11-06T18:02:53Z",
+      "pushed_at": "2026-11-06T18:36:38Z",
       "stars": 0,
-      "author": "serroba",
+      "author": "AgrDataSci",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "osint_stuff_tool_collection",
+      "description": "A collection of several hundred online tools for OSINT",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/cipher387/osint_stuff_tool_collection",
+      "updated_at": "2026-11-06T18:36:16Z",
+      "pushed_at": "2026-11-06T18:36:10Z",
+      "stars": 9074,
+      "author": "cipher387",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -72,8 +54,8 @@
       "description": "🌱🚜 A full-stack web application revolutionizing agricultural support by providing 🧠 intelligent crop diagnostics, 🛒 seamless marketplace integration, and 📚 a comprehensive farming knowledge hub. Built with ⚡ Django REST Framework backend and 🌐 React frontend.",
       "type": "SDK / Package",
       "github_url": "https://github.com/mwakidenis/DigiFarm",
-      "updated_at": "2026-11-06T11:39:29Z",
-      "pushed_at": "2026-11-06T11:39:24Z",
+      "updated_at": "2026-11-06T18:36:13Z",
+      "pushed_at": "2026-11-06T18:36:08Z",
       "stars": 16,
       "author": "mwakidenis",
       "q?": [
@@ -90,8 +72,8 @@
       "description": "Connect. Pay. Browse — Seamlessly.  This is a comprehensive WiFi billing system designed specifically for Kenya, featuring M-Pesa integration, MikroTik router control, and a modern web-based admin dashboard.",
       "type": "SDK / Package",
       "github_url": "https://github.com/mwakidenis/miktrotik-hotspot-billing",
-      "updated_at": "2026-11-06T11:39:24Z",
-      "pushed_at": "2026-11-06T11:39:20Z",
+      "updated_at": "2026-11-06T18:36:03Z",
+      "pushed_at": "2026-11-06T18:35:58Z",
       "stars": 45,
       "author": "mwakidenis",
       "q?": [
@@ -104,14 +86,14 @@
       ]
     },
     {
-      "title": "dr.mukhtar",
+      "title": "erp",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/sayedelazameydesign-crypto/dr.mukhtar",
-      "updated_at": "2026-11-06T11:18:34Z",
-      "pushed_at": "2026-11-06T11:39:12Z",
+      "github_url": "https://github.com/hayal05/erp",
+      "updated_at": "2026-11-06T18:35:51Z",
+      "pushed_at": "2026-11-06T18:35:45Z",
       "stars": 0,
-      "author": "sayedelazameydesign-crypto",
+      "author": "hayal05",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -122,14 +104,86 @@
       ]
     },
     {
-      "title": "Jobly",
+      "title": "Bluff-city-mayor",
+      "description": "memphis tn city manager",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Erndae/Bluff-city-mayor",
+      "updated_at": "2026-11-06T18:35:38Z",
+      "pushed_at": "2026-11-06T18:35:33Z",
+      "stars": 0,
+      "author": "Erndae",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "kora",
+      "description": "Offline-first application framework. Independent devices, independent writes, eventual harmony.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ehoneahobed/kora",
+      "updated_at": "2026-11-06T18:35:32Z",
+      "pushed_at": "2026-11-06T18:35:26Z",
+      "stars": 0,
+      "author": "ehoneahobed",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "ohmychadwm",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/kenzimayaka-glitch/Jobly",
-      "updated_at": "2026-11-06T11:10:33Z",
-      "pushed_at": "2026-11-06T11:38:51Z",
+      "github_url": "https://github.com/kirodubes/ohmychadwm",
+      "updated_at": "2026-11-06T18:35:28Z",
+      "pushed_at": "2026-11-06T18:35:24Z",
+      "stars": 11,
+      "author": "kirodubes",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "OpenFrontIO",
+      "description": "Online browser-based RTS game",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/openfrontio/OpenFrontIO",
+      "updated_at": "2026-11-06T18:34:00Z",
+      "pushed_at": "2026-11-06T18:35:21Z",
+      "stars": 2878,
+      "author": "openfrontio",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "aryv-platform",
+      "description": "ARYV ride-sharing platform with courier services",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/MrJones267/aryv-platform",
+      "updated_at": "2026-11-06T18:18:29Z",
+      "pushed_at": "2026-11-06T18:35:20Z",
       "stars": 0,
-      "author": "kenzimayaka-glitch",
+      "author": "MrJones267",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -140,32 +194,14 @@
       ]
     },
     {
-      "title": "thatobabusi",
-      "description": "About Me",
+      "title": "GTNW",
+      "description": "Global Thermonuclear War — nuclear strategy simulation game for macOS inspired by WarGames (1983). AI-powered advisors and realistic scenario modeling. Built with Swift and SwiftUI.",
       "type": "SDK / Package",
-      "github_url": "https://github.com/thatobabusi/thatobabusi",
-      "updated_at": "2026-11-06T11:38:49Z",
-      "pushed_at": "2026-11-06T11:38:45Z",
-      "stars": 1,
-      "author": "thatobabusi",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "noshen-business",
-      "description": "NosHen business seller profiles (dealers and shops)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/thisisbigmike/noshen-business",
-      "updated_at": "2026-11-06T11:38:48Z",
-      "pushed_at": "2026-11-06T11:38:44Z",
+      "github_url": "https://github.com/kochj23/GTNW",
+      "updated_at": "2026-11-06T18:33:22Z",
+      "pushed_at": "2026-11-06T18:35:19Z",
       "stars": 0,
-      "author": "thisisbigmike",
+      "author": "kochj23",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -176,194 +212,14 @@
       ]
     },
     {
-      "title": "South-Africa-2010-World-Cup",
-      "description": "South Africa 2010, a sports application for Windows, enhances your IT experience with access to the latest trends and opportunities in the booming South African market, all features unlocked for free.",
+      "title": "APEX",
+      "description": "Production-grade terminal AI coding agent with 85+ models support, multi-agent system, and rich terminal UI. Built in Gabon 🇬🇦 for the world.",
       "type": "SDK / Package",
-      "github_url": "https://github.com/blister-57/South-Africa-2010-World-Cup",
-      "updated_at": "2026-11-06T11:38:22Z",
-      "pushed_at": "2026-11-06T11:38:19Z",
-      "stars": 0,
-      "author": "blister-57",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "maniva",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/AgrDataSci/maniva",
-      "updated_at": "2026-11-06T11:38:09Z",
-      "pushed_at": "2026-11-06T11:38:04Z",
-      "stars": 0,
-      "author": "AgrDataSci",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "J-Search",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/tenonwork/J-Search",
-      "updated_at": "2026-11-06T11:37:57Z",
-      "pushed_at": "2026-11-06T11:37:52Z",
-      "stars": 0,
-      "author": "tenonwork",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "prog7314-g3-2026-formative-2-part-2-kallanjones",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/kallanjones/prog7314-g3-2026-formative-2-part-2-kallanjones",
-      "updated_at": "2026-11-06T11:37:50Z",
-      "pushed_at": "2026-11-06T11:37:46Z",
-      "stars": 0,
-      "author": "kallanjones",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "tsamaya-web",
-      "description": "Source of tsamayaapp.co.za, the website of Tsamaya: a free South African navigation app that routes drivers around crime hotspots by time of day, with SOS, live trip sharing and Apple CarPlay.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/SafeNavJHB/tsamaya-web",
-      "updated_at": "2026-11-06T11:37:28Z",
-      "pushed_at": "2026-11-06T11:37:24Z",
-      "stars": 0,
-      "author": "SafeNavJHB",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "ALUXPLAZA",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/sybertoooth7-lgtm/ALUXPLAZA",
-      "updated_at": "2026-11-06T11:37:25Z",
-      "pushed_at": "2026-11-06T11:37:21Z",
-      "stars": 0,
-      "author": "sybertoooth7-lgtm",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "electricity-demand-forecasting",
-      "description": "Leakage-safe electricity demand forecasting with XGBoost, FastAPI, React, explainability, and reproducible evaluation.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/deleted04user/electricity-demand-forecasting",
-      "updated_at": "2026-11-06T11:34:18Z",
-      "pushed_at": "2026-11-06T11:37:17Z",
-      "stars": 2,
-      "author": "deleted04user",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "TechLearn-Kenya",
-      "description": "TechLearn is a revolutionary 🔥 learning management system specifically designed to empower African youth 👨‍💻👩‍💻 with cutting-edge technology skills.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/mwakidenis/TechLearn-Kenya",
-      "updated_at": "2026-11-06T11:37:07Z",
-      "pushed_at": "2026-11-06T11:37:03Z",
-      "stars": 16,
-      "author": "mwakidenis",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "macro-dashboard",
-      "description": "This is a macro dashboard project used to track one country's macro landscape",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/DJiangwei/macro-dashboard",
-      "updated_at": "2026-11-06T11:36:56Z",
-      "pushed_at": "2026-11-06T11:36:52Z",
-      "stars": 0,
-      "author": "DJiangwei",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "aoe2mc",
-      "description": "This project aims to convert AOE2 games to Minecraft. Starting with map conversion, but other plans are fully accurate replays, bots playing AOE2 inside of MC, and players being able to play AOE2 in MC",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Larspolo/aoe2mc",
-      "updated_at": "2026-11-06T11:35:43Z",
-      "pushed_at": "2026-11-06T11:36:32Z",
-      "stars": 1,
-      "author": "Larspolo",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "GoldTickerLive",
-      "description": "Bilingual gold price tracker with live XAU/USD, karat pricing, local currency conversion, charts, calculator, and export tools.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/vctb12/GoldTickerLive",
-      "updated_at": "2026-11-06T11:36:18Z",
-      "pushed_at": "2026-11-06T11:36:14Z",
+      "github_url": "https://github.com/Ggboykxz/APEX",
+      "updated_at": "2026-11-06T18:35:19Z",
+      "pushed_at": "2026-11-06T18:35:18Z",
       "stars": 5,
-      "author": "vctb12",
+      "author": "Ggboykxz",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -374,446 +230,14 @@
       ]
     },
     {
-      "title": "virtual-instrument-maremba",
+      "title": "tailed-internships-new-grad",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/protocodus/virtual-instrument-maremba",
-      "updated_at": "2026-11-06T11:36:13Z",
-      "pushed_at": "2026-11-06T11:36:10Z",
-      "stars": 0,
-      "author": "protocodus",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "minifier-benchmarks",
-      "description": "Regularly updated benchmarks for web page minification",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/j9t/minifier-benchmarks",
-      "updated_at": "2026-11-06T11:36:13Z",
-      "pushed_at": "2026-11-06T11:36:09Z",
-      "stars": 5,
-      "author": "j9t",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "AssistFlow-AI-Pro",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Ermi-Tekk21/AssistFlow-AI-Pro",
-      "updated_at": "2026-11-06T11:36:09Z",
-      "pushed_at": "2026-11-06T11:36:03Z",
-      "stars": 0,
-      "author": "Ermi-Tekk21",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "worldsitrep-cache",
-      "description": "Public normalized market + hazard snapshots for World SITREP (hourly GitHub Actions, static JSON)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/StefanIsMe/worldsitrep-cache",
-      "updated_at": "2026-11-06T11:36:08Z",
-      "pushed_at": "2026-11-06T11:36:02Z",
-      "stars": 0,
-      "author": "StefanIsMe",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "auxesis-privacy-kernel",
-      "description": "A Rust privacy kernel that decides what text may leave your machine, and hides personal and secret data before it does.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Diclean/auxesis-privacy-kernel",
-      "updated_at": "2026-11-06T11:35:57Z",
-      "pushed_at": "2026-11-06T11:35:56Z",
-      "stars": 0,
-      "author": "Diclean",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "yebo_invoices",
-      "description": "Yebo Invoices is your always-on personal AI co-worker for clear quotes and faster invoicing helping South African trade professionals auto-parse BOQs, track compliance documents, and win tenders in seconds.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/steve2700/yebo_invoices",
-      "updated_at": "2026-11-06T11:35:34Z",
-      "pushed_at": "2026-11-06T11:35:29Z",
-      "stars": 0,
-      "author": "steve2700",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "HustleHub",
-      "description": "HustleHub+ secure freelance marketplace",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/SuthuGongo/HustleHub",
-      "updated_at": "2026-11-06T11:35:01Z",
-      "pushed_at": "2026-11-06T11:34:57Z",
-      "stars": 0,
-      "author": "SuthuGongo",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "ibeji",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Joseph-Brendan/ibeji",
-      "updated_at": "2026-11-06T11:35:01Z",
-      "pushed_at": "2026-11-06T11:34:57Z",
-      "stars": 0,
-      "author": "Joseph-Brendan",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "pathfinder-africa",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/SamantaLegue/pathfinder-africa",
-      "updated_at": "2026-11-06T11:34:57Z",
-      "pushed_at": "2026-11-06T11:34:54Z",
-      "stars": 0,
-      "author": "SamantaLegue",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "jpy-rates",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/privatenumber/jpy-rates",
-      "updated_at": "2026-11-06T11:34:49Z",
-      "pushed_at": "2026-11-06T11:34:44Z",
-      "stars": 0,
-      "author": "privatenumber",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Onward",
-      "description": "A solo GA travel career for MSFS 2024",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Jikul/Onward",
-      "updated_at": "2026-11-06T11:34:13Z",
-      "pushed_at": "2026-11-06T11:34:08Z",
-      "stars": 0,
-      "author": "Jikul",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Sua",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/mulweliinnocent47-lab/Sua",
-      "updated_at": "2026-11-06T11:37:42Z",
-      "pushed_at": "2026-11-06T11:33:47Z",
-      "stars": 0,
-      "author": "mulweliinnocent47-lab",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "biostatistics-health-research-resources",
-      "description": "A curated collection of free resources for biostatistics, epidemiology, statistical programming and health research.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/jessybiru/biostatistics-health-research-resources",
-      "updated_at": "2026-11-06T11:33:14Z",
-      "pushed_at": "2026-11-06T11:33:10Z",
-      "stars": 0,
-      "author": "jessybiru",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "tunemavens",
-      "description": "Remote repo for the TuneMavens platform",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/tunnel-vision-web/tunemavens",
-      "updated_at": "2026-11-06T11:33:12Z",
-      "pushed_at": "2026-11-06T11:33:07Z",
-      "stars": 0,
-      "author": "tunnel-vision-web",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "GBV-SafeSpace",
-      "description": "🌿✨HERA SafeSpace is a digital platform using AI to support women and girls in Africa, especially Kenya, by providing a safe space to learn, report, and access help against gender-based violence.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/mwakidenis/GBV-SafeSpace",
-      "updated_at": "2026-11-06T11:33:09Z",
-      "pushed_at": "2026-11-06T11:33:05Z",
-      "stars": 16,
-      "author": "mwakidenis",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "crowd",
-      "description": "This repository contains code that extracts YouTube videos based on a mapping.csv file and performs object detection using YOLOv11. The primary objective of this work is to evaluate pedestrian behaviour in a cross-country or cross-cultural context using freely available YouTube videos.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/crowd-dataset/crowd",
-      "updated_at": "2026-11-06T11:33:08Z",
-      "pushed_at": "2026-11-06T11:33:04Z",
-      "stars": 13,
-      "author": "crowd-dataset",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "eazworld-ai-skills",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Eazworld-Labs/eazworld-ai-skills",
-      "updated_at": "2026-11-06T11:32:23Z",
-      "pushed_at": "2026-11-06T11:32:18Z",
-      "stars": 0,
-      "author": "Eazworld-Labs",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "entrust-platform",
-      "description": "Entrust Africa platform monorepo: website, CLEAR Export, shared packages",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Entrust-Africa/entrust-platform",
-      "updated_at": "2026-11-06T11:25:11Z",
-      "pushed_at": "2026-11-06T11:31:44Z",
-      "stars": 0,
-      "author": "Entrust-Africa",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "sfdx-hardis",
-      "description": "French-army-knife Toolbox for Salesforce. Orchestrates base commands and assist users with interactive wizards to make much more than native Salesforce CLI + Allows you to define a complete CI/CD Pipeline and Schedule a daily Metadata backup & monitoring of your orgs + AI-enhanced org Documentation",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/hardisgroupcom/sfdx-hardis",
-      "updated_at": "2026-11-06T11:28:12Z",
-      "pushed_at": "2026-11-06T11:31:27Z",
-      "stars": 430,
-      "author": "hardisgroupcom",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "neo",
-      "description": "Puddle Island: a home-made learning game for little kids",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/rjdunlap/neo",
-      "updated_at": "2026-11-06T11:19:10Z",
-      "pushed_at": "2026-11-06T11:30:56Z",
-      "stars": 0,
-      "author": "rjdunlap",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "terraform-provider-quismon",
-      "description": "Official Terraform Provider for Quismon",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/quismon/terraform-provider-quismon",
-      "updated_at": "2026-11-06T11:30:50Z",
-      "pushed_at": "2026-11-06T11:30:47Z",
-      "stars": 0,
-      "author": "quismon",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Mathmag-builders",
-      "description": "ERP",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Newton990/Mathmag-builders",
-      "updated_at": "2026-11-06T11:30:30Z",
-      "pushed_at": "2026-11-06T11:30:26Z",
-      "stars": 0,
-      "author": "Newton990",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Baci",
-      "description": "Experiment",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/ogabasseyy/Baci",
-      "updated_at": "2026-11-06T11:21:49Z",
-      "pushed_at": "2026-11-06T11:30:11Z",
-      "stars": 0,
-      "author": "ogabasseyy",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "APRS-Tradewins",
-      "description": "APRS 2M & 70cm TEP Prediction",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/BajanBob/APRS-Tradewins",
-      "updated_at": "2026-11-06T11:29:56Z",
-      "pushed_at": "2026-11-06T11:29:53Z",
-      "stars": 4,
-      "author": "BajanBob",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "agent-gitu",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/cmgzone/agent-gitu",
-      "updated_at": "2026-11-06T11:29:43Z",
-      "pushed_at": "2026-11-06T11:29:39Z",
+      "github_url": "https://github.com/tailed-community/tailed-internships-new-grad",
+      "updated_at": "2026-11-06T18:35:23Z",
+      "pushed_at": "2026-11-06T18:35:11Z",
       "stars": 1,
-      "author": "cmgzone",
+      "author": "tailed-community",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -824,824 +248,14 @@
       ]
     },
     {
-      "title": "cs249r_book",
-      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+      "title": "StitchFlow",
+      "description": "Pan-African atelier workflow prototype for bespoke tailoring: cultural lookbooks, fitting requests, production stages, African measurement cards, artisan workbench, and patron updates.",
       "type": "SDK / Package",
-      "github_url": "https://github.com/harvard-edge/cs249r_book",
-      "updated_at": "2026-11-06T11:32:13Z",
-      "pushed_at": "2026-11-06T11:29:39Z",
-      "stars": 29990,
-      "author": "harvard-edge",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "suqafuran",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/bellonbits/suqafuran",
-      "updated_at": "2026-11-06T11:29:18Z",
-      "pushed_at": "2026-11-06T11:29:11Z",
+      "github_url": "https://github.com/dmuhoro/StitchFlow",
+      "updated_at": "2026-11-06T18:35:15Z",
+      "pushed_at": "2026-11-06T18:35:10Z",
       "stars": 0,
-      "author": "bellonbits",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "OPSC6312-POE-Safety4Women-",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/ST10348471/OPSC6312-POE-Safety4Women-",
-      "updated_at": "2026-11-06T11:28:53Z",
-      "pushed_at": "2026-11-06T11:28:49Z",
-      "stars": 0,
-      "author": "ST10348471",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "StocksIntels",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/sadiq-hue/StocksIntels",
-      "updated_at": "2026-11-06T11:28:32Z",
-      "pushed_at": "2026-11-06T11:28:28Z",
-      "stars": 0,
-      "author": "sadiq-hue",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "countries-states-cities-database",
-      "description": "🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/dr5hn/countries-states-cities-database",
-      "updated_at": "2026-11-06T11:27:59Z",
-      "pushed_at": "2026-11-06T11:28:05Z",
-      "stars": 9962,
-      "author": "dr5hn",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "terra-tempora",
-      "description": "Explore world history on a 3D globe. Pick a civilization, a country or a year and see the realms of that time drawn on the globe or a flat map, with a timeline that runs from 10,000 BCE to today.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/EdgarMaucourant/terra-tempora",
-      "updated_at": "2026-11-06T11:28:02Z",
-      "pushed_at": "2026-11-06T11:27:57Z",
-      "stars": 0,
-      "author": "EdgarMaucourant",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "flight-deals",
-      "description": "Several flight comparators in one Claude skill: lastminute.com, Skyscanner, Google Flights side by side. One sentence, real total prices, never invents a price, never books for you.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/abdillahbo54-commits/flight-deals",
-      "updated_at": "2026-11-06T11:26:36Z",
-      "pushed_at": "2026-11-06T11:26:32Z",
-      "stars": 0,
-      "author": "abdillahbo54-commits",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "mtaa-dao",
-      "description": "MtaaDAO is a full-stack DAO and DeFi platform built for East African markets. 364 versioned API endpoints across DAOs, Wallets, Treasury, and YUKI trading. Three-persona dashboard: Okedi (governance), Yuki (trading), Amara (passive investment) M-Pesa on/off-ramp — native integration with East African mobile money.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/litmajor/mtaa-dao",
-      "updated_at": "2026-11-06T11:26:19Z",
-      "pushed_at": "2026-11-06T11:26:15Z",
-      "stars": 3,
-      "author": "litmajor",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "free-proxy-list",
-      "description": "🌐 Free proxy list, updated every hour — HTTP, SOCKS4 and SOCKS5. Every entry passed a real handshake, the same exit IP on a second request, and a test page that arrived unchanged; HTTPS only with a verified certificate. Per country, TXT, JSON and CSV.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/maximilianfeix/free-proxy-list",
-      "updated_at": "2026-11-06T11:26:18Z",
-      "pushed_at": "2026-11-06T11:26:14Z",
-      "stars": 6,
-      "author": "maximilianfeix",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Waithaka-Ndegwa",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Goblis-Foundation/Waithaka-Ndegwa",
-      "updated_at": "2026-11-06T11:26:00Z",
-      "pushed_at": "2026-11-06T11:25:55Z",
-      "stars": 0,
-      "author": "Goblis-Foundation",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "dealo_new_platform",
-      "description": "A professional recruitment, managed staffing, and talent management platform connecting businesses with qualified professionals. Built with Next.js, NestJS, TypeScript, and PostgreSQL.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/DonaldKnut/dealo_new_platform",
-      "updated_at": "2026-11-06T11:25:59Z",
-      "pushed_at": "2026-11-06T11:25:55Z",
-      "stars": 0,
-      "author": "DonaldKnut",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "sportypredictz",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Sidolly20/sportypredictz",
-      "updated_at": "2026-11-06T11:25:59Z",
-      "pushed_at": "2026-11-06T11:25:55Z",
-      "stars": 1,
-      "author": "Sidolly20",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "ethio-marketplace-api",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/tirunehawoke12-arch/ethio-marketplace-api",
-      "updated_at": "2026-11-06T11:25:51Z",
-      "pushed_at": "2026-11-06T11:25:46Z",
-      "stars": 0,
-      "author": "tirunehawoke12-arch",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "zetasports-flutter",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Mubthaseem/zetasports-flutter",
-      "updated_at": "2026-11-06T11:25:09Z",
-      "pushed_at": "2026-11-06T11:25:03Z",
-      "stars": 0,
-      "author": "Mubthaseem",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "enhansome-shadcn-ui",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/enhansome/enhansome-shadcn-ui",
-      "updated_at": "2026-11-06T11:25:05Z",
-      "pushed_at": "2026-11-06T11:25:01Z",
-      "stars": 0,
-      "author": "enhansome",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "FlightBridge-AI",
-      "description": "Autonomous Aviation Partnership Network",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/nikkk07/FlightBridge-AI",
-      "updated_at": "2026-11-06T11:25:01Z",
-      "pushed_at": "2026-11-06T11:24:57Z",
-      "stars": 0,
-      "author": "nikkk07",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "sketchboard",
-      "description": "Figma-like real-time collaborative canvas with live cursors, sticky notes and shapes. Yjs CRDT sync over Socket.io, scaled horizontally with Redis and NGINX.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/crnjihia/sketchboard",
-      "updated_at": "2026-11-06T11:24:36Z",
-      "pushed_at": "2026-11-06T11:24:31Z",
-      "stars": 0,
-      "author": "crnjihia",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "GoldSight-AI",
-      "description": "Real-time XAUUSD forecasting and market analysis platform",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/abdulwaheedmuhammed3-maker/GoldSight-AI",
-      "updated_at": "2026-11-06T11:24:05Z",
-      "pushed_at": "2026-11-06T11:23:59Z",
-      "stars": 0,
-      "author": "abdulwaheedmuhammed3-maker",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "DeniTrack-Mobile-Debt-Management-System-",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Nasty-24/DeniTrack-Mobile-Debt-Management-System-",
-      "updated_at": "2026-11-06T11:23:22Z",
-      "pushed_at": "2026-11-06T11:23:18Z",
-      "stars": 0,
-      "author": "Nasty-24",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Arch-consult",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Arch-1-hub/Arch-consult",
-      "updated_at": "2026-11-06T11:23:18Z",
-      "pushed_at": "2026-11-06T11:23:14Z",
-      "stars": 0,
-      "author": "Arch-1-hub",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "AE_Website",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Adundo-Maseno/AE_Website",
-      "updated_at": "2026-11-06T11:23:11Z",
-      "pushed_at": "2026-11-06T11:23:07Z",
-      "stars": 0,
-      "author": "Adundo-Maseno",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Farmer-Advisor-AI",
-      "description": "Farmer-Advisor Ai is and AI Agriculture Advisor is an open-source, RAG-based chatbot that delivers precise, context-grounded answers to farmers' questions about crop cultivation — starting with Teff and Maize in Ethiopia",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/abrsh21son/Farmer-Advisor-AI",
-      "updated_at": "2026-11-06T11:28:19Z",
-      "pushed_at": "2026-11-06T11:22:48Z",
-      "stars": 0,
-      "author": "abrsh21son",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "AGOT-Releases",
-      "description": "GIS, GeoAI, Digital Twins, Simulations, Many Worlds",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/aerocorp13/AGOT-Releases",
-      "updated_at": "2026-11-06T11:22:48Z",
-      "pushed_at": "2026-11-06T11:22:44Z",
-      "stars": 0,
-      "author": "aerocorp13",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "public-apis",
-      "description": "A collaborative list of public APIs for developers",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/marcelscruz/public-apis",
-      "updated_at": "2026-11-06T11:22:43Z",
-      "pushed_at": "2026-11-06T11:22:39Z",
-      "stars": 9684,
-      "author": "marcelscruz",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "ophancer",
-      "description": "Job platform",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/lightorbglobal-001/ophancer",
-      "updated_at": "2026-11-06T11:22:43Z",
-      "pushed_at": "2026-11-06T11:22:39Z",
-      "stars": 0,
-      "author": "lightorbglobal-001",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "thomascherickal.github.io",
-      "description": "Online Profile for Work-Related Enquiries",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/thomascherickal/thomascherickal.github.io",
-      "updated_at": "2026-11-06T11:22:22Z",
-      "pushed_at": "2026-11-06T11:22:18Z",
-      "stars": 1,
-      "author": "thomascherickal",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "school-system-v2",
-      "description": "This is the second, professional, well-though out version of school systems taking reference to GS Gacuba features.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/SybellaSystems/school-system-v2",
-      "updated_at": "2026-11-06T11:21:35Z",
-      "pushed_at": "2026-11-06T11:21:31Z",
-      "stars": 0,
-      "author": "SybellaSystems",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/huggingface/transformers",
-      "updated_at": "2026-11-06T11:38:16Z",
-      "pushed_at": "2026-11-06T11:20:44Z",
-      "stars": 168581,
-      "author": "huggingface",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "irexpro",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Chrix4u/irexpro",
-      "updated_at": "2026-11-06T11:20:34Z",
-      "pushed_at": "2026-11-06T11:20:28Z",
-      "stars": 0,
-      "author": "Chrix4u",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Xoot",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/ROYAL777-21/Xoot",
-      "updated_at": "2026-11-06T11:19:51Z",
-      "pushed_at": "2026-11-06T11:19:46Z",
-      "stars": 0,
-      "author": "ROYAL777-21",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "cogent",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Cogent-SaaS-Platform/cogent",
-      "updated_at": "2026-11-06T11:18:03Z",
-      "pushed_at": "2026-11-06T11:17:59Z",
-      "stars": 0,
-      "author": "Cogent-SaaS-Platform",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "ssx-recomp",
-      "description": "Native PC port of SSX (2012) via Xbox 360 static recompilation. Bring your own ISO.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/AmarilloNL/ssx-recomp",
-      "updated_at": "2026-11-06T11:17:47Z",
-      "pushed_at": "2026-11-06T11:17:44Z",
-      "stars": 2,
-      "author": "AmarilloNL",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Employee-Leave-Period-Opt",
-      "description": "South African employees seeking the longest vacation possible using the least amount of annual leave days",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/mowbraysuburbs/Employee-Leave-Period-Opt",
-      "updated_at": "2026-11-06T11:16:44Z",
-      "pushed_at": "2026-11-06T11:16:41Z",
-      "stars": 2,
-      "author": "mowbraysuburbs",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "supplyhub",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/venBoi24/supplyhub",
-      "updated_at": "2026-11-06T11:15:56Z",
-      "pushed_at": "2026-11-06T11:15:51Z",
-      "stars": 0,
-      "author": "venBoi24",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "agent-Ops",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/ChemayekAbraham/agent-Ops",
-      "updated_at": "2026-11-06T11:15:48Z",
-      "pushed_at": "2026-11-06T11:15:38Z",
-      "stars": 0,
-      "author": "ChemayekAbraham",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Murya",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/zaharaddeenmuhammad698-pixel/Murya",
-      "updated_at": "2026-11-06T11:15:26Z",
-      "pushed_at": "2026-11-06T11:15:22Z",
-      "stars": 0,
-      "author": "zaharaddeenmuhammad698-pixel",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "spot-the-pothole",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/LionCave97/spot-the-pothole",
-      "updated_at": "2026-11-06T11:15:27Z",
-      "pushed_at": "2026-11-06T11:15:22Z",
-      "stars": 0,
-      "author": "LionCave97",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "nile-clinic-frontend",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/eslam94fathy/nile-clinic-frontend",
-      "updated_at": "2026-11-06T11:14:22Z",
-      "pushed_at": "2026-11-06T11:14:18Z",
-      "stars": 0,
-      "author": "eslam94fathy",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "smartphone-empire",
-      "description": "Browser-based smartphone company simulator. Run R&D, chip design, manufacturing, sales, and OS development, hire engineers, designers, and marketers, and compete with real brands like Apple and Samsung from 2000 onward.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/jurkonstudio/smartphone-empire",
-      "updated_at": "2026-11-06T11:13:09Z",
-      "pushed_at": "2026-11-06T11:13:05Z",
-      "stars": 1,
-      "author": "jurkonstudio",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Lemmatrix",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/smojos/Lemmatrix",
-      "updated_at": "2026-11-06T11:12:53Z",
-      "pushed_at": "2026-11-06T11:12:49Z",
-      "stars": 0,
-      "author": "smojos",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "CHRONYX",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Mr-VantaRoot/CHRONYX",
-      "updated_at": "2026-11-06T11:10:12Z",
-      "pushed_at": "2026-11-06T11:12:28Z",
-      "stars": 0,
-      "author": "Mr-VantaRoot",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "Sau",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/mulweliinnocent47-lab/Sau",
-      "updated_at": "2026-11-06T11:11:42Z",
-      "pushed_at": "2026-11-06T11:11:38Z",
-      "stars": 0,
-      "author": "mulweliinnocent47-lab",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "iyoapp",
-      "description": "iyo application ",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/chobrandone/iyoapp",
-      "updated_at": "2026-11-06T11:11:34Z",
-      "pushed_at": "2026-11-06T11:11:29Z",
-      "stars": 0,
-      "author": "chobrandone",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "new.au-aris.org",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/skenlefack/new.au-aris.org",
-      "updated_at": "2026-11-06T11:11:15Z",
-      "pushed_at": "2026-11-06T11:11:11Z",
-      "stars": 0,
-      "author": "skenlefack",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "axene-sdks",
-      "description": "Official Axene Mailer SDKs for TypeScript and .NET.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Axene-Solutions/axene-sdks",
-      "updated_at": "2026-11-06T11:10:59Z",
-      "pushed_at": "2026-11-06T11:10:55Z",
-      "stars": 0,
-      "author": "Axene-Solutions",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "axene-mailer-swift",
-      "description": "Official Swift SDK for Axene Mailer (SwiftPM). Transactional and marketing email, sent from Swift.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Axene-Solutions/axene-mailer-swift",
-      "updated_at": "2026-11-06T11:10:49Z",
-      "pushed_at": "2026-11-06T11:10:44Z",
-      "stars": 0,
-      "author": "Axene-Solutions",
+      "author": "dmuhoro",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -1656,10 +270,802 @@
       "description": null,
       "type": "SDK / Package",
       "github_url": "https://github.com/heyaryansingh/exec-job-radar",
-      "updated_at": "2026-11-06T11:10:38Z",
-      "pushed_at": "2026-11-06T11:10:34Z",
+      "updated_at": "2026-11-06T18:35:00Z",
+      "pushed_at": "2026-11-06T18:34:56Z",
       "stars": 0,
       "author": "heyaryansingh",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "Baci",
+      "description": "Experiment",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ogabasseyy/Baci",
+      "updated_at": "2026-11-06T18:19:23Z",
+      "pushed_at": "2026-11-06T18:34:46Z",
+      "stars": 0,
+      "author": "ogabasseyy",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "gitrank",
+      "description": "Track and rank the top open-source GitHub contributors globally and by country with authentic live profile analytics.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/DevCop95/gitrank",
+      "updated_at": "2026-11-06T18:34:48Z",
+      "pushed_at": "2026-11-06T18:34:44Z",
+      "stars": 12,
+      "author": "DevCop95",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "kinshasa-traffic-board",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/patpoundy2k/kinshasa-traffic-board",
+      "updated_at": "2026-11-06T18:34:48Z",
+      "pushed_at": "2026-11-06T18:34:43Z",
+      "stars": 0,
+      "author": "patpoundy2k",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "GoldSight-AI",
+      "description": "Real-time XAUUSD forecasting and market analysis platform",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/abdulwaheedmuhammed3-maker/GoldSight-AI",
+      "updated_at": "2026-11-06T18:20:56Z",
+      "pushed_at": "2026-11-06T18:34:43Z",
+      "stars": 0,
+      "author": "abdulwaheedmuhammed3-maker",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "interledger.org-v5",
+      "description": "interledger.org built on astro with strapi for cms editing",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/interledger/interledger.org-v5",
+      "updated_at": "2026-11-06T18:34:32Z",
+      "pushed_at": "2026-11-06T18:34:28Z",
+      "stars": 1,
+      "author": "interledger",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "haki",
+      "description": "Haki - AI compliance agent for tokenized RWAs. Rules engine decides, agent explains, chain proves. EAS on Base Sepolia.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Arielpoghon/haki",
+      "updated_at": "2026-11-06T18:34:02Z",
+      "pushed_at": "2026-11-06T18:33:58Z",
+      "stars": 0,
+      "author": "Arielpoghon",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "openmed",
+      "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and browser runtimes. Apache-2.0 SDK.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/maziyarpanahi/openmed",
+      "updated_at": "2026-11-06T18:32:48Z",
+      "pushed_at": "2026-11-06T18:33:52Z",
+      "stars": 5784,
+      "author": "maziyarpanahi",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "SecID",
+      "description": "Universal grammar for referencing security knowledge — by Kurt Seifried, CIO, Cloud Security Alliance",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CloudSecurityAlliance/SecID",
+      "updated_at": "2026-11-06T18:33:53Z",
+      "pushed_at": "2026-11-06T18:33:49Z",
+      "stars": 2,
+      "author": "CloudSecurityAlliance",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "South-Africa-2010-World-Cup",
+      "description": "South Africa 2010, a sports application for Windows, enhances your IT experience with access to the latest trends and opportunities in the booming South African market, all features unlocked for free.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/blister-57/South-Africa-2010-World-Cup",
+      "updated_at": "2026-11-06T18:33:42Z",
+      "pushed_at": "2026-11-06T18:33:39Z",
+      "stars": 0,
+      "author": "blister-57",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "wealthboard",
+      "description": "Wealthfolio site",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/wechuli/wealthboard",
+      "updated_at": "2026-11-06T18:33:24Z",
+      "pushed_at": "2026-11-06T18:33:18Z",
+      "stars": 0,
+      "author": "wechuli",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "soilKey",
+      "description": "Automated soil profile classification per WRB 2022, SiBCS 5 and USDA Soil Taxonomy 13",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/HugoMachadoRodrigues/soilKey",
+      "updated_at": "2026-11-06T18:31:59Z",
+      "pushed_at": "2026-11-06T18:33:18Z",
+      "stars": 3,
+      "author": "HugoMachadoRodrigues",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "FTMS",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/anxlz/FTMS",
+      "updated_at": "2026-11-06T18:35:15Z",
+      "pushed_at": "2026-11-06T18:33:12Z",
+      "stars": 1,
+      "author": "anxlz",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "cs249r_book",
+      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/harvard-edge/cs249r_book",
+      "updated_at": "2026-11-06T18:32:48Z",
+      "pushed_at": "2026-11-06T18:33:11Z",
+      "stars": 29993,
+      "author": "harvard-edge",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "GBV-SafeSpace",
+      "description": "🌿✨HERA SafeSpace is a digital platform using AI to support women and girls in Africa, especially Kenya, by providing a safe space to learn, report, and access help against gender-based violence.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mwakidenis/GBV-SafeSpace",
+      "updated_at": "2026-11-06T18:33:14Z",
+      "pushed_at": "2026-11-06T18:33:10Z",
+      "stars": 16,
+      "author": "mwakidenis",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "war-tactics-academy",
+      "description": "Historical learning application with battle studies, commander profiles, interactive maps and courses.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/darkonaumovski/war-tactics-academy",
+      "updated_at": "2026-11-06T18:33:13Z",
+      "pushed_at": "2026-11-06T18:33:09Z",
+      "stars": 0,
+      "author": "darkonaumovski",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "worldsitrep-cache",
+      "description": "Public normalized market + hazard snapshots for World SITREP (hourly GitHub Actions, static JSON)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/StefanIsMe/worldsitrep-cache",
+      "updated_at": "2026-11-06T18:33:00Z",
+      "pushed_at": "2026-11-06T18:32:55Z",
+      "stars": 0,
+      "author": "StefanIsMe",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "Aim4price.com-",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Aim4price/Aim4price.com-",
+      "updated_at": "2026-11-06T18:32:59Z",
+      "pushed_at": "2026-11-06T18:32:52Z",
+      "stars": 1,
+      "author": "Aim4price",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "TechLearn-Kenya",
+      "description": "TechLearn is a revolutionary 🔥 learning management system specifically designed to empower African youth 👨‍💻👩‍💻 with cutting-edge technology skills.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mwakidenis/TechLearn-Kenya",
+      "updated_at": "2026-11-06T18:32:51Z",
+      "pushed_at": "2026-11-06T18:32:47Z",
+      "stars": 16,
+      "author": "mwakidenis",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "PROG7314",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/akzz98/PROG7314",
+      "updated_at": "2026-11-06T18:32:38Z",
+      "pushed_at": "2026-11-06T18:32:34Z",
+      "stars": 0,
+      "author": "akzz98",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "safenest",
+      "description": "Safety first to neighbors ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/petermuta/safenest",
+      "updated_at": "2026-11-06T18:32:27Z",
+      "pushed_at": "2026-11-06T18:32:23Z",
+      "stars": 0,
+      "author": "petermuta",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "ALUXPLAZA",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/sybertoooth7-lgtm/ALUXPLAZA",
+      "updated_at": "2026-11-06T18:31:22Z",
+      "pushed_at": "2026-11-06T18:31:18Z",
+      "stars": 0,
+      "author": "sybertoooth7-lgtm",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "neo",
+      "description": "Puddle Island: a home-made learning game for little kids",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/rjdunlap/neo",
+      "updated_at": "2026-11-06T18:14:37Z",
+      "pushed_at": "2026-11-06T18:30:45Z",
+      "stars": 0,
+      "author": "rjdunlap",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "GoldTickerLive",
+      "description": "Bilingual gold price tracker with live XAU/USD, karat pricing, local currency conversion, charts, calculator, and export tools.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/vctb12/GoldTickerLive",
+      "updated_at": "2026-11-06T18:30:25Z",
+      "pushed_at": "2026-11-06T18:30:23Z",
+      "stars": 5,
+      "author": "vctb12",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "terra-tempora",
+      "description": "Explore world history on a 3D globe. Pick a civilization, a country or a year and see the realms of that time drawn on the globe or a flat map, with a timeline that runs from 10,000 BCE to today.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/EdgarMaucourant/terra-tempora",
+      "updated_at": "2026-11-06T18:23:52Z",
+      "pushed_at": "2026-11-06T18:30:19Z",
+      "stars": 0,
+      "author": "EdgarMaucourant",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "live-shopping-app-",
+      "description": "GitHub",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/fentsechoshane-creator/live-shopping-app-",
+      "updated_at": "2026-11-06T18:30:14Z",
+      "pushed_at": "2026-11-06T18:30:09Z",
+      "stars": 1,
+      "author": "fentsechoshane-creator",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "free-proxy-list",
+      "description": "🌐 Free proxy list, updated every hour — HTTP, SOCKS4 and SOCKS5. Every entry passed a real handshake, the same exit IP on a second request, and a test page that arrived unchanged; HTTPS only with a verified certificate. Per country, TXT, JSON and CSV.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/maximilianfeix/free-proxy-list",
+      "updated_at": "2026-11-06T18:30:06Z",
+      "pushed_at": "2026-11-06T18:30:01Z",
+      "stars": 6,
+      "author": "maximilianfeix",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "RaceDay-Part1-System-Planning",
+      "description": "Programming 2B PoE | RaceDay Event Management System — Part 1: System Planning & Database Design | Part 2: ASP.NET Core Web API, SQL Server, Authentication, Swagger, Unit Testing & CI/CD.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/bono-dev-code/RaceDay-Part1-System-Planning",
+      "updated_at": "2026-11-06T18:29:18Z",
+      "pushed_at": "2026-11-06T18:29:14Z",
+      "stars": 0,
+      "author": "bono-dev-code",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "top-gym-website",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AhmedSalem104/top-gym-website",
+      "updated_at": "2026-11-06T18:27:47Z",
+      "pushed_at": "2026-11-06T18:27:42Z",
+      "stars": 0,
+      "author": "AhmedSalem104",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/huggingface/transformers",
+      "updated_at": "2026-11-06T18:36:39Z",
+      "pushed_at": "2026-11-06T18:27:29Z",
+      "stars": 168591,
+      "author": "huggingface",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "maroon_traceability",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/lungelomyamya-rgb/maroon_traceability",
+      "updated_at": "2026-11-06T18:25:20Z",
+      "pushed_at": "2026-11-06T18:25:15Z",
+      "stars": 0,
+      "author": "lungelomyamya-rgb",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "sa-property-hub",
+      "description": "SA Property Investment Hub - Unified Real Estate Portfolio & Deal Sourcing Dashboard",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/morokakk/sa-property-hub",
+      "updated_at": "2026-11-06T18:24:54Z",
+      "pushed_at": "2026-11-06T18:24:49Z",
+      "stars": 0,
+      "author": "morokakk",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "PACE_OCI_Toolkit",
+      "description": "Google Earth Engine (GEE) JavaScript-based tools for working with NASA PACE OCI data",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/BzGEO/PACE_OCI_Toolkit",
+      "updated_at": "2026-11-06T18:24:40Z",
+      "pushed_at": "2026-11-06T18:24:36Z",
+      "stars": 22,
+      "author": "BzGEO",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "PROG7314-POE---ForkFul",
+      "description": "Emeris BCAD Year 3 Semester 2 PROG7314 POE - CraveMatch",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/PROG7314-Open-Source-Coding-2026/PROG7314-POE---ForkFul",
+      "updated_at": "2026-11-06T18:24:13Z",
+      "pushed_at": "2026-11-06T18:24:09Z",
+      "stars": 0,
+      "author": "PROG7314-Open-Source-Coding-2026",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "Khaaos_Run",
+      "description": "Plataforma Battle Royale",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Nexus-HUB57/Khaaos_Run",
+      "updated_at": "2026-11-06T18:23:09Z",
+      "pushed_at": "2026-11-06T18:23:40Z",
+      "stars": 0,
+      "author": "Nexus-HUB57",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "Next-Level-Gaming-Arena",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Lethabomohlala/Next-Level-Gaming-Arena",
+      "updated_at": "2026-11-06T18:23:29Z",
+      "pushed_at": "2026-11-06T18:23:24Z",
+      "stars": 0,
+      "author": "Lethabomohlala",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "wave-app",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Allshore-JM/wave-app",
+      "updated_at": "2026-11-06T18:23:08Z",
+      "pushed_at": "2026-11-06T18:23:01Z",
+      "stars": 1,
+      "author": "Allshore-JM",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "playwright-api-tests",
+      "description": "API test framework in Playwright and TypeScript: client layer, fixtures, schema validation, HTML reporting.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/LailaSalma/playwright-api-tests",
+      "updated_at": "2026-11-06T18:22:56Z",
+      "pushed_at": "2026-11-06T18:22:53Z",
+      "stars": 0,
+      "author": "LailaSalma",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "invoice",
+      "description": "Professional Open Source E-Invoicing System for PHP (Yii3) with UBL 2.4 and Peppol support",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/rossaddison/invoice",
+      "updated_at": "2026-11-06T18:22:52Z",
+      "pushed_at": "2026-11-06T18:22:48Z",
+      "stars": 2,
+      "author": "rossaddison",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "geopolitical-simulator",
+      "description": "Geopolitical strategy game in Rust fully built by Codex",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/timborovkov/geopolitical-simulator",
+      "updated_at": "2026-11-06T18:22:46Z",
+      "pushed_at": "2026-11-06T18:22:40Z",
+      "stars": 0,
+      "author": "timborovkov",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "univarse",
+      "description": "Multi-tenant platform for Nigerian tertiary institutions",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/w1t3ack3r/univarse",
+      "updated_at": "2026-11-06T18:18:09Z",
+      "pushed_at": "2026-11-06T18:21:25Z",
+      "stars": 0,
+      "author": "w1t3ack3r",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "morocco-cities-tool",
+      "description": "Morocco Cities — spatial-equilibrium commune explorer tool (React/Vite). Source only; data loaded at runtime, not committed.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/taimur38/morocco-cities-tool",
+      "updated_at": "2026-11-06T18:21:28Z",
+      "pushed_at": "2026-11-06T18:21:23Z",
+      "stars": 0,
+      "author": "taimur38",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "zetasports-flutter",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Mubthaseem/zetasports-flutter",
+      "updated_at": "2026-11-06T18:19:31Z",
+      "pushed_at": "2026-11-06T18:19:25Z",
+      "stars": 0,
+      "author": "Mubthaseem",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "Ether",
+      "description": "Macro-historical and cliodynamic simulation engine modeling human population dynamics, thermodynamic constraints, and resource distribution on an H3 discrete global grid.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/silveremartin-dev/Ether",
+      "updated_at": "2026-11-06T18:19:12Z",
+      "pushed_at": "2026-11-06T18:19:07Z",
+      "stars": 1,
+      "author": "silveremartin-dev",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "forecast-panel",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/EthanC100/forecast-panel",
+      "updated_at": "2026-11-06T18:18:13Z",
+      "pushed_at": "2026-11-06T18:18:08Z",
+      "stars": 0,
+      "author": "EthanC100",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -1674,8 +1080,8 @@
       "description": null,
       "type": "SDK / Package",
       "github_url": "https://github.com/gijzelaerr/rang-core",
-      "updated_at": "2026-11-06T11:10:39Z",
-      "pushed_at": "2026-11-06T11:10:34Z",
+      "updated_at": "2026-11-06T18:17:02Z",
+      "pushed_at": "2026-11-06T18:16:58Z",
       "stars": 0,
       "author": "gijzelaerr",
       "q?": [
@@ -1688,14 +1094,14 @@
       ]
     },
     {
-      "title": "Matrixworkflows",
+      "title": "WorldMoneyWords",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/MatrixWorkflows/Matrixworkflows",
-      "updated_at": "2026-11-06T11:10:03Z",
-      "pushed_at": "2026-11-06T11:10:05Z",
+      "github_url": "https://github.com/3mdikram/WorldMoneyWords",
+      "updated_at": "2026-11-06T18:16:59Z",
+      "pushed_at": "2026-11-06T18:16:55Z",
       "stars": 0,
-      "author": "MatrixWorkflows",
+      "author": "3mdikram",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -1706,32 +1112,14 @@
       ]
     },
     {
-      "title": "stem-family-atlas",
-      "description": "Interactive family atlas of robotics competitions, AI, STEM camps, exhibitions, schools and learning routes. Russian interface; worldwide research with official sources.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Paldd/stem-family-atlas",
-      "updated_at": "2026-11-06T11:09:14Z",
-      "pushed_at": "2026-11-06T11:09:03Z",
-      "stars": 0,
-      "author": "Paldd",
-      "q?": [
-        "location:ivory-coast",
-        "location:rwanda",
-        "location:morocco",
-        "africa package pushed:>=2024-01-01",
-        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
-        "africa in:readme package pushed:>=2025-01-01"
-      ]
-    },
-    {
-      "title": "enhansome-h2o",
+      "title": "em-macro",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/enhansome/enhansome-h2o",
-      "updated_at": "2026-11-06T11:08:22Z",
-      "pushed_at": "2026-11-06T11:08:18Z",
+      "github_url": "https://github.com/EthanC100/em-macro",
+      "updated_at": "2026-11-06T18:16:32Z",
+      "pushed_at": "2026-11-06T18:16:27Z",
       "stars": 0,
-      "author": "enhansome",
+      "author": "EthanC100",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -1742,14 +1130,14 @@
       ]
     },
     {
-      "title": "tampslat",
-      "description": "TAMPslat is an AI-powered productivity platform featuring intelligent document tools, creative design studios, workflow automation, and secure cloud-based services.",
+      "title": "tse-rework",
+      "description": "TSE Online is a well-established South African supplier of printer cartridges and related consumables. This proposal outlines a full digital modernization of the TSE Online storefront — delivering a fast, professional, and conversion-optimized e-commerce experience built on proven open-source technology.",
       "type": "SDK / Package",
-      "github_url": "https://github.com/jaybecca/tampslat",
-      "updated_at": "2026-11-06T11:08:29Z",
-      "pushed_at": "2026-11-06T11:08:17Z",
+      "github_url": "https://github.com/TriNext-Innovations/tse-rework",
+      "updated_at": "2026-11-06T18:15:55Z",
+      "pushed_at": "2026-11-06T18:15:53Z",
       "stars": 0,
-      "author": "jaybecca",
+      "author": "TriNext-Innovations",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -1760,14 +1148,14 @@
       ]
     },
     {
-      "title": "nexus",
+      "title": "Tiaago",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/Edward-Oppong/nexus",
-      "updated_at": "2026-11-06T11:07:09Z",
-      "pushed_at": "2026-11-06T11:07:05Z",
+      "github_url": "https://github.com/tobioyinlola/Tiaago",
+      "updated_at": "2026-11-06T18:14:41Z",
+      "pushed_at": "2026-11-06T18:14:35Z",
       "stars": 0,
-      "author": "Edward-Oppong",
+      "author": "tobioyinlola",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -1778,14 +1166,14 @@
       ]
     },
     {
-      "title": "PolData",
-      "description": "A dataset with political datasets",
+      "title": "TamamHealth",
+      "description": "TamamHealth",
       "type": "SDK / Package",
-      "github_url": "https://github.com/erikgahner/PolData",
-      "updated_at": "2026-11-06T11:06:53Z",
-      "pushed_at": "2026-11-06T11:06:48Z",
-      "stars": 767,
-      "author": "erikgahner",
+      "github_url": "https://github.com/tamamorg/TamamHealth",
+      "updated_at": "2026-11-06T18:14:16Z",
+      "pushed_at": "2026-11-06T18:14:08Z",
+      "stars": 1,
+      "author": "tamamorg",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
@@ -1796,14 +1184,626 @@
       ]
     },
     {
-      "title": "fucking-public-apis",
-      "description": "A collective list of free APIs. With repository stars⭐ and forks🍴",
+      "title": "pocketgull-font",
+      "description": "A geometric vector typeface superfamily engineered for telemetry displays, digital health dashboards, and clean interface typography.",
       "type": "SDK / Package",
-      "github_url": "https://github.com/Correia-jpv/fucking-public-apis",
-      "updated_at": "2026-11-06T11:06:43Z",
-      "pushed_at": "2026-11-06T11:06:39Z",
-      "stars": 24,
-      "author": "Correia-jpv",
+      "github_url": "https://github.com/pocketgull-app/pocketgull-font",
+      "updated_at": "2026-11-06T18:13:03Z",
+      "pushed_at": "2026-11-06T18:12:58Z",
+      "stars": 2,
+      "author": "pocketgull-app",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "dean-msfs-route-finder",
+      "description": "Windows desktop companion for Microsoft Flight Simulator 2024: finds real-world airline routes for the airports you own, with live weather, D-ATIS, one-click SimBrief flight plans, and built-in performance benchmarking.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/snkeyez95/dean-msfs-route-finder",
+      "updated_at": "2026-11-06T17:58:14Z",
+      "pushed_at": "2026-11-06T18:12:30Z",
+      "stars": 0,
+      "author": "snkeyez95",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "Advotz",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ESNyarobi123/Advotz",
+      "updated_at": "2026-11-06T18:12:18Z",
+      "pushed_at": "2026-11-06T18:12:14Z",
+      "stars": 0,
+      "author": "ESNyarobi123",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "eu-trade-lakehouse",
+      "description": "Medallion lakehouse over Eurostat COMEXT trade data in PySpark on Databricks: a Job that lands each month from Eurostat, 25 quality checks with declared expected failures, versioned dimensions by a hand-written MERGE, and a watermark that notices republished months.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/rdiguglielmo/eu-trade-lakehouse",
+      "updated_at": "2026-11-06T18:12:17Z",
+      "pushed_at": "2026-11-06T18:12:12Z",
+      "stars": 0,
+      "author": "rdiguglielmo",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "central-african-rep-sovereign-ai",
+      "description": "Central African Republic-themed cryptocurrency token and blockchain application prototype; chain support, tokenomics and deployment evidence tracked per project.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/elon00/central-african-rep-sovereign-ai",
+      "updated_at": "2026-11-06T18:12:05Z",
+      "pushed_at": "2026-11-06T18:12:01Z",
+      "stars": 0,
+      "author": "elon00",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "IPL-Data-Analytics",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/JoeMartinRince/IPL-Data-Analytics",
+      "updated_at": "2026-11-06T18:11:23Z",
+      "pushed_at": "2026-11-06T18:11:15Z",
+      "stars": 0,
+      "author": "JoeMartinRince",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "LiftLogic",
+      "description": "OPSC6312 POE Part2",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/OmphileMoale/LiftLogic",
+      "updated_at": "2026-11-06T18:11:08Z",
+      "pushed_at": "2026-11-06T18:11:04Z",
+      "stars": 0,
+      "author": "OmphileMoale",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "agent-Ops",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ChemayekAbraham/agent-Ops",
+      "updated_at": "2026-11-06T18:10:31Z",
+      "pushed_at": "2026-11-06T18:10:19Z",
+      "stars": 0,
+      "author": "ChemayekAbraham",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "taste_of_africa_website_project",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Umutoni123-aa/taste_of_africa_website_project",
+      "updated_at": "2026-11-06T18:10:02Z",
+      "pushed_at": "2026-11-06T18:09:57Z",
+      "stars": 0,
+      "author": "Umutoni123-aa",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "open-source-ios-apps",
+      "description": ":iphone: Collaborative List of Open-Source iOS Apps",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/dkhamsing/open-source-ios-apps",
+      "updated_at": "2026-11-06T18:29:54Z",
+      "pushed_at": "2026-11-06T18:09:36Z",
+      "stars": 53075,
+      "author": "dkhamsing",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "notesapp",
+      "description": "#NotesApp fuses a publishing journal, a native booking calendar, and inline Naira payments into one workspace — so coaches, consultants, and therapists stop stitching together WhatsApp, a booking link, and a blog just to run their practice.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AceBoss1/notesapp",
+      "updated_at": "2026-11-06T18:08:59Z",
+      "pushed_at": "2026-11-06T18:08:56Z",
+      "stars": 0,
+      "author": "AceBoss1",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "Onward",
+      "description": "A solo GA travel career for MSFS 2024",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/onward-sim/Onward",
+      "updated_at": "2026-11-06T18:07:38Z",
+      "pushed_at": "2026-11-06T18:07:34Z",
+      "stars": 0,
+      "author": "onward-sim",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "chill-flight",
+      "description": "A casual flight simulator set in a vast, ever-changing world.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/jimmyorr/chill-flight",
+      "updated_at": "2026-11-06T18:07:30Z",
+      "pushed_at": "2026-11-06T18:07:26Z",
+      "stars": 0,
+      "author": "jimmyorr",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "JacquesBronk",
+      "description": "It's me. Rendered by a CronJob in my homelab.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/JacquesBronk/JacquesBronk",
+      "updated_at": "2026-11-06T18:07:28Z",
+      "pushed_at": "2026-11-06T18:07:24Z",
+      "stars": 0,
+      "author": "JacquesBronk",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "firstpush",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/StimpyKigen/firstpush",
+      "updated_at": "2026-11-06T18:06:06Z",
+      "pushed_at": "2026-11-06T18:06:02Z",
+      "stars": 0,
+      "author": "StimpyKigen",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "iScanFly-Scanner-Sane",
+      "description": "iScanFly / Mustek S400W (iScan Air) SANE Backend Driver",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/diepeterpan/iScanFly-Scanner-Sane",
+      "updated_at": "2026-11-06T18:05:51Z",
+      "pushed_at": "2026-11-06T18:05:46Z",
+      "stars": 0,
+      "author": "diepeterpan",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "africa-tts",
+      "description": "Text-to-speech for 92 African languages + English (Pocket TTS, IPA via africa-g2p): inference, training recipe, sherpa-onnx mobile deployment",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AfriSpeech/africa-tts",
+      "updated_at": "2026-11-06T18:05:39Z",
+      "pushed_at": "2026-11-06T18:05:35Z",
+      "stars": 0,
+      "author": "AfriSpeech",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "african-mtbc-gene-disruption-structural-variation",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/acquah-keelson/african-mtbc-gene-disruption-structural-variation",
+      "updated_at": "2026-11-06T18:05:34Z",
+      "pushed_at": "2026-11-06T18:05:30Z",
+      "stars": 0,
+      "author": "acquah-keelson",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "narratological-algorithmic-lenses",
+      "description": "14 narratological studies × 92 algorithms — formalizing narrative principles from Aristotle to Pixar as executable code, with CLI, API, web dashboard, and real screenplay analysis",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/4444J99/narratological-algorithmic-lenses",
+      "updated_at": "2026-11-06T18:04:51Z",
+      "pushed_at": "2026-11-06T18:04:48Z",
+      "stars": 0,
+      "author": "4444J99",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "the-greater-eurasia-plan",
+      "description": "A map for planning routes and stops across Eurasia.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/GD-MRNG/the-greater-eurasia-plan",
+      "updated_at": "2026-11-06T18:04:26Z",
+      "pushed_at": "2026-11-06T18:04:20Z",
+      "stars": 0,
+      "author": "GD-MRNG",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "OpenRisk",
+      "description": "Unified Risk & Threat Intelligence Management Platform",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/opendefender/OpenRisk",
+      "updated_at": "2026-11-06T18:04:12Z",
+      "pushed_at": "2026-11-06T18:04:08Z",
+      "stars": 35,
+      "author": "opendefender",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "API-IDVerde",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/BielFxB/API-IDVerde",
+      "updated_at": "2026-11-06T18:03:12Z",
+      "pushed_at": "2026-11-06T18:03:06Z",
+      "stars": 0,
+      "author": "BielFxB",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "mentorauraBackend",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/MentorauraPlatform/mentorauraBackend",
+      "updated_at": "2026-11-06T18:02:32Z",
+      "pushed_at": "2026-11-06T18:02:25Z",
+      "stars": 0,
+      "author": "MentorauraPlatform",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "Clean-Your-TV",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/influencer-619/Clean-Your-TV",
+      "updated_at": "2026-11-06T18:02:00Z",
+      "pushed_at": "2026-11-06T18:01:55Z",
+      "stars": 0,
+      "author": "influencer-619",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "bound2zanzibar",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/khamidissa-lab/bound2zanzibar",
+      "updated_at": "2026-11-06T18:01:50Z",
+      "pushed_at": "2026-11-06T18:01:45Z",
+      "stars": 0,
+      "author": "khamidissa-lab",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "ophancer",
+      "description": "Job platform",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/lightorbglobal-001/ophancer",
+      "updated_at": "2026-11-06T18:00:03Z",
+      "pushed_at": "2026-11-06T17:59:59Z",
+      "stars": 0,
+      "author": "lightorbglobal-001",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "Grid-Lock",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Katlego-tech/Grid-Lock",
+      "updated_at": "2026-11-06T17:59:13Z",
+      "pushed_at": "2026-11-06T17:59:08Z",
+      "stars": 0,
+      "author": "Katlego-tech",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "updated_at": "2026-11-06T18:10:27Z",
+      "pushed_at": "2026-11-06T17:59:03Z",
+      "stars": 97378,
+      "author": "punkpeye",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "sa-election-data",
+      "description": "Counted: South African local election results, public API and IEC data syncing.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/jacques-blom/sa-election-data",
+      "updated_at": "2026-11-06T17:59:01Z",
+      "pushed_at": "2026-11-06T17:58:57Z",
+      "stars": 1,
+      "author": "jacques-blom",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "actors-copilot",
+      "description": "Next.JS AI Powered Web App for Actors",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CaioF/actors-copilot",
+      "updated_at": "2026-11-06T17:58:29Z",
+      "pushed_at": "2026-11-06T17:58:24Z",
+      "stars": 0,
+      "author": "CaioF",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "education-kb",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/gmilano/education-kb",
+      "updated_at": "2026-11-06T17:58:09Z",
+      "pushed_at": "2026-11-06T17:58:03Z",
+      "stars": 1,
+      "author": "gmilano",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "KoraSystems",
+      "description": "KoraSystems is a pnpm/Turborepo monorepo web application: that serves the platform UI and API on one origin. SwiftPOS, SalesPilot, Neobank, SME, supplier, customer, and admin surfaces are routes in that app",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/PhemcodeJay/KoraSystems",
+      "updated_at": "2026-11-06T17:57:20Z",
+      "pushed_at": "2026-11-06T17:57:16Z",
+      "stars": 1,
+      "author": "PhemcodeJay",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "mgkvibez",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mgkvibez/mgkvibez",
+      "updated_at": "2026-11-06T17:55:17Z",
+      "pushed_at": "2026-11-06T17:55:12Z",
+      "stars": 2,
+      "author": "mgkvibez",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "contracts",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Sports-Data-Africa/contracts",
+      "updated_at": "2026-11-06T17:54:33Z",
+      "pushed_at": "2026-11-06T17:54:29Z",
+      "stars": 0,
+      "author": "Sports-Data-Africa",
+      "q?": [
+        "location:ivory-coast",
+        "location:rwanda",
+        "location:morocco",
+        "africa package pushed:>=2024-01-01",
+        "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+        "africa in:readme package pushed:>=2025-01-01"
+      ]
+    },
+    {
+      "title": "hegemonia",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Phoenix7290/hegemonia",
+      "updated_at": "2026-11-06T17:54:34Z",
+      "pushed_at": "2026-11-06T17:54:29Z",
+      "stars": 0,
+      "author": "Phoenix7290",
       "q?": [
         "location:ivory-coast",
         "location:rwanda",
