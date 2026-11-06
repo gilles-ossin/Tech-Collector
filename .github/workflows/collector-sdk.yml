@@ -2,7 +2,7 @@ name: Robot de Collecte SDK
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # S'exécute toutes les 4 heures
+    - cron: '20 */3 * * *' # S'exécute toutes les 3 heures 20
   workflow_dispatch: # Permet de le lancer manuellement quand tu veux
 
 jobs:
@@ -26,13 +26,11 @@ jobs:
         run: pip install requests
 
       - name: Lancer le script de collecte
-        run: python Collectors/Parser-sdk.py
+        run: python /Collectors/Parser-sdk.py
 
-      - name: Mettre à jour automatiquement data.json sur GitHub
+      - name: Mettre à jour automatiquement SDKs.json sur GitHub
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: mise à jour automatique de data.json" && git push)
-          git pull --rebase origin main
-          git push origin main
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: mise à jour automatique de data.json" && git
