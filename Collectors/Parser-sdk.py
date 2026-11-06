@@ -4,309 +4,231 @@ import os
 import re
 import time
 from datetime import datetime, timedelta, timezone
-from urllib.parse import urljoin
-from Path import pathlib
+from pathlib import Path
 
 import requests
 
-API_URL = "https://api.github.com/search/repositories"
+SEARCH_URL = "https://api.github.com/search/repositories"
+USERS_SEARCH_URL = "https://api.github.com/search/users"
 GITHUB_API = "https://api.github.com"
 
-# Facultatif : un token augmente les limites de l'API GitHub.
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+MAX_ENRICHED_REPOS = 100   # None = enrichir tous les dépôts trouvés
+USERS_PER_LOCATION = 10    # devs les plus suivis retenus par lieu
+REPOS_PER_USER = 30        # dépôts récents examinés par dev
 
-# Limite les appels complémentaires pour éviter de dépasser trop vite
-# les quotas de l'API. Mets None pour enrichir tous les dépôts trouvés.
-MAX_ENRICHED_REPOS = 100
+# Lieux cherchés dans le champ "location" des profils GitHub (texte libre).
+LOCATIONS = [
+    "africa", "ghana", "kenya", "nigeria", "senegal", "ivory coast",
+    "côte d'ivoire", "cameroon", "morocco", "egypt", "rwanda", "mozambique",
+]
+
+# Racine du repo = dossier parent de Collectors/
+BASE_DIR = Path(__file__).resolve().parent.parent
+OUTPUT_PATH = BASE_DIR / "Datas" / "SDKs.json"
 
 SESSION = requests.Session()
 SESSION.headers.update({
     "Accept": "application/vnd.github+json",
     "X-GitHub-Api-Version": "2022-11-28",
 })
-if GITHUB_TOKEN:
-    SESSION.headers["Authorization"] = f"Bearer {GITHUB_TOKEN}"
+token = os.getenv("GITHUB_TOKEN")
+if token:
+    SESSION.headers["Authorization"] = f"Bearer {token}"
 
 
 def api_get(url, params=None):
-    """Effectue une requête GitHub et renvoie le JSON, ou None en cas d'échec."""
+    """Requête GitHub ; renvoie le JSON ou None en cas d'échec."""
     try:
         response = SESSION.get(url, params=params, timeout=30)
 
+        if response.status_code == 404:  # pas de README / release : normal
+            return None
         if response.status_code == 403 and response.headers.get("X-RateLimit-Remaining") == "0":
-            reset_at = response.headers.get("X-RateLimit-Reset")
-            print(f"⚠️ Quota GitHub atteint. Réinitialisation Unix : {reset_at}")
+            print(f"⚠️ Quota GitHub atteint (reset Unix : {response.headers.get('X-RateLimit-Reset')})")
             return None
 
         response.raise_for_status()
         return response.json()
-
-    except requests.exceptions.HTTPError as exc:
-        print(f"⚠️ Erreur HTTP sur {url}: {exc}")
-    except requests.exceptions.RequestException as exc:
-        print(f"⚠️ Erreur réseau sur {url}: {exc}")
-    except ValueError:
-        print(f"⚠️ Réponse JSON invalide : {url}")
-
-    return None
-
-
-def extract_documentation_url(readme_text, homepage):
-    """Repère un lien de documentation dans le README ; utilise homepage en repli."""
-    patterns = [
-        r'\[[^\]]*(?:documentation|docs|doc)[^\]]*\]\((https?://[^)\s]+)\)',
-        r'https?://[^\s<>)"]*(?:docs|documentation)[^\s<>)"]*',
-    ]
-
-    for pattern in patterns:
-        match = re.search(pattern, readme_text or "", flags=re.IGNORECASE)
-        if match:
-            return match.group(1) if match.lastindex else match.group(0)
-
-    return homepage or None
+    except (requests.RequestException, ValueError) as exc:
+        print(f"⚠️ Échec sur {url}: {exc}")
+        return None
 
 
 def decode_readme(readme_data):
-    """Décode le contenu Base64 renvoyé par l'API GitHub."""
     if not readme_data or not readme_data.get("content"):
         return None
-
     try:
-        raw = base64.b64decode(readme_data["content"])
-        return raw.decode("utf-8", errors="replace")
+        return base64.b64decode(readme_data["content"]).decode("utf-8", errors="replace")
     except (ValueError, TypeError):
         return None
 
 
-def enrich_repository(repo, owner_cache):
-    """Complète les champs qui nécessitent des endpoints GitHub supplémentaires."""
+def find_documentation_url(readme_text, homepage):
+    """Cherche un lien de doc dans le README, sinon utilise le homepage."""
+    patterns = [
+        r'\[[^\]]*(?:documentation|docs|doc)[^\]]*\]\((https?://[^)\s]+)\)',
+        r'https?://[^\s<>)"]*(?:docs|documentation)[^\s<>)"]*',
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, readme_text or "", flags=re.IGNORECASE)
+        if match:
+            return match.group(1) if match.lastindex else match.group(0)
+    return homepage or None
+
+
+def build_record(repo, query, crawled_at):
     owner = repo.get("owner") or {}
-    owner_login = owner.get("login")
-    full_name = repo.get("full_name")
-
-    # Les informations publiques du propriétaire sont mises en cache.
-    owner_data = None
-    if owner_login:
-        if owner_login not in owner_cache:
-            owner_cache[owner_login] = api_get(
-                f"{GITHUB_API}/users/{owner_login}"
-            )
-        owner_data = owner_cache[owner_login] or {}
-
-    readme_data = api_get(f"{GITHUB_API}/repos/{full_name}/readme") if full_name else None
-    readme_text = decode_readme(readme_data)
-
-    releases = api_get(
-        f"{GITHUB_API}/repos/{full_name}/releases/latest"
-    ) if full_name else None
-
-    license_data = repo.get("license") or {}
-    license_name = license_data.get("spdx_id") or license_data.get("name")
-
-    # Une absence de release ne signifie pas que le projet n'a pas de version :
-    # on laisse donc le champ vide plutôt que d'inventer une valeur.
-    version = (releases or {}).get("tag_name")
-
+    lic = repo.get("license") or {}
+    licence = lic.get("spdx_id") or lic.get("name")
+    homepage = repo.get("homepage") or None
     return {
-        "primary_language": repo.get("language"),
-        "documentation_url": extract_documentation_url(
-            readme_text, repo.get("homepage")
-        ),
-        "version": version,
-        "license": license_name,
+        "id": repo["id"],
+        "title": repo.get("name"),
+        "description": repo.get("description"),
+        "author_name": owner.get("login"),
+        "_source_url_": repo.get("html_url"),
         "stars": repo.get("stargazers_count", 0),
-        # GitHub ne fournit pas de notes moyennes ni de nombre d'avis
-        # comparables à ceux d'une plateforme d'évaluation.
+        "primary_language": repo.get("language"),
+        "documentation_url": homepage,
+        "version": None,
         "reviews_count": None,
         "average_rating": None,
-        "_location_": owner_data.get("location"),
+        "_location_": None,
         "_forks_": repo.get("forks_count", 0),
-        "_readme_length_": len(readme_text) if readme_text is not None else None,
-        "_website_": repo.get("homepage") or None,
-        "_licence_": license_name,
+        "_readme_length_": None,
+        "_website_": homepage,
+        "_licence_": licence,
         "_depreciated_": bool(repo.get("archived", False)),
-        "archived": bool(repo.get("archived", False)),
         "created_at": repo.get("created_at"),
+        "updated_at": repo.get("updated_at"),
         "pushed_at": repo.get("pushed_at"),
+        "_last_activity_": repo.get("pushed_at"),
         "topics": repo.get("topics", []),
-        "full_name": full_name,
+        "full_name": repo.get("full_name"),
         "default_branch": repo.get("default_branch"),
         "open_issues_count": repo.get("open_issues_count", 0),
         "owner_type": owner.get("type"),
-        "author_email": owner_data.get("email"),
-        "author_profile_url": owner_data.get("html_url"),
-        "author_avatar_url": owner_data.get("avatar_url"),
-        "readme_url": (readme_data or {}).get("html_url"),
-        "release_url": (releases or {}).get("html_url"),
+        "author_email": None,
+        "author_profile_url": owner.get("html_url"),
+        "author_avatar_url": owner.get("avatar_url"),
+        "readme_url": None,
+        "release_url": None,
+        "_crawled_at_": crawled_at,
+        "q?": query,
     }
+
+
+def enrich(record, owner_cache):
+    """Ajoute README, dernière release et infos publiques du propriétaire."""
+    full_name = record["full_name"]
+    login = record["author_name"]
+
+    if login and login not in owner_cache:
+        owner_cache[login] = api_get(f"{GITHUB_API}/users/{login}") or {}
+    owner = owner_cache.get(login, {})
+
+    readme = api_get(f"{GITHUB_API}/repos/{full_name}/readme")
+    readme_text = decode_readme(readme)
+    release = api_get(f"{GITHUB_API}/repos/{full_name}/releases/latest")
+
+    record.update({
+        "documentation_url": find_documentation_url(readme_text, record["_website_"]),
+        "version": (release or {}).get("tag_name"),
+        "_location_": owner.get("location"),
+        "_readme_length_": len(readme_text) if readme_text is not None else None,
+        "readme_url": (readme or {}).get("html_url"),
+        "release_url": (release or {}).get("html_url"),
+        "author_email": owner.get("email"),
+    })
+
+
+def collect_by_keywords(queries, records, crawled_at):
+    for query in queries:
+        print(f"\n🔍 Recherche : {query}")
+        data = api_get(SEARCH_URL, params={
+            "q": query, "sort": "updated", "order": "desc", "per_page": 100,
+        })
+        if data is None:
+            continue
+
+        print(f"📊 Résultats annoncés : {data.get('total_count', 0)}")
+        for repo in data.get("items", []):  # l'API renvoie "items"
+            if repo["id"] not in records:
+                records[repo["id"]] = build_record(repo, query, crawled_at)
+
+        time.sleep(2.5)  # l'API de recherche est limitée à ~30 req/min
+
+
+def collect_by_location(locations, since, records, crawled_at):
+    """Cherche les devs par lieu (search/users), puis liste leurs dépôts récents."""
+    for place in locations:
+        query = f'location:"{place}" repos:>0'
+        print(f"\n📍 Devs localisés : {place}")
+        data = api_get(USERS_SEARCH_URL, params={
+            "q": query, "sort": "followers", "order": "desc",
+            "per_page": USERS_PER_LOCATION,
+        })
+        time.sleep(2.5)
+        if data is None:
+            continue
+
+        for user in data.get("items", []):
+            repos = api_get(f"{GITHUB_API}/users/{user['login']}/repos", params={
+                "type": "owner", "sort": "pushed", "direction": "desc",
+                "per_page": REPOS_PER_USER,
+            })
+            time.sleep(0.15)
+
+            for repo in repos or []:
+                if repo.get("fork") or (repo.get("pushed_at") or "") < since:
+                    continue
+                if repo["id"] not in records:
+                    records[repo["id"]] = build_record(repo, f"location:{place} (users)", crawled_at)
 
 
 def run_collector():
     print("🤖 Le robot GitHub démarre...")
 
-    one_year_ago = (
-        datetime.now(timezone.utc) - timedelta(days=365)
-    ).strftime("%Y-%m-%d")
-
-    # Plusieurs recherches indépendantes
+    since = (datetime.now(timezone.utc) - timedelta(days=365)).strftime("%Y-%m-%d")
     queries = [
-        f"fintech-africa pushed:>={one_year_ago}",
-        f"africa-api african-api open-source-africa pushed:>={one_year_ago}",
-        f"africa-tech african-tech africa-sdk pushed:>={one_year_ago}",
-        f"africa package pushed:>={one_year_ago}",
-        f"africa in:readme sdk pushed:>={one_year_ago}",
-        f"open-source-africa in:readme package pushed:>=2024-01-01",
-        f"africa-tech african-tech africa-sdk in:readme package pushed:>=2024-01-01",
-        "location:africa",
-        "location:ghana",
-        "location:kenya",
-        "location:nigeria",
-        "location:senegal",
-        "location:ivory-coast",
-        "location:cameroon",
-        "location:morocco",
-        "location:egypt",
-        "location:rwanda",
-        "mozambique in:location",
+        f"fintech-africa pushed:>={since}",
+        f"africa-api african-api open-source-africa pushed:>={since}",
+        f"africa-tech african-tech africa-sdk pushed:>={since}",
+        f"africa package pushed:>={since}",
+        f"africa in:readme sdk pushed:>={since}",
+        "open-source-africa in:readme package pushed:>=2024-01-01",
+        "africa-tech african-tech africa-sdk in:readme package pushed:>=2024-01-01",
     ]
 
-    repositories = {}
+    records = {}
     owner_cache = {}
     crawled_at = datetime.now(timezone.utc).isoformat()
 
-    for query in queries:
-        print(f"\n🔍 Recherche : {query}")
+    collect_by_keywords(queries, records, crawled_at)
+    collect_by_location(LOCATIONS, since, records, crawled_at)
 
-        params = {
-            "q": query,
-            "sort": "updated",
-            "order": "desc",
-            "per_page": 100,
-        }
+    items = sorted(records.values(), key=lambda r: r["pushed_at"] or "", reverse=True)
+    limit = len(items) if MAX_ENRICHED_REPOS is None else min(len(items), MAX_ENRICHED_REPOS)
 
-        search_data = api_get(API_URL, params=params)
-        if search_data is None:
-            continue
-
-        total = search_data.get("total_count", 0)
-        print(f"📊 Résultats annoncés : {total}")
-
-        # Conservation volontaire de la clé "libraries" utilisée par ce script.
-        for repo in search_data.get("libraries", []):
-            repo_id = repo.get("id")
-            if repo_id is None or repo_id in repositories:
-                continue
-
-            license_data = repo.get("license") or {}
-            repositories[repo_id] = {
-                "id": repo_id,
-                "title": repo.get("name"),
-                "description": repo.get("description"),
-                "author_name": (repo.get("owner") or {}).get("login"),
-                "_source_url_": repo.get("html_url"),
-                "stars": repo.get("stargazers_count", 0),
-                "primary_language": repo.get("language"),
-                "documentation_url": repo.get("homepage") or None,
-                "version": None,
-                "license": license_data.get("spdx_id") or license_data.get("name"),
-                "reviews_count": None,
-                "average_rating": None,
-                "_location_": None,
-                "_forks_": repo.get("forks_count", 0),
-                "_readme_length_": None,
-                "_website_": repo.get("homepage") or None,
-                "_licence_": license_data.get("spdx_id") or license_data.get("name"),
-                "_depreciated_": bool(repo.get("archived", False)),
-                "archived": bool(repo.get("archived", False)),
-                "created_at": repo.get("created_at"),
-                "updated_at": repo.get("updated_at"),
-                "pushed_at": repo.get("pushed_at"),
-                "_last_activity_": repo.get("pushed_at"),
-                "topics": repo.get("topics", []),
-                "full_name": repo.get("full_name"),
-                "default_branch": repo.get("default_branch"),
-                "open_issues_count": repo.get("open_issues_count", 0),
-                "owner_type": (repo.get("owner") or {}).get("type"),
-                "author_email": None,
-                "author_profile_url": (repo.get("owner") or {}).get("html_url"),
-                "author_avatar_url": (repo.get("owner") or {}).get("avatar_url"),
-                "readme_url": None,
-                "release_url": None,
-                "_crawled_at_": crawled_at,
-                "q?": query,
-            }
-
-    # Enrichissement des dépôts uniques avec README, release et profil propriétaire.
-    items = sorted(
-        repositories.values(),
-        key=lambda item: item.get("pushed_at") or "",
-        reverse=True,
-    )
-
-    enrich_limit = (
-        len(items) if MAX_ENRICHED_REPOS is None
-        else min(len(items), MAX_ENRICHED_REPOS)
-    )
-
-    print(f"\n🔧 Enrichissement de {enrich_limit} dépôts sur {len(items)}...")
-    for index, item in enumerate(items[:enrich_limit], start=1):
-        print(f"   [{index}/{enrich_limit}] {item.get('full_name')}")
-        repo_data = {
-            "id": item["id"],
-            "name": item["title"],
-            "full_name": item["full_name"],
-            "owner": {
-                "login": item["author_name"],
-                "type": item["owner_type"],
-            },
-            "language": item["primary_language"],
-            "homepage": item["_website_"],
-            "license": {
-                "spdx_id": item["_licence_"],
-                "name": item["_licence_"],
-            } if item["_licence_"] else None,
-            "stargazers_count": item["stars"],
-            "forks_count": item["_forks_"],
-            "archived": item["archived"],
-            "created_at": item["created_at"],
-            "updated_at": item["updated_at"],
-            "pushed_at": item["pushed_at"],
-            "topics": item["topics"],
-            "default_branch": item["default_branch"],
-            "open_issues_count": item["open_issues_count"],
-            "html_url": item["_source_url_"],
-        }
-
-        enriched = enrich_repository(repo_data, owner_cache)
-        item.update(enriched)
-
-        # Les champs de date et d'activité proviennent du dépôt GitHub.
-        item["updated_at"] = repo_data.get("updated_at")
-        item["_last_activity_"] = repo_data.get("pushed_at")
-
-        # Petite pause pour éviter d'enchaîner trop brutalement les requêtes.
+    print(f"\n🔧 Enrichissement de {limit} dépôts sur {len(items)}...")
+    for index, record in enumerate(items[:limit], start=1):
+        print(f"   [{index}/{limit}] {record['full_name']}")
+        enrich(record, owner_cache)
         time.sleep(0.15)
 
-    # Les dépôts au-delà de la limite gardent les données disponibles
-    # dans la réponse de recherche ; les champs complémentaires restent None.
-    data = {
+    output = {
         "source": "github-actions-bot",
         "last_update": datetime.now(timezone.utc).isoformat(),
-        "queries_used": queries,
+        "queries_used": queries + [f"location:{p} (users)" for p in LOCATIONS],
         "total_found": len(items),
         "libraries": items,
     }
-    #Racine du repo = dossier parent de Collectors/
-    BASE_DIR = Path(__file__).resolve().parent.parent
-    SDKS_PATH = BASE_DIR / "Datas" / "SDKs.json"
-    
-    with open(SDKS_PATH, "w", encoding="utf-8") as file:
-        json.dump(data, file, ensure_ascii=False, indent=2)
 
-    print("\n" + "=" * 40)
-    print(f"✅ Collecte terminée : {len(items)} dépôts uniques")
-    print(f"🔧 Dépôts enrichis : {enrich_limit}")
-    print("=" * 40)
+    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as file:
+        json.dump(output, file, ensure_ascii=False, indent=2)
+
+    print(f"\n✅ {len(items)} dépôts uniques, {limit} enrichis → {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":
