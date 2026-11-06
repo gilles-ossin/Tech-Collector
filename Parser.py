@@ -14,12 +14,13 @@ def run_collector():
 
     # Plusieurs recherches indépendantes
     queries = [
-        f"location:ivory-coast",
-        f"africa package pushed:>={one_year_ago}",
-        f"africa african open-source-africa in:readme sdk pushed:>={one_year_ago}",
-        f"africa in:readme package pushed:>={one_year_ago}",
-    ]
-
+       "location:ivory-coast",
+       "location:rwanda",
+       "location:morocco",
+       "africa package pushed:>=2024-01-01",
+       "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+       "africa in:readme package pushed:>=2025-01-01"
+  ],
     headers = {
         "Accept": "application/vnd.github+json"
     }
