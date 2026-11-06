@@ -3,9 +3,11 @@
   "last_update": "2026-11-06T00:36:05.864071+00:00",
   "queries_used": [
     "location:ivory-coast",
-    "africa package pushed:>=2025-11-06",
-    "africa african open-source-africa in:readme sdk pushed:>=2025-11-06",
-    "africa in:readme package pushed:>=2025-11-06"
+    "location:rwanda",
+    "location:morocco",
+    "africa package pushed:>=2024-01-01",
+    "africa african open-source-africa in:readme package pushed:>=2025-01-01",
+    "africa in:readme package pushed:>=2025-01-01"
   ],
   "total_found": 203,
   "items": [
