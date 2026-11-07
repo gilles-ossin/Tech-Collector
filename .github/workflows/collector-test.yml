@@ -1,4 +1,4 @@
-name: Collector Test
+name: Collector initial Test
 
 on:
   schedule:
