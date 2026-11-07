@@ -1,4 +1,3 @@
-
 import json
 import re
 import html
@@ -30,7 +29,7 @@ SOURCES = [
     },
 ]
 
-ARTICLES_PER_SOURCE = 30
+ARTICLES_PER_SOURCE = 50
 MIN_SCORE = 1
 
 HEADERS = {
