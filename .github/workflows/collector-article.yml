@@ -1,4 +1,4 @@
-name: Article Collector
+name: Robot de Collecte Articles
 
 on:
   schedule:
@@ -26,7 +26,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.10"
           cache: pip
 
       - name: Install dependencies
@@ -42,7 +42,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add Datas/Article.json
+          git add Datas/Articles.json
 
           if git diff --cached --quiet; then
             echo "Aucun changement à enregistrer."
