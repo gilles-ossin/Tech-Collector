@@ -15,7 +15,7 @@ USER_URL = "https://api.github.com/users/{login}"
 USER_REPOS_URL = "https://api.github.com/users/{login}/repos"
 REPO_URL = "https://api.github.com/repos/{full_name}"
 
-MAX_ITEMS = 300            # nombre max de dépôts conservés (et enrichis)
+MAX_ITEMS = 250            # nombre max de dépôts conservés (et enrichis)
 USERS_PER_LOCATION = 6     # devs les plus suivis retenus par lieu
 REPOS_PER_USER = 30        # dépôts récents examinés par dev
 SINCE = "2025-01-01"       # aucun dépôt sans push depuis cette date
