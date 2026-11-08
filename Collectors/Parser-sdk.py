@@ -101,7 +101,6 @@ def build_record(repo, query, crawled_at):
         "_depreciated_": bool(repo.get("archived", False)),
         "created_at": repo.get("created_at"),
         "updated_at": repo.get("updated_at"),
-        "pushed_at": repo.get("pushed_at"),
         "_last_activity_": repo.get("pushed_at"),
         "topics": repo.get("topics", []),
         "full_name": repo.get("full_name"),
