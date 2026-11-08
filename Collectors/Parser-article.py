@@ -44,7 +44,7 @@ AFRICA_KEYWORDS = [
     "tanzania", "cameroon", "ethiopia",
     "south africa", "morocco", "egypt",
     "lagos", "nairobi", "abidjan",
-    "accra", "dakar", "kigali", maroc
+    "accra", "dakar", "kigali", "maroc",
 ]
 
 TECH_KEYWORDS = [
