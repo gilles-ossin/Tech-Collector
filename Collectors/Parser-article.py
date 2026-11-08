@@ -205,18 +205,35 @@ def get_image(entry):
 # PERTINENCE
 # ============================================================
 
+def _keyword_pattern(keyword):
+    """Mot entier uniquement (évite que 'ai' matche 'said', 'api' -> 'capital')."""
+    return re.compile(rf"(?<![a-z0-9]){re.escape(keyword)}(?![a-z0-9])")
+
+
+AFRICA_PATTERNS = [(kw, _keyword_pattern(kw)) for kw in AFRICA_KEYWORDS]
+TECH_PATTERNS = [(kw, _keyword_pattern(kw)) for kw in TECH_KEYWORDS]
+
+
+def find_matched_terms(text, patterns):
+    return [kw for kw, pattern in patterns if pattern.search(text)]
+
+
 def calculate_score(title, description):
+    """Retourne (score, q) où q = termes qui ont permis de retenir l'article."""
     text = f"{title} {description}".lower()
+
+    africa_terms = find_matched_terms(text, AFRICA_PATTERNS)
+    tech_terms = find_matched_terms(text, TECH_PATTERNS)
 
     score = 0
 
-    if any(word in text for word in AFRICA_KEYWORDS):
+    if africa_terms:
         score += 1
 
-    if any(word in text for word in TECH_KEYWORDS):
+    if tech_terms:
         score += 1
 
-    return score
+    return score, africa_terms + tech_terms
 
 
 # ============================================================
@@ -246,7 +263,7 @@ def normalize_article(entry, source):
                 content[0].get("value", "")
             )
 
-    score = calculate_score(title, description)
+    score, matched_terms = calculate_score(title, description)
 
     if score < MIN_SCORE:
         return None
@@ -284,6 +301,7 @@ def normalize_article(entry, source):
         "author_username": None,
         "tags": tags,
         "link": link,
+        "q": matched_terms,
         "img": [image] if image else [],
         "status": "pending",
         "created_at": published_at,
