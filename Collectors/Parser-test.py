@@ -375,6 +375,7 @@ def build_item(repo, owner, readme_text, release, country_hint, queries):
         "updated_at": repo.get("updated_at"),
         "reviews": [],
         "q": list(queries),  # toutes les requêtes qui ont permis de trouver ce dépôt
+        "last_activity": repo.get("pushed_at"),  # date du dernier push
     }
     # Dernier filet : aucune chaîne du JSON final ne doit contenir un secret
     return {key: redact(value) if isinstance(value, str) else value for key, value in item.items()}
