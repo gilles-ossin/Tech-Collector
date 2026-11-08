@@ -1,4 +1,4 @@
-name: Collector initial Test
+name: Collector Test
 
 on:
   schedule:
@@ -62,12 +62,22 @@ jobs:
           git commit -m "data(test): update initial_librairies.json"
 
           for attempt in 1 2 3 4 5; do
-            if git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH"; then
-              echo "Push réussi (tentative $attempt)."
-              exit 0
+            if git pull --rebase origin "$BRANCH"; then
+              if OUT=$(git push origin "HEAD:$BRANCH" 2>&1); then
+                echo "$OUT"
+                echo "Push réussi (tentative $attempt)."
+                exit 0
+              fi
+              echo "$OUT"
+              # Rejet par une règle du dépôt (ex. secret détecté) : réessayer ne servirait à rien
+              if echo "$OUT" | grep -qE "GH013|rule violations|secret"; then
+                echo "::error::Push bloqué par une règle du dépôt (secret détecté dans le JSON ?). Voir les lignes 'remote:' ci-dessus."
+                exit 1
+              fi
+            else
+              git rebase --abort 2>/dev/null || true
             fi
             echo "Push refusé (tentative $attempt/5), nouvel essai..."
-            git rebase --abort 2>/dev/null || true
             sleep $(( RANDOM % 10 + 5 * attempt ))
           done
 
