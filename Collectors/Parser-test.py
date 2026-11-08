@@ -5,6 +5,7 @@ import re
 import sys
 import time
 import unicodedata
+from collections import Counter
 from pathlib import Path
 
 import requests
@@ -336,7 +337,7 @@ def redact(text):
 # --------------------------------------------------------------------------
 # Construction d'un item (même structure que "libraries" de initial_data.json)
 # --------------------------------------------------------------------------
-def build_item(repo, owner, readme_text, release, country_hint):
+def build_item(repo, owner, readme_text, release, country_hint, queries):
     license_data = repo.get("license") or {}
     spdx = license_data.get("spdx_id") or ""
     if spdx == "NOASSERTION":
@@ -373,6 +374,7 @@ def build_item(repo, owner, readme_text, release, country_hint):
         "created_at": repo.get("created_at"),
         "updated_at": repo.get("updated_at"),
         "reviews": [],
+        "q": list(queries),  # toutes les requêtes qui ont permis de trouver ce dépôt
     }
     # Dernier filet : aucune chaîne du JSON final ne doit contenir un secret
     return {key: redact(value) if isinstance(value, str) else value for key, value in item.items()}
@@ -391,6 +393,14 @@ def looks_relevant(repo):
     return bool(RELEVANT_RE.search(text))
 
 
+def add_candidate(candidates, repo, country_hint, query):
+    """Enregistre un dépôt et mémorise TOUTES les requêtes qui l'ont trouvé."""
+    entry = candidates.setdefault(repo["id"], {"repo": repo, "country": "", "q": []})
+    entry["country"] = entry["country"] or country_hint
+    if query not in entry["q"]:
+        entry["q"].append(query)
+
+
 def collect_by_keywords(candidates):
     for query in KEYWORD_QUERIES:
         full_query = f"{query} pushed:>={SINCE} archived:false"
@@ -407,13 +417,16 @@ def collect_by_keywords(candidates):
         print(f"📊 Résultats trouvés : {data.get('total_count', 0)}")
         for repo in data.get("items", []):
             if repo.get("id") and not repo.get("fork") and not repo.get("archived"):
-                candidates.setdefault(repo["id"], (repo, ""))
+                add_candidate(candidates, repo, "", query)
 
 
 def collect_by_location(candidates):
     """Cherche les devs par lieu (search/users), puis garde leurs dépôts récents pertinents."""
-    seen_users = set()  # un dev trouvé via "nigeria" et "lagos" n'est listé qu'une fois
+    # login -> dépôts retenus : un dev trouvé via "nigeria" puis "lagos" n'est listé
+    # qu'une fois (économie de quota), mais les deux termes sont crédités de ses dépôts.
+    kept_by_user = {}
     for place, country in LOCATIONS.items():
+        query = f"location:{place}"
         if not budget_ok():
             print("⚠️ Quota API presque épuisé : recherche par lieu interrompue.")
             return
@@ -428,22 +441,40 @@ def collect_by_location(candidates):
             continue
 
         for user in data.get("items", []):
-            if user["login"] in seen_users:
+            login = user["login"]
+            if login in kept_by_user:
+                for repo in kept_by_user[login]:
+                    add_candidate(candidates, repo, country, query)
                 continue
-            seen_users.add(user["login"])
 
-            repos = api_get(USER_REPOS_URL.format(login=user["login"]), params={
+            repos = api_get(USER_REPOS_URL.format(login=login), params={
                 "type": "owner", "sort": "pushed", "direction": "desc",
                 "per_page": REPOS_PER_USER,
             })
             time.sleep(0.15)
 
+            kept_by_user[login] = []
             for repo in repos or []:
                 if repo.get("fork") or repo.get("archived") or not repo.get("id"):
                     continue
                 if (repo.get("pushed_at") or "") < SINCE or not looks_relevant(repo):
                     continue
-                candidates.setdefault(repo["id"], (repo, country))
+                kept_by_user[login].append(repo)
+                add_candidate(candidates, repo, country, query)
+
+
+def print_query_stats(items):
+    """Aide à juger les requêtes : dépôts retenus trouvés par chacune, dont ceux qu'elle est seule à trouver."""
+    found, unique = Counter(), Counter()
+    for item in items:
+        found.update(item["q"])
+        if len(item["q"]) == 1:
+            unique[item["q"][0]] += 1
+
+    queries = KEYWORD_QUERIES + [f"location:{place}" for place in LOCATIONS]
+    print("\n📈 Requêtes : dépôts retenus trouvés / dont uniques")
+    for query in sorted(queries, key=lambda q: (-found[q], q)):
+        print(f"   {found[query]:>4} / {unique[query]:<4} {query}")
 
 
 def run_collector():
@@ -457,7 +488,7 @@ def run_collector():
     # Les plus populaires sont enrichis en premier si le quota venait à manquer.
     ranked = sorted(
         candidates.values(),
-        key=lambda pair: (pair[0].get("stargazers_count", 0), pair[0].get("pushed_at") or ""),
+        key=lambda c: (c["repo"].get("stargazers_count", 0), c["repo"].get("pushed_at") or ""),
         reverse=True,
     )[:MAX_ITEMS]
 
@@ -465,7 +496,8 @@ def run_collector():
     owner_cache = {}
     items = []
     skipped = 0
-    for index, (repo, country_hint) in enumerate(ranked, start=1):
+    for index, candidate in enumerate(ranked, start=1):
+        repo = candidate["repo"]
         full_name = repo.get("full_name")
         login = (repo.get("owner") or {}).get("login")
         print(f"   [{index}/{len(ranked)}] {full_name}")
@@ -482,12 +514,13 @@ def run_collector():
             owner = owner_cache.get(login, {})
             skipped += 1
 
-        items.append(build_item(repo, owner, readme_text, release, country_hint))
+        items.append(build_item(repo, owner, readme_text, release, candidate["country"], candidate["q"]))
 
     if skipped:
         print(f"⚠️ Quota API presque épuisé : {skipped} dépôts ajoutés sans README ni release.")
     if REDACTIONS["count"]:
         print(f"🔒 {REDACTIONS['count']} champ(s) contenaient un secret probable : expurgés.")
+    print_query_stats(items)
 
     # Garde-fou : ne jamais écraser le fichier existant par un tableau vide
     # (quota atteint, panne réseau...). Le job échoue et rien n'est commité.
