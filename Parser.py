@@ -18,7 +18,7 @@ LOCATION_SINCE = "2025-01-01"  # on ignore les dépôts sans push depuis cette d
 LOCATIONS = ["ivory coast", "côte d'ivoire", "rwanda", "morocco"]
 
 # Fichier écrit dans le dossier d'où le script est lancé (racine du repo dans le workflow).
-OUTPUT_PATH = Path("Datas/data.json")
+OUTPUT_PATH = Path("Datas/data-devs.json")
 
 SESSION = requests.Session()
 SESSION.headers.update({
