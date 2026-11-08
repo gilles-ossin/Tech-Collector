@@ -15,7 +15,7 @@ USER_URL = "https://api.github.com/users/{login}"
 USER_REPOS_URL = "https://api.github.com/users/{login}/repos"
 REPO_URL = "https://api.github.com/repos/{full_name}"
 
-MAX_ITEMS = 250            # nombre max de dépôts conservés (et enrichis)
+MAX_ITEMS = 300            # nombre max de dépôts conservés (et enrichis)
 USERS_PER_LOCATION = 6     # devs les plus suivis retenus par lieu
 REPOS_PER_USER = 30        # dépôts récents examinés par dev
 SINCE = "2025-01-01"       # aucun dépôt sans push depuis cette date
@@ -294,6 +294,46 @@ def find_install_command(readme_text, repo_name):
 
 
 # --------------------------------------------------------------------------
+# Secrets : les README de SDK de paiement contiennent souvent des clés d'exemple
+# (parfois réelles). Rien qui ressemble à un identifiant ne doit être republié :
+# GitHub bloque le push (secret scanning) et ce serait une fuite de plus.
+# --------------------------------------------------------------------------
+PRIVATE_KEY_RE = re.compile(r"-----BEGIN [A-Z ]*PRIVATE KEY-----")
+SECRET_PATTERNS = [
+    re.compile(r"\b(?:sk|pk|rk)_(?:live|test)_\w{8,}"),          # Stripe, Paystack
+    re.compile(r"\bwhsec_\w{16,}"),                                # webhook Stripe
+    re.compile(r"\bFLW(?:SECK|PUBK)(?:_TEST)?-[\w-]{10,}"),       # Flutterwave
+    re.compile(r"\b(?:AKIA|ASIA)[0-9A-Z]{16}\b"),                  # AWS
+    re.compile(r"\bgh[pousr]_[A-Za-z0-9]{30,}"),                   # GitHub
+    re.compile(r"\bgithub_pat_[A-Za-z0-9_]{40,}"),
+    re.compile(r"\bxox[baprs]-[A-Za-z0-9-]{10,}"),                 # Slack
+    re.compile(r"\bAIza[0-9A-Za-z_\-]{35}"),                       # Google
+    re.compile(r"\bSK[0-9a-f]{32}\b"),                             # Twilio
+]
+# api_key = "valeur", token: valeur, Subscription-Key: valeur... (valeur de 16+ caractères,
+# hors références à une variable d'environnement ou à un placeholder évident)
+ASSIGNMENT_RE = re.compile(
+    r"""(?i)(\b\w*(?:api[_-]?key|secret|token|password|passwd|subscription[_-]?key)\w*["']?\s*[:=]\s*["']?)"""
+    r"""(?!process\.|os\.|env\.|getenv|\$|<|\{|\[|your)([^"'\s,;)]{16,})"""
+)
+REDACTIONS = {"count": 0}
+
+
+def redact(text):
+    """Remplace tout ce qui ressemble à une clé ou un secret par <REDACTED>."""
+    if PRIVATE_KEY_RE.search(text):
+        REDACTIONS["count"] += 1
+        return ""
+    cleaned = text
+    for pattern in SECRET_PATTERNS:
+        cleaned = pattern.sub("<REDACTED>", cleaned)
+    cleaned = ASSIGNMENT_RE.sub(lambda m: m.group(1) + "<REDACTED>", cleaned)
+    if cleaned != text:
+        REDACTIONS["count"] += 1
+    return cleaned
+
+
+# --------------------------------------------------------------------------
 # Construction d'un item (même structure que "libraries" de initial_data.json)
 # --------------------------------------------------------------------------
 def build_item(repo, owner, readme_text, release, country_hint):
@@ -306,7 +346,7 @@ def build_item(repo, owner, readme_text, release, country_hint):
     author_name = owner.get("name") or author_login
     homepage = repo.get("homepage") or ""
 
-    return {
+    item = {
         "id": repo["id"],
         "title": repo.get("name") or "",
         "slug": slugify(repo.get("full_name") or repo.get("name")),
@@ -334,6 +374,8 @@ def build_item(repo, owner, readme_text, release, country_hint):
         "updated_at": repo.get("updated_at"),
         "reviews": [],
     }
+    # Dernier filet : aucune chaîne du JSON final ne doit contenir un secret
+    return {key: redact(value) if isinstance(value, str) else value for key, value in item.items()}
 
 
 # --------------------------------------------------------------------------
@@ -444,6 +486,8 @@ def run_collector():
 
     if skipped:
         print(f"⚠️ Quota API presque épuisé : {skipped} dépôts ajoutés sans README ni release.")
+    if REDACTIONS["count"]:
+        print(f"🔒 {REDACTIONS['count']} champ(s) contenaient un secret probable : expurgés.")
 
     # Garde-fou : ne jamais écraser le fichier existant par un tableau vide
     # (quota atteint, panne réseau...). Le job échoue et rien n'est commité.
