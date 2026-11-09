@@ -2,8 +2,8 @@ name: Collector Events
 
 on:
   schedule:
-    # Décalé des autres bots (:00 articles, :20 SDK) pour éviter les collisions
-    - cron: "40 */12 * * *"
+    # Décalé des autres bots (:00 articles, SDK) pour éviter les collisions
+    - cron: "40 */5 * * *"
   workflow_dispatch:
 
 permissions:
