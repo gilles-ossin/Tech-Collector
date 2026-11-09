@@ -279,6 +279,139 @@
       "created_at": "2026-11-06T07:40:46Z",
       "updated_at": "2026-11-08T19:26:57+00:00",
       "id": 8
+    },
+    {
+      "title": "MTN’s South African data boom is not translating into revenue growth",
+      "slug": "mtns-south-african-data-boom-is-not-translating-into-revenue-growth",
+      "is_active": false,
+      "summary": "MTN South Africa’s customers are consuming more mobile data than ever, but the country’s second-largest mobile operator is finding it difficult to translate that demand into revenue growth.",
+      "content": {
+        "title": "MTN’s South African data boom is not translating into revenue growth",
+        "subtitle": "",
+        "desc": "MTN South Africa’s customers are consuming more mobile data than ever, but the country’s second-largest mobile operator is finding it difficult to translate that demand into revenue growth.",
+        "sections": []
+      },
+      "author_name": "Phathisani Moyo",
+      "author_username": null,
+      "tags": [
+        "Telecoms",
+        "MTN",
+        "MTN South Africa",
+        "Ralph Mupita",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/09/mtn-data-boom-revenue-growth",
+      "q": [
+        "africa",
+        "african",
+        "south africa",
+        "data",
+        "mobile"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-09T10:40:59Z",
+      "updated_at": "2026-11-09T11:10:58+00:00",
+      "id": 9
+    },
+    {
+      "title": "Nigeria could collect $75 million from crypto stamp duty in 2027",
+      "slug": "nigeria-could-collect-75-million-from-crypto-stamp-duty-in-2027",
+      "is_active": false,
+      "summary": "Nigeria’s crypto market received $38.1 billion in value between July 2025 and June 2026, according to blockchain analytics firm Chainalysis, highlighting the scale of a market the government hopes to tap to expand its tax base in 2027.",
+      "content": {
+        "title": "Nigeria could collect $75 million from crypto stamp duty in 2027",
+        "subtitle": "",
+        "desc": "Nigeria’s crypto market received $38.1 billion in value between July 2025 and June 2026, according to blockchain analytics firm Chainalysis, highlighting the scale of a market the government hopes to tap to expand its tax base in 2027.",
+        "sections": []
+      },
+      "author_name": "Temitayo Jaiyeola",
+      "author_username": null,
+      "tags": [
+        "Follow the Money",
+        "Crypto tax",
+        "Nigeria",
+        "Stamp duty",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/09/nigeria-crypto-stamp-duty-revenue-2027",
+      "q": [
+        "nigeria",
+        "blockchain"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-09T08:06:53Z",
+      "updated_at": "2026-11-09T11:10:58+00:00",
+      "id": 10
+    },
+    {
+      "title": "Nigeria’s telecom operators sue federal lawmakers over service-quality probe",
+      "slug": "nigerias-telecom-operators-sue-federal-lawmakers-over-service-quality-probe",
+      "is_active": false,
+      "summary": "Nigeria’s biggest telecom operators have sued the House of Representatives, challenging its constitutional authority to investigate network quality and summon their CEOs.",
+      "content": {
+        "title": "Nigeria’s telecom operators sue federal lawmakers over service-quality probe",
+        "subtitle": "",
+        "desc": "Nigeria’s biggest telecom operators have sued the House of Representatives, challenging its constitutional authority to investigate network quality and summon their CEOs.",
+        "sections": []
+      },
+      "author_name": "Frank Eleanya",
+      "author_username": null,
+      "tags": [
+        "Telecoms",
+        "ALTON",
+        "internet",
+        "NCC",
+        "Nigeria",
+        "Telecom Operators",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/09/nigerian-telecom-operators-sue-reps",
+      "q": [
+        "nigeria",
+        "telecom"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-09T07:53:51Z",
+      "updated_at": "2026-11-09T11:10:58+00:00",
+      "id": 11
+    },
+    {
+      "title": "👨🏿‍🚀TechCabal Daily – Nigeria tightens stablecoin rules",
+      "slug": "techcabal-daily-nigeria-tightens-stablecoin-rules",
+      "is_active": false,
+      "summary": "In today's edition: Quickmart IPO draws strong demand || Nigeria tightens stablecoin rules || Kenya targets social media giants || Côte d’Ivoire opens cyber hub",
+      "content": {
+        "title": "👨🏿‍🚀TechCabal Daily – Nigeria tightens stablecoin rules",
+        "subtitle": "",
+        "desc": "In today's edition: Quickmart IPO draws strong demand || Nigeria tightens stablecoin rules || Kenya targets social media giants || Côte d’Ivoire opens cyber hub",
+        "sections": []
+      },
+      "author_name": "Emmanuel Nwosu",
+      "author_username": null,
+      "tags": [
+        "Newsletters",
+        "TC Daily",
+        "CBN",
+        "cybersecurity",
+        "Quickmart",
+        "tiktok",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/09/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-nigeria-tightens-stablecoin-rules",
+      "q": [
+        "nigeria",
+        "kenya"
+      ],
+      "img": [
+        "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2024/08/tc-daily-banner.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-09T06:08:44Z",
+      "updated_at": "2026-11-09T11:10:58+00:00",
+      "id": 12
     }
   ]
 }
