@@ -1,0 +1,85 @@
+name: Collector Events 
+
+on:
+  schedule:
+    # Décalé des autres bots (:00 articles, :20 SDK) pour éviter les collisions
+    - cron: "40 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Une seule exécution de CE workflow à la fois. Les autres bots ont leur propre
+# groupe : ils collectent en parallèle, la sérialisation se fait au moment du push.
+concurrency:
+  group: collector-test
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run events collector
+        run: python Collectors/Parser-event.py
+        env:
+          # Le GITHUB_TOKEN d'Actions est limité à ~1000 requêtes/heure ; un token perso
+          # (secret COLLECTOR_TOKEN, sans aucun droit nécessaire) en offre 5000. Optionnel.
+          GITHUB_TOKEN: ${{ secrets.COLLECTOR_TOKEN || secrets.GITHUB_TOKEN }}
+
+      # Push différé : la collecte peut durer plusieurs minutes pendant lesquelles
+      # un autre bot a pu pousser. On commite d'abord, puis on se resynchronise
+      # (rebase) juste avant le push, avec plusieurs tentatives.
+      - name: Commit and push JSON changes
+        run: |
+          FILE="Datas/Events.json"
+          BRANCH="${GITHUB_REF_NAME}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "$FILE"
+          if git diff --cached --quiet; then
+            echo "Aucun changement à enregistrer."
+            exit 0
+          fi
+          git commit -m "data(test): update Events.json"
+
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase origin "$BRANCH"; then
+              if OUT=$(git push origin "HEAD:$BRANCH" 2>&1); then
+                echo "$OUT"
+                echo "Push réussi (tentative $attempt)."
+                exit 0
+              fi
+              echo "$OUT"
+              # Rejet par une règle du dépôt (ex. secret détecté) : réessayer ne servirait à rien
+              if echo "$OUT" | grep -qE "GH013|rule violations|secret"; then
+                echo "::error::Push bloqué par une règle du dépôt (secret détecté dans le JSON ?). Voir les lignes 'remote:' ci-dessus."
+                exit 1
+              fi
+            else
+              git rebase --abort 2>/dev/null || true
+            fi
+            echo "Push refusé (tentative $attempt/5), nouvel essai..."
+            sleep $(( RANDOM % 10 + 5 * attempt ))
+          done
+
+          echo "::error::Push impossible après 5 tentatives."
+          exit 1
