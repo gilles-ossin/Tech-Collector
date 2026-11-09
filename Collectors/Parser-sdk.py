@@ -206,7 +206,7 @@ def run_collector():
     collect_by_keywords(queries, records, crawled_at)
     collect_by_location(LOCATIONS, since, records, crawled_at)
 
-    items = sorted(records.values(), key=lambda r: r["pushed_at"] or "", reverse=True)
+    items = sorted(records.values(), key=lambda r: r.get("_last_activity_") or "", reverse=True)
     limit = len(items) if MAX_ENRICHED_REPOS is None else min(len(items), MAX_ENRICHED_REPOS)
 
     print(f"\n🔧 Enrichissement de {limit} dépôts sur {len(items)}...")
