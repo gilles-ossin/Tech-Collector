@@ -4003,6 +4003,411 @@
       "created_at": "2026-11-08T20:43:50Z",
       "updated_at": "2026-11-09T22:09:19+00:00",
       "id": 123
+    },
+    {
+      "title": "Nigeria turns to hybrid cloud infrastructure for its postcode database",
+      "slug": "nigeria-turns-to-hybrid-cloud-infrastructure-for-its-postcode-database",
+      "is_active": false,
+      "summary": "TechCabal reported that technical checks of postcode.gov.ng’s public domain name system (DNS) records pointed to Amazon Web Services (AWS) infrastructure in the United States. The finding raised questions about whether a critical public digital asset was hosted abroad, just as Nigeria strengthens its push for data sovereignty.",
+      "content": {
+        "title": "Nigeria turns to hybrid cloud infrastructure for its postcode database",
+        "subtitle": "",
+        "desc": "TechCabal reported that technical checks of postcode.gov.ng’s public domain name system (DNS) records pointed to Amazon Web Services (AWS) infrastructure in the United States. The finding raised questions about whether a critical public digital asset was hosted abroad, just as Nigeria strengthens its push for data sovereignty.",
+        "sections": []
+      },
+      "author_name": "Progress Godfrey",
+      "author_username": null,
+      "tags": [
+        "Enterprise & Policy",
+        "Analysis",
+        "Government",
+        "AWS",
+        "Cloud infrastructure",
+        "Galaxy Backbone",
+        "Nigeria",
+        "Postcode",
+        "Postcode Database",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/10/nigeria-hybrid-cloud-storage-postcode",
+      "q": [
+        "nigeria",
+        "cloud",
+        "data",
+        "digital"
+      ],
+      "img": [
+        "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/11-Digital-Alphanumeric-Postcode-System-NDAPS-NIPOST.webp"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-10T06:21:31Z",
+      "updated_at": "2026-11-10T06:47:58+00:00",
+      "id": 124
+    },
+    {
+      "title": "👨🏿‍🚀TechCabal Daily – ‘Too much Access’",
+      "slug": "techcabal-daily-too-much-access",
+      "is_active": false,
+      "summary": "In today's edition: Access weighs foreign market exit || Kenya banks face conflicting deadlines || MTN and Cell C hit impasse || Yoco secures $100 million for lending",
+      "content": {
+        "title": "👨🏿‍🚀TechCabal Daily – ‘Too much Access’",
+        "subtitle": "",
+        "desc": "In today's edition: Access weighs foreign market exit || Kenya banks face conflicting deadlines || MTN and Cell C hit impasse || Yoco secures $100 million for lending",
+        "sections": []
+      },
+      "author_name": "Emmanuel Nwosu",
+      "author_username": null,
+      "tags": [
+        "Newsletters",
+        "TC Daily",
+        "access bank",
+        "Cell C",
+        "MTN",
+        "Yoco",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/10/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-too-much-access",
+      "q": [
+        "kenya"
+      ],
+      "img": [
+        "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2024/08/tc-daily-banner.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-10T06:00:12Z",
+      "updated_at": "2026-11-10T06:47:58+00:00",
+      "id": 125
+    },
+    {
+      "title": "Avec WayaWaya, Teddy Ogallo unifie les services financiers en Afrique",
+      "slug": "avec-wayawaya-teddy-ogallo-unifie-les-services-financiers-en-afrique",
+      "is_active": false,
+      "summary": "Written by: Melchior Koba Entre innovation technologique et démocratisation financière, son parcours redéfinit les standards du commerce en ligne. Derrière une interface de messagerie populaire se cache une ambition continentale qui transforme profondément la relation client. Entrepreneur kényan, Teddy Ogallo (photo) est le fondateur de WayaWaya, une entreprise technologique créée en 2016. Elle développe des solutions numériques qui permettent aux entreprises, aux banques et aux institutions fin",
+      "content": {
+        "title": "Avec WayaWaya, Teddy Ogallo unifie les services financiers en Afrique",
+        "subtitle": "",
+        "desc": "Written by: Melchior Koba Entre innovation technologique et démocratisation financière, son parcours redéfinit les standards du commerce en ligne. Derrière une interface de messagerie populaire se cache une ambition continentale qui transforme profondément la relation client. Entrepreneur kényan, Teddy Ogallo (photo) est le fondateur de WayaWaya, une entreprise technologique créée en 2016. Elle développe des solutions numériques qui permettent aux entreprises, aux banques et aux institutions financières de proposer leurs services sur des plateformes de messagerie comme WhatsApp. Sa technologie facilite également les paiements et les transferts d'argent entre plusieurs pays. WayaWaya s'appuie sur l'intelligence artificielle pour automatiser les échanges avec les clients. Sa plateforme permet notamment aux entreprises de créer des assistants virtuels capables de présenter leurs produits, de répondre aux questions des consommateurs, de prendre des commandes et d'encaisser des paiements. C",
+        "sections": []
+      },
+      "author_name": "Melchior Koba",
+      "author_username": null,
+      "tags": [
+        "Tech Stars",
+        "WHOSWHO",
+        "FINTECH",
+        "WeAreTech Africa"
+      ],
+      "link": "http://www.wearetech.africa/fr/fils/tech-stars/avec-wayawaya-teddy-ogallo-unifie-les-services-financiers-en-afrique",
+      "q": [
+        "afrique",
+        "mobile",
+        "innovation"
+      ],
+      "img": [
+        "https://www.wearetech.africa/media/k2/items/cache/a7673b69307200ecfcce69d9343c8943_L.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-10T06:46:23Z",
+      "updated_at": "2026-11-10T06:48:00+00:00",
+      "id": 126
+    },
+    {
+      "title": "Le fonds nigérian USPF lance un concours d’innovation doté de plus de 7400 $",
+      "slug": "le-fonds-nigerian-uspf-lance-un-concours-dinnovation-dote-de-plus-de-7400",
+      "is_active": false,
+      "summary": "Written by: La Rédaction Le Fonds de fourniture du service universel du Nigeria a ouvert les candidatures pour son concours d'innovation. L'initiative s'adresse aux équipes locales développant des solutions technologiques pour les zones rurales non desservies. Les trois meilleures propositions se partageront 10 millions de nairas (plus de 7400 $) et les finalistes bénéficieront d'un programme d'incubation de quatre semaines pour concrétiser leurs projets. Lire aussi: WhatsApp permet désormais d'",
+      "content": {
+        "title": "Le fonds nigérian USPF lance un concours d’innovation doté de plus de 7400 $",
+        "subtitle": "",
+        "desc": "Written by: La Rédaction Le Fonds de fourniture du service universel du Nigeria a ouvert les candidatures pour son concours d'innovation. L'initiative s'adresse aux équipes locales développant des solutions technologiques pour les zones rurales non desservies. Les trois meilleures propositions se partageront 10 millions de nairas (plus de 7400 $) et les finalistes bénéficieront d'un programme d'incubation de quatre semaines pour concrétiser leurs projets. Lire aussi: WhatsApp permet désormais d'inviter des non-utilisateurs à des événements par lien",
+        "sections": []
+      },
+      "author_name": "La Rédaction",
+      "author_username": null,
+      "tags": [
+        "Breves_Une",
+        "WeAreTech Africa"
+      ],
+      "link": "http://www.wearetech.africa/fr/fils/breves/breves-une/le-fonds-nigerian-uspf-lance-un-concours-d-innovation-dote-de-plus-de-7400",
+      "q": [
+        "nigeria",
+        "innovation"
+      ],
+      "img": [
+        "https://www.wearetech.africa/media/k2/items/cache/f3604d65b2f4d7c7fc754bb39a587343_L.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-10T06:44:54Z",
+      "updated_at": "2026-11-10T06:48:00+00:00",
+      "id": 127
+    },
+    {
+      "title": "La sixième édition du congrès Digital Now se tiendra le mois prochain au Maroc",
+      "slug": "la-sixieme-edition-du-congres-digital-now-se-tiendra-le-mois-prochain-au-maroc",
+      "is_active": false,
+      "summary": "Written by: La Rédaction Le congrès international Digital Now tiendra sa sixième édition les 9, 10 et 11 décembre à Casablanca, au Maroc. Organisé par le Club des Dirigeants, cet événement réunira décideurs publics, entreprises et jeunes pousses pour échanger sur la transformation numérique et la cybersécurité. Le rassemblement proposera des rencontres d'affaires, des ateliers et des conférences axés sur les technologies innovantes en Afrique. Lire aussi: TikTok lance une application dédiée pour",
+      "content": {
+        "title": "La sixième édition du congrès Digital Now se tiendra le mois prochain au Maroc",
+        "subtitle": "",
+        "desc": "Written by: La Rédaction Le congrès international Digital Now tiendra sa sixième édition les 9, 10 et 11 décembre à Casablanca, au Maroc. Organisé par le Club des Dirigeants, cet événement réunira décideurs publics, entreprises et jeunes pousses pour échanger sur la transformation numérique et la cybersécurité. Le rassemblement proposera des rencontres d'affaires, des ateliers et des conférences axés sur les technologies innovantes en Afrique. Lire aussi: TikTok lance une application dédiée pour concurrencer les sites d'e-commerce",
+        "sections": []
+      },
+      "author_name": "La Rédaction",
+      "author_username": null,
+      "tags": [
+        "Breves_Une",
+        "WeAreTech Africa"
+      ],
+      "link": "http://www.wearetech.africa/fr/fils/breves/breves-une/la-sixieme-edition-du-congres-digital-now-se-tiendra-le-mois-prochain-au-maroc",
+      "q": [
+        "afrique",
+        "maroc",
+        "digital",
+        "e-commerce"
+      ],
+      "img": [
+        "https://www.wearetech.africa/media/k2/items/cache/ee3b203c810a77220d1f300c7287adbd_L.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-10T06:43:02Z",
+      "updated_at": "2026-11-10T06:48:00+00:00",
+      "id": 128
+    },
+    {
+      "title": "Grants aren’t a consolation prize: rethinking non-dilutive capital for early-stage founders",
+      "slug": "grants-arent-a-consolation-prize-rethinking-non-dilutive-capital-for-early-stage-founders",
+      "is_active": false,
+      "summary": "Ask an African founder how they funded their first year and you will often hear a slightly apologetic answer: “We did some grants while we figured out the VC side”. The tone matters. It suggests grants are what you take when the real money says “no” – a holding pattern, a consolation prize for not [...] The post Grants aren’t a consolation prize: rethinking non-dilutive capital for early-stage founders appeared first on Disrupt Africa .",
+      "content": {
+        "title": "Grants aren’t a consolation prize: rethinking non-dilutive capital for early-stage founders",
+        "subtitle": "",
+        "desc": "Ask an African founder how they funded their first year and you will often hear a slightly apologetic answer: “We did some grants while we figured out the VC side”. The tone matters. It suggests grants are what you take when the real money says “no” – a holding pattern, a consolation prize for not [...] The post Grants aren’t a consolation prize: rethinking non-dilutive capital for early-stage founders appeared first on Disrupt Africa .",
+        "sections": []
+      },
+      "author_name": "Tom Jackson",
+      "author_username": null,
+      "tags": [
+        "East Africa",
+        "Features",
+        "North Africa",
+        "Southern Africa",
+        "West Africa",
+        "featured",
+        "Disrupt Africa"
+      ],
+      "link": "https://disruptafrica.com/2026/11/10/grants-arent-a-consolation-prize-rethinking-non-dilutive-capital-for-early-stage-founders",
+      "q": [
+        "africa",
+        "african"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-10T06:00:24Z",
+      "updated_at": "2026-11-10T06:48:02+00:00",
+      "id": 129
+    },
+    {
+      "title": "Afrique du Sud: arrestation de personnes suspectées d’avoir été recrutées pour partir en Ukraine",
+      "slug": "afrique-du-sud-arrestation-de-personnes-suspectees-davoir-ete-recrutees-pour-partir-en-ukraine",
+      "is_active": false,
+      "summary": "En Afrique du Sud, la police a annoncé, lundi 9 novembre, avoir procédé à l’arrestation de neuf ressortissants zimbabwéens, soupçonnés d’avoir eu l’intention d’aller se battre sur le front russo-ukrainien. Il s’agit d’une opération effectuée sur la base d’une enquête menée avec Interpol et d’autres agences, locales et internationales, alors que les citoyens africains sont la cible, depuis le début de la guerre, de campagnes de recrutement visant à les enrôler dans l’armée russe.",
+      "content": {
+        "title": "Afrique du Sud: arrestation de personnes suspectées d’avoir été recrutées pour partir en Ukraine",
+        "subtitle": "",
+        "desc": "En Afrique du Sud, la police a annoncé, lundi 9 novembre, avoir procédé à l’arrestation de neuf ressortissants zimbabwéens, soupçonnés d’avoir eu l’intention d’aller se battre sur le front russo-ukrainien. Il s’agit d’une opération effectuée sur la base d’une enquête menée avec Interpol et d’autres agences, locales et internationales, alors que les citoyens africains sont la cible, depuis le début de la guerre, de campagnes de recrutement visant à les enrôler dans l’armée russe.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261110-afrique-du-sud-arrestation-de-personnes-suspect%C3%A9es-recrut%C3%A9es-pour-partir-en-ukraine",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/f7578edc-bc54-11f1-a6dc-555a0aff87a4/w:1024/p:16x9/RUSSIE-ARMEE-SOLDATS.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-10T06:23:00Z",
+      "updated_at": "2026-11-10T06:48:37+00:00",
+      "id": 130
+    },
+    {
+      "title": "JOJ Dakar 2026: le Sénégal décroche sa quatrième médaille d'or grâce au basket à trois masculin",
+      "slug": "joj-dakar-2026-le-senegal-decroche-sa-quatrieme-medaille-d-or-grace-au-basket-a-trois-masculin",
+      "is_active": false,
+      "summary": "Après la lutte qui a apporté au pays hôte ses trois premiers titres olympiques pendant le week-end, l’équipe masculine de basket à trois a offert au Sénégal une quatrième médaille d'or en trois jours, lundi 9 novembre, en s'imposant en prolongations face à la Lituanie. Un peu plus tôt, l'équipe féminine lui avait ouvert la voie en décrochant une médaille de bronze.",
+      "content": {
+        "title": "JOJ Dakar 2026: le Sénégal décroche sa quatrième médaille d'or grâce au basket à trois masculin",
+        "subtitle": "",
+        "desc": "Après la lutte qui a apporté au pays hôte ses trois premiers titres olympiques pendant le week-end, l’équipe masculine de basket à trois a offert au Sénégal une quatrième médaille d'or en trois jours, lundi 9 novembre, en s'imposant en prolongations face à la Lituanie. Un peu plus tôt, l'équipe féminine lui avait ouvert la voie en décrochant une médaille de bronze.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Sports",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/sports/20261110-joj-dakar-2026-le-s%C3%A9n%C3%A9gal-d%C3%A9croche-sa-quatri%C3%A8me-m%C3%A9daille-d-or-gr%C3%A2ce-au-basket-%C3%A0-trois-masculin",
+      "q": [
+        "dakar"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/8c917f50-dcab-11f1-a008-1beafce15fea/w:1024/p:16x9/PRW-6657.jpeg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-10T04:03:16Z",
+      "updated_at": "2026-11-10T06:48:37+00:00",
+      "id": 131
+    },
+    {
+      "title": "Crise migratoire à Ceuta: les autorités espagnoles vont étendre les barrières maritimes",
+      "slug": "crise-migratoire-a-ceuta-les-autorites-espagnoles-vont-etendre-les-barrieres-maritimes",
+      "is_active": false,
+      "summary": "Le 30 juillet 2026, près de 70 000 personnes, pour la plupart de jeunes hommes marocains, arrivaient à Ceuta, petite enclave espagnole située à l'extrême nord du Maroc. Ils franchissaient la frontière pour tenter de rejoindre l'Europe. Un peu plus de trois mois après la crise migratoire, les autorités espagnoles vont lancer très prochainement des travaux d'extension des barrières maritimes, tout en renforçant les dispositifs physiques sur place, pour limiter les nouvelles tentatives de franchiss",
+      "content": {
+        "title": "Crise migratoire à Ceuta: les autorités espagnoles vont étendre les barrières maritimes",
+        "subtitle": "",
+        "desc": "Le 30 juillet 2026, près de 70 000 personnes, pour la plupart de jeunes hommes marocains, arrivaient à Ceuta, petite enclave espagnole située à l'extrême nord du Maroc. Ils franchissaient la frontière pour tenter de rejoindre l'Europe. Un peu plus de trois mois après la crise migratoire, les autorités espagnoles vont lancer très prochainement des travaux d'extension des barrières maritimes, tout en renforçant les dispositifs physiques sur place, pour limiter les nouvelles tentatives de franchissement par la nage.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261110-crise-migratoire-%C3%A0-ceuta-les-autorit%C3%A9s-espagnoles-vont-%C3%A9tendre-les-barri%C3%A8res-maritimes",
+      "q": [
+        "maroc"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/1ee3a552-c0ed-11f1-b3dd-1ff0321dbbd3/w:1024/p:16x9/2026-10-05T135747Z-788429961-RC2UWNAZ0MLV-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-10T04:05:08Z",
+      "updated_at": "2026-11-10T06:48:37+00:00",
+      "id": 132
+    },
+    {
+      "title": "Nigeria: le parti au pouvoir poursuit ses attaques contre l’opposition",
+      "slug": "nigeria-le-parti-au-pouvoir-poursuit-ses-attaques-contre-lopposition",
+      "is_active": false,
+      "summary": "À la suite d'une décision de justice rendue le 5 novembre disqualifiant la direction du Congrès démocratique africain (ADC) qui a automatiquement débouché sur l’annulation de la nomination de son candidat à la présidentielle de 2027, Atiku Abubakar, le Congrès des progressistes (APC) au pouvoir est soupçonné de vouloir éradiquer toute opposition. D'autant plus qu'en attendant que la commission électorale se prononce sur cette décision - qui fait aussi l'objet d'un recours en appel -, celui-ci co",
+      "content": {
+        "title": "Nigeria: le parti au pouvoir poursuit ses attaques contre l’opposition",
+        "subtitle": "",
+        "desc": "À la suite d'une décision de justice rendue le 5 novembre disqualifiant la direction du Congrès démocratique africain (ADC) qui a automatiquement débouché sur l’annulation de la nomination de son candidat à la présidentielle de 2027, Atiku Abubakar, le Congrès des progressistes (APC) au pouvoir est soupçonné de vouloir éradiquer toute opposition. D'autant plus qu'en attendant que la commission électorale se prononce sur cette décision - qui fait aussi l'objet d'un recours en appel -, celui-ci continue d'attaquer ses opposants.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261110-nigeria-le-parti-au-pouvoir-poursuit-ses-attaques-contre-l-opposition",
+      "q": [
+        "nigeria"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/fbbd520c-a108-11f1-bdb3-005056bfb2b6/w:1024/p:16x9/Tinubu.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-10T04:05:27Z",
+      "updated_at": "2026-11-10T06:48:37+00:00",
+      "id": 133
+    },
+    {
+      "title": "Sahara occidental: l'épineux dossier de la Minurso à nouveau en discussion à l'ONU",
+      "slug": "sahara-occidental-l-epineux-dossier-de-la-minurso-a-nouveau-en-discussion-a-l-onu",
+      "is_active": false,
+      "summary": "Le dossier de la mission des Nations unies au Sahara occidental (Minurso) sera discuté à l'Assemblée générale mardi 10 novembre, près de dix jours après le véto russe au Conseil de sécurité, qui a précipité la fin de la Minurso. La Russie devra notamment expliquer pourquoi elle s'est opposée au projet de résolution renouvelant le mandat de la mission, porté par les États-Unis. Des réactions vives sont également attendues du côté du Maroc et de l'Algérie.",
+      "content": {
+        "title": "Sahara occidental: l'épineux dossier de la Minurso à nouveau en discussion à l'ONU",
+        "subtitle": "",
+        "desc": "Le dossier de la mission des Nations unies au Sahara occidental (Minurso) sera discuté à l'Assemblée générale mardi 10 novembre, près de dix jours après le véto russe au Conseil de sécurité, qui a précipité la fin de la Minurso. La Russie devra notamment expliquer pourquoi elle s'est opposée au projet de résolution renouvelant le mandat de la mission, porté par les États-Unis. Des réactions vives sont également attendues du côté du Maroc et de l'Algérie.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261109-sahara-occidental-l-%C3%A9pineux-dossier-de-la-minurso-%C3%A0-nouveau-en-discussion-%C3%A0-l-onu",
+      "q": [
+        "maroc"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/496ff4dc-d69c-11f1-b9d2-695cb59fade5/w:1024/p:16x9/000-8VV7ZZ.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-09T22:08:43Z",
+      "updated_at": "2026-11-10T06:48:37+00:00",
+      "id": 134
+    },
+    {
+      "title": "JOJ Dakar 2026: de l’argent pour Maria Saadi, espoir de l’athlétisme marocain",
+      "slug": "joj-dakar-2026-de-largent-pour-maria-saadi-espoir-de-lathletisme-marocain",
+      "is_active": false,
+      "summary": "Longtemps en tête du concours de saut en longueur, la Marocaine Maria Saadi, 15 ans, a vu l’or lui échapper lors du dernier essai de l’Italienne Poko Silvia Canape. Enveloppée dans le drapeau national, elle est pourtant arrivée en zone mixte avec le sourire. Cette médaille récompense déjà un parcours commencé dans un petit club de Casablanca.",
+      "content": {
+        "title": "JOJ Dakar 2026: de l’argent pour Maria Saadi, espoir de l’athlétisme marocain",
+        "subtitle": "",
+        "desc": "Longtemps en tête du concours de saut en longueur, la Marocaine Maria Saadi, 15 ans, a vu l’or lui échapper lors du dernier essai de l’Italienne Poko Silvia Canape. Enveloppée dans le drapeau national, elle est pourtant arrivée en zone mixte avec le sourire. Cette médaille récompense déjà un parcours commencé dans un petit club de Casablanca.",
+        "sections": []
+      },
+      "author_name": "Ndiassé Sambe",
+      "author_username": null,
+      "tags": [
+        "Sports",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/sports/20261109-joj-dakar-2026-de-l-argent-pour-maria-saadi-espoir-de-l-athl%C3%A9tisme-marocain",
+      "q": [
+        "dakar"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/b20850a8-dc68-11f1-aa62-1beafce15fea/w:1024/p:16x9/20261109-160514-bis.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-09T18:15:02Z",
+      "updated_at": "2026-11-10T06:48:37+00:00",
+      "id": 135
+    },
+    {
+      "title": "Cameroun: ruée vers les guichets pour échanger les anciennes pièces démonétisées",
+      "slug": "cameroun-ruee-vers-les-guichets-pour-echanger-les-anciennes-pieces-demonetisees",
+      "is_active": false,
+      "summary": "C'est une opération qui fait grand bruit dans la zone Cemac (Communauté économique et monétaire de l'Afrique centrale). Depuis le 1er novembre, la démonétisation des anciennes pièces (1958, 1959, 1971, 1976 et 1985) est entrée en vigueur. Si la Banque des États d'Afrique centrale (BEAC) annonce un retrait progressif sur une année, dans les commerces comme dans les banques, de nombreux Camerounais font la queue aux guichets pour échanger leurs anciennes pièces. Un circuit parallèle a même vu le j",
+      "content": {
+        "title": "Cameroun: ruée vers les guichets pour échanger les anciennes pièces démonétisées",
+        "subtitle": "",
+        "desc": "C'est une opération qui fait grand bruit dans la zone Cemac (Communauté économique et monétaire de l'Afrique centrale). Depuis le 1er novembre, la démonétisation des anciennes pièces (1958, 1959, 1971, 1976 et 1985) est entrée en vigueur. Si la Banque des États d'Afrique centrale (BEAC) annonce un retrait progressif sur une année, dans les commerces comme dans les banques, de nombreux Camerounais font la queue aux guichets pour échanger leurs anciennes pièces. Un circuit parallèle a même vu le jour.",
+        "sections": []
+      },
+      "author_name": "Richard Onanena",
+      "author_username": null,
+      "tags": [
+        "Afrique économie",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261109-cameroun-ru%C3%A9e-vers-les-guichets-pour-%C3%A9changer-les-anciennes-pi%C3%A8ces-d%C3%A9mon%C3%A9tis%C3%A9es",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/3ca3ea9e-a14d-11f1-9af6-005056bf30b7/w:1024/p:16x9/Vue-d-ensemble-de-l-une-des-art%C3%A8res-principales-du-march%C3%A9-central-de-Yaound%C3%A9-le-8-octobre-2025.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-09T23:19:11Z",
+      "updated_at": "2026-11-10T06:48:37+00:00",
+      "id": 136
     }
   ]
 }
