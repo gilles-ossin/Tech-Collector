@@ -5975,6 +5975,66 @@
       "created_at": "2026-11-10T16:59:22Z",
       "updated_at": "2026-11-10T23:03:08+00:00",
       "id": 182
+    },
+    {
+      "title": "Kenya: à Nairobi, les avocats réclament des réponses sur l’enlèvement d’un confrère",
+      "slug": "kenya-a-nairobi-les-avocats-reclament-des-reponses-sur-lenlevement-dun-confrere",
+      "is_active": false,
+      "summary": "Plus d’une centaine d’avocats ont manifesté mardi 10 novembre 2026 à Nairobi, au Kenya, contre l’enlèvement d’un des leurs. Maître Abshir Ahmedsadak Abdi a été kidnappé dimanche 1er novembre, dans le quartier de Kilimani, par des hommes armés. Il était conseil dans une affaire qui implique plusieurs agences de sécurité kényanes. Sa famille et le barreau les accusent donc d’être les auteures de l’enlèvement et demandent qu’Abshir Ahmedsadak Abid soit libéré.",
+      "content": {
+        "title": "Kenya: à Nairobi, les avocats réclament des réponses sur l’enlèvement d’un confrère",
+        "subtitle": "",
+        "desc": "Plus d’une centaine d’avocats ont manifesté mardi 10 novembre 2026 à Nairobi, au Kenya, contre l’enlèvement d’un des leurs. Maître Abshir Ahmedsadak Abdi a été kidnappé dimanche 1er novembre, dans le quartier de Kilimani, par des hommes armés. Il était conseil dans une affaire qui implique plusieurs agences de sécurité kényanes. Sa famille et le barreau les accusent donc d’être les auteures de l’enlèvement et demandent qu’Abshir Ahmedsadak Abid soit libéré.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261111-kenya-%C3%A0-nairobi-les-avocats-r%C3%A9clament-des-r%C3%A9ponses-sur-l-enl%C3%A8vement-d-un-confr%C3%A8re",
+      "q": [
+        "kenya",
+        "nairobi"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/4e8bc830-dd70-11f1-ad9e-5f54d898a954/w:1024/p:16x9/2026-11-04T100231Z-1230743805-RC23NFAKEYYB-RTRMADP-3-KENYA-ECONOMY-WORLDBANK.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-11T04:08:57Z",
+      "updated_at": "2026-11-11T05:37:01+00:00",
+      "id": 183
+    },
+    {
+      "title": "Au Sénégal, une exposition photo rend hommage aux championnes olympiques du continent",
+      "slug": "au-senegal-une-exposition-photo-rend-hommage-aux-championnes-olympiques-du-continent",
+      "is_active": false,
+      "summary": "À l’occasion des premiers Jeux olympiques de la jeunesse organisés en Afrique, le musée olympique de Lausanne a mis à disposition une quarantaine de clichés de ses archives, exposés au musée de la Femme, place du Souvenir africain sur la Corniche de Dakar. L'exposition « Olympiennes africaines » est à voir jusqu'au 13 novembre.",
+      "content": {
+        "title": "Au Sénégal, une exposition photo rend hommage aux championnes olympiques du continent",
+        "subtitle": "",
+        "desc": "À l’occasion des premiers Jeux olympiques de la jeunesse organisés en Afrique, le musée olympique de Lausanne a mis à disposition une quarantaine de clichés de ses archives, exposés au musée de la Femme, place du Souvenir africain sur la Corniche de Dakar. L'exposition « Olympiennes africaines » est à voir jusqu'au 13 novembre.",
+        "sections": []
+      },
+      "author_name": "Léa-Lisa Westerhoff",
+      "author_username": null,
+      "tags": [
+        "Reportage Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261110-au-s%C3%A9n%C3%A9gal-une-exposition-photo-rend-hommage-aux-championnes-olympiques-du-continent",
+      "q": [
+        "afrique",
+        "dakar"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/66d96346-dd3b-11f1-b31f-5f54d898a954/w:1024/p:16x9/JOJ-Dakar-2026.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-10T23:02:50Z",
+      "updated_at": "2026-11-11T05:37:01+00:00",
+      "id": 184
     }
   ]
 }
