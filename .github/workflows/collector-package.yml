@@ -1,4 +1,4 @@
-name: Collector Test
+name: Collector Packages
 
 on:
   schedule:
@@ -37,7 +37,7 @@ jobs:
           pip install requests
 
       - name: Run test collector
-        run: python Collectors/Parser-test.py
+        run: python Collectors/Parser-package.py
         env:
           # Le GITHUB_TOKEN d'Actions est limité à ~1000 requêtes/heure ; un token perso
           # (secret COLLECTOR_TOKEN, sans aucun droit nécessaire) en offre 5000. Optionnel.
@@ -48,7 +48,7 @@ jobs:
       # (rebase) juste avant le push, avec plusieurs tentatives.
       - name: Commit and push JSON changes
         run: |
-          FILE="Datas/initial_librairies.json"
+          FILE="Datas/Packages.json"
           BRANCH="${GITHUB_REF_NAME}"
 
           git config user.name "github-actions[bot]"
@@ -59,7 +59,7 @@ jobs:
             echo "Aucun changement à enregistrer."
             exit 0
           fi
-          git commit -m "data(test): update initial_librairies.json"
+          git commit -m "data(test): update packages.json"
 
           for attempt in 1 2 3 4 5; do
             if git pull --rebase origin "$BRANCH"; then
