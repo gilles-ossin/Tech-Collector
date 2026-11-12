@@ -89,7 +89,7 @@ KEYWORD_QUERIES = [
 
 # Racine du repo = dossier parent de Collectors/
 BASE_DIR = Path(__file__).resolve().parent.parent
-OUTPUT_PATH = BASE_DIR / "Datas" / "initial_librairies.json"
+OUTPUT_PATH = BASE_DIR / "Datas" / "Packages.json"
 
 SESSION = requests.Session()
 SESSION.headers.update({
