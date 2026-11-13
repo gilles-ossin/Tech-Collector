@@ -4607,6 +4607,57 @@
         "artificial intelligence"
       ],
       "id": 177
+    },
+    {
+      "title": "APEX Online Hackathon 2026",
+      "slug": "apex-online-hackathon-2026",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) hackathon Online",
+      "event_date": "2026-12-14",
+      "location": "En ligne",
+      "type": "Hackathon",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/apex-online-hackathon-2026-durj-yzz",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:APEX%2520Online%2520Hackathon%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%252014%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Online,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-13T13:27:34+00:00",
+      "updated_at": "2026-11-13T13:27:34+00:00",
+      "eventDate": "2026-12-14",
+      "q": [
+        "hackathon",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 178
+    },
+    {
+      "title": "Fountain Hackathon 2026",
+      "slug": "fountain-hackathon-2026",
+      "is_active": false,
+      "description": "Tech hackathon in Istanbul, Türkiye",
+      "event_date": "2026-11-28",
+      "location": "Istanbul",
+      "type": "Hackathon",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/fountain-hackathon-2026-xduoxbf6",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Fountain%2520Hackathon%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252028-29%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Istanbul%252C%2520T%25C3%25BCrkiye,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-13T13:27:34+00:00",
+      "updated_at": "2026-11-13T13:27:34+00:00",
+      "eventDate": "2026-11-28",
+      "q": [
+        "hackathon",
+        "tech"
+      ],
+      "id": 179
     }
   ]
 }
