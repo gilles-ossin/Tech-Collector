@@ -16,7 +16,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 498530,
+    "stars": 498597,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "public-apis",
@@ -24,7 +24,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2016-03-20T23:49:42Z",
-    "updated_at": "2026-11-12T23:53:21Z",
+    "updated_at": "2026-11-13T07:14:43Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -48,7 +48,7 @@
     "package_manager_command": "",
     "version": "v5.22.2",
     "license": "Apache-2.0",
-    "stars": 168923,
+    "stars": 168938,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Hugging Face",
@@ -56,12 +56,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-10-29T13:56:00Z",
-    "updated_at": "2026-11-12T23:15:46Z",
+    "updated_at": "2026-11-13T05:57:54Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-12T23:09:38Z"
+    "last_activity": "2026-11-13T05:49:32Z"
   },
   {
     "id": 872119017,
@@ -80,7 +80,7 @@
     "package_manager_command": "pip install scrapling",
     "version": "v0.5.1",
     "license": "BSD-3-Clause",
-    "stars": 102124,
+    "stars": 102289,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Karim shoair",
@@ -88,7 +88,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2024-10-13T20:29:53Z",
-    "updated_at": "2026-11-12T23:51:55Z",
+    "updated_at": "2026-11-13T07:18:51Z",
     "reviews": [],
     "q": [
       "location:egypt"
@@ -112,7 +112,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 53192,
+    "stars": 53193,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "lauren",
@@ -120,7 +120,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2017-03-15T05:09:01Z",
-    "updated_at": "2026-11-12T23:16:31Z",
+    "updated_at": "2026-11-13T04:31:03Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -144,7 +144,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "",
-    "stars": 24106,
+    "stars": 24108,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Abhishek B.",
@@ -152,7 +152,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2016-01-13T18:53:25Z",
-    "updated_at": "2026-11-12T21:24:53Z",
+    "updated_at": "2026-11-13T06:30:40Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -176,7 +176,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 22560,
+    "stars": 22564,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Deepak",
@@ -184,7 +184,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-09-17T11:15:29Z",
-    "updated_at": "2026-11-12T21:53:42Z",
+    "updated_at": "2026-11-13T04:37:28Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -208,7 +208,7 @@
     "package_manager_command": "npm install cesium",
     "version": "1.147",
     "license": "Apache-2.0",
-    "stars": 15945,
+    "stars": 15948,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Cesium",
@@ -216,12 +216,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2012-03-02T22:27:14Z",
-    "updated_at": "2026-11-12T16:37:34Z",
+    "updated_at": "2026-11-13T05:40:52Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-12T22:34:02Z"
+    "last_activity": "2026-11-13T01:16:29Z"
   },
   {
     "id": 85325902,
@@ -253,7 +253,7 @@
     "q": [
       "mobile money africa in:name,description,topics,readme"
     ],
-    "last_activity": "2026-11-12T00:21:36Z"
+    "last_activity": "2026-11-13T00:21:52Z"
   },
   {
     "id": 27971466,
@@ -336,7 +336,7 @@
     "package_manager_command": "pip install pocket-tts",
     "version": "v4.0.1",
     "license": "MIT",
-    "stars": 10280,
+    "stars": 10283,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "kyutai",
@@ -344,7 +344,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2026-01-07T17:33:32Z",
-    "updated_at": "2026-11-12T22:05:32Z",
+    "updated_at": "2026-11-13T06:30:33Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -368,7 +368,7 @@
     "package_manager_command": "pip install countrystatecity-api",
     "version": "v5.2.0-export.1",
     "license": "ODbL-1.0",
-    "stars": 10004,
+    "stars": 10007,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Darshan Gada",
@@ -376,7 +376,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-07-20T14:13:45Z",
-    "updated_at": "2026-11-12T16:43:59Z",
+    "updated_at": "2026-11-13T06:33:03Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -432,7 +432,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "",
-    "stars": 8346,
+    "stars": 8349,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "codeman008",
@@ -440,7 +440,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2023-09-27T08:40:59Z",
-    "updated_at": "2026-11-12T20:54:01Z",
+    "updated_at": "2026-11-13T06:10:37Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -464,7 +464,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "",
-    "stars": 5553,
+    "stars": 5552,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Nuxt",
@@ -472,7 +472,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2017-02-02T12:52:15Z",
-    "updated_at": "2026-11-12T20:39:17Z",
+    "updated_at": "2026-11-13T02:34:19Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -496,7 +496,7 @@
     "package_manager_command": "pip install python-jobspy",
     "version": "v1.4.1",
     "license": "MIT",
-    "stars": 4708,
+    "stars": 4711,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "SpeedyApply",
@@ -504,7 +504,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2023-07-06T19:30:52Z",
-    "updated_at": "2026-11-12T17:25:24Z",
+    "updated_at": "2026-11-13T07:12:11Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -528,7 +528,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "",
-    "stars": 3944,
+    "stars": 3945,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Jakob Homan",
@@ -536,12 +536,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-01-11T07:14:19Z",
-    "updated_at": "2026-11-11T16:18:15Z",
+    "updated_at": "2026-11-13T02:16:31Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-10-05T09:32:08Z"
+    "last_activity": "2026-11-13T01:50:29Z"
   },
   {
     "id": 1102015506,
@@ -657,7 +657,7 @@
     "package_manager_command": "npm install npm@12.1.0",
     "version": "v0.36.2",
     "license": "AGPL-3.0",
-    "stars": 2903,
+    "stars": 2904,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "OpenFront",
@@ -665,12 +665,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2024-12-12T01:27:03Z",
-    "updated_at": "2026-11-12T23:18:09Z",
+    "updated_at": "2026-11-13T02:03:21Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-12T22:29:19Z"
+    "last_activity": "2026-11-13T02:30:56Z"
   },
   {
     "id": 382113082,
@@ -697,7 +697,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2021-07-01T17:45:31Z",
-    "updated_at": "2026-11-12T23:04:41Z",
+    "updated_at": "2026-11-13T04:58:39Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -894,7 +894,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-12T23:27:13Z"
+    "last_activity": "2026-11-13T04:57:03Z"
   },
   {
     "id": 24120212,
@@ -990,7 +990,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-12T23:52:05Z"
+    "last_activity": "2026-11-13T07:17:08Z"
   },
   {
     "id": 4493893,
@@ -1073,7 +1073,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 1431,
+    "stars": 1432,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Kai Iyer",
@@ -1081,7 +1081,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2019-08-11T07:53:03Z",
-    "updated_at": "2026-11-11T20:25:37Z",
+    "updated_at": "2026-11-13T01:46:54Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -1105,7 +1105,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "",
-    "stars": 1425,
+    "stars": 1426,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Phil Sturgeon",
@@ -1113,7 +1113,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2019-09-15T18:59:46Z",
-    "updated_at": "2026-11-12T07:39:36Z",
+    "updated_at": "2026-11-13T01:47:10Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -1233,7 +1233,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 1066,
+    "stars": 1067,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Art/Paul",
@@ -1241,7 +1241,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2024-07-08T13:42:52Z",
-    "updated_at": "2026-11-11T03:01:42Z",
+    "updated_at": "2026-11-13T00:57:48Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -1374,7 +1374,7 @@
     "q": [
       "mobile money africa in:name,description,topics,readme"
     ],
-    "last_activity": "2026-11-12T21:12:16Z"
+    "last_activity": "2026-11-13T07:11:42Z"
   },
   {
     "id": 461051163,
@@ -1857,6 +1857,38 @@
     "last_activity": "2026-08-23T04:13:04Z"
   },
   {
+    "id": 16910168,
+    "title": "pyarabic",
+    "slug": "linuxscout-pyarabic",
+    "type": "sdk",
+    "is_active": true,
+    "category": "ai",
+    "primary_language": "Python",
+    "supported_frameworks": "",
+    "country": "Algérie",
+    "description": "pyarabic",
+    "code_snippet": "",
+    "documentation_url": "https://pyarabic.readthedocs.io/",
+    "github_url": "https://github.com/linuxscout/pyarabic",
+    "package_manager_command": "pip install pyarabic",
+    "version": "v0.6.16",
+    "license": "GPL-3.0",
+    "stars": 493,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": "Taha Zerrouki (طه زروقي )",
+    "author_slug": "linuxscout",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2014-02-17T10:59:29Z",
+    "updated_at": "2026-11-11T02:08:23Z",
+    "reviews": [],
+    "q": [
+      "location:algeria"
+    ],
+    "last_activity": "2026-01-16T09:40:41Z"
+  },
+  {
     "id": 764211372,
     "title": "fastapi-beyond-CRUD",
     "slug": "jod35-fastapi-beyond-crud",
@@ -1905,7 +1937,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 477,
+    "stars": 478,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Alicia Sykes",
@@ -1913,7 +1945,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2023-11-04T21:51:24Z",
-    "updated_at": "2026-11-12T09:29:48Z",
+    "updated_at": "2026-11-13T06:19:24Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -1950,7 +1982,7 @@
     "q": [
       "location:ivory coast"
     ],
-    "last_activity": "2026-11-11T08:04:14Z"
+    "last_activity": "2026-11-13T06:52:48Z"
   },
   {
     "id": 775269322,
@@ -2623,7 +2655,7 @@
     "q": [
       "topic:mpesa"
     ],
-    "last_activity": "2026-11-12T23:48:20Z"
+    "last_activity": "2026-11-13T07:16:10Z"
   },
   {
     "id": 745255700,
@@ -2962,7 +2994,7 @@
     "package_manager_command": "npm install npm",
     "version": "3.13.23",
     "license": "MIT",
-    "stars": 176,
+    "stars": 177,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "FreeOpenSourcePOS",
@@ -2970,7 +3002,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2026-05-07T07:51:42Z",
-    "updated_at": "2026-11-12T16:14:25Z",
+    "updated_at": "2026-11-13T01:11:08Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -4554,7 +4586,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-12T21:11:55Z"
+    "last_activity": "2026-11-13T01:45:20Z"
   },
   {
     "id": 104003999,
@@ -4747,38 +4779,6 @@
       "africa in:readme package"
     ],
     "last_activity": "2026-04-14T15:41:34Z"
-  },
-  {
-    "id": 1161725512,
-    "title": "mitrokit-ventures",
-    "slug": "mwakidenis-mitrokit-ventures",
-    "type": "api",
-    "is_active": true,
-    "category": "utility",
-    "primary_language": "TypeScript",
-    "supported_frameworks": "Next.js",
-    "country": "Kenya",
-    "description": "Next.js personal brand website with admin dashboard",
-    "code_snippet": "",
-    "documentation_url": "https://nextjs.org/docs",
-    "github_url": "https://github.com/mwakidenis/mitrokit-ventures",
-    "package_manager_command": "",
-    "version": "",
-    "license": "GPL-3.0",
-    "stars": 56,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": " 🐘",
-    "author_slug": "mwakidenis",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2026-02-19T12:53:45Z",
-    "updated_at": "2026-11-12T17:07:35Z",
-    "reviews": [],
-    "q": [
-      "location:nairobi"
-    ],
-    "last_activity": "2026-11-12T23:55:50Z"
   },
   {
     "id": 576965212,
@@ -5005,6 +5005,38 @@
     "last_activity": "2026-10-29T16:53:03Z"
   },
   {
+    "id": 82103527,
+    "title": "qalsadi",
+    "slug": "linuxscout-qalsadi",
+    "type": "sdk",
+    "is_active": true,
+    "category": "utility",
+    "primary_language": "Python",
+    "supported_frameworks": "",
+    "country": "Algérie",
+    "description": "Qalsadi: Arabic mophological analyzer Library for python.",
+    "code_snippet": "@misc{zerrouki2012qalsadi,\n  title={qalsadi, Arabic mophological analyzer Library for python.},\n  author={Zerrouki, Taha},",
+    "documentation_url": "https://qalsadi.readthedocs.io/",
+    "github_url": "https://github.com/linuxscout/qalsadi",
+    "package_manager_command": "pip install qalsadi",
+    "version": "0.4.4",
+    "license": "",
+    "stars": 47,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": "Taha Zerrouki (طه زروقي )",
+    "author_slug": "linuxscout",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2017-02-15T20:30:57Z",
+    "updated_at": "2026-09-22T07:53:14Z",
+    "reviews": [],
+    "q": [
+      "location:algeria"
+    ],
+    "last_activity": "2025-07-29T23:29:17Z"
+  },
+  {
     "id": 540203199,
     "title": "galsenify",
     "slug": "daoodaba975-galsenify",
@@ -5098,7 +5130,7 @@
     "q": [
       "topic:mpesa"
     ],
-    "last_activity": "2026-11-12T23:48:25Z"
+    "last_activity": "2026-11-13T07:16:22Z"
   },
   {
     "id": 824543576,
@@ -5258,7 +5290,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-12T12:34:38Z"
+    "last_activity": "2026-11-13T06:34:25Z"
   },
   {
     "id": 1258815731,
@@ -5515,7 +5547,7 @@
     "q": [
       "topic:african-languages"
     ],
-    "last_activity": "2026-11-11T07:09:33Z"
+    "last_activity": "2026-11-13T03:21:29Z"
   },
   {
     "id": 1031603379,
@@ -5709,6 +5741,38 @@
       "location:morocco"
     ],
     "last_activity": "2026-06-17T22:20:13Z"
+  },
+  {
+    "id": 1111962632,
+    "title": "Green-Wells-LPG-System",
+    "slug": "mwakidenis-green-wells-lpg-system",
+    "type": "api",
+    "is_active": true,
+    "category": "fintech",
+    "primary_language": "TypeScript",
+    "supported_frameworks": "",
+    "country": "Kenya",
+    "description": "Revolutionizing LPG delivery by integrating real-time tracking, seamless instant payments, and advanced predictive safety systems for a smarter, safer, and more efficient experience.",
+    "code_snippet": "graph TB\n    subgraph \"Frontend Layer\"\n        A[React App] --> B[Authentication]",
+    "documentation_url": "https://developer.safaricom.co.ke/",
+    "github_url": "https://github.com/mwakidenis/Green-Wells-LPG-System",
+    "package_manager_command": "",
+    "version": "",
+    "license": "",
+    "stars": 35,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": " 🐘",
+    "author_slug": "mwakidenis",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2025-12-08T00:20:07Z",
+    "updated_at": "2026-11-12T15:51:57Z",
+    "reviews": [],
+    "q": [
+      "location:nairobi"
+    ],
+    "last_activity": "2026-11-13T07:20:41Z"
   },
   {
     "id": 1213775889,
@@ -8219,7 +8283,7 @@
       "africa sdk in:name,description,topics",
       "topic:africa topic:sdk"
     ],
-    "last_activity": "2026-11-12T23:42:28Z"
+    "last_activity": "2026-11-13T06:10:10Z"
   },
   {
     "id": 492270248,
@@ -8618,7 +8682,7 @@
     "country": "",
     "description": "Unstructured Supplementary Service Data (USSD) library built in Rust with extensible features for applications.",
     "code_snippet": "[dependencies]\nussdframework = \"0.1.0\"",
-    "documentation_url": "https://github.com/Rhaqim/ussdframework",
+    "documentation_url": "https://docs.rs/log",
     "github_url": "https://github.com/Rhaqim/ussdframework",
     "package_manager_command": "",
     "version": "",
@@ -8636,7 +8700,7 @@
     "q": [
       "topic:ussd"
     ],
-    "last_activity": "2026-11-12T22:02:10Z"
+    "last_activity": "2026-11-13T03:03:57Z"
   },
   {
     "id": 1183738319,
@@ -9571,69 +9635,5 @@
       "mobile money africa in:name,description,topics,readme"
     ],
     "last_activity": "2026-06-23T13:11:17Z"
-  },
-  {
-    "id": 1251593170,
-    "title": "africastalking-api-skills",
-    "slug": "ai-ml-community-africastalking-api-skills",
-    "type": "api",
-    "is_active": true,
-    "category": "ussd",
-    "primary_language": "",
-    "supported_frameworks": "",
-    "country": "",
-    "description": "AI skills for Africa's Talking APIs (SMS, USSD, Voice, Airtime)",
-    "code_snippet": "",
-    "documentation_url": "https://github.com/AI-ML-Community/africastalking-api-skills",
-    "github_url": "https://github.com/AI-ML-Community/africastalking-api-skills",
-    "package_manager_command": "",
-    "version": "",
-    "license": "MIT",
-    "stars": 9,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": "AI/ML Community",
-    "author_slug": "ai-ml-community",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2026-05-27T18:22:31Z",
-    "updated_at": "2026-07-09T05:46:27Z",
-    "reviews": [],
-    "q": [
-      "african api in:name,description,topics"
-    ],
-    "last_activity": "2026-05-27T19:09:50Z"
-  },
-  {
-    "id": 1183058263,
-    "title": "African-Language-NLP-Model-",
-    "slug": "luthandocandlovu-african-language-nlp-model",
-    "type": "sdk",
-    "is_active": true,
-    "category": "ai",
-    "primary_language": "Python",
-    "supported_frameworks": "",
-    "country": "Afrique du Sud",
-    "description": "Sentiment analysis model for isiXhosa and isiZulu using transformers. End-to-end pipeline with preprocessing, training, and Flask API.",
-    "code_snippet": "flowchart TD\n    A([\"📥 Data Sources\"]):::green --> B([\"⚙️ Preprocessing\"]):::gold\n    B --> C([\"🤖 Fine-Tuning\"]):::purple",
-    "documentation_url": "https://github.com/LuthandoCandlovu/African-Language-NLP-Model-",
-    "github_url": "https://github.com/LuthandoCandlovu/African-Language-NLP-Model-",
-    "package_manager_command": "",
-    "version": "",
-    "license": "",
-    "stars": 9,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": "Luthando Candlovu",
-    "author_slug": "luthandocandlovu",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2026-03-16T08:26:06Z",
-    "updated_at": "2026-11-02T23:49:19Z",
-    "reviews": [],
-    "q": [
-      "african api in:name,description,topics"
-    ],
-    "last_activity": "2026-03-17T09:39:36Z"
   }
 ]
