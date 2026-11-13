@@ -9419,6 +9419,64 @@
       "created_at": "2026-11-12T23:09:18Z",
       "updated_at": "2026-11-12T23:24:46+00:00",
       "id": 290
+    },
+    {
+      "title": "RDC: au Sud-Kivu, l’ONU estime que 323 000 personnes ont fui les derniers combats",
+      "slug": "rdc-au-sud-kivu-lonu-estime-que-323-000-personnes-ont-fui-les-derniers-combats",
+      "is_active": false,
+      "summary": "Dans l’est de la République démocratique du Congo, plus de 323 000 personnes ont fui les affrontements en quatre jours au Sud-Kivu. C’est l’estimation provisoire publiée le 11 novembre par le bureau humanitaire des Nations unies. Ces déplacements ont suivi l’offensive du Front pour la refondation de la nation (FRN), le mouvement politico-militaire dirigé par l’ancien président Joseph Kabila et soutenu par Kigali. Plusieurs opérations d’aide ont été suspendues.",
+      "content": {
+        "title": "RDC: au Sud-Kivu, l’ONU estime que 323 000 personnes ont fui les derniers combats",
+        "subtitle": "",
+        "desc": "Dans l’est de la République démocratique du Congo, plus de 323 000 personnes ont fui les affrontements en quatre jours au Sud-Kivu. C’est l’estimation provisoire publiée le 11 novembre par le bureau humanitaire des Nations unies. Ces déplacements ont suivi l’offensive du Front pour la refondation de la nation (FRN), le mouvement politico-militaire dirigé par l’ancien président Joseph Kabila et soutenu par Kigali. Plusieurs opérations d’aide ont été suspendues.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261113-rdc-au-sud-kivu-l-onu-estime-que-323-000-personnes-ont-fui-les-derniers-combats",
+      "q": [
+        "kigali"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/3571110a-df02-11f1-8e7f-f71d22e7fea9/w:1024/p:16x9/000-882H8ZA.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-13T04:04:40Z",
+      "updated_at": "2026-11-13T05:58:23+00:00",
+      "id": 291
+    },
+    {
+      "title": "Niger: plus de 60 000 réfugiés nigérians ont passé la frontière depuis le début d'année",
+      "slug": "niger-plus-de-60-000-refugies-nigerians-ont-passe-la-frontiere-depuis-le-debut-d-annee",
+      "is_active": false,
+      "summary": "La situation humanitaire dans le nord du Nigeria s'aggrave, alerte l'agence des Nations unies pour les réfugiés (HCR), qui dévoile que plus de 60 000 personnes ont traversé la frontière en direction du Niger depuis le début de l'année. Un exode massif qui ajoute de la pression sur un pays qui compte déjà plus de 500 000 déplacés internes. Le HCR lance un appel pour réunir plus de 11 millions de dollars, dont 2 millions destinés aux besoins critiques immédiats.",
+      "content": {
+        "title": "Niger: plus de 60 000 réfugiés nigérians ont passé la frontière depuis le début d'année",
+        "subtitle": "",
+        "desc": "La situation humanitaire dans le nord du Nigeria s'aggrave, alerte l'agence des Nations unies pour les réfugiés (HCR), qui dévoile que plus de 60 000 personnes ont traversé la frontière en direction du Niger depuis le début de l'année. Un exode massif qui ajoute de la pression sur un pays qui compte déjà plus de 500 000 déplacés internes. Le HCR lance un appel pour réunir plus de 11 millions de dollars, dont 2 millions destinés aux besoins critiques immédiats.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-60-000-r%C3%A9fugi%C3%A9s-nig%C3%A9rians-ont-pass%C3%A9-la-fronti%C3%A8re-depuis-le-d%C3%A9but-d-ann%C3%A9e",
+      "q": [
+        "nigeria"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/0533c844-1636-11ea-bee5-005056a99247/w:1024/p:16x9/pam_Niger%2032_0.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-13T03:59:44Z",
+      "updated_at": "2026-11-13T05:58:23+00:00",
+      "id": 292
     }
   ]
 }
