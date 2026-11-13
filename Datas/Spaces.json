@@ -1,1 +1,43 @@
-{}
+{
+  "spaceships": [
+    {
+      "name": "Nigeria’s Massive Yet ‘Invisible’ Economic Engine Is Running On Empty",
+      "slug": "nigerias-massive-yet-invisible-economic-engine-is-running-on-empty",
+      "is_active": false,
+      "location": "Nigeria",
+      "badge": "Générateur",
+      "description": "Launched in 2016, AHANSA Business Centre is situated in Westlands. It strives to provide a full serviced business environment with leading-edge IT-service type solutions. It offers full reception services inclusive of couriering / mailing of packages, emailing, faxing, photocopying, printing, etc. In-house catering and lounge services for its members and clients along with the regular offering of meeting and conference rooms access. Available facilities : photocopier/printer/scanner, Integrated ",
+      "price": null,
+      "action_label": "Visiter",
+      "img": [
+        "https://weetracker.com/wp-content/uploads/2018/05/Ahansa-business-centre-300x200.jpg"
+      ],
+      "link": "http://www.almasioffices.com",
+      "status": "pending",
+      "created_at": "2026-11-13T15:27:05+00:00",
+      "updated_at": "2026-11-13T15:27:05+00:00",
+      "q": [
+        "incubator",
+        "coworking",
+        "co-working",
+        "workspace",
+        "work space",
+        "shared office",
+        "hub",
+        "africa",
+        "east africa",
+        "nigeria",
+        "nairobi",
+        "kenya",
+        "startup",
+        "innovation",
+        "creative"
+      ],
+      "_type_": "incubateur",
+      "_source_": "WeeTracker - coworkings de Nairobi",
+      "_origin_": "section",
+      "id": 1
+    }
+  ],
+  "last_update": "2026-11-13T15:27:05+00:00"
+}
