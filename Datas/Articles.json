@@ -10693,6 +10693,65 @@
       "created_at": "2026-11-13T16:19:46Z",
       "updated_at": "2026-11-13T21:23:12+00:00",
       "id": 331
+    },
+    {
+      "title": "Éliminatoires CAN 2027: le Mali renverse le Rwanda, le Maroc domine le Niger avec un doublé d'Hakimi",
+      "slug": "eliminatoires-can-2027-le-mali-renverse-le-rwanda-le-maroc-domine-le-niger-avec-un-double-d-hakimi",
+      "is_active": false,
+      "summary": "Le Maroc n'est plus très loin de valider son billet pour la CAN 2027 grâce à sa victoire à domicile 5-1 contre le Niger, ce vendredi. Dans le groupe K, le Mali aussi a fait un pas vers la qualification en arrachant une victoire contre le Rwanda 3-2, au bout d'un scénario mal embarqué.",
+      "content": {
+        "title": "Éliminatoires CAN 2027: le Mali renverse le Rwanda, le Maroc domine le Niger avec un doublé d'Hakimi",
+        "subtitle": "",
+        "desc": "Le Maroc n'est plus très loin de valider son billet pour la CAN 2027 grâce à sa victoire à domicile 5-1 contre le Niger, ce vendredi. Dans le groupe K, le Mali aussi a fait un pas vers la qualification en arrachant une victoire contre le Rwanda 3-2, au bout d'un scénario mal embarqué.",
+        "sections": []
+      },
+      "author_name": "Yohann Le Coz",
+      "author_username": null,
+      "tags": [
+        "Afrique foot",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique-foot/20261113-%C3%A9liminatoires-can-2027-le-mali-renverse-le-rwanda-le-maroc-domine-le-niger-avec-un-doubl%C3%A9-d-hakimi",
+      "q": [
+        "rwanda",
+        "maroc"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/fa36701e-dfae-11f1-ae73-f71d22e7fea9/w:1024/p:16x9/000-73KP6WZ.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-13T22:11:25Z",
+      "updated_at": "2026-11-14T05:48:53+00:00",
+      "id": 332
+    },
+    {
+      "title": "Au Caire, la Chine affirme son ambition diplomatique en Afrique de l’Est face aux tensions régionales",
+      "slug": "au-caire-la-chine-affirme-son-ambition-diplomatique-en-afrique-de-lest-face-aux-tensions-regionales",
+      "is_active": false,
+      "summary": "L'émissaire spécial chinois pour les affaires africaines, Liu Xianfa, a rencontré mercredi 11 novembre 2026 le ministre égyptien des Affaires étrangères au Caire. Pékin poursuit sa tournée régionale pour apaiser les tensions… et renforcer son rôle diplomatique sur le continent.",
+      "content": {
+        "title": "Au Caire, la Chine affirme son ambition diplomatique en Afrique de l’Est face aux tensions régionales",
+        "subtitle": "",
+        "desc": "L'émissaire spécial chinois pour les affaires africaines, Liu Xianfa, a rencontré mercredi 11 novembre 2026 le ministre égyptien des Affaires étrangères au Caire. Pékin poursuit sa tournée régionale pour apaiser les tensions… et renforcer son rôle diplomatique sur le continent.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261114-au-caire-la-chine-affirme-son-ambition-diplomatique-en-afrique-de-l-est-face-aux-tensions-r%C3%A9gionales",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/ab32973a-f3ce-11f0-aa9e-005056bf30b7/w:1024/p:16x9/000-73W26P2.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T04:09:52Z",
+      "updated_at": "2026-11-14T05:48:53+00:00",
+      "id": 333
     }
   ]
 }
