@@ -4658,6 +4658,686 @@
         "tech"
       ],
       "id": 179
+    },
+    {
+      "title": "Gartner HR Symposium/Xpo",
+      "slug": "gartner-hr-symposium-xpo",
+      "is_active": false,
+      "description": "HR / Hiring / Recruiting conference in Sydney, Australia",
+      "event_date": "2026-11-16",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/gartner-hr-symposium-xpo-6e-ujera",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Gartner%2520HR%2520Symposium%252FXpo,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252016-17%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2026-11-16",
+      "q": [
+        "conference"
+      ],
+      "id": 180
+    },
+    {
+      "title": "ASF Community Over Code / ChurConf",
+      "slug": "asf-community-over-code-churconf",
+      "is_active": false,
+      "description": "Java conference in Sydney, New Zealand",
+      "event_date": "2026-11-18",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/asf-community-over-code-chur-conf-j8r0kg2n",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:ASF%2520Community%2520Over%2520Code%2520%252F%2520ChurConf,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252018-19%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520New%2520Zealand,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2026-11-18",
+      "q": [
+        "conference"
+      ],
+      "id": 181
+    },
+    {
+      "title": "Community Over Code Sydney 2026",
+      "slug": "community-over-code-sydney-2026",
+      "is_active": false,
+      "description": "Open Source conference in Sydney, Australia",
+      "event_date": "2026-11-18",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/community-over-code-sydney-2026-kq1-ys0r",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Community%2520Over%2520Code%2520Sydney%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252018-19%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2026-11-18",
+      "q": [
+        "conference",
+        "open source"
+      ],
+      "id": 182
+    },
+    {
+      "title": "Analysis, Design & Architecture Conference 2026",
+      "slug": "analysis-design-architecture-conference-2026",
+      "is_active": false,
+      "description": "Software architecture conference in Melbourne, Australia",
+      "event_date": "2026-11-19",
+      "location": "Melbourne",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/analysis-design-and-architecture-conference-2026-mcmb2bip",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Analysis%252C%2520Design%2520%2526%2520Architecture%2520Conference%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252019-20%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Melbourne%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2026-11-19",
+      "q": [
+        "conference",
+        "software"
+      ],
+      "id": 183
+    },
+    {
+      "title": "DDD Adelaide 2026",
+      "slug": "ddd-adelaide-2026",
+      "is_active": false,
+      "description": "DDD conference in Adelaide, Australia",
+      "event_date": "2026-11-21",
+      "location": "Adelaide",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/ddd-adelaide-2026-44-p-yzl",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:DDD%2520Adelaide%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252021%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Adelaide%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2026-11-21",
+      "q": [
+        "conference"
+      ],
+      "id": 184
+    },
+    {
+      "title": "Global Security Bootcamp Melbourne 2026",
+      "slug": "global-security-bootcamp-melbourne-2026",
+      "is_active": false,
+      "description": "Cybersecurity / InfoSec conference in Melbourne, Australia",
+      "event_date": "2026-11-30",
+      "location": "Melbourne",
+      "type": "Formation",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/global-security-bootcamp-melbourne-2026-w3oskhgv",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Global%2520Security%2520Bootcamp%2520Melbourne%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252030%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Melbourne%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2026-11-30",
+      "q": [
+        "conference",
+        "bootcamp",
+        "cybersecurity"
+      ],
+      "id": 185
+    },
+    {
+      "title": "YOW! Melbourne 2026",
+      "slug": "yow-melbourne-2026",
+      "is_active": false,
+      "description": "Software architecture conference in Melbourne, Australia",
+      "event_date": "2026-12-02",
+      "location": "Melbourne",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/yow-melbourne-2026-l20mbibp",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:YOW!%2520Melbourne%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25202-4%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Melbourne%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2026-12-02",
+      "q": [
+        "conference",
+        "software"
+      ],
+      "id": 186
+    },
+    {
+      "title": "Write the Docs Australia",
+      "slug": "write-the-docs-australia",
+      "is_active": false,
+      "description": "Tech conference in Melbourne, Australia and Online",
+      "event_date": "2026-12-03",
+      "location": "Melbourne & Hybride",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/write-the-docs-australia-89lr7-hz",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Write%2520the%2520Docs%2520Australia,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25203-4%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Melbourne%252C%2520Australia%2520and%2520Online,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2026-12-03",
+      "q": [
+        "conference",
+        "tech"
+      ],
+      "id": 187
+    },
+    {
+      "title": "DDD Brisbane 2026",
+      "slug": "ddd-brisbane-2026",
+      "is_active": false,
+      "description": "DDD conference in Brisbane, Australia",
+      "event_date": "2026-12-05",
+      "location": "Brisbane",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/ddd-brisbane-2026-mdv-6-a",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:DDD%2520Brisbane%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25205%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Brisbane%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2026-12-05",
+      "q": [
+        "conference"
+      ],
+      "id": 188
+    },
+    {
+      "title": "YOW! Brisbane 2026",
+      "slug": "yow-brisbane-2026",
+      "is_active": false,
+      "description": "Software architecture conference in Brisbane, Australia",
+      "event_date": "2026-12-07",
+      "location": "Brisbane",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/yow-brisbane-2026-wwf7hor1",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:YOW!%2520Brisbane%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25207-9%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Brisbane%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2026-12-07",
+      "q": [
+        "conference",
+        "software"
+      ],
+      "id": 189
+    },
+    {
+      "title": "Fabric Friday Melbourne",
+      "slug": "fabric-friday-melbourne",
+      "is_active": false,
+      "description": "Microsoft conference in Melbourne, Australia",
+      "event_date": "2026-12-11",
+      "location": "Melbourne",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/fabric-friday-melbourne-5wbxivr6",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Fabric%2520Friday%2520Melbourne,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%252011%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Melbourne%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2026-12-11",
+      "q": [
+        "conference"
+      ],
+      "id": 190
+    },
+    {
+      "title": "Everything Open 2027",
+      "slug": "everything-open-2027",
+      "is_active": false,
+      "description": "Open Source conference in Brisbane, Australia",
+      "event_date": "2027-01-20",
+      "location": "Brisbane",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/everything-open-2027-fqdbc0md",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Everything%2520Open%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Jan%252020-22%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Brisbane%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-01-20",
+      "q": [
+        "conference",
+        "open source"
+      ],
+      "id": 191
+    },
+    {
+      "title": "Australia NextGen Payments & RegTech Forum",
+      "slug": "australia-nextgen-payments-regtech-forum",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) conference in Sydney, Australia",
+      "event_date": "2027-02-11",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/australia-next-gen-payments-and-reg-tech-forum-186zfp1f",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Australia%2520NextGen%2520Payments%2520%2526%2520RegTech%2520Forum,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Feb%252011%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-02-11",
+      "q": [
+        "conference",
+        "forum",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 192
+    },
+    {
+      "title": "YKIA National Conference 2027",
+      "slug": "ykia-national-conference-2027",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) conference in Auckland, New Zealand",
+      "event_date": "2027-02-12",
+      "location": "Auckland",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/ykia-national-conference-2027-odlsjywf",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:YKIA%2520National%2520Conference%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Feb%252012%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Auckland%252C%2520New%2520Zealand,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-02-12",
+      "q": [
+        "conference",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 193
+    },
+    {
+      "title": "DDD Melbourne 2027",
+      "slug": "ddd-melbourne-2027",
+      "is_active": false,
+      "description": "DDD conference in Melbourne, Australia",
+      "event_date": "2027-02-20",
+      "location": "Melbourne",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/ddd-melbourne-2027-qab5yabl",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:DDD%2520Melbourne%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Feb%252020%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Melbourne%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-02-20",
+      "q": [
+        "conference"
+      ],
+      "id": 194
+    },
+    {
+      "title": "Programmable 2027 - Melbourne",
+      "slug": "programmable-2027-melbourne",
+      "is_active": false,
+      "description": "Full-stack conference in Melbourne, Australia",
+      "event_date": "2027-03-16",
+      "location": "Melbourne",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/programmable-2027-melbourne-w1-hgrrf",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Programmable%25202027%2520-%2520Melbourne,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Mar%252016%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Melbourne%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-03-16",
+      "q": [
+        "conference"
+      ],
+      "id": 195
+    },
+    {
+      "title": "Digital Workplace Conference NZ 2027",
+      "slug": "digital-workplace-conference-nz-2027",
+      "is_active": false,
+      "description": "Microsoft conference in Auckland, New Zealand",
+      "event_date": "2027-03-16",
+      "location": "Auckland",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/digital-workplace-conference-nz-2027-ix1qr-m6",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Digital%2520Workplace%2520Conference%2520NZ%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Mar%252016-17%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Auckland%252C%2520New%2520Zealand,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-03-16",
+      "q": [
+        "conference",
+        "digital"
+      ],
+      "id": 196
+    },
+    {
+      "title": "RubyConf AU 2027",
+      "slug": "rubyconf-au-2027",
+      "is_active": false,
+      "description": "Ruby conference in Melbourne, Australia",
+      "event_date": "2027-03-18",
+      "location": "Melbourne",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/ruby-conf-au-2027-rlscznpf",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:RubyConf%2520AU%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Mar%252018-19%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Melbourne%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-03-18",
+      "q": [
+        "conference"
+      ],
+      "id": 197
+    },
+    {
+      "title": "Apac Microsoft Fabric + Microsoft SQL Community Conference",
+      "slug": "apac-microsoft-fabric-microsoft-sql-community-conference",
+      "is_active": false,
+      "description": "Microsoft conference in Sydney, Australia",
+      "event_date": "2027-04-06",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/apac-microsoft-fabric-microsoft-sql-community-conference-i1yjsg-3",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Apac%2520Microsoft%2520Fabric%2520%252B%2520Microsoft%2520SQL%2520Community%2520Conference,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Apr%25206-9%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-04-06",
+      "q": [
+        "conference"
+      ],
+      "id": 198
+    },
+    {
+      "title": "Melbourne Data Saturday 2027",
+      "slug": "melbourne-data-saturday-2027",
+      "is_active": false,
+      "description": "Data / Database conference in Melbourne, Australia",
+      "event_date": "2027-04-10",
+      "location": "Melbourne",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/melbourne-data-saturday-2027-jghwk5bk",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Melbourne%2520Data%2520Saturday%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Apr%252010%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Melbourne%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-04-10",
+      "q": [
+        "conference",
+        "data"
+      ],
+      "id": 199
+    },
+    {
+      "title": "AGNTSummit Sydney",
+      "slug": "agntsummit-sydney",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) conference in Sydney, Australia",
+      "event_date": "2027-06-16",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/agnt-summit-sydney-1tzele3z",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:AGNTSummit%2520Sydney,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Jun%252016-17%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-06-16",
+      "q": [
+        "conference",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 200
+    },
+    {
+      "title": "BFSI Innovation & Technology Summit Australia 2027",
+      "slug": "bfsi-innovation-technology-summit-australia-2027",
+      "is_active": false,
+      "description": "Fintech conference in Sydney, Australia",
+      "event_date": "2027-08-17",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/bfsi-innovation-and-technology-summit-australia-2027-43s0e2wf",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:BFSI%2520Innovation%2520%2526%2520Technology%2520Summit%2520Australia%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Aug%252017%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-08-17",
+      "q": [
+        "conference",
+        "summit",
+        "technology",
+        "fintech",
+        "innovation"
+      ],
+      "id": 201
+    },
+    {
+      "title": "Futurebuild Australia",
+      "slug": "futurebuild-australia",
+      "is_active": false,
+      "description": "Tech conference in Sydney, Australia",
+      "event_date": "2027-09-22",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/futurebuild-australia-bbtrjoem",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Futurebuild%2520Australia,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Sep%252022-23%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-09-22",
+      "q": [
+        "conference",
+        "tech"
+      ],
+      "id": 202
+    },
+    {
+      "title": "Product-Led Summit | Sydney",
+      "slug": "product-led-summit-sydney",
+      "is_active": false,
+      "description": "Product management conference in Sydney, Australia",
+      "event_date": "2027-10-26",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/product-led-summit-sydney-5snwexpw",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Product-Led%2520Summit%2520%257C%2520Sydney,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Oct%252026%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-10-26",
+      "q": [
+        "conference",
+        "summit"
+      ],
+      "id": 203
+    },
+    {
+      "title": "The Enterprise Tech, Cloud & AI Show",
+      "slug": "the-enterprise-tech-cloud-ai-show",
+      "is_active": false,
+      "description": "Cloud conference in Sydney, Australia",
+      "event_date": "2027-11-09",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/the-enterprise-tech-cloud-and-ai-show-pxb0upxf",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:The%2520Enterprise%2520Tech%252C%2520Cloud%2520%2526%2520AI%2520Show,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%25209-10%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-11-09",
+      "q": [
+        "conference",
+        "tech",
+        "ai",
+        "cloud"
+      ],
+      "id": 204
+    },
+    {
+      "title": "Data Centres & Digital Infrastructure Show",
+      "slug": "data-centres-digital-infrastructure-show",
+      "is_active": false,
+      "description": "Cloud conference in Sydney, Australia",
+      "event_date": "2027-11-09",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/data-centres-and-digital-infrastructure-show-cvx5rhmk",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Data%2520Centres%2520%2526%2520Digital%2520Infrastructure%2520Show,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%25209-10%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-11-09",
+      "q": [
+        "conference",
+        "cloud",
+        "data",
+        "digital"
+      ],
+      "id": 205
+    },
+    {
+      "title": "Sydney Tech Expo 2027",
+      "slug": "sydney-tech-expo-2027",
+      "is_active": false,
+      "description": "Cloud conference in Sydney, Australia",
+      "event_date": "2027-11-09",
+      "location": "Sydney",
+      "type": "Salon",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/sydney-tech-expo-2027-zz1be39f",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Sydney%2520Tech%2520Expo%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%25209-10%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T07:02:14+00:00",
+      "updated_at": "2026-11-14T07:02:14+00:00",
+      "eventDate": "2027-11-09",
+      "q": [
+        "conference",
+        "expo",
+        "tech",
+        "cloud"
+      ],
+      "id": 206
     }
   ]
 }
