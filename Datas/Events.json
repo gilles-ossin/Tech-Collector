@@ -5338,6 +5338,58 @@
         "cloud"
       ],
       "id": 206
+    },
+    {
+      "title": "Teens in AI Global AI Techathon 2027 - Shape What’s Next",
+      "slug": "teens-in-ai-global-ai-techathon-2027-shape-whats-next",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) hackathon Online",
+      "event_date": "2027-01-18",
+      "location": "En ligne",
+      "type": "Hackathon",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/teens-in-ai-global-ai-techathon-2027-shape-what-s-next-vaczvswe",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Teens%2520in%2520AI%2520Global%2520AI%2520Techathon%25202027%2520-%2520Shape%2520What%25E2%2580%2599s%2520Next,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Jan%252018%2520-%2520Apr%252022%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Online,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T16:45:04+00:00",
+      "updated_at": "2026-11-14T16:45:04+00:00",
+      "eventDate": "2027-01-18",
+      "q": [
+        "hackathon",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 207
+    },
+    {
+      "title": "YAI Singapore: Youth AI Hackathon 2026–27 (ages 7–24)",
+      "slug": "yai-singapore-youth-ai-hackathon-202627-ages-724",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) hackathon in Singapore, Singapore",
+      "event_date": "2027-01-16",
+      "location": "Singapore",
+      "type": "Hackathon",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/yai-singapore-youth-ai-hackathon-2026-27-ages-7-24-krikzuxk",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:YAI%2520Singapore%253A%2520Youth%2520AI%2520Hackathon%25202026%25E2%2580%259327%2520(ages%25207%25E2%2580%259324),g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Jan%252016-17%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Singapore%252C%2520Singapore,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T16:45:04+00:00",
+      "updated_at": "2026-11-14T16:45:04+00:00",
+      "eventDate": "2027-01-16",
+      "q": [
+        "hackathon",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 208
     }
   ]
 }
