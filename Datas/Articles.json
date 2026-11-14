@@ -10966,6 +10966,124 @@
       "created_at": "2026-11-14T06:04:13Z",
       "updated_at": "2026-11-14T13:17:09+00:00",
       "id": 340
+    },
+    {
+      "title": "LTIF: African businesses tasked with producing enough to benefit from AfCFTA",
+      "slug": "ltif-african-businesses-tasked-with-producing-enough-to-benefit-from-afcfta",
+      "is_active": false,
+      "summary": "Trade between African countries makes up between 15%–20% of the continent’s total trade, according to the World Bank.…",
+      "content": {
+        "title": "LTIF: African businesses tasked with producing enough to benefit from AfCFTA",
+        "subtitle": "",
+        "desc": "Trade between African countries makes up between 15%–20% of the continent’s total trade, according to the World Bank.…",
+        "sections": []
+      },
+      "author_name": "Epiphanus Obia",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/african-businesses-produce-benefit-from-afcfta",
+      "q": [
+        "african"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/11/image-7.jpeg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T14:30:00Z",
+      "updated_at": "2026-11-14T19:50:04+00:00",
+      "id": 341
+    },
+    {
+      "title": "AI agents raising new risks for banks and fintechs in Nigeria",
+      "slug": "ai-agents-raising-new-risks-for-banks-and-fintechs-in-nigeria",
+      "is_active": false,
+      "summary": "Imagine you could ask an AI assistant to book a flight, find a hotel for you and handle…",
+      "content": {
+        "title": "AI agents raising new risks for banks and fintechs in Nigeria",
+        "subtitle": "",
+        "desc": "Imagine you could ask an AI assistant to book a flight, find a hotel for you and handle…",
+        "sections": []
+      },
+      "author_name": "Mubarak Bankole",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/ai-agents-raising-new-risks-for-banks-fintechs",
+      "q": [
+        "nigeria",
+        "ai"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/03/image-18.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T13:33:06Z",
+      "updated_at": "2026-11-14T19:50:04+00:00",
+      "id": 342
+    },
+    {
+      "title": "Nigerians spent N13.7bn daily on MTN and Airtel data despite economic pressure",
+      "slug": "nigerians-spent-n13-7bn-daily-on-mtn-and-airtel-data-despite-economic-pressure",
+      "is_active": false,
+      "summary": "Nigerian telecom giants, MTN and Airtel, posted a joint record of ₦3.74 trillion in data revenue alone over…",
+      "content": {
+        "title": "Nigerians spent N13.7bn daily on MTN and Airtel data despite economic pressure",
+        "subtitle": "",
+        "desc": "Nigerian telecom giants, MTN and Airtel, posted a joint record of ₦3.74 trillion in data revenue alone over…",
+        "sections": []
+      },
+      "author_name": "Joshua Fagbemi",
+      "author_username": null,
+      "tags": [
+        "Review",
+        "editor_pick",
+        "Technext"
+      ],
+      "link": "https://technext24.com/reviews/nigerians-spend-mtn-airtel-13-7b-data-daily",
+      "q": [
+        "data",
+        "telecom"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/05/internet-subscriber-2.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T11:35:45Z",
+      "updated_at": "2026-11-14T19:50:04+00:00",
+      "id": 343
+    },
+    {
+      "title": "Le diabète, première cause de mortalité en Afrique du Sud",
+      "slug": "le-diabete-premiere-cause-de-mortalite-en-afrique-du-sud",
+      "is_active": false,
+      "summary": "Les autorités ont appelé les sud-africains à agir tôt face à cette maladie dont le taux de mortalité dépasse celui du VIH/SIDA dans le pays.",
+      "content": {
+        "title": "Le diabète, première cause de mortalité en Afrique du Sud",
+        "subtitle": "",
+        "desc": "Les autorités ont appelé les sud-africains à agir tôt face à cette maladie dont le taux de mortalité dépasse celui du VIH/SIDA dans le pays.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Rédaction Africanews)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/14/le-diabete-premiere-cause-de-mortalite-en-afrique-du-sud",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/09/99/24/17/640x360_cmsv2_97c15864-c4ce-5a44-8672-88fb6906209f-9992417.jpg?1794633896"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-14T14:08:26Z",
+      "updated_at": "2026-11-14T19:50:07+00:00",
+      "id": 344
     }
   ]
 }
