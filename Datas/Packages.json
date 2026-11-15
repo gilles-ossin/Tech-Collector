@@ -16,7 +16,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 499027,
+    "stars": 499101,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "public-apis",
@@ -24,7 +24,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2016-03-20T23:49:42Z",
-    "updated_at": "2026-11-14T22:39:45Z",
+    "updated_at": "2026-11-15T07:11:01Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -48,7 +48,7 @@
     "package_manager_command": "",
     "version": "v5.23.0",
     "license": "Apache-2.0",
-    "stars": 168978,
+    "stars": 168995,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Hugging Face",
@@ -56,12 +56,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-10-29T13:56:00Z",
-    "updated_at": "2026-11-14T22:41:05Z",
+    "updated_at": "2026-11-15T06:55:31Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-14T20:11:28Z"
+    "last_activity": "2026-11-15T00:10:22Z"
   },
   {
     "id": 872119017,
@@ -80,7 +80,7 @@
     "package_manager_command": "pip install scrapling",
     "version": "v0.5.1",
     "license": "BSD-3-Clause",
-    "stars": 102906,
+    "stars": 103060,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Karim shoair",
@@ -88,7 +88,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2024-10-13T20:29:53Z",
-    "updated_at": "2026-11-14T22:44:28Z",
+    "updated_at": "2026-11-15T07:07:51Z",
     "reviews": [],
     "q": [
       "location:egypt"
@@ -112,7 +112,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 53214,
+    "stars": 53229,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "lauren",
@@ -120,7 +120,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2017-03-15T05:09:01Z",
-    "updated_at": "2026-11-14T22:32:59Z",
+    "updated_at": "2026-11-15T07:02:44Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -144,7 +144,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "",
-    "stars": 24109,
+    "stars": 24112,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Abhishek B.",
@@ -152,7 +152,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2016-01-13T18:53:25Z",
-    "updated_at": "2026-11-14T20:08:52Z",
+    "updated_at": "2026-11-15T06:20:28Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -176,7 +176,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 22566,
+    "stars": 22568,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Deepak",
@@ -184,7 +184,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-09-17T11:15:29Z",
-    "updated_at": "2026-11-14T19:09:32Z",
+    "updated_at": "2026-11-15T05:33:23Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -221,7 +221,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-14T22:09:29Z"
+    "last_activity": "2026-11-15T05:42:44Z"
   },
   {
     "id": 85325902,
@@ -253,7 +253,7 @@
     "q": [
       "mobile money africa in:name,description,topics,readme"
     ],
-    "last_activity": "2026-11-14T00:20:38Z"
+    "last_activity": "2026-11-15T00:23:49Z"
   },
   {
     "id": 27971466,
@@ -336,7 +336,7 @@
     "package_manager_command": "pip install pocket-tts",
     "version": "v4.0.1",
     "license": "MIT",
-    "stars": 10304,
+    "stars": 10306,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "kyutai",
@@ -344,7 +344,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2026-01-07T17:33:32Z",
-    "updated_at": "2026-11-14T22:42:25Z",
+    "updated_at": "2026-11-15T06:50:38Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -368,7 +368,7 @@
     "package_manager_command": "pip install countrystatecity-api",
     "version": "v5.2.0-export.1",
     "license": "ODbL-1.0",
-    "stars": 10013,
+    "stars": 10016,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Darshan Gada",
@@ -376,7 +376,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-07-20T14:13:45Z",
-    "updated_at": "2026-11-14T06:36:18Z",
+    "updated_at": "2026-11-15T04:01:53Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -432,7 +432,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "",
-    "stars": 8385,
+    "stars": 8389,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "codeman008",
@@ -440,7 +440,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2023-09-27T08:40:59Z",
-    "updated_at": "2026-11-14T20:54:34Z",
+    "updated_at": "2026-11-15T06:39:06Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -496,7 +496,7 @@
     "package_manager_command": "pip install python-jobspy",
     "version": "v1.4.1",
     "license": "MIT",
-    "stars": 4728,
+    "stars": 4733,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "SpeedyApply",
@@ -504,7 +504,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2023-07-06T19:30:52Z",
-    "updated_at": "2026-11-14T16:04:15Z",
+    "updated_at": "2026-11-15T07:10:34Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -560,7 +560,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 3940,
+    "stars": 3941,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Jonathan Becker",
@@ -568,7 +568,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2025-11-22T16:59:25Z",
-    "updated_at": "2026-11-13T18:35:35Z",
+    "updated_at": "2026-11-15T06:36:37Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -592,7 +592,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 3939,
+    "stars": 3938,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Gramantin",
@@ -600,7 +600,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2014-07-20T00:22:19Z",
-    "updated_at": "2026-11-11T10:57:24Z",
+    "updated_at": "2026-11-15T02:29:02Z",
     "reviews": [],
     "q": [
       "africa in:readme package",
@@ -665,12 +665,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2024-12-12T01:27:03Z",
-    "updated_at": "2026-11-14T21:17:34Z",
+    "updated_at": "2026-11-15T04:45:55Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-14T04:06:22Z"
+    "last_activity": "2026-11-15T01:02:00Z"
   },
   {
     "id": 382113082,
@@ -689,7 +689,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "CC0-1.0",
-    "stars": 2890,
+    "stars": 2889,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Plenary App",
@@ -697,7 +697,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2021-07-01T17:45:31Z",
-    "updated_at": "2026-11-14T06:36:28Z",
+    "updated_at": "2026-11-15T06:13:37Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -721,7 +721,7 @@
     "package_manager_command": "",
     "version": "v0.2.18",
     "license": "GPL-3.0",
-    "stars": 2473,
+    "stars": 2474,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "oneclickvirt",
@@ -729,7 +729,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2024-06-25T08:39:37Z",
-    "updated_at": "2026-11-14T18:31:45Z",
+    "updated_at": "2026-11-15T06:02:10Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -926,7 +926,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-09T01:24:03Z"
+    "last_activity": "2026-11-15T03:23:51Z"
   },
   {
     "id": 66037019,
@@ -990,7 +990,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-14T22:14:33Z"
+    "last_activity": "2026-11-15T02:57:33Z"
   },
   {
     "id": 4493893,
@@ -1041,7 +1041,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "CC0-1.0",
-    "stars": 1466,
+    "stars": 1467,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Endurance, the Martian",
@@ -1049,7 +1049,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2021-06-28T13:32:57Z",
-    "updated_at": "2026-11-14T16:57:59Z",
+    "updated_at": "2026-11-15T05:10:37Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -1297,7 +1297,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "GPL-3.0",
-    "stars": 991,
+    "stars": 992,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Eric Butler",
@@ -1305,7 +1305,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2011-01-25T07:46:58Z",
-    "updated_at": "2026-11-06T17:25:39Z",
+    "updated_at": "2026-11-14T22:59:11Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -1361,7 +1361,7 @@
     "package_manager_command": "",
     "version": "llmstxt-cli@0.4.1",
     "license": "",
-    "stars": 927,
+    "stars": 928,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "David Dias",
@@ -1369,12 +1369,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2025-02-20T15:59:19Z",
-    "updated_at": "2026-11-12T17:15:18Z",
+    "updated_at": "2026-11-14T23:39:41Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
     ],
-    "last_activity": "2026-11-14T21:03:03Z"
+    "last_activity": "2026-11-15T00:44:10Z"
   },
   {
     "id": 461051163,
@@ -1393,7 +1393,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 921,
+    "stars": 923,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "R0GGER",
@@ -1401,7 +1401,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2022-02-19T00:56:48Z",
-    "updated_at": "2026-11-13T17:40:44Z",
+    "updated_at": "2026-11-15T04:54:32Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -1649,7 +1649,7 @@
     "package_manager_command": "",
     "version": "v3.1.0",
     "license": "GPL-3.0",
-    "stars": 667,
+    "stars": 668,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "metrodroid",
@@ -1657,44 +1657,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2015-07-02T13:10:08Z",
-    "updated_at": "2026-11-13T10:39:49Z",
+    "updated_at": "2026-11-14T22:59:20Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
     ],
     "last_activity": "2026-10-02T11:38:05Z"
-  },
-  {
-    "id": 161545557,
-    "title": "markdown-emojis",
-    "slug": "markdown-templates-markdown-emojis",
-    "type": "sdk",
-    "is_active": true,
-    "category": "utility",
-    "primary_language": "Shell",
-    "supported_frameworks": "",
-    "country": "",
-    "description": ":fire: All GitHub Markdown Emojis :tada:",
-    "code_snippet": "",
-    "documentation_url": "https://github.com/markdown-templates/markdown-emojis",
-    "github_url": "https://github.com/markdown-templates/markdown-emojis",
-    "package_manager_command": "",
-    "version": "",
-    "license": "",
-    "stars": 661,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": "Markdown Templates",
-    "author_slug": "markdown-templates",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2018-12-12T21:10:22Z",
-    "updated_at": "2026-11-11T13:53:56Z",
-    "reviews": [],
-    "q": [
-      "mobile money africa in:name,description,topics,readme"
-    ],
-    "last_activity": "2025-12-07T02:04:01Z"
   },
   {
     "id": 115015668,
@@ -1745,7 +1713,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "CC-BY-SA-4.0",
-    "stars": 626,
+    "stars": 627,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Risan Bagja Pradana",
@@ -1753,7 +1721,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-03-25T00:25:05Z",
-    "updated_at": "2026-11-12T14:15:41Z",
+    "updated_at": "2026-11-15T06:51:48Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -2610,7 +2578,7 @@
     "package_manager_command": "pip install sjvisualizer",
     "version": "",
     "license": "MIT",
-    "stars": 242,
+    "stars": 241,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Sjoerd Tilmans",
@@ -2618,7 +2586,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2022-02-12T13:30:09Z",
-    "updated_at": "2026-10-30T17:46:49Z",
+    "updated_at": "2026-11-15T00:37:33Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -2655,7 +2623,7 @@
     "q": [
       "topic:mpesa"
     ],
-    "last_activity": "2026-11-14T22:39:00Z"
+    "last_activity": "2026-11-15T07:11:52Z"
   },
   {
     "id": 745255700,
@@ -2898,7 +2866,7 @@
     "package_manager_command": "npm install npm",
     "version": "3.13.61",
     "license": "MIT",
-    "stars": 183,
+    "stars": 184,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "FreeOpenSourcePOS",
@@ -2906,12 +2874,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2026-05-07T07:51:42Z",
-    "updated_at": "2026-11-14T16:57:07Z",
+    "updated_at": "2026-11-15T00:46:03Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-14T22:40:31Z"
+    "last_activity": "2026-11-15T07:05:34Z"
   },
   {
     "id": 1210972307,
@@ -3585,7 +3553,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2026-08-11T15:09:45Z",
-    "updated_at": "2026-11-12T05:57:49Z",
+    "updated_at": "2026-11-15T05:45:16Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -4429,6 +4397,38 @@
     "last_activity": "2026-11-05T22:28:33Z"
   },
   {
+    "id": 1245097257,
+    "title": "agente-pagokit",
+    "slug": "hainrixz-agente-pagokit",
+    "type": "sdk",
+    "is_active": true,
+    "category": "fintech",
+    "primary_language": "JavaScript",
+    "supported_frameworks": "",
+    "country": "",
+    "description": "Claude Code plugin that picks and implements the right payment method for your app — from your terminal. 42 providers, 136 payment rails, and deterministic validators that block insecure payment code as it is written.",
+    "code_snippet": "// pagokit-ignore: webhook-has-signature -- custom verifier in lib/auth/payments.ts",
+    "documentation_url": "https://docs.claude.com/en/docs/claude-code/plugins",
+    "github_url": "https://github.com/Hainrixz/agente-pagokit",
+    "package_manager_command": "npm install npm",
+    "version": "v0.2.2",
+    "license": "MIT",
+    "stars": 71,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": "soyenriquerocha",
+    "author_slug": "hainrixz",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2026-05-20T22:57:52Z",
+    "updated_at": "2026-11-13T14:23:48Z",
+    "reviews": [],
+    "q": [
+      "mobile money africa in:name,description,topics,readme"
+    ],
+    "last_activity": "2026-10-25T06:02:00Z"
+  },
+  {
     "id": 30850557,
     "title": "wnpp.debian.net",
     "slug": "hartwork-wnpp-debian-net",
@@ -4586,7 +4586,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-14T22:36:37Z"
+    "last_activity": "2026-11-15T01:19:47Z"
   },
   {
     "id": 104003999,
@@ -4714,7 +4714,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-14T14:41:38Z"
+    "last_activity": "2026-11-15T01:05:50Z"
   },
   {
     "id": 810363969,
@@ -4810,7 +4810,7 @@
     "q": [
       "location:nairobi"
     ],
-    "last_activity": "2026-11-14T22:46:59Z"
+    "last_activity": "2026-11-15T07:14:30Z"
   },
   {
     "id": 576965212,
@@ -5162,7 +5162,7 @@
     "q": [
       "topic:mpesa"
     ],
-    "last_activity": "2026-11-14T22:39:14Z"
+    "last_activity": "2026-11-15T07:12:21Z"
   },
   {
     "id": 824543576,
@@ -6098,6 +6098,42 @@
     "last_activity": "2025-01-12T11:48:25Z"
   },
   {
+    "id": 1273421576,
+    "title": "cheki",
+    "slug": "1rb-cheki",
+    "type": "sdk",
+    "is_active": true,
+    "category": "fintech",
+    "primary_language": "TypeScript",
+    "supported_frameworks": "Next.js",
+    "country": "",
+    "description": "Ethiopian bank receipt verifier: check CBE, Telebirr, BOA, M-Pesa, Dashen, Awash and eBirr receipts with the bank. Free, open source, REST API + SDKs.",
+    "code_snippet": "{\n  \"success\": true,\n  \"verified\": true,",
+    "documentation_url": "https://cheki.et/docs",
+    "github_url": "https://github.com/1RB/cheki",
+    "package_manager_command": "npm install cheki-verify",
+    "version": "v1.6.0",
+    "license": "MIT",
+    "stars": 27,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": "ray",
+    "author_slug": "1rb",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2026-06-18T14:02:41Z",
+    "updated_at": "2026-11-15T04:55:37Z",
+    "reviews": [],
+    "q": [
+      "africa sdk in:name,description,topics",
+      "topic:africa topic:sdk",
+      "topic:africa topic:api",
+      "topic:africa topic:fintech",
+      "topic:mpesa"
+    ],
+    "last_activity": "2026-11-14T08:37:28Z"
+  },
+  {
     "id": 1014243451,
     "title": "p5.wrapper",
     "slug": "zakarialaoui10-p5-wrapper",
@@ -6225,42 +6261,6 @@
       "africa in:readme package"
     ],
     "last_activity": "2025-06-19T20:19:20Z"
-  },
-  {
-    "id": 1273421576,
-    "title": "cheki",
-    "slug": "1rb-cheki",
-    "type": "sdk",
-    "is_active": true,
-    "category": "fintech",
-    "primary_language": "TypeScript",
-    "supported_frameworks": "Next.js",
-    "country": "",
-    "description": "Ethiopian bank receipt verifier: check CBE, Telebirr, BOA, M-Pesa, Dashen, Awash and eBirr receipts with the bank. Free, open source, REST API + SDKs.",
-    "code_snippet": "{\n  \"success\": true,\n  \"verified\": true,",
-    "documentation_url": "https://cheki.et/docs",
-    "github_url": "https://github.com/1RB/cheki",
-    "package_manager_command": "npm install cheki-verify",
-    "version": "v1.6.0",
-    "license": "MIT",
-    "stars": 26,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": "ray",
-    "author_slug": "1rb",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2026-06-18T14:02:41Z",
-    "updated_at": "2026-11-13T10:26:46Z",
-    "reviews": [],
-    "q": [
-      "africa sdk in:name,description,topics",
-      "topic:africa topic:sdk",
-      "topic:africa topic:api",
-      "topic:africa topic:fintech",
-      "topic:mpesa"
-    ],
-    "last_activity": "2026-11-14T08:37:28Z"
   },
   {
     "id": 984684971,
@@ -6838,6 +6838,38 @@
       "mobile money africa in:name,description,topics,readme"
     ],
     "last_activity": "2026-11-06T07:38:37Z"
+  },
+  {
+    "id": 1111640256,
+    "title": "Donation-System",
+    "slug": "mwakidenis-donation-system",
+    "type": "api",
+    "is_active": true,
+    "category": "fintech",
+    "primary_language": "JavaScript",
+    "supported_frameworks": "",
+    "country": "Kenya",
+    "description": "👉 People can give money to the projects, groups, or individuals they want to help — instantly through M-Pesa.",
+    "code_snippet": "---\ntitle: System Overview\n---",
+    "documentation_url": "https://tech-donations.vercel.app/",
+    "github_url": "https://github.com/mwakidenis/Donation-System",
+    "package_manager_command": "",
+    "version": "",
+    "license": "MIT",
+    "stars": 20,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": " 🐘",
+    "author_slug": "mwakidenis",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2025-12-07T11:05:25Z",
+    "updated_at": "2026-11-12T15:52:28Z",
+    "reviews": [],
+    "q": [
+      "location:nairobi"
+    ],
+    "last_activity": "2026-11-15T07:14:21Z"
   },
   {
     "id": 1116976048,
@@ -8221,38 +8253,6 @@
     "last_activity": "2025-02-21T04:11:03Z"
   },
   {
-    "id": 1111997074,
-    "title": "MPESA-APP",
-    "slug": "mwakidenis-mpesa-app",
-    "type": "api",
-    "is_active": true,
-    "category": "fintech",
-    "primary_language": "C++",
-    "supported_frameworks": "Express,Flutter",
-    "country": "Kenya",
-    "description": "This project is a modern mobile payment application that integrates Safaricom’s M-Pesa Daraja API with a Flutter frontend and a Node.js + Express backend. It delivers a smooth and reliable payment experience by combining powerful backend processing with an intuitive mobile interface.",
-    "code_snippet": "",
-    "documentation_url": "https://github.com/mwakidenis/MPESA-APP",
-    "github_url": "https://github.com/mwakidenis/MPESA-APP",
-    "package_manager_command": "",
-    "version": "",
-    "license": "",
-    "stars": 14,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": " 🐘",
-    "author_slug": "mwakidenis",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2025-12-08T02:09:18Z",
-    "updated_at": "2026-11-12T14:48:07Z",
-    "reviews": [],
-    "q": [
-      "location:nairobi"
-    ],
-    "last_activity": "2026-11-14T22:47:50Z"
-  },
-  {
     "id": 959342419,
     "title": "Nkentseu",
     "slug": "rihen-universe-nkentseu",
@@ -8963,38 +8963,6 @@
     "last_activity": "2025-01-13T19:58:09Z"
   },
   {
-    "id": 1144584450,
-    "title": "SpeedRadius",
-    "slug": "mwakidenis-speedradius",
-    "type": "sdk",
-    "is_active": true,
-    "category": "utility",
-    "primary_language": "PHP",
-    "supported_frameworks": "",
-    "country": "Kenya",
-    "description": "SpeedRadius API PHP Mikrotik Billing System - Voucher management for Mikrotik Hotspot",
-    "code_snippet": "",
-    "documentation_url": "https://speedcomwifi.xyz",
-    "github_url": "https://github.com/mwakidenis/SpeedRadius",
-    "package_manager_command": "",
-    "version": "",
-    "license": "GPL-2.0",
-    "stars": 11,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": " 🐘",
-    "author_slug": "mwakidenis",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2026-01-28T20:31:04Z",
-    "updated_at": "2026-11-12T16:56:43Z",
-    "reviews": [],
-    "q": [
-      "location:nairobi"
-    ],
-    "last_activity": "2026-11-14T22:47:43Z"
-  },
-  {
     "id": 1007980204,
     "title": "Dope-Agent",
     "slug": "abdullah4345-dope-agent",
@@ -9509,6 +9477,38 @@
     "last_activity": "2025-07-24T08:55:53Z"
   },
   {
+    "id": 1178783579,
+    "title": "Bookit-5s-Arena",
+    "slug": "kopano-labs-bookit-5s-arena",
+    "type": "sdk",
+    "is_active": true,
+    "category": "fintech",
+    "primary_language": "JavaScript",
+    "supported_frameworks": "Next.js",
+    "country": "Afrique du Sud",
+    "description": "Bookit 5's Arena is a full-stack management system purpose-built for the South African 5‑a‑side football industry. More than just a bookit it is a professional-grade CMS and business engine that combines arena management, league tracking, and player engagement into one seamless platform. Features like live pitch status, conflict-free bookings etc.",
+    "code_snippet": "# Database\nMONGODB_URI=your_mongodb_connection_string\n# Authentication",
+    "documentation_url": "https://fivesarena.com",
+    "github_url": "https://github.com/Kopano-Labs/Bookit-5s-Arena",
+    "package_manager_command": "",
+    "version": "",
+    "license": "MIT",
+    "stars": 9,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": "Kopano Labs",
+    "author_slug": "kopano-labs",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2026-03-11T11:12:26Z",
+    "updated_at": "2026-10-20T08:24:35Z",
+    "reviews": [],
+    "q": [
+      "topic:paystack"
+    ],
+    "last_activity": "2026-11-15T07:12:13Z"
+  },
+  {
     "id": 1197975871,
     "title": "mnemopay-sdk",
     "slug": "mnemopay-mnemopay-sdk",
@@ -9539,38 +9539,6 @@
       "topic:paystack"
     ],
     "last_activity": "2026-11-14T03:20:30Z"
-  },
-  {
-    "id": 1178783579,
-    "title": "Bookit-5s-Arena",
-    "slug": "kopano-labs-bookit-5s-arena",
-    "type": "sdk",
-    "is_active": true,
-    "category": "fintech",
-    "primary_language": "JavaScript",
-    "supported_frameworks": "Next.js",
-    "country": "Afrique du Sud",
-    "description": "Bookit 5's Arena is a full-stack management system purpose-built for the South African 5‑a‑side football industry. More than just a bookit it is a professional-grade CMS and business engine that combines arena management, league tracking, and player engagement into one seamless platform. Features like live pitch status, conflict-free bookings etc.",
-    "code_snippet": "# Database\nMONGODB_URI=your_mongodb_connection_string\n# Authentication",
-    "documentation_url": "https://fivesarena.com",
-    "github_url": "https://github.com/Kopano-Labs/Bookit-5s-Arena",
-    "package_manager_command": "",
-    "version": "",
-    "license": "MIT",
-    "stars": 9,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": "Kopano Labs",
-    "author_slug": "kopano-labs",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2026-03-11T11:12:26Z",
-    "updated_at": "2026-10-20T08:24:35Z",
-    "reviews": [],
-    "q": [
-      "topic:paystack"
-    ],
-    "last_activity": "2026-11-13T20:12:46Z"
   },
   {
     "id": 49560440,
@@ -9635,5 +9603,37 @@
       "topic:mpesa"
     ],
     "last_activity": "2026-10-02T07:42:52Z"
+  },
+  {
+    "id": 681842529,
+    "title": "moneroo-laravel",
+    "slug": "moneroohq-moneroo-laravel",
+    "type": "sdk",
+    "is_active": true,
+    "category": "fintech",
+    "primary_language": "PHP",
+    "supported_frameworks": "Laravel",
+    "country": "",
+    "description": "Moneroo official Laravel SDK.",
+    "code_snippet": "MONEROO_PUBLIC_KEY=your-public-key\nMONEROO_SECRET_KEY=your-secret-key",
+    "documentation_url": "https://docs.moneroo.io/",
+    "github_url": "https://github.com/MonerooHQ/moneroo-laravel",
+    "package_manager_command": "composer require moneroo/moneroo-laravel",
+    "version": "v0.2.0",
+    "license": "MIT",
+    "stars": 9,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": "MonerooHQ",
+    "author_slug": "moneroohq",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2023-08-22T22:04:24Z",
+    "updated_at": "2026-08-19T12:36:55Z",
+    "reviews": [],
+    "q": [
+      "africa sdk in:name,description,topics"
+    ],
+    "last_activity": "2026-09-02T11:11:11Z"
   }
 ]
