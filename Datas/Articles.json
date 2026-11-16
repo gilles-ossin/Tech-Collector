@@ -12417,6 +12417,746 @@
       "created_at": "2026-11-16T04:52:02Z",
       "updated_at": "2026-11-16T10:52:04+00:00",
       "id": 387
+    },
+    {
+      "title": "Jensen Huang: The anatomy of a scandal",
+      "slug": "jensen-huang-the-anatomy-of-a-scandal",
+      "is_active": false,
+      "summary": "The scandal surrounding Nvidia’s former CEO Jensen Huang has exposed the risks of tying a company’s reputation too closely to its founder. Jessica Hope examines the fallout and what African tech founders can learn about crisis communications, corporate governance, and rebuilding trust.",
+      "content": {
+        "title": "Jensen Huang: The anatomy of a scandal",
+        "subtitle": "",
+        "desc": "The scandal surrounding Nvidia’s former CEO Jensen Huang has exposed the risks of tying a company’s reputation too closely to its founder. Jessica Hope examines the fallout and what African tech founders can learn about crisis communications, corporate governance, and rebuilding trust.",
+        "sections": []
+      },
+      "author_name": "Jessica Hope",
+      "author_username": null,
+      "tags": [
+        "Opinion",
+        "Jensen Huang",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/16/jensen-huang-scandal-anatomy",
+      "q": [
+        "african",
+        "tech"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-16T16:18:14Z",
+      "updated_at": "2026-11-16T21:50:23+00:00",
+      "id": 388
+    },
+    {
+      "title": "African investors are building exits and finding money in new places",
+      "slug": "african-investors-are-building-exits-and-finding-money-in-new-places",
+      "is_active": false,
+      "summary": "Earlier this year, investors told us exits do not happen on their own. Over the past four weeks, some showed us how they are making them happen.",
+      "content": {
+        "title": "African investors are building exits and finding money in new places",
+        "subtitle": "",
+        "desc": "Earlier this year, investors told us exits do not happen on their own. Over the past four weeks, some showed us how they are making them happen.",
+        "sections": []
+      },
+      "author_name": "Muktar Oladunmade",
+      "author_username": null,
+      "tags": [
+        "Ask An Investor",
+        "Nigeria",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/16/african-investors-are-building-exits",
+      "q": [
+        "african"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-16T13:44:35Z",
+      "updated_at": "2026-11-16T21:50:23+00:00",
+      "id": 389
+    },
+    {
+      "title": "With 6% of its target trained, Nigeria earmarks $3 million to fix 3MTT’s job problem",
+      "slug": "with-6-of-its-target-trained-nigeria-earmarks-3-million-to-fix-3mtts-job-problem",
+      "is_active": false,
+      "summary": "When the Nigerian government launched the 3 Million Technical Talent (3MTT) programme in 2023, it sought to build a workforce that could support the country’s digital economy, fill technical skills gaps and position Nigeria as a global supplier of technology talent. The ambition was to train three million Nigerians within four years, ending in 2027, while connecting them to opportunities locally and internationally.",
+      "content": {
+        "title": "With 6% of its target trained, Nigeria earmarks $3 million to fix 3MTT’s job problem",
+        "subtitle": "",
+        "desc": "When the Nigerian government launched the 3 Million Technical Talent (3MTT) programme in 2023, it sought to build a workforce that could support the country’s digital economy, fill technical skills gaps and position Nigeria as a global supplier of technology talent. The ambition was to train three million Nigerians within four years, ending in 2027, while connecting them to opportunities locally and internationally.",
+        "sections": []
+      },
+      "author_name": "Progress Godfrey",
+      "author_username": null,
+      "tags": [
+        "Analysis",
+        "Enterprise & Policy",
+        "3MTT",
+        "3MTT Delivery Network",
+        "Bosun Tijani",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/16/nigeria-3mtt-4-billion-jobs-problem",
+      "q": [
+        "nigeria",
+        "technology",
+        "digital"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-16T11:51:01Z",
+      "updated_at": "2026-11-16T21:50:23+00:00",
+      "id": 390
+    },
+    {
+      "title": "Four years after walking away, MTN is back for Telkom",
+      "slug": "four-years-after-walking-away-mtn-is-back-for-telkom",
+      "is_active": false,
+      "summary": "MTN has reopened talks to acquire Telkom, four years after their previous takeover attempt collapsed. The renewed discussions come as Telkom’s valuation has nearly doubled, raising the stakes for a deal that could reshape South Africa’s telecommunications market.",
+      "content": {
+        "title": "Four years after walking away, MTN is back for Telkom",
+        "subtitle": "",
+        "desc": "MTN has reopened talks to acquire Telkom, four years after their previous takeover attempt collapsed. The renewed discussions come as Telkom’s valuation has nearly doubled, raising the stakes for a deal that could reshape South Africa’s telecommunications market.",
+        "sections": []
+      },
+      "author_name": "Phathisani Moyo",
+      "author_username": null,
+      "tags": [
+        "Telecoms",
+        "MTN",
+        "Ralph Mupita",
+        "telecoms",
+        "Telkom",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/16/mtn-reopens-talks-to-acquire-telkom",
+      "q": [
+        "africa",
+        "south africa"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-16T11:07:50Z",
+      "updated_at": "2026-11-16T21:50:23+00:00",
+      "id": 391
+    },
+    {
+      "title": "Paystack processes $15bn annually for over 400,000 businesses",
+      "slug": "paystack-processes-15bn-annually-for-over-400-000-businesses",
+      "is_active": false,
+      "summary": "Nigerian fintech giant Paystack says it processes over $15 billion in payments each year for more than 400,000…",
+      "content": {
+        "title": "Paystack processes $15bn annually for over 400,000 businesses",
+        "subtitle": "",
+        "desc": "Nigerian fintech giant Paystack says it processes over $15 billion in payments each year for more than 400,000…",
+        "sections": []
+      },
+      "author_name": "Mubarak Bankole",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/paystack-processes-15b-annually-for-businesses",
+      "q": [
+        "fintech"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/11/image-50.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T18:52:03Z",
+      "updated_at": "2026-11-16T21:50:32+00:00",
+      "id": 392
+    },
+    {
+      "title": "MTN-IHS $2.2bn merger closing deadline extended to Dec 17",
+      "slug": "mtn-ihs-2-2bn-merger-closing-deadline-extended-to-dec-17",
+      "is_active": false,
+      "summary": "MTN Group and mobile tower management company IHS Holding Limited (IHS) have mutually agreed to extend the closing…",
+      "content": {
+        "title": "MTN-IHS $2.2bn merger closing deadline extended to Dec 17",
+        "subtitle": "",
+        "desc": "MTN Group and mobile tower management company IHS Holding Limited (IHS) have mutually agreed to extend the closing…",
+        "sections": []
+      },
+      "author_name": "Joshua Fagbemi",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/mtn-ihs-merger-closing-deadline-extended",
+      "q": [
+        "mobile"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/08/Telecom-Tower.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T18:40:51Z",
+      "updated_at": "2026-11-16T21:50:32+00:00",
+      "id": 393
+    },
+    {
+      "title": "Nigeria’s inflation falls to 14.06%, but cost of living keeps rising",
+      "slug": "nigerias-inflation-falls-to-14-06-but-cost-of-living-keeps-rising",
+      "is_active": false,
+      "summary": "Nigeria’s overall inflation rate went down to 14.06% in October 2026, down from 14.63% in September. This indicates…",
+      "content": {
+        "title": "Nigeria’s inflation falls to 14.06%, but cost of living keeps rising",
+        "subtitle": "",
+        "desc": "Nigeria’s overall inflation rate went down to 14.06% in October 2026, down from 14.63% in September. This indicates…",
+        "sections": []
+      },
+      "author_name": "Mubarak Bankole",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/nigerias-inflation-falls-cost-of-living-rising",
+      "q": [
+        "nigeria"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2025/08/food-inflation-.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T16:56:44Z",
+      "updated_at": "2026-11-16T21:50:32+00:00",
+      "id": 394
+    },
+    {
+      "title": "NGX Group acquires 10% stake in Nairobi Securities Exchange, expands African footprint",
+      "slug": "ngx-group-acquires-10-stake-in-nairobi-securities-exchange-expands-african-footprint",
+      "is_active": false,
+      "summary": "Nigerian Exchange Group Plc (NGX Group) has announced that it has acquired a 10% stake in the Nairobi…",
+      "content": {
+        "title": "NGX Group acquires 10% stake in Nairobi Securities Exchange, expands African footprint",
+        "subtitle": "",
+        "desc": "Nigerian Exchange Group Plc (NGX Group) has announced that it has acquired a 10% stake in the Nairobi…",
+        "sections": []
+      },
+      "author_name": "Mubarak Bankole",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/ngx-group-acquires-stake-nairobi-securities",
+      "q": [
+        "african",
+        "nairobi"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/11/image-48.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T12:48:01Z",
+      "updated_at": "2026-11-16T21:50:32+00:00",
+      "id": 395
+    },
+    {
+      "title": "Tech Trivia with Banke Adebayo, Founder of ALTE®",
+      "slug": "tech-trivia-with-banke-adebayo-founder-of-alte",
+      "is_active": false,
+      "summary": "Productivity advice often assumes everyone has the same hours, energy, and demands on their attention. For many women…",
+      "content": {
+        "title": "Tech Trivia with Banke Adebayo, Founder of ALTE®",
+        "subtitle": "",
+        "desc": "Productivity advice often assumes everyone has the same hours, energy, and demands on their attention. For many women…",
+        "sections": []
+      },
+      "author_name": "Ifeoluwa Popoola",
+      "author_username": null,
+      "tags": [
+        "Women in Tech",
+        "editor_pick",
+        "Technext"
+      ],
+      "link": "https://technext24.com/women-in-tech/tech-trivia-with-banke-adebayo-founder-of-alte",
+      "q": [
+        "tech"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/11/DSC_0862-Oluwabamike-Adebayo.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T11:53:28Z",
+      "updated_at": "2026-11-16T21:50:32+00:00",
+      "id": 396
+    },
+    {
+      "title": "Payaza adds Kenya, now has regulatory backing in 14 African countries",
+      "slug": "payaza-adds-kenya-now-has-regulatory-backing-in-14-african-countries",
+      "is_active": false,
+      "summary": "Nigerian payments company Payaza has received approval from the Central Bank of Kenya (CBK) to offer payment gateway…",
+      "content": {
+        "title": "Payaza adds Kenya, now has regulatory backing in 14 African countries",
+        "subtitle": "",
+        "desc": "Nigerian payments company Payaza has received approval from the Central Bank of Kenya (CBK) to offer payment gateway…",
+        "sections": []
+      },
+      "author_name": "Mubarak Bankole",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/payaza-gets-kenya-regulatory-backing-africa",
+      "q": [
+        "african",
+        "kenya"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/11/image-47.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T11:26:29Z",
+      "updated_at": "2026-11-16T21:50:32+00:00",
+      "id": 397
+    },
+    {
+      "title": "Ethiopia’s Dodai Raises Series A Funding to $16 Million as Japanese Investors Bet on Electric Motorcycles",
+      "slug": "ethiopias-dodai-raises-series-a-funding-to-16-million-as-japanese-investors-bet-on-electric-motorcycles",
+      "is_active": false,
+      "summary": "Ethiopian electric mobility startup Dodai has raised an additional $3 million from investors including Japanese energy giant Tokyo Gas and Singapore-based Kaneto Capital Management, bringing its Series A financing to $16 million as it accelerates the rollout of electric motorcycles and battery-swapping infrastructure in Africa’s second-most populous nation. The latest investment follows a $13 million […] The post Ethiopia’s Dodai Raises Series A Funding to $16 Million as Japanese Investors Bet o",
+      "content": {
+        "title": "Ethiopia’s Dodai Raises Series A Funding to $16 Million as Japanese Investors Bet on Electric Motorcycles",
+        "subtitle": "",
+        "desc": "Ethiopian electric mobility startup Dodai has raised an additional $3 million from investors including Japanese energy giant Tokyo Gas and Singapore-based Kaneto Capital Management, bringing its Series A financing to $16 million as it accelerates the rollout of electric motorcycles and battery-swapping infrastructure in Africa’s second-most populous nation. The latest investment follows a $13 million […] The post Ethiopia’s Dodai Raises Series A Funding to $16 Million as Japanese Investors Bet on Electric Motorcycles appeared first on TechMoran .",
+        "sections": []
+      },
+      "author_name": "Ronald Bwire",
+      "author_username": null,
+      "tags": [
+        "Startups",
+        "TechMoran"
+      ],
+      "link": "https://techmoran.com/2026/11/16/ethiopias-dodai-raises-series-a-funding-to-16-million-as-japanese-investors-bet-on-electric-motorcycles",
+      "q": [
+        "africa",
+        "ethiopia",
+        "startup"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-16T19:38:42Z",
+      "updated_at": "2026-11-16T21:50:33+00:00",
+      "id": 398
+    },
+    {
+      "title": "PP-2026: La Côte d’Ivoire fait son retour au Conseil de l’UIT avec manière",
+      "slug": "pp-2026-la-cote-divoire-fait-son-retour-au-conseil-de-luit-avec-maniere",
+      "is_active": false,
+      "summary": "[DIGITAL Business Africa] – À Doha, les jours s’enchaînent, les bonnes nouvelles aussi pour l’Afrique. Après que 46 propositions africaines ont été adoptées, voilà que la Côte d’Ivoire honore tout le continent en décrochant une place dans le Conseil de l’Union internationale des télécommunications, ce 16 novembre 2026. La délégation ivoirienne récolte 135 voix et […]",
+      "content": {
+        "title": "PP-2026: La Côte d’Ivoire fait son retour au Conseil de l’UIT avec manière",
+        "subtitle": "",
+        "desc": "[DIGITAL Business Africa] – À Doha, les jours s’enchaînent, les bonnes nouvelles aussi pour l’Afrique. Après que 46 propositions africaines ont été adoptées, voilà que la Côte d’Ivoire honore tout le continent en décrochant une place dans le Conseil de l’Union internationale des télécommunications, ce 16 novembre 2026. La délégation ivoirienne récolte 135 voix et […]",
+        "sections": []
+      },
+      "author_name": "Digital Business Africa",
+      "author_username": null,
+      "tags": [
+        "Côte d’Ivoire",
+        "Dernières publications",
+        "Investissement",
+        "SLIDEHOME",
+        "Technologies",
+        "TÉLÉCOMS",
+        "Djibril Ouattara",
+        "Doha",
+        "numérique",
+        "PP-26",
+        "télécommunications",
+        "UIT",
+        "Digital Business Africa"
+      ],
+      "link": "https://www.digitalbusiness.africa/pp-2026-la-cote-divoire-fait-son-retour-au-conseil-de-luit-avec-maniere",
+      "q": [
+        "africa",
+        "afrique",
+        "digital"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-16T17:27:31Z",
+      "updated_at": "2026-11-16T21:50:35+00:00",
+      "id": 399
+    },
+    {
+      "title": "Cameroun : À Campo, le PATNUC veut connecter les territoires ruraux aux opportunités de l’économie numérique",
+      "slug": "cameroun-a-campo-le-patnuc-veut-connecter-les-territoires-ruraux-aux-opportunites-de-leconomie-numerique",
+      "is_active": false,
+      "summary": "[DIGITAL BUSINESS AFRICA] – La transformation numérique du Cameroun poursuit son déploiement au-delà des grandes agglomérations. Ce vendredi 13 novembre 2026, la localité de Campo, dans la région du Sud, a accueilli l’inauguration d’un nouveau site de connectivité rurale dans le cadre du Projet d’accélération de la transformation numérique au Cameroun (PATNUC). Soutenue par la […]",
+      "content": {
+        "title": "Cameroun : À Campo, le PATNUC veut connecter les territoires ruraux aux opportunités de l’économie numérique",
+        "subtitle": "",
+        "desc": "[DIGITAL BUSINESS AFRICA] – La transformation numérique du Cameroun poursuit son déploiement au-delà des grandes agglomérations. Ce vendredi 13 novembre 2026, la localité de Campo, dans la région du Sud, a accueilli l’inauguration d’un nouveau site de connectivité rurale dans le cadre du Projet d’accélération de la transformation numérique au Cameroun (PATNUC). Soutenue par la […]",
+        "sections": []
+      },
+      "author_name": "Digital Business Africa",
+      "author_username": null,
+      "tags": [
+        "Actualité",
+        "Cameroun",
+        "Dernières publications",
+        "SLIDEHOME",
+        "TÉLÉCOMS",
+        "Banque Mondiale",
+        "Campo",
+        "Camtel",
+        "connectivité rurale",
+        "fracture numérique",
+        "Guinée équatoriale",
+        "inclusion numérique",
+        "Minette Libom Li Likeng",
+        "Minpostel",
+        "Mtn Cameroon",
+        "Orange Cameroun",
+        "Patnuc",
+        "télécommunications",
+        "transformation numérique",
+        "Digital Business Africa"
+      ],
+      "link": "https://www.digitalbusiness.africa/cameroun-a-campo-le-patnuc-veut-connecter-les-territoires-ruraux-aux-opportunites-de-leconomie-numerique",
+      "q": [
+        "africa",
+        "digital"
+      ],
+      "img": [
+        "https://i0.wp.com/www.digitalbusiness.africa/wp-content/uploads/2026/11/333153.jpg?resize=696%2C392&#038;ssl=1"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T13:40:37Z",
+      "updated_at": "2026-11-16T21:50:35+00:00",
+      "id": 400
+    },
+    {
+      "title": "Panne de Microsoft : Les leçons de la vassalité numérique de l’Afrique",
+      "slug": "panne-de-microsoft-les-lecons-de-la-vassalite-numerique-de-lafrique",
+      "is_active": false,
+      "summary": "[DIGITAL Business Africa] – Microsoft sort la tête de l’eau. Dans un communiqué publié ce 14 novembre 2026, l’entreprise a annoncé la fin complète de la panne mondiale. 74 heures durant, les utilisateurs d’Outlook, Teams, Copilot et d’autres services Microsoft 365 ont connu la douleur de ne pas pouvoir consulter leurs mails, participer à une […]",
+      "content": {
+        "title": "Panne de Microsoft : Les leçons de la vassalité numérique de l’Afrique",
+        "subtitle": "",
+        "desc": "[DIGITAL Business Africa] – Microsoft sort la tête de l’eau. Dans un communiqué publié ce 14 novembre 2026, l’entreprise a annoncé la fin complète de la panne mondiale. 74 heures durant, les utilisateurs d’Outlook, Teams, Copilot et d’autres services Microsoft 365 ont connu la douleur de ne pas pouvoir consulter leurs mails, participer à une […]",
+        "sections": []
+      },
+      "author_name": "Digital Business Africa",
+      "author_username": null,
+      "tags": [
+        "Dernières publications",
+        "Investissement",
+        "SLIDEHOME",
+        "Technologies",
+        "Copilot",
+        "données",
+        "messagerie électronique",
+        "Microsoft",
+        "numérique",
+        "Outlook",
+        "Digital Business Africa"
+      ],
+      "link": "https://www.digitalbusiness.africa/panne-de-microsoft-les-lecons-de-la-vassalite-numerique-de-lafrique",
+      "q": [
+        "africa",
+        "afrique",
+        "digital"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-16T09:53:29Z",
+      "updated_at": "2026-11-16T21:50:35+00:00",
+      "id": 401
+    },
+    {
+      "title": "Afrique du Sud : l'incompréhension après la mort de 17 personnes dans deux fusillades",
+      "slug": "afrique-du-sud-l-incomprehension-apres-la-mort-de-17-personnes-dans-deux-fusillades",
+      "is_active": false,
+      "summary": "La police a toutefois précisé que les deux fusillades n'étaient pas liées. Aucune arrestation n'avait été effectuée à la suite de ces deux attaques",
+      "content": {
+        "title": "Afrique du Sud : l'incompréhension après la mort de 17 personnes dans deux fusillades",
+        "subtitle": "",
+        "desc": "La police a toutefois précisé que les deux fusillades n'étaient pas liées. Aucune arrestation n'avait été effectuée à la suite de ces deux attaques",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Laetitia Lago Dregnounou)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/16/afrique-du-sud-lincomprehension-apres-la-mort-de-17-personnes-dans-deux-fusillades",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/09/99/51/32/640x360_cmsv2_c8a353ab-ef2d-5f32-8906-bc5fb64e8414-9995132.jpg?1794854091"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T20:56:34Z",
+      "updated_at": "2026-11-16T21:50:35+00:00",
+      "id": 402
+    },
+    {
+      "title": "OIF, violences en Afrique du Sud et Ebola en RDC : le point sur l'actualité [Africanews Today]",
+      "slug": "oif-violences-en-afrique-du-sud-et-ebola-en-rdc-le-point-sur-l-actualite-africanews-today",
+      "is_active": false,
+      "summary": "Chaque lundi, Africanews Today vous propose un nouveau rendez-vous sur l'actualité panafricaine.",
+      "content": {
+        "title": "OIF, violences en Afrique du Sud et Ebola en RDC : le point sur l'actualité [Africanews Today]",
+        "subtitle": "",
+        "desc": "Chaque lundi, Africanews Today vous propose un nouveau rendez-vous sur l'actualité panafricaine.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Ali Bamba)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/16/oif-violences-en-afrique-du-sud-et-ebola-en-rdc-le-point-sur-lactualite-africanews-today",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/09/99/40/66/640x360_cmsv2_c39a6ffb-7209-53e1-b06e-34fc6adeaf6a-9994066.jpg?1794822971"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T18:21:35Z",
+      "updated_at": "2026-11-16T21:50:35+00:00",
+      "id": 403
+    },
+    {
+      "title": "Au Kenya : les agriculteurs se préparent à de fortes pluies liées à El Niño",
+      "slug": "au-kenya-les-agriculteurs-se-preparent-a-de-fortes-pluies-liees-a-el-nino",
+      "is_active": false,
+      "summary": "Face aux risques de fortes précipitations liées à El Niño, les agriculteurs kényans multiplient les mesures préventives",
+      "content": {
+        "title": "Au Kenya : les agriculteurs se préparent à de fortes pluies liées à El Niño",
+        "subtitle": "",
+        "desc": "Face aux risques de fortes précipitations liées à El Niño, les agriculteurs kényans multiplient les mesures préventives",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Rédaction Africanews)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/16/au-kenya-les-agriculteurs-se-preparent-a-de-fortes-pluies-liees-a-el-nino",
+      "q": [
+        "kenya"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/09/99/44/38/640x360_cmsv2_b253db08-f57e-514a-b3f0-54e1f49770ad-9994438.jpg?1794833328"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T17:29:09Z",
+      "updated_at": "2026-11-16T21:50:35+00:00",
+      "id": 404
+    },
+    {
+      "title": "RDC : 6 mois après, l'épidémie d'Ebola toujours pas maîtrisée",
+      "slug": "rdc-6-mois-apres-l-epidemie-d-ebola-toujours-pas-maitrisee",
+      "is_active": false,
+      "summary": "Selon le Centre africain de prévention et de contrôle des maladies (Africa CDC), l’épidémie d’Ebola causée par le virus Bundibugyo en République démocratique du Congo, continue de s’étendre, en raison des conflits en cours, des déplacements de population et des besoins humanitaires.",
+      "content": {
+        "title": "RDC : 6 mois après, l'épidémie d'Ebola toujours pas maîtrisée",
+        "subtitle": "",
+        "desc": "Selon le Centre africain de prévention et de contrôle des maladies (Africa CDC), l’épidémie d’Ebola causée par le virus Bundibugyo en République démocratique du Congo, continue de s’étendre, en raison des conflits en cours, des déplacements de population et des besoins humanitaires.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Rédaction Africanews)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/16/ebola-lepidemie-nest-toujours-pas-maitrisee-six-mois-apres-sa-declaration",
+      "q": [
+        "africa"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/09/99/41/82/640x360_cmsv2_d68c77bb-87fe-5983-9474-411ad6099b83-9994182.jpg?1794825746"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T15:08:35Z",
+      "updated_at": "2026-11-16T21:50:35+00:00",
+      "id": 405
+    },
+    {
+      "title": "Algérie : Tebboune menace de s’attaquer aux trafiquants de drogue à la source",
+      "slug": "algerie-tebboune-menace-de-sattaquer-aux-trafiquants-de-drogue-a-la-source",
+      "is_active": false,
+      "summary": "Le président algérien Abdelmadjid Tebboune a menacé dimanche de prendre des mesures contre la drogue «à la source», alors qu’Alger accuse depuis longtemps le Maroc voisin d’être à l’origine du trafic de drogue vers le pays.",
+      "content": {
+        "title": "Algérie : Tebboune menace de s’attaquer aux trafiquants de drogue à la source",
+        "subtitle": "",
+        "desc": "Le président algérien Abdelmadjid Tebboune a menacé dimanche de prendre des mesures contre la drogue «à la source», alors qu’Alger accuse depuis longtemps le Maroc voisin d’être à l’origine du trafic de drogue vers le pays.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Laetitia Lago Dregnounou)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/16/alger-menace-de-sattaquer-aux-trafiquants-de-drogue-a-la-source",
+      "q": [
+        "maroc"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/09/99/45/77/640x360_cmsv2_01f56810-470a-527a-a590-c19e8bc20cbb-9994577.jpg?1794835853"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T15:06:28Z",
+      "updated_at": "2026-11-16T21:50:35+00:00",
+      "id": 406
+    },
+    {
+      "title": "Francophonie : l'élection du secrétaire général repoussée d'un an",
+      "slug": "francophonie-l-election-du-secretaire-general-repoussee-d-un-an",
+      "is_active": false,
+      "summary": "Une première dans l’histoire de la Francophonie, l’élection de son secrétaire général est reportée d’un an. Réunis à Phnom Penh, au Cambodge, les États membres ne sont pas parvenus à un consensus, au cœur d’un bras de fer entre la RDC et le Rwanda.",
+      "content": {
+        "title": "Francophonie : l'élection du secrétaire général repoussée d'un an",
+        "subtitle": "",
+        "desc": "Une première dans l’histoire de la Francophonie, l’élection de son secrétaire général est reportée d’un an. Réunis à Phnom Penh, au Cambodge, les États membres ne sont pas parvenus à un consensus, au cœur d’un bras de fer entre la RDC et le Rwanda.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Rédaction Africanews)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/16/francophonie-lelection-du-secretaire-general-repoussee-dun-an",
+      "q": [
+        "rwanda"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/09/99/44/36/640x360_cmsv2_ffb25116-0d03-53fa-8e8c-e1ad33421c66-9994436.jpg?1794832717"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T16:21:52Z",
+      "updated_at": "2026-11-16T21:50:35+00:00",
+      "id": 407
+    },
+    {
+      "title": "Afrique du Sud : au moins 17 morts dans deux fusillades distinctes",
+      "slug": "afrique-du-sud-au-moins-17-morts-dans-deux-fusillades-distinctes",
+      "is_active": false,
+      "summary": "Dix-sept personnes ont été tuées lors de deux fusillades distinctes en Afrique du Sud, a indiqué lundi la police, alors que ce pays, las de la criminalité, est confronté à des taux d’homicides toujours élevés.",
+      "content": {
+        "title": "Afrique du Sud : au moins 17 morts dans deux fusillades distinctes",
+        "subtitle": "",
+        "desc": "Dix-sept personnes ont été tuées lors de deux fusillades distinctes en Afrique du Sud, a indiqué lundi la police, alors que ce pays, las de la criminalité, est confronté à des taux d’homicides toujours élevés.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Laetitia Lago Dregnounou)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/16/afrique-du-sud-dix-sept-personnes-ont-ete-tuees-lors-de-deux-fusillades",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/09/99/43/50/640x360_cmsv2_57fb3159-3c01-57b7-81c8-3050c796ce83-9994350.jpg?1794830052"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T13:21:17Z",
+      "updated_at": "2026-11-16T21:50:35+00:00",
+      "id": 408
+    },
+    {
+      "title": "Ouganda: deux ans après l'arrestation de l'opposant Kizza Besigye, sa famille alerte sur son état de santé",
+      "slug": "ouganda-deux-ans-apres-l-arrestation-de-l-opposant-kizza-besigye-sa-famille-alerte-sur-son-etat-de-sante",
+      "is_active": false,
+      "summary": "Le 16 novembre 2024, l'opposant ougandais Kizza Besigye était arrêté à Nairobi, au Kenya. Deux ans plus tard, son épouse Winnie Byanyima réclame sa libération pour lui permettre de recevoir des soins spécialisés. Interrogée par RFI ce 16 novembre 2026, elle met aussi en cause les discussions politiques proposées par le général Salim Saleh, demi-frère du président ougandais Yoweri Museveni.",
+      "content": {
+        "title": "Ouganda: deux ans après l'arrestation de l'opposant Kizza Besigye, sa famille alerte sur son état de santé",
+        "subtitle": "",
+        "desc": "Le 16 novembre 2024, l'opposant ougandais Kizza Besigye était arrêté à Nairobi, au Kenya. Deux ans plus tard, son épouse Winnie Byanyima réclame sa libération pour lui permettre de recevoir des soins spécialisés. Interrogée par RFI ce 16 novembre 2026, elle met aussi en cause les discussions politiques proposées par le général Salim Saleh, demi-frère du président ougandais Yoweri Museveni.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261116-ouganda-deux-ans-apr%C3%A8s-l-arrestation-de-l-opposant-kizza-besigye-sa-famille-alerte-sur-son-%C3%A9tat-de-sant%C3%A9",
+      "q": [
+        "kenya",
+        "nairobi"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/aba0d8c0-c36e-11f0-8ec3-005056bfb2b6/w:1024/p:16x9/Kizza-Besigye-NOVEMBER-A-REUTERS.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T20:56:42Z",
+      "updated_at": "2026-11-16T21:50:36+00:00",
+      "id": 409
+    },
+    {
+      "title": "L'Allemagne, l'Autriche, le Danemark, la Grèce et les Pays-Bas présentent leur projet de «hub de retour» pour migrants au Rwanda",
+      "slug": "l-allemagne-l-autriche-le-danemark-la-grece-et-les-pays-bas-presentent-leur-projet-de-hub-de-retour-pour-migrants-au-rwanda",
+      "is_active": false,
+      "summary": "Cinq pays européens défendent une politique migratoire très ferme et pilotent ensemble un projet visant à envoyer des migrants dans des centres situés hors d’Europe. Après des mois de réflexion, ils ont retenu le Rwanda pour un premier projet pilote, dont l’ouverture est prévue en 2027.",
+      "content": {
+        "title": "L'Allemagne, l'Autriche, le Danemark, la Grèce et les Pays-Bas présentent leur projet de «hub de retour» pour migrants au Rwanda",
+        "subtitle": "",
+        "desc": "Cinq pays européens défendent une politique migratoire très ferme et pilotent ensemble un projet visant à envoyer des migrants dans des centres situés hors d’Europe. Après des mois de réflexion, ils ont retenu le Rwanda pour un premier projet pilote, dont l’ouverture est prévue en 2027.",
+        "sections": []
+      },
+      "author_name": "RFI avec AFP",
+      "author_username": null,
+      "tags": [
+        "Europe",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/europe/20261116-l-allemagne-l-autriche-le-danemark-la-gr%C3%A8ce-et-les-pays-bas-pr%C3%A9sentent-leur-projet-de-hub-de-retour-pour-migrants-au-rwanda",
+      "q": [
+        "rwanda"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/013e2372-e1d3-11f1-80e8-f71d22e7fea9/w:1024/p:16x9/AP26320558302536.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T15:35:36Z",
+      "updated_at": "2026-11-16T21:50:36+00:00",
+      "id": 410
+    },
+    {
+      "title": "Report de l’élection du secrétaire général de l’OIF: «Sur le fond, la position de la RDC a gagné»",
+      "slug": "report-de-lelection-du-secretaire-general-de-loif-sur-le-fond-la-position-de-la-rdc-a-gagne",
+      "is_active": false,
+      "summary": "C'est une première pour l'OIF : l'élection du secrétaire général de l'Organisation internationale de la Francophonie, au cœur d'un bras de fer entre République démocratique du Congo (RDC) et Rwanda, est reportée d'un an. La sortante, la Rwandaise Louise Mushikiwabo, qui briguait un troisième mandat, restera en poste jusqu'à la tenue du nouveau scrutin, auquel Kigali ne présentera pas de candidat. Frédéric Turpin, professeur d'histoire contemporaine à l'université Savoie Mont-Blanc, spécialiste d",
+      "content": {
+        "title": "Report de l’élection du secrétaire général de l’OIF: «Sur le fond, la position de la RDC a gagné»",
+        "subtitle": "",
+        "desc": "C'est une première pour l'OIF : l'élection du secrétaire général de l'Organisation internationale de la Francophonie, au cœur d'un bras de fer entre République démocratique du Congo (RDC) et Rwanda, est reportée d'un an. La sortante, la Rwandaise Louise Mushikiwabo, qui briguait un troisième mandat, restera en poste jusqu'à la tenue du nouveau scrutin, auquel Kigali ne présentera pas de candidat. Frédéric Turpin, professeur d'histoire contemporaine à l'université Savoie Mont-Blanc, spécialiste de la francophonie et des relations entre la France et l'Afrique, est l’invité d’Afrique Midi.",
+        "sections": []
+      },
+      "author_name": "Nicolas Sur",
+      "author_username": null,
+      "tags": [
+        "Invité Afrique Midi",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261116-report-de-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-de-l-oif-sur-le-fond-la-position-de-la-rdc-a-gagn%C3%A9",
+      "q": [
+        "afrique",
+        "rwanda",
+        "kigali"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/e36b6f62-e1be-11f1-9d3f-f71d22e7fea9/w:1024/p:16x9/2026-11-16T090731Z-131018243-RC2VOOAMAHV5-RTRMADP-3-CAMBODIA-FRANCOPHONIE.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-16T13:55:42Z",
+      "updated_at": "2026-11-16T21:50:36+00:00",
+      "id": 411
     }
   ]
 }
