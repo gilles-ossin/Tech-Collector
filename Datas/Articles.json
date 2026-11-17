@@ -13157,6 +13157,217 @@
       "created_at": "2026-11-16T13:55:42Z",
       "updated_at": "2026-11-16T21:50:36+00:00",
       "id": 411
+    },
+    {
+      "title": "INEC’s voter register cleanup raises questions about staff oversight",
+      "slug": "inecs-voter-register-cleanup-raises-questions-about-staff-oversight",
+      "is_active": false,
+      "summary": "INEC has removed AI-generated photographs from Nigeria’s voter register and flagged 54 registration personnel over irregularities. But as the 2027 elections approach, questions remain about how the images got in, whether internal safeguards failed and what the commission is doing to prevent a repeat.",
+      "content": {
+        "title": "INEC’s voter register cleanup raises questions about staff oversight",
+        "subtitle": "",
+        "desc": "INEC has removed AI-generated photographs from Nigeria’s voter register and flagged 54 registration personnel over irregularities. But as the 2027 elections approach, questions remain about how the images got in, whether internal safeguards failed and what the commission is doing to prevent a repeat.",
+        "sections": []
+      },
+      "author_name": "Frank Eleanya",
+      "author_username": null,
+      "tags": [
+        "Enterprise & Policy",
+        "Analysis",
+        "AI",
+        "elections",
+        "INEC",
+        "Nigeria",
+        "Voter register",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/17/inec-cut-fake-photos-but-not-the-problem",
+      "q": [
+        "nigeria",
+        "ai"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-17T06:56:29Z",
+      "updated_at": "2026-11-17T07:25:45+00:00",
+      "id": 412
+    },
+    {
+      "title": "Down to Earth Technologies obtient 3 millions de dollars pour les réseaux est-africains",
+      "slug": "down-to-earth-technologies-obtient-3-millions-de-dollars-pour-les-reseaux-est-africains",
+      "is_active": false,
+      "summary": "Written by: La Rédaction L'intégrateur kényan Down to Earth Technologies a obtenu une ligne de crédit de 3 millions de dollars auprès du fonds TLG Capital. L'entreprise conçoit et déploie des infrastructures numériques, des solutions d'informatique en nuage et des systèmes de cybersécurité. Ce financement lui permettra d'exécuter de grands contrats de réseaux d'entreprise et d'étendre ses services technologiques en Afrique de l'Est. Lire aussi: Le centre Stem Lab ouvre des stages pratiques en te",
+      "content": {
+        "title": "Down to Earth Technologies obtient 3 millions de dollars pour les réseaux est-africains",
+        "subtitle": "",
+        "desc": "Written by: La Rédaction L'intégrateur kényan Down to Earth Technologies a obtenu une ligne de crédit de 3 millions de dollars auprès du fonds TLG Capital. L'entreprise conçoit et déploie des infrastructures numériques, des solutions d'informatique en nuage et des systèmes de cybersécurité. Ce financement lui permettra d'exécuter de grands contrats de réseaux d'entreprise et d'étendre ses services technologiques en Afrique de l'Est. Lire aussi: Le centre Stem Lab ouvre des stages pratiques en technologies au Nigeria",
+        "sections": []
+      },
+      "author_name": "La Rédaction",
+      "author_username": null,
+      "tags": [
+        "Breves_Simple",
+        "WeAreTech Africa"
+      ],
+      "link": "http://www.wearetech.africa/fr/fils/breves/breves-simple/down-to-earth-technologies-obtient-3-millions-de-dollars-pour-les-reseaux-est-africains",
+      "q": [
+        "afrique",
+        "nigeria"
+      ],
+      "img": [
+        "https://www.wearetech.africa/media/k2/items/cache/bf1e2d4e6f3193d61ef953132c66d9c4_L.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-17T06:58:20Z",
+      "updated_at": "2026-11-17T07:25:46+00:00",
+      "id": 413
+    },
+    {
+      "title": "Payaza décroche une licence de paiement numérique auprès de la Banque centrale du Kenya",
+      "slug": "payaza-decroche-une-licence-de-paiement-numerique-aupres-de-la-banque-centrale-du-kenya",
+      "is_active": false,
+      "summary": "Written by: La Rédaction La société technologique financière Payaza a obtenu l'agrément de la Banque centrale du Kenya après près de quatre ans de démarches. La société développe une passerelle informatique et des interfaces de programmation permettant aux entreprises d'encaisser et d'envoyer des paiements multicanaux. Cette licence renforce son infrastructure de transactions transfrontalières reliant l'Afrique de l'Est, de l'Ouest et australe. Lire aussi: OpenAI lance un portefeuille numérique ",
+      "content": {
+        "title": "Payaza décroche une licence de paiement numérique auprès de la Banque centrale du Kenya",
+        "subtitle": "",
+        "desc": "Written by: La Rédaction La société technologique financière Payaza a obtenu l'agrément de la Banque centrale du Kenya après près de quatre ans de démarches. La société développe une passerelle informatique et des interfaces de programmation permettant aux entreprises d'encaisser et d'envoyer des paiements multicanaux. Cette licence renforce son infrastructure de transactions transfrontalières reliant l'Afrique de l'Est, de l'Ouest et australe. Lire aussi: OpenAI lance un portefeuille numérique permettant à ses agents d'acheter en ligne",
+        "sections": []
+      },
+      "author_name": "La Rédaction",
+      "author_username": null,
+      "tags": [
+        "Breves_Simple",
+        "WeAreTech Africa"
+      ],
+      "link": "http://www.wearetech.africa/fr/fils/breves/breves-simple/payaza-decroche-une-licence-de-paiement-numerique-aupres-de-la-banque-centrale-du-kenya",
+      "q": [
+        "afrique",
+        "kenya"
+      ],
+      "img": [
+        "https://www.wearetech.africa/media/k2/items/cache/a22789c7a786bd25453086d76e3d86f0_L.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-17T06:44:04Z",
+      "updated_at": "2026-11-17T07:25:46+00:00",
+      "id": 414
+    },
+    {
+      "title": "Instagram permet d'intégrer des liens d'affiliation Amazon dans les publications",
+      "slug": "instagram-permet-d-integrer-des-liens-d-affiliation-amazon-dans-les-publications",
+      "is_active": false,
+      "summary": "Written by: La Rédaction Le réseau social Instagram a annoncé, le lundi 16 novembre, le déploiement d’une fonctionnalité permettant aux créateurs d'ajouter directement des liens d'affiliation Amazon dans leurs vidéos courtes et leurs publications. En connectant leurs comptes via le tableau de bord professionnel de l'application, les utilisateurs génèrent automatiquement des liens commerciaux avec aperçu visuel. Cette fonctionnalité numérique facilite la monétisation des contenus et redirige les ",
+      "content": {
+        "title": "Instagram permet d'intégrer des liens d'affiliation Amazon dans les publications",
+        "subtitle": "",
+        "desc": "Written by: La Rédaction Le réseau social Instagram a annoncé, le lundi 16 novembre, le déploiement d’une fonctionnalité permettant aux créateurs d'ajouter directement des liens d'affiliation Amazon dans leurs vidéos courtes et leurs publications. En connectant leurs comptes via le tableau de bord professionnel de l'application, les utilisateurs génèrent automatiquement des liens commerciaux avec aperçu visuel. Cette fonctionnalité numérique facilite la monétisation des contenus et redirige les acheteurs vers la boutique en ligne. Lire aussi: Dakar accueillera le sommet international du commerce électronique les 26 et 27 novembre",
+        "sections": []
+      },
+      "author_name": "La Rédaction",
+      "author_username": null,
+      "tags": [
+        "Breves_Simple",
+        "WeAreTech Africa"
+      ],
+      "link": "http://www.wearetech.africa/fr/fils/breves/breves-simple/instagram-permet-dintegrer-des-liens-daffiliation-amazon-dans-les-publications",
+      "q": [
+        "dakar"
+      ],
+      "img": [
+        "https://www.wearetech.africa/media/k2/items/cache/8902d5a9177ce3329e6116cc936849e3_L.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-17T06:38:51Z",
+      "updated_at": "2026-11-17T07:25:46+00:00",
+      "id": 415
+    },
+    {
+      "title": "Nigeria’s Tratum building offline-capable banking infrastructure for physical economy",
+      "slug": "nigerias-tratum-building-offline-capable-banking-infrastructure-for-physical-economy",
+      "is_active": false,
+      "summary": "Nigerian startup Tratum is developing hardware and embedded financial infrastructure that allows banks and other regulated institutions to extend their services into places where connectivity is unreliable. Built by YHWH Vision Ventures Technologies Ltd., which was formally incorporated in 2025, Tratum traces its origins to Nigeria’s 2023 cash scarcity crisis, when millions of people had [...] The post Nigeria’s Tratum building offline-capable banking infrastructure for physical economy appeared",
+      "content": {
+        "title": "Nigeria’s Tratum building offline-capable banking infrastructure for physical economy",
+        "subtitle": "",
+        "desc": "Nigerian startup Tratum is developing hardware and embedded financial infrastructure that allows banks and other regulated institutions to extend their services into places where connectivity is unreliable. Built by YHWH Vision Ventures Technologies Ltd., which was formally incorporated in 2025, Tratum traces its origins to Nigeria’s 2023 cash scarcity crisis, when millions of people had [...] The post Nigeria’s Tratum building offline-capable banking infrastructure for physical economy appeared first on Disrupt Africa .",
+        "sections": []
+      },
+      "author_name": "Tom Jackson",
+      "author_username": null,
+      "tags": [
+        "Features",
+        "Startups",
+        "West Africa",
+        "featured",
+        "Tratum",
+        "Disrupt Africa"
+      ],
+      "link": "https://disruptafrica.com/2026/11/17/nigerias-tratum-building-offline-capable-banking-infrastructure-for-physical-economy",
+      "q": [
+        "africa",
+        "nigeria",
+        "startup"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-17T06:00:10Z",
+      "updated_at": "2026-11-17T07:25:48+00:00",
+      "id": 416
+    },
+    {
+      "title": "Family Bank Profit Jumps 68% to KSh 6 Billion as Lending Expands",
+      "slug": "family-bank-profit-jumps-68-to-ksh-6-billion-as-lending-expands",
+      "is_active": false,
+      "summary": "Family Bank Group has reported a 68% increase in nine-month net profit to KSh 6 billion, driven by higher interest income and expanding lending as the Kenyan lender strengthened its balance sheet following its Nairobi Securities Exchange listing. Profit after tax rose from KSh 3.6 billion a year earlier, while total operating income climbed 26% […] The post Family Bank Profit Jumps 68% to KSh 6 Billion as Lending Expands appeared first on TechMoran .",
+      "content": {
+        "title": "Family Bank Profit Jumps 68% to KSh 6 Billion as Lending Expands",
+        "subtitle": "",
+        "desc": "Family Bank Group has reported a 68% increase in nine-month net profit to KSh 6 billion, driven by higher interest income and expanding lending as the Kenyan lender strengthened its balance sheet following its Nairobi Securities Exchange listing. Profit after tax rose from KSh 3.6 billion a year earlier, while total operating income climbed 26% […] The post Family Bank Profit Jumps 68% to KSh 6 Billion as Lending Expands appeared first on TechMoran .",
+        "sections": []
+      },
+      "author_name": "Sam Wakoba",
+      "author_username": null,
+      "tags": [
+        "Business",
+        "TechMoran"
+      ],
+      "link": "https://techmoran.com/2026/11/17/family-bank-profit-jumps-68-to-ksh-6-billion-as-lending-expands",
+      "q": [
+        "nairobi"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-17T05:44:17Z",
+      "updated_at": "2026-11-17T07:26:18+00:00",
+      "id": 417
+    },
+    {
+      "title": "En Côte d'Ivoire, le président du Botswana appelle à plus de commerce intra-africain",
+      "slug": "en-cote-d-ivoire-le-president-du-botswana-appelle-a-plus-de-commerce-intra-africain",
+      "is_active": false,
+      "summary": "Le président du Botswana Duma Boko a appelé lundi les pays africains à intensifier leurs échanges commerciaux entre eux, à l'occasion d'une visite d'État en Côte d'Ivoire. Duma Boko s'est entretenu avec son homologue ivoirien Alassane Ouattara à Abidjan.",
+      "content": {
+        "title": "En Côte d'Ivoire, le président du Botswana appelle à plus de commerce intra-africain",
+        "subtitle": "",
+        "desc": "Le président du Botswana Duma Boko a appelé lundi les pays africains à intensifier leurs échanges commerciaux entre eux, à l'occasion d'une visite d'État en Côte d'Ivoire. Duma Boko s'est entretenu avec son homologue ivoirien Alassane Ouattara à Abidjan.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Rédaction Africanews)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/17/en-cote-divoire-le-president-du-botswana-appelle-a-plus-de-commerce-intra-africain",
+      "q": [
+        "abidjan"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/09/99/51/88/640x360_cmsv2_c087cf9b-df98-5388-848b-c6a7121e2e67-9995188.jpg?1794858412"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-17T06:09:47Z",
+      "updated_at": "2026-11-17T07:26:20+00:00",
+      "id": 418
     }
   ]
 }
