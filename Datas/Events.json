@@ -5442,6 +5442,87 @@
         "artificial intelligence"
       ],
       "id": 210
+    },
+    {
+      "title": "AI & Tech Networking Event in Boston by Ascent Valley",
+      "slug": "ai-tech-networking-event-in-boston-by-ascent-valley-2",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) meetup in Boston, United States",
+      "event_date": "2026-12-01",
+      "location": "Boston",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/ai-and-tech-networking-event-in-boston-by-ascent-valley-jsz32a4y",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:AI%2520%2526%2520Tech%2520Networking%2520Event%2520in%2520Boston%2520by%2520Ascent%2520Valley,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25201%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Boston%252C%2520United%2520States,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-18T19:04:47+00:00",
+      "updated_at": "2026-11-18T19:04:47+00:00",
+      "eventDate": "2026-12-01",
+      "q": [
+        "meetup",
+        "tech",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 211
+    },
+    {
+      "title": "AI & Tech Networking Event in San Francisco by Ascent Valley",
+      "slug": "ai-tech-networking-event-in-san-francisco-by-ascent-valley",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) meetup in San Francisco, United States",
+      "event_date": "2026-12-02",
+      "location": "San Francisco",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/ai-and-tech-networking-event-in-san-francisco-by-ascent-valley-u-f-fjmd",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:AI%2520%2526%2520Tech%2520Networking%2520Event%2520in%2520San%2520Francisco%2520by%2520Ascent%2520Valley,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25202%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:San%2520Francisco%252C%2520United%2520States,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-18T19:04:47+00:00",
+      "updated_at": "2026-11-18T19:04:47+00:00",
+      "eventDate": "2026-12-02",
+      "q": [
+        "meetup",
+        "tech",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 212
+    },
+    {
+      "title": "AI & Tech Networking Event in NYC by Ascent Valley",
+      "slug": "ai-tech-networking-event-in-nyc-by-ascent-valley-2",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) meetup in New York, United States",
+      "event_date": "2026-12-02",
+      "location": "New York",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/ai-and-tech-networking-event-in-nyc-by-ascent-valley-mxkkktgq",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:AI%2520%2526%2520Tech%2520Networking%2520Event%2520in%2520NYC%2520by%2520Ascent%2520Valley,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25202%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:New%2520York%252C%2520United%2520States,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-18T19:04:47+00:00",
+      "updated_at": "2026-11-18T19:04:47+00:00",
+      "eventDate": "2026-12-02",
+      "q": [
+        "meetup",
+        "tech",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 213
     }
   ]
 }
