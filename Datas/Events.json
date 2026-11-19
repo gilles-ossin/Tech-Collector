@@ -5523,6 +5523,193 @@
         "artificial intelligence"
       ],
       "id": 213
+    },
+    {
+      "title": "DevFest Ismailia 2026",
+      "slug": "devfest-ismailia-2026",
+      "is_active": false,
+      "description": "Tech conference in Ismailia, Egypt",
+      "event_date": "2026-11-21",
+      "location": "Ismailia",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/dev-fest-ismailia-2026-jjeflmqx",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:DevFest%2520Ismailia%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252021%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Ismailia%252C%2520Egypt,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-19T14:41:25+00:00",
+      "updated_at": "2026-11-19T14:41:25+00:00",
+      "eventDate": "2026-11-21",
+      "q": [
+        "conference",
+        "devfest",
+        "egypt",
+        "tech"
+      ],
+      "id": 214
+    },
+    {
+      "title": "Heads Up Hackathon: build apps for Even G2 smart glasses",
+      "slug": "heads-up-hackathon-build-apps-for-even-g2-smart-glasses",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) hackathon Online",
+      "event_date": "2026-11-23",
+      "location": "En ligne",
+      "type": "Hackathon",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/heads-up-hackathon-build-apps-for-even-g2-smart-glasses-0bzhcdbd",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Heads%2520Up%2520Hackathon%253A%2520build%2520apps%2520for%2520Even%2520G2%2520smart%2520glasses,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252023-29%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Online,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-19T14:42:39+00:00",
+      "updated_at": "2026-11-19T14:42:39+00:00",
+      "eventDate": "2026-11-23",
+      "q": [
+        "hackathon",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 215
+    },
+    {
+      "title": "Grok Bot for Software Teams: Inside Our AI Delivery Team",
+      "slug": "grok-bot-for-software-teams-inside-our-ai-delivery-team",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) meetup Online",
+      "event_date": "2026-12-12",
+      "location": "En ligne",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/grok-bot-for-software-teams-inside-our-ai-delivery-team-w7amlfmq",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Grok%2520Bot%2520for%2520Software%2520Teams%253A%2520Inside%2520Our%2520AI%2520Delivery%2520Team,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%252012%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Online,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-19T14:43:42+00:00",
+      "updated_at": "2026-11-19T14:43:42+00:00",
+      "eventDate": "2026-12-12",
+      "q": [
+        "meetup",
+        "software",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 216
+    },
+    {
+      "title": "DevFest Niamey 2026",
+      "slug": "devfest-niamey-2026",
+      "is_active": false,
+      "description": "Google conference in Niamey, Niger",
+      "event_date": "2026-11-29",
+      "location": "Niamey",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/dev-fest-niamey-2026-tugj5acm",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:DevFest%2520Niamey%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252029%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Niamey%252C%2520Niger,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-19T14:43:42+00:00",
+      "updated_at": "2026-11-19T14:43:42+00:00",
+      "eventDate": "2026-11-29",
+      "q": [
+        "conference",
+        "devfest"
+      ],
+      "id": 217
+    },
+    {
+      "title": "AICD Summit",
+      "slug": "aicd-summit",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) conference in Tunis, Tunisia",
+      "event_date": "2026-12-05",
+      "location": "Tunis",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/aicd-summit-di87laut",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:AICD%2520Summit,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25205-6%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Tunis%252C%2520Tunisia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-19T14:43:42+00:00",
+      "updated_at": "2026-11-19T14:43:42+00:00",
+      "eventDate": "2026-12-05",
+      "q": [
+        "conference",
+        "summit",
+        "tunisia",
+        "tunis",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 218
+    },
+    {
+      "title": "2027 Global Power Platform Bootcamp South Africa",
+      "slug": "2027-global-power-platform-bootcamp-south-africa",
+      "is_active": false,
+      "description": "Microsoft conference in Johannesburg, South Africa",
+      "event_date": "2027-02-19",
+      "location": "Johannesburg",
+      "type": "Formation",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/2027-global-power-platform-bootcamp-south-africa-7phnjlup",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:2027%2520Global%2520Power%2520Platform%2520Bootcamp%2520South%2520Africa,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Feb%252019-20%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Johannesburg%252C%2520South%2520Africa,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-19T14:43:42+00:00",
+      "updated_at": "2026-11-19T14:43:42+00:00",
+      "eventDate": "2027-02-19",
+      "q": [
+        "conference",
+        "bootcamp",
+        "africa",
+        "south africa",
+        "johannesburg"
+      ],
+      "id": 219
+    },
+    {
+      "title": "Nerdearla Chile 2027",
+      "slug": "nerdearla-chile-2027",
+      "is_active": false,
+      "description": "Tech conference in Santiago, Chile",
+      "event_date": "2027-04-15",
+      "location": "Santiago",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/nerdearla-chile-2027-u4so4xnw",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Nerdearla%2520Chile%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Apr%252015-17%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Santiago%252C%2520Chile,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-19T14:43:42+00:00",
+      "updated_at": "2026-11-19T14:43:42+00:00",
+      "eventDate": "2027-04-15",
+      "q": [
+        "conference",
+        "tech"
+      ],
+      "id": 220
     }
   ]
 }
