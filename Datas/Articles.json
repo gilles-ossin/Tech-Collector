@@ -17675,6 +17675,65 @@
       "created_at": "2026-11-19T17:07:00Z",
       "updated_at": "2026-11-19T20:19:17+00:00",
       "id": 554
+    },
+    {
+      "title": "Hackers leak 150,000 Samsung smart TV viewing records and political advertising data",
+      "slug": "hackers-leak-150-000-samsung-smart-tv-viewing-records-and-political-advertising-data",
+      "is_active": false,
+      "summary": "Leaked files from an alleged Samsung Electronics breach appear to confirm that the company’s smart TVs collect viewing…",
+      "content": {
+        "title": "Hackers leak 150,000 Samsung smart TV viewing records and political advertising data",
+        "subtitle": "",
+        "desc": "Leaked files from an alleged Samsung Electronics breach appear to confirm that the company’s smart TVs collect viewing…",
+        "sections": []
+      },
+      "author_name": "Epiphanus Obia",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/hackers-leak-samsung-smart-tv-records",
+      "q": [
+        "data"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/11/images-2026-11-19T200845.832.jpeg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-19T20:53:37Z",
+      "updated_at": "2026-11-20T02:10:13+00:00",
+      "id": 555
+    },
+    {
+      "title": "The Founders Buffet: 9 startups showcase AI, logistics and other tech solutions at Ibadan investor demo night",
+      "slug": "the-founders-buffet-9-startups-showcase-ai-logistics-and-other-tech-solutions-at-ibadan-investor-demo-night",
+      "is_active": false,
+      "summary": "Nine early-stage startups presented their products to investors and tech leaders at The Founders Buffet: A Demo Night…",
+      "content": {
+        "title": "The Founders Buffet: 9 startups showcase AI, logistics and other tech solutions at Ibadan investor demo night",
+        "subtitle": "",
+        "desc": "Nine early-stage startups presented their products to investors and tech leaders at The Founders Buffet: A Demo Night…",
+        "sections": []
+      },
+      "author_name": "Mubarak Bankole",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/founders-buffet-startups-show-tech-solutions",
+      "q": [
+        "tech",
+        "ai"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/11/image-58.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-19T20:32:12Z",
+      "updated_at": "2026-11-20T02:10:13+00:00",
+      "id": 556
     }
   ]
 }
