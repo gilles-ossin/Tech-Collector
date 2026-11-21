@@ -5710,6 +5710,84 @@
         "tech"
       ],
       "id": 220
+    },
+    {
+      "title": "Commit Athens 2: a free evening hackathon in Athens",
+      "slug": "commit-athens-2-a-free-evening-hackathon-in-athens",
+      "is_active": false,
+      "description": "Tech hackathon in Athens, Greece",
+      "event_date": "2026-12-04",
+      "location": "Athens",
+      "type": "Hackathon",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/commit-athens-2-a-free-evening-hackathon-in-athens-foaxqaft",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Commit%2520Athens%25202%253A%2520a%2520free%2520evening%2520hackathon%2520in%2520Athens,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25204%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Athens%252C%2520Greece,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-21T21:07:55+00:00",
+      "updated_at": "2026-11-21T21:07:55+00:00",
+      "eventDate": "2026-12-04",
+      "q": [
+        "hackathon",
+        "tech"
+      ],
+      "id": 221
+    },
+    {
+      "title": "Ruby Conf Africa 2027",
+      "slug": "ruby-conf-africa-2027",
+      "is_active": false,
+      "description": "Ruby conference in Nairobi, Kenya",
+      "event_date": "2027-05-21",
+      "location": "Nairobi",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/ruby-conf-africa-2027-e5zkqcyi",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Ruby%2520Conf%2520Africa%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:May%252021-22%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Nairobi%252C%2520Kenya,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-21T21:08:53+00:00",
+      "updated_at": "2026-11-21T21:08:53+00:00",
+      "eventDate": "2027-05-21",
+      "q": [
+        "conference",
+        "africa",
+        "kenya",
+        "nairobi"
+      ],
+      "id": 222
+    },
+    {
+      "title": "Cyber Security Summit Australia 2027",
+      "slug": "cyber-security-summit-australia-2027",
+      "is_active": false,
+      "description": "Cybersecurity / InfoSec conference in Sydney, Australia",
+      "event_date": "2027-08-19",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/cyber-security-summit-australia-2027-6gab9lzq",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Cyber%2520Security%2520Summit%2520Australia%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Aug%252019%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-21T21:08:53+00:00",
+      "updated_at": "2026-11-21T21:08:53+00:00",
+      "eventDate": "2027-08-19",
+      "q": [
+        "conference",
+        "summit",
+        "cybersecurity"
+      ],
+      "id": 223
     }
   ]
 }
