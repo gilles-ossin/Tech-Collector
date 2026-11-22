@@ -19763,6 +19763,69 @@
       "created_at": "2026-11-22T06:57:09Z",
       "updated_at": "2026-11-22T10:57:03+00:00",
       "id": 623
+    },
+    {
+      "title": "The Next Wave: What Africa’s instant payment systems keep getting wrong on the way to maturity",
+      "slug": "the-next-wave-what-africas-instant-payment-systems-keep-getting-wrong-on-the-way-to-maturity",
+      "is_active": false,
+      "summary": "Only one of Africa’s 39 instant payment systems earned AfricaNenda’s highest rating. Kenya’s PesaLink shows why the next step is so hard. The banks that own the network can decide what they charge for transfers, while fintechs and other non-bank members have no vote in how it’s run.",
+      "content": {
+        "title": "The Next Wave: What Africa’s instant payment systems keep getting wrong on the way to maturity",
+        "subtitle": "",
+        "desc": "Only one of Africa’s 39 instant payment systems earned AfricaNenda’s highest rating. Kenya’s PesaLink shows why the next step is so hard. The banks that own the network can decide what they charge for transfers, while fintechs and other non-bank members have no vote in how it’s run.",
+        "sections": []
+      },
+      "author_name": "Kenn Abuya",
+      "author_username": null,
+      "tags": [
+        "Newsletters",
+        "The Next Wave",
+        "NIBSS",
+        "NIP",
+        "PesaLink",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/22/africa-instant-payment-systems-maturity",
+      "q": [
+        "africa",
+        "kenya"
+      ],
+      "img": [
+        "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2022/06/next-wave-header.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-22T14:04:28Z",
+      "updated_at": "2026-11-22T19:16:52+00:00",
+      "id": 624
+    },
+    {
+      "title": "Football : l'Afrique affiche son soutien à Gianni Infantino",
+      "slug": "football-l-afrique-affiche-son-soutien-a-gianni-infantino",
+      "is_active": false,
+      "summary": "Samedi, lors de l'assemblée générale de la CAF au Nigeria, son président Patrice Motsepe a assuré que les 54 fédérations africaines",
+      "content": {
+        "title": "Football : l'Afrique affiche son soutien à Gianni Infantino",
+        "subtitle": "",
+        "desc": "Samedi, lors de l'assemblée générale de la CAF au Nigeria, son président Patrice Motsepe a assuré que les 54 fédérations africaines",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Laetitia Lago Dregnounou)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/22/football-lafrique-affiche-son-soutien-a-gianni-infantino",
+      "q": [
+        "afrique",
+        "nigeria"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/10/00/32/17/640x360_cmsv2_0a2e4ab2-8db3-52e0-95e5-58d31a86278e-10003217.jpg?1795336628"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-22T10:36:27Z",
+      "updated_at": "2026-11-22T19:17:03+00:00",
+      "id": 625
     }
   ]
 }
