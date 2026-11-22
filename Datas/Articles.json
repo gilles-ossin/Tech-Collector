@@ -19647,6 +19647,122 @@
       "created_at": "2026-11-21T23:02:23Z",
       "updated_at": "2026-11-22T01:05:24+00:00",
       "id": 619
+    },
+    {
+      "title": "Mali: des jihadistes du JNIM attaquent l’armée et ses supplétifs dans la région de Ségou",
+      "slug": "mali-des-jihadistes-du-jnim-attaquent-larmee-et-ses-suppletifs-dans-la-region-de-segou",
+      "is_active": false,
+      "summary": "Au moins deux positions de l’armée malienne et de ses partenaires russes d’Africa Corps ont été attaquées samedi 21 novembre 2026 dans le centre du pays. Le groupe de soutien à l’islam et aux musulmans (Jnim) a revendiqué ces attaques qui ont fait plusieurs victimes dans les rangs de l’armée.",
+      "content": {
+        "title": "Mali: des jihadistes du JNIM attaquent l’armée et ses supplétifs dans la région de Ségou",
+        "subtitle": "",
+        "desc": "Au moins deux positions de l’armée malienne et de ses partenaires russes d’Africa Corps ont été attaquées samedi 21 novembre 2026 dans le centre du pays. Le groupe de soutien à l’islam et aux musulmans (Jnim) a revendiqué ces attaques qui ont fait plusieurs victimes dans les rangs de l’armée.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261122-mali-des-jihadistes-du-jnim-attaquent-l-arm%C3%A9e-et-ses-suppl%C3%A9tifs-dans-la-r%C3%A9gion-de-s%C3%A9gou",
+      "q": [
+        "africa"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/ee2d4236-e61e-11f1-8cf6-ebb478925cf0/w:1024/p:16x9/Carte-Niono.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-22T04:06:48Z",
+      "updated_at": "2026-11-22T10:57:03+00:00",
+      "id": 620
+    },
+    {
+      "title": "Sénégal: des ONG réclament une remise à plat de la politique migratoire",
+      "slug": "senegal-des-ong-reclament-une-remise-a-plat-de-la-politique-migratoire",
+      "is_active": false,
+      "summary": "Une coalition d'organisations de la société civile sénégalaise réclament une mise à plat de la politique migratoire ce samedi 22 novembre 2026 à Dakar. Elle demande aussi plus de transparence sur les financements de la coopération. Cette conférence de presse intervient après les naufrages de Lompoul et de Yenne, qui ont fait des dizaines de morts en deux semaines et alors que les arrivées par la mer en Espagne ont bondi de 39 % en 2026.",
+      "content": {
+        "title": "Sénégal: des ONG réclament une remise à plat de la politique migratoire",
+        "subtitle": "",
+        "desc": "Une coalition d'organisations de la société civile sénégalaise réclament une mise à plat de la politique migratoire ce samedi 22 novembre 2026 à Dakar. Elle demande aussi plus de transparence sur les financements de la coopération. Cette conférence de presse intervient après les naufrages de Lompoul et de Yenne, qui ont fait des dizaines de morts en deux semaines et alors que les arrivées par la mer en Espagne ont bondi de 39 % en 2026.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261122-s%C3%A9n%C3%A9gal-des-ong-r%C3%A9clament-une-remise-%C3%A0-plat-de-la-politique-migratoire",
+      "q": [
+        "dakar"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/870bb75e-dbb5-11f1-b52c-bf1914cabd52/w:1024/p:16x9/c9e8d80cbfc13f8f43d3833c67fbf17f6e5ccb25.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-22T04:04:52Z",
+      "updated_at": "2026-11-22T10:57:03+00:00",
+      "id": 621
+    },
+    {
+      "title": "RDC-Kenya: les présidents Tshisekedi et Ruto attendus au Congo-Brazzaville pour tenter de renouer le dialogue",
+      "slug": "rdc-kenya-les-presidents-tshisekedi-et-ruto-attendus-au-congo-brazzaville-pour-tenter-de-renouer-le-dialogue",
+      "is_active": false,
+      "summary": "Les présidents de la RDC et du Kenya, Félix Tshisekedi et William Ruto, sont attendus ce dimanche 22 novembre à Oyo, dans le nord de la République du Congo. Le président du Congo-Brazzaville, Denis Sassou-Nguesso, doit les recevoir, avec le président du Conseil togolais et médiateur de l'Union africaine (UA) pour l'est de la RDC, Faure Gnassingbé. La crise dans cette partie de la RDC sera au centre des échanges. Mais, selon nos informations, il s’agit aussi de renouer le dialogue entre les prési",
+      "content": {
+        "title": "RDC-Kenya: les présidents Tshisekedi et Ruto attendus au Congo-Brazzaville pour tenter de renouer le dialogue",
+        "subtitle": "",
+        "desc": "Les présidents de la RDC et du Kenya, Félix Tshisekedi et William Ruto, sont attendus ce dimanche 22 novembre à Oyo, dans le nord de la République du Congo. Le président du Congo-Brazzaville, Denis Sassou-Nguesso, doit les recevoir, avec le président du Conseil togolais et médiateur de l'Union africaine (UA) pour l'est de la RDC, Faure Gnassingbé. La crise dans cette partie de la RDC sera au centre des échanges. Mais, selon nos informations, il s’agit aussi de renouer le dialogue entre les présidents congolais et kényan.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261122-rdc-kenya-les-pr%C3%A9sidents-tshisekedi-et-ruto-attendus-au-congo-brazzaville-pour-tenter-de-renouer-le-dialogue",
+      "q": [
+        "kenya"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/7b17a8ae-4a85-11ef-b461-005056a97e36/w:1024/p:16x9/000_32PF2W7.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-22T04:09:09Z",
+      "updated_at": "2026-11-22T10:57:03+00:00",
+      "id": 622
+    },
+    {
+      "title": "Kenya: les effondrements d'immeubles rappellent l’urgence d’une réforme du secteur du bâtiment",
+      "slug": "kenya-les-effondrements-d-immeubles-rappellent-lurgence-dune-reforme-du-secteur-du-batiment",
+      "is_active": false,
+      "summary": "Le Kenya, ces trois dernières années, a vu s’effondrer 72 bâtiments. Ce chiffre a été donné en fin de semaine par la NCA, l’Autorité nationale de construction, lors d’une commission parlementaire sur le logement. Elle a lancé une enquête, après l’effondrement de trois immeubles, lors de trois dernières semaines. Dix-huit personnes sont mortes dans ces accidents,",
+      "content": {
+        "title": "Kenya: les effondrements d'immeubles rappellent l’urgence d’une réforme du secteur du bâtiment",
+        "subtitle": "",
+        "desc": "Le Kenya, ces trois dernières années, a vu s’effondrer 72 bâtiments. Ce chiffre a été donné en fin de semaine par la NCA, l’Autorité nationale de construction, lors d’une commission parlementaire sur le logement. Elle a lancé une enquête, après l’effondrement de trois immeubles, lors de trois dernières semaines. Dix-huit personnes sont mortes dans ces accidents,",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261122-kenya-les-effondrements-d-immeubles-rappellent-l-urgence-d-une-r%C3%A9forme-du-secteur-du-b%C3%A2timent",
+      "q": [
+        "kenya"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/cf0c5124-cffa-11f1-b326-5b4a75578ebb/w:1024/p:16x9/AP26296470224664.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-22T06:57:09Z",
+      "updated_at": "2026-11-22T10:57:03+00:00",
+      "id": 623
     }
   ]
 }
