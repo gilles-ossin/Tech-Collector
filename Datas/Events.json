@@ -5788,6 +5788,133 @@
         "cybersecurity"
       ],
       "id": 223
+    },
+    {
+      "title": "HSK Chain Horizon Hackathon Seoul 2026",
+      "slug": "hsk-chain-horizon-hackathon-seoul-2026",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) hackathon in Seoul, South Korea",
+      "event_date": "2026-12-05",
+      "location": "Seoul",
+      "type": "Hackathon",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/hsk-chain-horizon-hackathon-seoul-2026-mncaimur",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:HSK%2520Chain%2520Horizon%2520Hackathon%2520Seoul%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25205%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Seoul%252C%2520South%2520Korea,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T16:29:29+00:00",
+      "updated_at": "2026-11-23T16:29:29+00:00",
+      "eventDate": "2026-12-05",
+      "q": [
+        "hackathon",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 224
+    },
+    {
+      "title": "Vex House: Muscat Night",
+      "slug": "vex-house-muscat-night",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) meetup in Muscat, Oman",
+      "event_date": "2026-11-27",
+      "location": "Muscat",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/vex-house-muscat-night-yaddfiv2",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Vex%2520House%253A%2520Muscat%2520Night,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252027%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Muscat%252C%2520Oman,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T16:30:35+00:00",
+      "updated_at": "2026-11-23T16:30:35+00:00",
+      "eventDate": "2026-11-27",
+      "q": [
+        "meetup",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 225
+    },
+    {
+      "title": "Vex House: Abu Dhabi Launch Party",
+      "slug": "vex-house-abu-dhabi-launch-party",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) meetup in Abu Dhabi, United Arab Emirates",
+      "event_date": "2026-12-15",
+      "location": "Abu Dhabi",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/vex-house-abu-dhabi-launch-party-xnxuryzt",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Vex%2520House%253A%2520Abu%2520Dhabi%2520Launch%2520Party,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%252015%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Abu%2520Dhabi%252C%2520United%2520Arab%2520Emirates,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T16:30:35+00:00",
+      "updated_at": "2026-11-23T16:30:35+00:00",
+      "eventDate": "2026-12-15",
+      "q": [
+        "meetup",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 226
+    },
+    {
+      "title": "ELC Meetup #49 Kraków",
+      "slug": "elc-meetup-49-krakow",
+      "is_active": false,
+      "description": "CTO meetup in Krakow, Poland",
+      "event_date": "2026-12-03",
+      "location": "Krakow",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/elc-meetup-49-krakow-hteve4n9",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:ELC%2520Meetup%2520%252349%2520Krak%25C3%25B3w,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25203%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Krakow%252C%2520Poland,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T16:30:35+00:00",
+      "updated_at": "2026-11-23T16:30:35+00:00",
+      "eventDate": "2026-12-03",
+      "q": [
+        "meetup"
+      ],
+      "id": 227
+    },
+    {
+      "title": "Devopsdays bogota",
+      "slug": "devopsdays-bogota",
+      "is_active": false,
+      "description": "DevOps conference in Bogota, Colombia",
+      "event_date": "2027-10-22",
+      "location": "Bogota",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/devopsdays-bogota-zfnpzmuw",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Devopsdays%2520bogota,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Oct%252022%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Bogota%252C%2520Colombia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T16:30:35+00:00",
+      "updated_at": "2026-11-23T16:30:35+00:00",
+      "eventDate": "2027-10-22",
+      "q": [
+        "conference",
+        "devops"
+      ],
+      "id": 228
     }
   ]
 }
