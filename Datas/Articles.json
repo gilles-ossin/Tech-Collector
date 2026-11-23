@@ -19826,6 +19826,63 @@
       "created_at": "2026-11-22T10:36:27Z",
       "updated_at": "2026-11-22T19:17:03+00:00",
       "id": 625
+    },
+    {
+      "title": "Au Maroc, un artiste français transforme ses souvenirs en sculptures géantes",
+      "slug": "au-maroc-un-artiste-francais-transforme-ses-souvenirs-en-sculptures-geantes",
+      "is_active": false,
+      "summary": "À proximité de Marrakech, le parc Ramakech expose sur onze hectares les œuvres insolites de l’artiste français Jean-François Fourtou, inspirées de ses souvenirs d’enfance. Maison renversée, mobilier géant et personnages à tête de légumes composent ce parcours sculptural ouvert aux visiteurs.",
+      "content": {
+        "title": "Au Maroc, un artiste français transforme ses souvenirs en sculptures géantes",
+        "subtitle": "",
+        "desc": "À proximité de Marrakech, le parc Ramakech expose sur onze hectares les œuvres insolites de l’artiste français Jean-François Fourtou, inspirées de ses souvenirs d’enfance. Maison renversée, mobilier géant et personnages à tête de légumes composent ce parcours sculptural ouvert aux visiteurs.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Alexis Caraco)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/22/au-maroc-un-parc-de-sculptures-surrealistes-fait-basculer-le-monde",
+      "q": [
+        "maroc"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/10/00/37/10/640x360_cmsv2_443d6f08-4b8f-5c37-8619-acccc028c03e-10003710.jpg?1795386480"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-22T22:49:30Z",
+      "updated_at": "2026-11-23T01:28:49+00:00",
+      "id": 626
+    },
+    {
+      "title": "Nigeria: des dizaines de Peuls tués dans des représailles après une attaque de «bandits»",
+      "slug": "nigeria-des-dizaines-de-peuls-tues-dans-des-represailles-apres-une-attaque-de-bandits",
+      "is_active": false,
+      "summary": "Au moins 35 Peuls ont été tués dans des attaques de représailles dans le centre-ouest du Nigeria, après un raid mené samedi par des « bandits » présumés qui avait fait 11 morts, selon un rapport de sécurité et des sources locales citées par l'AFP. Le bilan définitif devrait plus que doubler et des tueries sont toujours en cours, selon les mêmes sources.",
+      "content": {
+        "title": "Nigeria: des dizaines de Peuls tués dans des représailles après une attaque de «bandits»",
+        "subtitle": "",
+        "desc": "Au moins 35 Peuls ont été tués dans des attaques de représailles dans le centre-ouest du Nigeria, après un raid mené samedi par des « bandits » présumés qui avait fait 11 morts, selon un rapport de sécurité et des sources locales citées par l'AFP. Le bilan définitif devrait plus que doubler et des tueries sont toujours en cours, selon les mêmes sources.",
+        "sections": []
+      },
+      "author_name": "RFI avec AFP",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261122-nigeria-des-dizaines-de-peuls-tu%C3%A9s-dans-des-repr%C3%A9sailles-apr%C3%A8s-une-attaque-de-bandits",
+      "q": [
+        "nigeria"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/6a985160-e6c1-11f1-a028-1bac47ab2f5d/w:1024/p:16x9/carte-localisation-wawa-nigeria.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-22T22:16:04Z",
+      "updated_at": "2026-11-23T01:28:49+00:00",
+      "id": 627
     }
   ]
 }
