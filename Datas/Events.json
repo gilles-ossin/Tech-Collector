@@ -5915,6 +5915,83 @@
         "devops"
       ],
       "id": 228
+    },
+    {
+      "title": "Gnome Tavern Hackathon | Gno.land",
+      "slug": "gnome-tavern-hackathon-gno-land",
+      "is_active": false,
+      "description": "Golang hackathon Online",
+      "event_date": "2026-11-24",
+      "location": "En ligne",
+      "type": "Hackathon",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/gnome-tavern-hackathon-gno-land-mow71fgm",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Gnome%2520Tavern%2520Hackathon%2520%257C%2520Gno.land,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252024%2520-%2520Dec%252018%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Online,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-24T16:23:15+00:00",
+      "updated_at": "2026-11-24T16:23:15+00:00",
+      "eventDate": "2026-11-24",
+      "q": [
+        "hackathon"
+      ],
+      "id": 229
+    },
+    {
+      "title": "YAI Singapore: Youth AI Hackathon 2026–27 (ages 7–24)",
+      "slug": "yai-singapore-youth-ai-hackathon-202627-ages-724-2",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) hackathon in Singapore, Singapore",
+      "event_date": "2026-11-24",
+      "location": "Singapore",
+      "type": "Hackathon",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/yai-singapore-youth-ai-hackathon-2026-27-ages-7-24-ojaucffm",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:YAI%2520Singapore%253A%2520Youth%2520AI%2520Hackathon%25202026%25E2%2580%259327%2520(ages%25207%25E2%2580%259324),g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Nov%252024%2520-%2520Jan%25202%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Singapore%252C%2520Singapore,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-24T16:23:15+00:00",
+      "updated_at": "2026-11-24T16:23:15+00:00",
+      "eventDate": "2026-11-24",
+      "q": [
+        "hackathon",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 230
+    },
+    {
+      "title": "BCN Data Nights: Building AI agents at scale",
+      "slug": "bcn-data-nights-building-ai-agents-at-scale",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) meetup in Barcelona, Spain",
+      "event_date": "2026-12-02",
+      "location": "Barcelona",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/bcn-data-nights-building-ai-agents-at-scale-wy-sxlae",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:BCN%2520Data%2520Nights%253A%2520Building%2520AI%2520agents%2520at%2520scale,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25202%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Barcelona%252C%2520Spain,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-24T16:24:17+00:00",
+      "updated_at": "2026-11-24T16:24:17+00:00",
+      "eventDate": "2026-12-02",
+      "q": [
+        "meetup",
+        "ai",
+        "artificial intelligence",
+        "data"
+      ],
+      "id": 231
     }
   ]
 }
