@@ -21023,6 +21023,776 @@
       "created_at": "2026-11-23T04:40:55Z",
       "updated_at": "2026-11-23T12:04:02+00:00",
       "id": 664
+    },
+    {
+      "title": "Why African banks and telecoms cannot wait for quantum computers to arrive",
+      "slug": "why-african-banks-and-telecoms-cannot-wait-for-quantum-computers-to-arrive",
+      "is_active": false,
+      "summary": "Quantum computers capable of breaking today’s encryption do not yet exist, but data stolen now could become readable later. For African banks and telecom operators, protecting long-lived secrets means preparing before those machines arrive.",
+      "content": {
+        "title": "Why African banks and telecoms cannot wait for quantum computers to arrive",
+        "subtitle": "",
+        "desc": "Quantum computers capable of breaking today’s encryption do not yet exist, but data stolen now could become readable later. For African banks and telecom operators, protecting long-lived secrets means preparing before those machines arrive.",
+        "sections": []
+      },
+      "author_name": "Frank Eleanya",
+      "author_username": null,
+      "tags": [
+        "Enterprise & Policy",
+        "Africa",
+        "IBM",
+        "Infrastructure",
+        "Quantum Computing",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/23/why-african-must-prepare-for-quantum",
+      "q": [
+        "african",
+        "data",
+        "telecom"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-23T16:44:28Z",
+      "updated_at": "2026-11-24T02:04:24+00:00",
+      "id": 665
+    },
+    {
+      "title": "Ericsson sees enterprise customers driving South Africa’s next 5G growth opportunity",
+      "slug": "ericsson-sees-enterprise-customers-driving-south-africas-next-5g-growth-opportunity",
+      "is_active": false,
+      "summary": "Ericsson sees mining, ports and utilities as key markets for private 5G networks, as South African mobile operators look beyond consumer data to unlock new enterprise revenue.",
+      "content": {
+        "title": "Ericsson sees enterprise customers driving South Africa’s next 5G growth opportunity",
+        "subtitle": "",
+        "desc": "Ericsson sees mining, ports and utilities as key markets for private 5G networks, as South African mobile operators look beyond consumer data to unlock new enterprise revenue.",
+        "sections": []
+      },
+      "author_name": "Phathisani Moyo",
+      "author_username": null,
+      "tags": [
+        "Telecoms",
+        "5g",
+        "Ericsson",
+        "mobile networks",
+        "South Africa",
+        "Telecommunications",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/23/ericsson-sa-5g-growth-mines-ports",
+      "q": [
+        "africa",
+        "african",
+        "south africa",
+        "data",
+        "mobile"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-23T14:12:01Z",
+      "updated_at": "2026-11-24T02:04:24+00:00",
+      "id": 666
+    },
+    {
+      "title": "South African founder raises $1.67 million to make robots better at handling objects",
+      "slug": "south-african-founder-raises-1-67-million-to-make-robots-better-at-handling-objects",
+      "is_active": false,
+      "summary": "Mohamed founded Lupa Robotics in 2026 to solve a robotics problem known as dexterous manipulation—a robot's ability to grasp and manipulate objects with its fingers.",
+      "content": {
+        "title": "South African founder raises $1.67 million to make robots better at handling objects",
+        "subtitle": "",
+        "desc": "Mohamed founded Lupa Robotics in 2026 to solve a robotics problem known as dexterous manipulation—a robot's ability to grasp and manipulate objects with its fingers.",
+        "sections": []
+      },
+      "author_name": "Opeyemi Kareem",
+      "author_username": null,
+      "tags": [
+        "Startups",
+        "Africa",
+        "AI",
+        "funding",
+        "robotics",
+        "South Africa",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/23/lupa-robotics-1-67-million-seed-raise",
+      "q": [
+        "african",
+        "robotics"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-23T12:55:34Z",
+      "updated_at": "2026-11-24T02:04:24+00:00",
+      "id": 667
+    },
+    {
+      "title": "Mzansi’s power moves",
+      "slug": "mzansis-power-moves",
+      "is_active": false,
+      "summary": "The Big Story: Teraco taps wind to power its data centres. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Read online Howzit, Mzansi! 🇿🇦 Welcome to the first edition of TC Mzansi. We’re excited to bring you closer to the people, ideas, and businesses shaping South Africa’s technology ecosystem and the wider Southern African Development Community",
+      "content": {
+        "title": "Mzansi’s power moves",
+        "subtitle": "",
+        "desc": "The Big Story: Teraco taps wind to power its data centres. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Read online Howzit, Mzansi! 🇿🇦 Welcome to the first edition of TC Mzansi. We’re excited to bring you closer to the people, ideas, and businesses shaping South Africa’s technology ecosystem and the wider Southern African Development Community (SADC) region. South […]",
+        "sections": []
+      },
+      "author_name": "Phathisani Moyo",
+      "author_username": null,
+      "tags": [
+        "TC Mzansi",
+        "Newsletters",
+        "Airtel Zambia",
+        "Ramaphosa",
+        "Teraco",
+        "TechCabal"
+      ],
+      "link": "https://techcabal.com/2026/11/23/mzansis-power-moves",
+      "q": [
+        "africa",
+        "african",
+        "south africa",
+        "technology",
+        "development",
+        "data"
+      ],
+      "img": [
+        "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/27f2eaf6-87c6-45e9-9191-d08f86eb731c/TC_MZANSI_1__1_.jpg?t=1795433178"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T12:50:19Z",
+      "updated_at": "2026-11-24T02:04:24+00:00",
+      "id": 668
+    },
+    {
+      "title": "Wysemarket CEO identifies key factors that will shape the future of prediction markets in Africa",
+      "slug": "wysemarket-ceo-identifies-key-factors-that-will-shape-the-future-of-prediction-markets-in-africa",
+      "is_active": false,
+      "summary": "Africa’s emerging prediction market industry is entering a new phase as regulators begin examining how the sector should…",
+      "content": {
+        "title": "Wysemarket CEO identifies key factors that will shape the future of prediction markets in Africa",
+        "subtitle": "",
+        "desc": "Africa’s emerging prediction market industry is entering a new phase as regulators begin examining how the sector should…",
+        "sections": []
+      },
+      "author_name": "Damilohun Maya",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/wysemarket-ceo-factor-future-prediction-africa",
+      "q": [
+        "africa"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/11/Wysemarket-Source-Techpoint.jpeg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T16:59:44Z",
+      "updated_at": "2026-11-24T02:04:29+00:00",
+      "id": 669
+    },
+    {
+      "title": "Why Nigerian Enterprises Need Hybrid Cloud, Not an All-or-Nothing Cloud Debate",
+      "slug": "why-nigerian-enterprises-need-hybrid-cloud-not-an-all-or-nothing-cloud-debate",
+      "is_active": false,
+      "summary": "Written by Remi Adejumo",
+      "content": {
+        "title": "Why Nigerian Enterprises Need Hybrid Cloud, Not an All-or-Nothing Cloud Debate",
+        "subtitle": "",
+        "desc": "Written by Remi Adejumo",
+        "sections": []
+      },
+      "author_name": "Guest Contributor",
+      "author_username": null,
+      "tags": [
+        "Opinion",
+        "Technext"
+      ],
+      "link": "https://technext24.com/opinion/why-nigerian-enterprises-need-hybrid-cloud",
+      "q": [
+        "cloud"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2025/10/CBNN.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T15:43:17Z",
+      "updated_at": "2026-11-24T02:04:29+00:00",
+      "id": 670
+    },
+    {
+      "title": "Peter Obi endorses SmartBallot: We tested the app and website – here’s what to know before you register",
+      "slug": "peter-obi-endorses-smartballot-we-tested-the-app-and-website-heres-what-to-know-before-you-register",
+      "is_active": false,
+      "summary": "Peter Obi, presidential candidate of the Nigeria Democratic Congress (NDC), has urged supporters and party candidates to register…",
+      "content": {
+        "title": "Peter Obi endorses SmartBallot: We tested the app and website – here’s what to know before you register",
+        "subtitle": "",
+        "desc": "Peter Obi, presidential candidate of the Nigeria Democratic Congress (NDC), has urged supporters and party candidates to register…",
+        "sections": []
+      },
+      "author_name": "Epiphanus Obia",
+      "author_username": null,
+      "tags": [
+        "Review",
+        "Technext"
+      ],
+      "link": "https://technext24.com/reviews/peter-obi-endorses-smartballot-what-to-know",
+      "q": [
+        "nigeria"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/11/WA_1795440913107.jpeg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T15:40:49Z",
+      "updated_at": "2026-11-24T02:04:29+00:00",
+      "id": 671
+    },
+    {
+      "title": "Badagry to host first tech summit on Nov 27, with 500 young innovators and leaders expected",
+      "slug": "badagry-to-host-first-tech-summit-on-nov-27-with-500-young-innovators-and-leaders-expected",
+      "is_active": false,
+      "summary": "Badagry, a coastal town in Lagos State, will host its first technology summit on Friday, November 27, 2026,…",
+      "content": {
+        "title": "Badagry to host first tech summit on Nov 27, with 500 young innovators and leaders expected",
+        "subtitle": "",
+        "desc": "Badagry, a coastal town in Lagos State, will host its first technology summit on Friday, November 27, 2026,…",
+        "sections": []
+      },
+      "author_name": "Ifeoluwa Popoola",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/badagry-to-host-first-tech-summit-nov-27",
+      "q": [
+        "lagos",
+        "technology",
+        "tech"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2026/11/images-4.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T15:03:05Z",
+      "updated_at": "2026-11-24T02:04:29+00:00",
+      "id": 672
+    },
+    {
+      "title": "55% of African digital payment users still rely on cash for about half their transactions",
+      "slug": "55-of-african-digital-payment-users-still-rely-on-cash-for-about-half-their-transactions",
+      "is_active": false,
+      "summary": "Despite the rapid growth of digital payment systems in Africa, cash remains a key player in daily transactions.…",
+      "content": {
+        "title": "55% of African digital payment users still rely on cash for about half their transactions",
+        "subtitle": "",
+        "desc": "Despite the rapid growth of digital payment systems in Africa, cash remains a key player in daily transactions.…",
+        "sections": []
+      },
+      "author_name": "Mubarak Bankole",
+      "author_username": null,
+      "tags": [
+        "News",
+        "Technext"
+      ],
+      "link": "https://technext24.com/news/55-of-african-digital-payment-users-use-cash",
+      "q": [
+        "africa",
+        "african",
+        "digital"
+      ],
+      "img": [
+        "https://technext24.com/wp-content/uploads/2023/07/POS-OPay.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T13:22:49Z",
+      "updated_at": "2026-11-24T02:04:29+00:00",
+      "id": 673
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO After 11-Day Exit Amid Security Concerns",
+      "slug": "nvidia-reinstates-jensen-huang-as-ceo-after-11-day-exit-amid-security-concerns",
+      "is_active": false,
+      "summary": "Nvidia has reinstated co-founder Jensen Huang as president and chief executive officer, reversing his departure less than two weeks ago following controversy over his personal relationships and concerns about potential foreign intelligence exposure. The U.S. artificial intelligence chipmaker said its board unanimously approved Huang’s return after discussions with him and consultations with senior U.S. government […] The post Nvidia Reinstates Jensen Huang as CEO After 11-Day Exit Amid Security ",
+      "content": {
+        "title": "Nvidia Reinstates Jensen Huang as CEO After 11-Day Exit Amid Security Concerns",
+        "subtitle": "",
+        "desc": "Nvidia has reinstated co-founder Jensen Huang as president and chief executive officer, reversing his departure less than two weeks ago following controversy over his personal relationships and concerns about potential foreign intelligence exposure. The U.S. artificial intelligence chipmaker said its board unanimously approved Huang’s return after discussions with him and consultations with senior U.S. government […] The post Nvidia Reinstates Jensen Huang as CEO After 11-Day Exit Amid Security Concerns appeared first on TechMoran .",
+        "sections": []
+      },
+      "author_name": "James Musoba",
+      "author_username": null,
+      "tags": [
+        "Business",
+        "TechMoran"
+      ],
+      "link": "https://techmoran.com/2026/11/23/nvidia-reinstates-jensen-huang-as-ceo-after-11-day-exit-amid-security-concerns",
+      "q": [
+        "artificial intelligence"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-23T20:15:40Z",
+      "updated_at": "2026-11-24T02:04:29+00:00",
+      "id": 674
+    },
+    {
+      "title": "Kenya’s Cloud9 Money Buys Canadian Payments Firm Monix Pay in Push Beyond Africa",
+      "slug": "kenyas-cloud9-money-buys-canadian-payments-firm-monix-pay-in-push-beyond-africa",
+      "is_active": false,
+      "summary": "Cloud9, a Kenyan fintech that provides digital banking services to African consumers and businesses, has acquired Monix Pay, a Canadian money services in a deal that enables Cloud9 to operate money transfer services in North America and a direct channel for moving money between Africa and Canada. Monix Pay runs foreign exchange, money transfers, payment […] The post Kenya’s Cloud9 Money Buys Canadian Payments Firm Monix Pay in Push Beyond Africa appeared first on TechMoran .",
+      "content": {
+        "title": "Kenya’s Cloud9 Money Buys Canadian Payments Firm Monix Pay in Push Beyond Africa",
+        "subtitle": "",
+        "desc": "Cloud9, a Kenyan fintech that provides digital banking services to African consumers and businesses, has acquired Monix Pay, a Canadian money services in a deal that enables Cloud9 to operate money transfer services in North America and a direct channel for moving money between Africa and Canada. Monix Pay runs foreign exchange, money transfers, payment […] The post Kenya’s Cloud9 Money Buys Canadian Payments Firm Monix Pay in Push Beyond Africa appeared first on TechMoran .",
+        "sections": []
+      },
+      "author_name": "Ronald Bwire",
+      "author_username": null,
+      "tags": [
+        "Startups",
+        "TechMoran"
+      ],
+      "link": "https://techmoran.com/2026/11/23/kenyas-cloud9-money-buys-canadian-payments-firm-monix-pay-in-push-beyond-africa",
+      "q": [
+        "africa",
+        "african",
+        "kenya",
+        "fintech",
+        "digital"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-23T19:56:34Z",
+      "updated_at": "2026-11-24T02:04:29+00:00",
+      "id": 675
+    },
+    {
+      "title": "L’action de Nvidia bondit d’environ 34% suite à la réintégration de Jensen Huang à direction générale",
+      "slug": "laction-de-nvidia-bondit-denviron-34-suite-a-la-reintegration-de-jensen-huang-a-direction-generale",
+      "is_active": false,
+      "summary": "[DIGITAL Business Africa] – Jensen Huang était bien parti pour revenir. Cela ne pouvait en être autrement, avec le soutien appuyé de ses collaborateurs, de gros noms de la technologie et des personnalités de hautes volées comme Elon Musk, PDG de Space X ou le président des États-Unis Donald Trump. Ce retour de l’homme d’affaires […]",
+      "content": {
+        "title": "L’action de Nvidia bondit d’environ 34% suite à la réintégration de Jensen Huang à direction générale",
+        "subtitle": "",
+        "desc": "[DIGITAL Business Africa] – Jensen Huang était bien parti pour revenir. Cela ne pouvait en être autrement, avec le soutien appuyé de ses collaborateurs, de gros noms de la technologie et des personnalités de hautes volées comme Elon Musk, PDG de Space X ou le président des États-Unis Donald Trump. Ce retour de l’homme d’affaires […]",
+        "sections": []
+      },
+      "author_name": "Digital Business Africa",
+      "author_username": null,
+      "tags": [
+        "Dernières publications",
+        "International",
+        "Investissement",
+        "Opportunités",
+        "SLIDEHOME",
+        "Technologies",
+        "capitalisation boursière",
+        "IA",
+        "Jensen Huang",
+        "Nvidia",
+        "Wall Street",
+        "Digital Business Africa"
+      ],
+      "link": "https://www.digitalbusiness.africa/laction-de-nvidia-bondit-denviron-34-suite-a-la-reintegration-de-jensen-huang-a-direction-generale",
+      "q": [
+        "africa",
+        "digital"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-23T20:58:04Z",
+      "updated_at": "2026-11-24T02:04:31+00:00",
+      "id": 676
+    },
+    {
+      "title": "[Billet] Google : L’effet boomerang du Mode IA, les revenus publicitaires en chute libre",
+      "slug": "billet-google-leffet-boomerang-du-mode-ia-les-revenus-publicitaires-en-chute-libre",
+      "is_active": false,
+      "summary": "[DIGITAL Business Africa] –Qui tue par l’ IA mourra par l’ IA. Le géant du numérique Google subit à son tour la loi de l’intelligence artificielle. De moins en moins, les internautes cliquent sur les liens hypertextes pour accéder à un contenu médiatique. Ils préfèrent poser leurs questions aux chatbots disponibles sur leurs smartphones. Plusieurs […]",
+      "content": {
+        "title": "[Billet] Google : L’effet boomerang du Mode IA, les revenus publicitaires en chute libre",
+        "subtitle": "",
+        "desc": "[DIGITAL Business Africa] –Qui tue par l’ IA mourra par l’ IA. Le géant du numérique Google subit à son tour la loi de l’intelligence artificielle. De moins en moins, les internautes cliquent sur les liens hypertextes pour accéder à un contenu médiatique. Ils préfèrent poser leurs questions aux chatbots disponibles sur leurs smartphones. Plusieurs […]",
+        "sections": []
+      },
+      "author_name": "Digital Business Africa",
+      "author_username": null,
+      "tags": [
+        "Dernières publications",
+        "International",
+        "Logiciels",
+        "SLIDEHOME",
+        "Technologies",
+        "AI Mode",
+        "Google",
+        "IA",
+        "monétisation",
+        "Philipp Schindler",
+        "publicité",
+        "Digital Business Africa"
+      ],
+      "link": "https://www.digitalbusiness.africa/billet-google-leffet-boomerang-du-mode-ia-les-revenus-publicitaires-en-chute-libre",
+      "q": [
+        "africa",
+        "digital"
+      ],
+      "img": [],
+      "status": "pending",
+      "created_at": "2026-11-23T13:15:41Z",
+      "updated_at": "2026-11-24T02:04:31+00:00",
+      "id": 677
+    },
+    {
+      "title": "Des tensions en Libye aux enjeux climatiques de la COP31 [Africanews Today]",
+      "slug": "des-tensions-en-libye-aux-enjeux-climatiques-de-la-cop31-africanews-today",
+      "is_active": false,
+      "summary": "Au sommaire : les tensions en Libye après une attaque contre des navires russes, la diplomatie chinoise dans la Corne de l’Afrique, l’échec de la COP31 sur le climat, un rapprochement entre la RDC et le Kenya, et les rendez-vous culturels et politiques à venir.",
+      "content": {
+        "title": "Des tensions en Libye aux enjeux climatiques de la COP31 [Africanews Today]",
+        "subtitle": "",
+        "desc": "Au sommaire : les tensions en Libye après une attaque contre des navires russes, la diplomatie chinoise dans la Corne de l’Afrique, l’échec de la COP31 sur le climat, un rapprochement entre la RDC et le Kenya, et les rendez-vous culturels et politiques à venir.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Rédaction Africanews)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/23/des-tensions-en-libye-aux-enjeux-climatiques-de-la-cop31-africanews-today",
+      "q": [
+        "afrique",
+        "kenya"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/09/61/02/56/640x360_cmsv2_58c21554-6c4d-5b07-a35f-91a43328a71c-9610256.jpg?1795427477"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T20:54:02Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 678
+    },
+    {
+      "title": "Football : le Sénégal va-t-il récupérer sa CAN 2026 ?",
+      "slug": "football-le-senegal-va-t-il-recuperer-sa-can-2026",
+      "is_active": false,
+      "summary": "Le Tribunal arbitral du sport rendra mardi sa décision concernant le recours formé par le Sénégal contre la décision de lui retirer le titre de la Coupe d'Afrique des nations de cette année.",
+      "content": {
+        "title": "Football : le Sénégal va-t-il récupérer sa CAN 2026 ?",
+        "subtitle": "",
+        "desc": "Le Tribunal arbitral du sport rendra mardi sa décision concernant le recours formé par le Sénégal contre la décision de lui retirer le titre de la Coupe d'Afrique des nations de cette année.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Rédaction Africanews)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/23/can-2026-le-senegal-va-t-il-recuperer-son-titre-de-champion",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/10/00/47/00/640x360_cmsv2_60ea8596-581f-5318-ae0f-641f09aef620-10004700.jpg?1795437570"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T15:27:46Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 679
+    },
+    {
+      "title": "La Chine appelle à une coopération avec la Corne de l'Afrique pour la paix",
+      "slug": "la-chine-appelle-a-une-cooperation-avec-la-corne-de-l-afrique-pour-la-paix",
+      "is_active": false,
+      "summary": "Alors que les tensions au Moyen-Orient menacent la paix et la stabilité dans la Corne de l’Afrique, des émissaires chinois se sont rendus en Éthiopie, à Djibouti, en Égypte et en Érythrée, appelant à une coopération plus étroite pour préserver la paix et favoriser le développement.",
+      "content": {
+        "title": "La Chine appelle à une coopération avec la Corne de l'Afrique pour la paix",
+        "subtitle": "",
+        "desc": "Alors que les tensions au Moyen-Orient menacent la paix et la stabilité dans la Corne de l’Afrique, des émissaires chinois se sont rendus en Éthiopie, à Djibouti, en Égypte et en Érythrée, appelant à une coopération plus étroite pour préserver la paix et favoriser le développement.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Rédaction Africanews)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/23/la-chine-appelle-a-une-cooperation-avec-la-corne-de-lafrique-pour-preserver-la-paix",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/10/00/40/33/640x360_cmsv2_a5ba64be-977e-5342-9cc4-a2f8f7304099-10004033.jpg?1795419646"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T14:24:41Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 680
+    },
+    {
+      "title": "Afrique du Sud : des salles sensorielles au service du bien-être mental",
+      "slug": "afrique-du-sud-des-salles-sensorielles-au-service-du-bien-etre-mental",
+      "is_active": false,
+      "summary": "En Afrique du Sud, une salle sensorielle à Orange Farm, près de Johannesburg, sert de thérapie pour les personnes souffrant des maladies liées à la santé mentale.",
+      "content": {
+        "title": "Afrique du Sud : des salles sensorielles au service du bien-être mental",
+        "subtitle": "",
+        "desc": "En Afrique du Sud, une salle sensorielle à Orange Farm, près de Johannesburg, sert de thérapie pour les personnes souffrant des maladies liées à la santé mentale.",
+        "sections": []
+      },
+      "author_name": "editorial@africanews.com (Rédaction Africanews)",
+      "author_username": null,
+      "tags": [
+        "Africanews - Français"
+      ],
+      "link": "http://fr.africanews.com/2026/11/23/afrique-du-sud-des-salles-sensorielles-au-service-du-bien-etre-mental",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "http://images.euronews.com/articles/stories/10/00/42/56/640x360_cmsv2_3f77ce9e-f860-5e01-9558-e0b632619fde-10004256.jpg?1795427812"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T13:59:22Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 681
+    },
+    {
+      "title": "Côte d'Ivoire: visite du président allemand à Abidjan, une première depuis 40 ans",
+      "slug": "cote-d-ivoire-visite-du-president-allemand-a-abidjan-une-premiere-depuis-40-ans",
+      "is_active": false,
+      "summary": "Cela faisait plus de 40 ans qu’un président allemand n’était pas venu en Côte d’Ivoire. Arrivé dimanche soir 22 octobre, Frank-Walter Steinmeier s’est entretenu ce lundi avec le président ivoirien Alassane Ouattara. Une visite d’État de 24 h axée sur le renforcement de la coopération bilatérale, notamment en matière d’économie, puisque Frank-Walter Steinmeier était accompagné d’une délégation d'hommes et de femmes d'affaires. Première étape d'une tournée qui le conduira également au Ghana et au ",
+      "content": {
+        "title": "Côte d'Ivoire: visite du président allemand à Abidjan, une première depuis 40 ans",
+        "subtitle": "",
+        "desc": "Cela faisait plus de 40 ans qu’un président allemand n’était pas venu en Côte d’Ivoire. Arrivé dimanche soir 22 octobre, Frank-Walter Steinmeier s’est entretenu ce lundi avec le président ivoirien Alassane Ouattara. Une visite d’État de 24 h axée sur le renforcement de la coopération bilatérale, notamment en matière d’économie, puisque Frank-Walter Steinmeier était accompagné d’une délégation d'hommes et de femmes d'affaires. Première étape d'une tournée qui le conduira également au Ghana et au Kenya.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261123-c%C3%B4te-d-ivoire-visite-du-pr%C3%A9sident-allemand-%C3%A0-abidjan-une-premi%C3%A8re-depuis-40-ans",
+      "q": [
+        "kenya",
+        "ghana",
+        "abidjan"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/f4761ae4-e765-11f1-a2cd-13439ca2fe89/w:1024/p:16x9/GettyImages-2306011650.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T17:48:08Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 682
+    },
+    {
+      "title": "L'attaque ukrainienne au large de Benghazi ravive la tension entre les belligérants libyens",
+      "slug": "l-attaque-ukrainienne-au-large-de-benghazi-ravive-la-tension-entre-les-belligerants-libyens",
+      "is_active": false,
+      "summary": "Les autorités de l'Est libyen ont réclamé, lundi 23 novembre à l'ONU, une enquête sur la présence des forces ukrainiennes dans l'ouest du pays. Kiev a revendiqué l'attaque de deux navires russes au large de Benghazi visés par des drones marins. Une première, après deux opérations similaires en Libye en février et en décembre derniers. Ces nouvelles attaques ravivent les divisions et la tension entre les belligérants libyens et rebattent la carte de la présence ukrainienne et russe dans ce pays q",
+      "content": {
+        "title": "L'attaque ukrainienne au large de Benghazi ravive la tension entre les belligérants libyens",
+        "subtitle": "",
+        "desc": "Les autorités de l'Est libyen ont réclamé, lundi 23 novembre à l'ONU, une enquête sur la présence des forces ukrainiennes dans l'ouest du pays. Kiev a revendiqué l'attaque de deux navires russes au large de Benghazi visés par des drones marins. Une première, après deux opérations similaires en Libye en février et en décembre derniers. Ces nouvelles attaques ravivent les divisions et la tension entre les belligérants libyens et rebattent la carte de la présence ukrainienne et russe dans ce pays qui bénéficie d'une position stratégique en Afrique.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261123-l-attaque-ukrainienne-en-large-de-benghazi-ravive-la-tension-entre-les-bellig%C3%A9rants-libyens",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/c95037ee-e730-11f1-8e5e-1bac47ab2f5d/w:1024/p:16x9/AP26327310059538.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T21:16:48Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 683
+    },
+    {
+      "title": "Les attaques contre des navires russes à Benghazi «mettent en difficulté la stratégie africaine de Moscou»",
+      "slug": "les-attaques-contre-des-navires-russes-a-benghazi-mettent-en-difficulte-la-strategie-africaine-de-moscou",
+      "is_active": false,
+      "summary": "Le président ukrainien Volodymyr Zelensky a revendiqué au matin du 23 novembre des attaques menées contre deux navires russes à Benghazi, le grand port de l'Est libyen contrôlé par les forces du maréchal Haftar. Il s’agit selon le numéro 1 ukrainien d’une corvette et d’un cargo transportant des armes frappés par des drones maritimes. La Libye va-t-elle devenir un nouveau champ d'affrontements entre Moscou et Kiev ? Virginie Collombier, présidente du centre de recherches Plateforme Méditerranée, ",
+      "content": {
+        "title": "Les attaques contre des navires russes à Benghazi «mettent en difficulté la stratégie africaine de Moscou»",
+        "subtitle": "",
+        "desc": "Le président ukrainien Volodymyr Zelensky a revendiqué au matin du 23 novembre des attaques menées contre deux navires russes à Benghazi, le grand port de l'Est libyen contrôlé par les forces du maréchal Haftar. Il s’agit selon le numéro 1 ukrainien d’une corvette et d’un cargo transportant des armes frappés par des drones maritimes. La Libye va-t-elle devenir un nouveau champ d'affrontements entre Moscou et Kiev ? Virginie Collombier, présidente du centre de recherches Plateforme Méditerranée, est l’invitée d’Afrique Midi.",
+        "sections": []
+      },
+      "author_name": "Nicolas Sur",
+      "author_username": null,
+      "tags": [
+        "Invité Afrique Midi",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261123-les-attaques-contre-des-navires-russes-%C3%A0-benghazi-mettent-en-difficult%C3%A9-la-strat%C3%A9gie-africaine-de-moscou",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/4baf12b2-e74c-11f1-a378-ebb478925cf0/w:1024/p:16x9/AP26327310268364.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T14:57:18Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 684
+    },
+    {
+      "title": "Maroc: un «mode d'emploi» remis aux entreprises pour exporter en Chine sans droits de douane",
+      "slug": "maroc-un-mode-d-emploi-remis-aux-entreprises-pour-exporter-en-chine-sans-droits-de-douane",
+      "is_active": false,
+      "summary": "Au Maroc, le ministre chargé du Commerce extérieur, Omar Hejira, a remis, le week-end dernier, aux entreprises marocaines le « mode d'emploi » pour profiter du régime de droits de douanes à 0 % appliqué par la Chine sur les exportations africaines, une mesure officialisée au mois de mai dernier par Pékin.",
+      "content": {
+        "title": "Maroc: un «mode d'emploi» remis aux entreprises pour exporter en Chine sans droits de douane",
+        "subtitle": "",
+        "desc": "Au Maroc, le ministre chargé du Commerce extérieur, Omar Hejira, a remis, le week-end dernier, aux entreprises marocaines le « mode d'emploi » pour profiter du régime de droits de douanes à 0 % appliqué par la Chine sur les exportations africaines, une mesure officialisée au mois de mai dernier par Pékin.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261124-maroc-un-mode-d-emploi-remis-aux-entreprises-pour-exporter-en-chine-sans-droits-de-douane",
+      "q": [
+        "maroc"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/eb1df69e-6bb8-11f0-9817-005056bfb2b6/w:1024/p:16x9/Le-port-de-Tanger-Med-au-nord-du-Maroc-le-10-juillet-2025.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-24T00:12:52Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 685
+    },
+    {
+      "title": "Au menu du Sirexe à Abidjan, les stocks stratégiques pétrolier",
+      "slug": "au-menu-du-sirexe-a-abidjan-les-stocks-strategiques-petrolier",
+      "is_active": false,
+      "summary": "À Abidjan, le Salon international des ressources extractives et de l’énergie (Sirexe) a fermé ses portes dimanche 22 novembre. Au menu figurait notamment la question des stocks stratégiques pétroliers, ces réserves que les États veulent constituer pour pouvoir répondre pendant un certain temps à la demande en cas de perturbations de l’approvisionnement. Une question importante compte tenu du contexte international incertain, sur laquelle la Côte d’Ivoire entend renforcer ses capacités.",
+      "content": {
+        "title": "Au menu du Sirexe à Abidjan, les stocks stratégiques pétrolier",
+        "subtitle": "",
+        "desc": "À Abidjan, le Salon international des ressources extractives et de l’énergie (Sirexe) a fermé ses portes dimanche 22 novembre. Au menu figurait notamment la question des stocks stratégiques pétroliers, ces réserves que les États veulent constituer pour pouvoir répondre pendant un certain temps à la demande en cas de perturbations de l’approvisionnement. Une question importante compte tenu du contexte international incertain, sur laquelle la Côte d’Ivoire entend renforcer ses capacités.",
+        "sections": []
+      },
+      "author_name": "Judith Renoult",
+      "author_username": null,
+      "tags": [
+        "Afrique économie",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261123-au-menu-du-sirexe-%C3%A0-abidjan-les-stocks-strat%C3%A9giques-p%C3%A9trolier",
+      "q": [
+        "abidjan"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/bdc8abd2-e766-11f1-9b67-13439ca2fe89/w:1024/p:16x9/000-D7ZK3G3.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T23:01:24Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 686
+    },
+    {
+      "title": "Nigeria: les objectifs d’autosuffisance en riz s’éloignent",
+      "slug": "nigeria-les-objectifs-dautosuffisance-en-riz-seloignent",
+      "is_active": false,
+      "summary": "Au Nigeria, le secteur du riz est en perte de vitesse. Selon la presse locale, 90 des 260 rizeries (usines de transformation du riz) ont cessé leurs activités, des données qui recoupent les importations de riz en forte hausse ces dernières années. Un coup dur pour les autorités qui souhaitaient atteindre l'autosuffisance cette année.",
+      "content": {
+        "title": "Nigeria: les objectifs d’autosuffisance en riz s’éloignent",
+        "subtitle": "",
+        "desc": "Au Nigeria, le secteur du riz est en perte de vitesse. Selon la presse locale, 90 des 260 rizeries (usines de transformation du riz) ont cessé leurs activités, des données qui recoupent les importations de riz en forte hausse ces dernières années. Un coup dur pour les autorités qui souhaitaient atteindre l'autosuffisance cette année.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261123-nigeria-les-objectifs-d-autosuffisance-en-riz-s-%C3%A9loignent",
+      "q": [
+        "nigeria"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/e04f6a0a-b232-11ed-9a8b-005056bf30b7/w:1024/p:16x9/AP23048625573507.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T22:46:55Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 687
+    },
+    {
+      "title": "Malraux et l'Afrique: de la décolonisation à la découverte de l'altérité radicale des arts africains",
+      "slug": "malraux-et-l-afrique-de-la-decolonisation-a-la-decouverte-de-l-alterite-radicale-des-arts-africains",
+      "is_active": false,
+      "summary": "Écrivain et amateur d’art, André Malraux a joué un rôle primordial dans la revalorisation et l’universalisation des arts africains. À l’occasion du cinquantième anniversaire de la disparition de l’auteur de La Condition humaine, RFI a interrogé le critique littéraire Boniface Mongo-Mboussa sur l’influence de Malraux sur notre perception des arts africains et sur son rôle politique en tant que ministre du général de Gaulle dans la décolonisation de l'Empire.",
+      "content": {
+        "title": "Malraux et l'Afrique: de la décolonisation à la découverte de l'altérité radicale des arts africains",
+        "subtitle": "",
+        "desc": "Écrivain et amateur d’art, André Malraux a joué un rôle primordial dans la revalorisation et l’universalisation des arts africains. À l’occasion du cinquantième anniversaire de la disparition de l’auteur de La Condition humaine, RFI a interrogé le critique littéraire Boniface Mongo-Mboussa sur l’influence de Malraux sur notre perception des arts africains et sur son rôle politique en tant que ministre du général de Gaulle dans la décolonisation de l'Empire.",
+        "sections": []
+      },
+      "author_name": "Tirthankar Chanda",
+      "author_username": null,
+      "tags": [
+        "Culture",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/culture/20261123-andr%C3%A9-malraux-et-l-afrique-il-%C3%A9tait-le-penseur-de-la-d%C3%A9colonisation",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/556283f4-14b6-11ea-afc2-005056a99247/w:1024/p:16x9/andre_malraux.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T13:47:20Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 688
+    },
+    {
+      "title": "Sénégal ou Maroc ? Le TAS rend sa décision ce « mardi » 24 novembre sur la finale de la CAN 2025",
+      "slug": "senegal-ou-maroc-le-tas-rend-sa-decision-ce-mardi-24-novembre-sur-la-finale-de-la-can-2025",
+      "is_active": false,
+      "summary": "Le Tribunal arbitral du sport (TAS) a annoncé lundi qu'il rendrait « mardi 24 novembre 2026 dans le courant de l'après-midi » sa décision concernant le recours du Sénégal contre la victoire du Maroc sur tapis vert en finale de la CAN 2025.",
+      "content": {
+        "title": "Sénégal ou Maroc ? Le TAS rend sa décision ce « mardi » 24 novembre sur la finale de la CAN 2025",
+        "subtitle": "",
+        "desc": "Le Tribunal arbitral du sport (TAS) a annoncé lundi qu'il rendrait « mardi 24 novembre 2026 dans le courant de l'après-midi » sa décision concernant le recours du Sénégal contre la victoire du Maroc sur tapis vert en finale de la CAN 2025.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique foot",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique-foot/20261123-s%C3%A9n%C3%A9gal-ou-maroc-le-tas-rend-sa-d%C3%A9cision-ce-mardi-24-novembre-sur-la-finale-de-la-can-2025",
+      "q": [
+        "maroc"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/0b42ab5e-c194-11f1-91c8-ff8cff4603f0/w:1024/p:16x9/000-936L4WH.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-23T11:28:42Z",
+      "updated_at": "2026-11-24T02:04:32+00:00",
+      "id": 689
     }
   ]
 }
