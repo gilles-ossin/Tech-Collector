@@ -16,7 +16,7 @@
     "package_manager_command": "pip install scrapling",
     "version": "v0.5.1",
     "license": "BSD-3-Clause",
-    "stars": 105529,
+    "stars": 105652,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Karim shoair",
@@ -24,7 +24,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2024-10-13T20:29:53Z",
-    "updated_at": "2026-11-24T22:39:57Z",
+    "updated_at": "2026-11-25T09:07:09Z",
     "reviews": [],
     "q": [
       "location:egypt"
@@ -48,7 +48,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 53631,
+    "stars": 53642,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "lauren",
@@ -56,7 +56,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2017-03-15T05:09:01Z",
-    "updated_at": "2026-11-24T22:38:29Z",
+    "updated_at": "2026-11-25T08:13:11Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -112,7 +112,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 22628,
+    "stars": 22630,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Deepak",
@@ -120,7 +120,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-09-17T11:15:29Z",
-    "updated_at": "2026-11-24T19:19:28Z",
+    "updated_at": "2026-11-25T05:34:25Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -144,7 +144,7 @@
     "package_manager_command": "npm install cesium",
     "version": "1.147",
     "license": "Apache-2.0",
-    "stars": 15981,
+    "stars": 15983,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Cesium",
@@ -152,12 +152,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2012-03-02T22:27:14Z",
-    "updated_at": "2026-11-23T15:58:04Z",
+    "updated_at": "2026-11-25T05:43:03Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-24T22:26:58Z"
+    "last_activity": "2026-11-25T05:09:15Z"
   },
   {
     "id": 85325902,
@@ -189,7 +189,7 @@
     "q": [
       "mobile money africa in:name,description,topics,readme"
     ],
-    "last_activity": "2026-11-24T00:20:29Z"
+    "last_activity": "2026-11-25T00:21:54Z"
   },
   {
     "id": 27971466,
@@ -240,7 +240,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 12442,
+    "stars": 12443,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Manis DJEMMANE",
@@ -248,7 +248,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2016-09-01T03:41:47Z",
-    "updated_at": "2026-11-24T18:30:26Z",
+    "updated_at": "2026-11-25T03:06:19Z",
     "reviews": [],
     "q": [
       "location:algeria"
@@ -272,7 +272,7 @@
     "package_manager_command": "pip install pocket-tts",
     "version": "v4.0.1",
     "license": "MIT",
-    "stars": 10402,
+    "stars": 10404,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "kyutai",
@@ -280,7 +280,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2026-01-07T17:33:32Z",
-    "updated_at": "2026-11-24T21:58:55Z",
+    "updated_at": "2026-11-25T04:04:42Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -304,7 +304,7 @@
     "package_manager_command": "pip install countrystatecity-api",
     "version": "v5.2.0-export.1",
     "license": "ODbL-1.0",
-    "stars": 10055,
+    "stars": 10057,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Darshan Gada",
@@ -312,12 +312,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-07-20T14:13:45Z",
-    "updated_at": "2026-11-24T11:26:45Z",
+    "updated_at": "2026-11-25T06:16:52Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-24T14:34:14Z"
+    "last_activity": "2026-11-25T08:33:49Z"
   },
   {
     "id": 697193688,
@@ -336,7 +336,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "",
-    "stars": 8585,
+    "stars": 8586,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "codeman008",
@@ -344,7 +344,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2023-09-27T08:40:59Z",
-    "updated_at": "2026-11-24T19:26:14Z",
+    "updated_at": "2026-11-25T02:58:44Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -368,7 +368,7 @@
     "package_manager_command": "",
     "version": "tidytuesday_tweets-dda1055",
     "license": "CC0-1.0",
-    "stars": 8522,
+    "stars": 8523,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Data Science Learning Community",
@@ -376,7 +376,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-03-14T16:22:58Z",
-    "updated_at": "2026-11-24T15:45:50Z",
+    "updated_at": "2026-11-25T06:33:27Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -432,7 +432,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 3958,
+    "stars": 3961,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Jonathan Becker",
@@ -440,7 +440,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2025-11-22T16:59:25Z",
-    "updated_at": "2026-11-24T18:54:38Z",
+    "updated_at": "2026-11-25T08:33:15Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -464,7 +464,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "",
-    "stars": 3949,
+    "stars": 3948,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Jakob Homan",
@@ -472,12 +472,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-01-11T07:14:19Z",
-    "updated_at": "2026-11-22T05:45:59Z",
+    "updated_at": "2026-11-25T00:12:03Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-20T21:36:20Z"
+    "last_activity": "2026-11-25T00:08:53Z"
   },
   {
     "id": 22022574,
@@ -529,7 +529,7 @@
     "package_manager_command": "",
     "version": "2.2.1",
     "license": "Apache-2.0",
-    "stars": 3659,
+    "stars": 3660,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "VerneMQ",
@@ -537,12 +537,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2015-05-27T07:29:57Z",
-    "updated_at": "2026-11-24T01:54:35Z",
+    "updated_at": "2026-11-25T04:58:41Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-23T16:04:20Z"
+    "last_activity": "2026-11-25T07:09:38Z"
   },
   {
     "id": 902137162,
@@ -561,7 +561,7 @@
     "package_manager_command": "npm install npm@12.1.0",
     "version": "v0.36.7",
     "license": "AGPL-3.0",
-    "stars": 2935,
+    "stars": 2936,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "OpenFront",
@@ -569,12 +569,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2024-12-12T01:27:03Z",
-    "updated_at": "2026-11-24T16:06:22Z",
+    "updated_at": "2026-11-25T02:39:06Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-24T20:34:25Z"
+    "last_activity": "2026-11-25T03:38:13Z"
   },
   {
     "id": 382113082,
@@ -593,7 +593,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "CC0-1.0",
-    "stars": 2901,
+    "stars": 2902,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Plenary App",
@@ -601,7 +601,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2021-07-01T17:45:31Z",
-    "updated_at": "2026-11-24T00:28:12Z",
+    "updated_at": "2026-11-25T06:07:34Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -625,7 +625,7 @@
     "package_manager_command": "",
     "version": "v0.2.29",
     "license": "GPL-3.0",
-    "stars": 2495,
+    "stars": 2498,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "oneclickvirt",
@@ -633,7 +633,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2024-06-25T08:39:37Z",
-    "updated_at": "2026-11-24T21:12:12Z",
+    "updated_at": "2026-11-25T08:12:07Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -657,7 +657,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "CC0-1.0",
-    "stars": 2440,
+    "stars": 2441,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "A.R.P. Syndicate",
@@ -665,7 +665,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2023-01-02T10:17:04Z",
-    "updated_at": "2026-11-23T22:07:12Z",
+    "updated_at": "2026-11-25T01:32:18Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -689,7 +689,7 @@
     "package_manager_command": "",
     "version": "v2.2.1",
     "license": "",
-    "stars": 2438,
+    "stars": 2439,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Richard McElreath",
@@ -697,7 +697,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2013-03-07T20:18:09Z",
-    "updated_at": "2026-11-23T15:23:07Z",
+    "updated_at": "2026-11-25T04:02:14Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -721,7 +721,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "",
-    "stars": 2173,
+    "stars": 2174,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Paul Hudson",
@@ -729,7 +729,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2020-06-11T18:15:01Z",
-    "updated_at": "2026-11-16T01:51:08Z",
+    "updated_at": "2026-11-25T02:10:27Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -753,7 +753,7 @@
     "package_manager_command": "",
     "version": "v2.0.0",
     "license": "MIT",
-    "stars": 1976,
+    "stars": 1975,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "ThemeSelection",
@@ -761,7 +761,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2022-03-14T09:50:59Z",
-    "updated_at": "2026-11-20T07:44:43Z",
+    "updated_at": "2026-11-25T03:34:21Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -830,7 +830,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-24T18:15:05Z"
+    "last_activity": "2026-11-25T01:56:50Z"
   },
   {
     "id": 24120212,
@@ -849,7 +849,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "",
-    "stars": 1834,
+    "stars": 1833,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Martin Bjeldbak Madsen",
@@ -857,7 +857,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2014-09-16T22:26:50Z",
-    "updated_at": "2026-11-24T11:45:02Z",
+    "updated_at": "2026-11-25T09:00:48Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -1297,7 +1297,7 @@
     "package_manager_command": "",
     "version": "llmstxt-cli@0.4.1",
     "license": "",
-    "stars": 930,
+    "stars": 931,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "David Dias",
@@ -1305,12 +1305,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2025-02-20T15:59:19Z",
-    "updated_at": "2026-11-20T14:27:48Z",
+    "updated_at": "2026-11-25T02:29:00Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
     ],
-    "last_activity": "2026-11-24T20:53:17Z"
+    "last_activity": "2026-11-25T05:31:01Z"
   },
   {
     "id": 461051163,
@@ -1521,7 +1521,7 @@
     "package_manager_command": "",
     "version": "v1.9.0",
     "license": "",
-    "stars": 747,
+    "stars": 748,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Fatiando a Terra",
@@ -1529,7 +1529,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2018-07-14T22:35:02Z",
-    "updated_at": "2026-11-19T21:01:29Z",
+    "updated_at": "2026-11-24T23:35:28Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -1553,7 +1553,7 @@
     "package_manager_command": "",
     "version": "v0.8.0",
     "license": "",
-    "stars": 690,
+    "stars": 691,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "boB Rudis",
@@ -1561,7 +1561,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2015-09-08T20:21:28Z",
-    "updated_at": "2026-07-28T04:46:29Z",
+    "updated_at": "2026-11-25T08:14:05Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -1585,7 +1585,7 @@
     "package_manager_command": "",
     "version": "v3.1.0",
     "license": "GPL-3.0",
-    "stars": 670,
+    "stars": 671,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "metrodroid",
@@ -1593,7 +1593,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2015-07-02T13:10:08Z",
-    "updated_at": "2026-11-23T10:37:02Z",
+    "updated_at": "2026-11-25T03:56:10Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -1745,7 +1745,7 @@
     "package_manager_command": "pip install pysits",
     "version": "v1.5.4",
     "license": "GPL-2.0",
-    "stars": 551,
+    "stars": 552,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "e-sensing",
@@ -1753,7 +1753,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2017-07-27T13:32:40Z",
-    "updated_at": "2026-11-23T20:32:51Z",
+    "updated_at": "2026-11-25T03:58:04Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -1809,7 +1809,7 @@
     "package_manager_command": "",
     "version": "",
     "license": "MIT",
-    "stars": 494,
+    "stars": 495,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Alicia Sykes",
@@ -1817,7 +1817,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2023-11-04T21:51:24Z",
-    "updated_at": "2026-11-24T07:17:53Z",
+    "updated_at": "2026-11-25T01:18:39Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -2386,7 +2386,7 @@
     "package_manager_command": "",
     "version": "v1.2.0",
     "license": "",
-    "stars": 268,
+    "stars": 269,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "rOpenSci",
@@ -2394,7 +2394,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2015-06-14T18:50:13Z",
-    "updated_at": "2026-11-23T12:06:23Z",
+    "updated_at": "2026-11-25T08:09:10Z",
     "reviews": [],
     "q": [
       "africa package"
@@ -2463,7 +2463,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-24T20:35:12Z"
+    "last_activity": "2026-11-25T05:04:06Z"
   },
   {
     "id": 247054942,
@@ -2559,7 +2559,7 @@
     "q": [
       "topic:mpesa"
     ],
-    "last_activity": "2026-11-24T22:39:11Z"
+    "last_activity": "2026-11-25T09:04:31Z"
   },
   {
     "id": 745255700,
@@ -2642,7 +2642,7 @@
     "package_manager_command": "npm install npm",
     "version": "3.14.2",
     "license": "MIT",
-    "stars": 202,
+    "stars": 203,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "FreeOpenSourcePOS",
@@ -2650,12 +2650,12 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2026-05-07T07:51:42Z",
-    "updated_at": "2026-11-23T09:07:19Z",
+    "updated_at": "2026-11-25T01:50:46Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-24T21:08:35Z"
+    "last_activity": "2026-11-25T09:05:41Z"
   },
   {
     "id": 208477824,
@@ -3060,7 +3060,7 @@
     "documentation_url": "https://gritframework.dev/docs/getting-started/installation",
     "github_url": "https://github.com/MUKE-coder/grit",
     "package_manager_command": "",
-    "version": "v3.576.0",
+    "version": "v3.577.0",
     "license": "MIT",
     "stars": 166,
     "reviews_count": 0,
@@ -3075,7 +3075,7 @@
     "q": [
       "location:uganda"
     ],
-    "last_activity": "2026-11-24T04:51:21Z"
+    "last_activity": "2026-11-25T07:29:27Z"
   },
   {
     "id": 125064749,
@@ -3641,7 +3641,7 @@
     "package_manager_command": "",
     "version": "1.25.0",
     "license": "",
-    "stars": 115,
+    "stars": 116,
     "reviews_count": 0,
     "average_rating": 0.0,
     "author_name": "Open Source Geospatial Foundation",
@@ -3649,7 +3649,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2019-12-16T17:27:43Z",
-    "updated_at": "2026-10-26T03:16:03Z",
+    "updated_at": "2026-11-25T07:59:07Z",
     "reviews": [],
     "q": [
       "africa in:readme package"
@@ -3686,7 +3686,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-20T03:59:30Z"
+    "last_activity": "2026-11-24T23:40:56Z"
   },
   {
     "id": 785677338,
@@ -4332,6 +4332,38 @@
     "last_activity": "2026-11-15T22:25:52Z"
   },
   {
+    "id": 60390067,
+    "title": "jaxon-core",
+    "slug": "jaxon-php-jaxon-core",
+    "type": "sdk",
+    "is_active": true,
+    "category": "utility",
+    "primary_language": "PHP",
+    "supported_frameworks": "",
+    "country": "",
+    "description": "The Jaxon core library",
+    "code_snippet": "",
+    "documentation_url": "http://www.jaxon-php.org/en/docs/",
+    "github_url": "https://github.com/jaxon-php/jaxon-core",
+    "package_manager_command": "",
+    "version": "v5.8.11",
+    "license": "BSD-3-Clause",
+    "stars": 74,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": "jaxon-php",
+    "author_slug": "jaxon-php",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2016-06-04T02:53:35Z",
+    "updated_at": "2026-11-05T22:20:36Z",
+    "reviews": [],
+    "q": [
+      "africa in:readme package"
+    ],
+    "last_activity": "2026-11-25T01:42:22Z"
+  },
+  {
     "id": 76851225,
     "title": "atom-i18n",
     "slug": "liuderchi-atom-i18n",
@@ -4365,36 +4397,36 @@
     "last_activity": "2026-11-22T09:45:56Z"
   },
   {
-    "id": 60390067,
-    "title": "jaxon-core",
-    "slug": "jaxon-php-jaxon-core",
+    "id": 1245097257,
+    "title": "agente-pagokit",
+    "slug": "hainrixz-agente-pagokit",
     "type": "sdk",
     "is_active": true,
-    "category": "utility",
-    "primary_language": "PHP",
+    "category": "fintech",
+    "primary_language": "JavaScript",
     "supported_frameworks": "",
     "country": "",
-    "description": "The Jaxon core library",
-    "code_snippet": "",
-    "documentation_url": "http://www.jaxon-php.org/en/docs/",
-    "github_url": "https://github.com/jaxon-php/jaxon-core",
-    "package_manager_command": "",
-    "version": "v5.8.10",
-    "license": "BSD-3-Clause",
-    "stars": 74,
+    "description": "Claude Code plugin that picks and implements the right payment method for your app — from your terminal. 42 providers, 136 payment rails, and deterministic validators that block insecure payment code as it is written.",
+    "code_snippet": "// pagokit-ignore: webhook-has-signature -- custom verifier in lib/auth/payments.ts",
+    "documentation_url": "https://docs.claude.com/en/docs/claude-code/plugins",
+    "github_url": "https://github.com/Hainrixz/agente-pagokit",
+    "package_manager_command": "npm install npm",
+    "version": "v0.2.2",
+    "license": "MIT",
+    "stars": 72,
     "reviews_count": 0,
     "average_rating": 0.0,
-    "author_name": "jaxon-php",
-    "author_slug": "jaxon-php",
+    "author_name": "soyenriquerocha",
+    "author_slug": "hainrixz",
     "author_verified": 0,
     "status": "pending",
-    "created_at": "2016-06-04T02:53:35Z",
-    "updated_at": "2026-11-05T22:20:36Z",
+    "created_at": "2026-05-20T22:57:52Z",
+    "updated_at": "2026-11-18T02:08:25Z",
     "reviews": [],
     "q": [
-      "africa in:readme package"
+      "mobile money africa in:name,description,topics,readme"
     ],
-    "last_activity": "2026-11-20T21:36:20Z"
+    "last_activity": "2026-10-25T06:02:00Z"
   },
   {
     "id": 30850557,
@@ -4749,6 +4781,38 @@
     "last_activity": "2026-04-14T15:41:34Z"
   },
   {
+    "id": 1161725512,
+    "title": "mitrokit-ventures",
+    "slug": "mwakidenis-mitrokit-ventures",
+    "type": "api",
+    "is_active": true,
+    "category": "utility",
+    "primary_language": "TypeScript",
+    "supported_frameworks": "Next.js",
+    "country": "Kenya",
+    "description": "Next.js personal brand website with admin dashboard",
+    "code_snippet": "",
+    "documentation_url": "https://nextjs.org/docs",
+    "github_url": "https://github.com/mwakidenis/mitrokit-ventures",
+    "package_manager_command": "",
+    "version": "",
+    "license": "GPL-3.0",
+    "stars": 56,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": " 🐘",
+    "author_slug": "mwakidenis",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2026-02-19T12:53:45Z",
+    "updated_at": "2026-11-12T17:07:35Z",
+    "reviews": [],
+    "q": [
+      "location:nairobi"
+    ],
+    "last_activity": "2026-11-25T09:08:02Z"
+  },
+  {
     "id": 576965212,
     "title": "mpesa",
     "slug": "iankumu-mpesa",
@@ -5098,7 +5162,7 @@
     "q": [
       "african api in:name,description,topics"
     ],
-    "last_activity": "2026-11-24T17:51:33Z"
+    "last_activity": "2026-11-25T00:05:59Z"
   },
   {
     "id": 1128776715,
@@ -5130,7 +5194,7 @@
     "q": [
       "topic:mpesa"
     ],
-    "last_activity": "2026-11-24T22:39:16Z"
+    "last_activity": "2026-11-25T08:57:28Z"
   },
   {
     "id": 1246509404,
@@ -5357,6 +5421,38 @@
     "last_activity": "2026-11-03T22:21:10Z"
   },
   {
+    "id": 507203164,
+    "title": "HarvestStat-Africa",
+    "slug": "harveststat-harveststat-africa",
+    "type": "sdk",
+    "is_active": true,
+    "category": "utility",
+    "primary_language": "Jupyter Notebook",
+    "supported_frameworks": "",
+    "country": "",
+    "description": "HarvestStat-Africa: Open Access Harmonized Subnational Crop Statistics",
+    "code_snippet": "",
+    "documentation_url": "https://docs.astral.sh/uv/",
+    "github_url": "https://github.com/HarvestStat/HarvestStat-Africa",
+    "package_manager_command": "",
+    "version": "v1.2",
+    "license": "MIT",
+    "stars": 41,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": "HarvestStat",
+    "author_slug": "harveststat",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2022-06-25T03:25:01Z",
+    "updated_at": "2026-11-25T07:56:01Z",
+    "reviews": [],
+    "q": [
+      "africa in:readme package"
+    ],
+    "last_activity": "2026-10-01T00:03:11Z"
+  },
+  {
     "id": 110799250,
     "title": "africastalking-java",
     "slug": "africastalkingltd-africastalking-java",
@@ -5451,7 +5547,7 @@
     "q": [
       "africa in:readme package"
     ],
-    "last_activity": "2026-11-24T07:17:48Z"
+    "last_activity": "2026-11-25T08:38:02Z"
   },
   {
     "id": 1447952496,
@@ -5484,38 +5580,6 @@
       "topic:african-languages"
     ],
     "last_activity": "2026-11-14T03:08:48Z"
-  },
-  {
-    "id": 507203164,
-    "title": "HarvestStat-Africa",
-    "slug": "harveststat-harveststat-africa",
-    "type": "sdk",
-    "is_active": true,
-    "category": "utility",
-    "primary_language": "Jupyter Notebook",
-    "supported_frameworks": "",
-    "country": "",
-    "description": "HarvestStat-Africa: Open Access Harmonized Subnational Crop Statistics",
-    "code_snippet": "",
-    "documentation_url": "https://docs.astral.sh/uv/",
-    "github_url": "https://github.com/HarvestStat/HarvestStat-Africa",
-    "package_manager_command": "",
-    "version": "v1.2",
-    "license": "MIT",
-    "stars": 40,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": "HarvestStat",
-    "author_slug": "harveststat",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2022-06-25T03:25:01Z",
-    "updated_at": "2026-10-30T14:14:42Z",
-    "reviews": [],
-    "q": [
-      "africa in:readme package"
-    ],
-    "last_activity": "2026-10-01T00:03:11Z"
   },
   {
     "id": 1196118040,
@@ -5773,6 +5837,38 @@
       "location:morocco"
     ],
     "last_activity": "2026-06-17T22:20:13Z"
+  },
+  {
+    "id": 1111962632,
+    "title": "Green-Wells-LPG-System",
+    "slug": "mwakidenis-green-wells-lpg-system",
+    "type": "api",
+    "is_active": true,
+    "category": "fintech",
+    "primary_language": "TypeScript",
+    "supported_frameworks": "",
+    "country": "Kenya",
+    "description": "Revolutionizing LPG delivery by integrating real-time tracking, seamless instant payments, and advanced predictive safety systems for a smarter, safer, and more efficient experience.",
+    "code_snippet": "graph TB\n    subgraph \"Frontend Layer\"\n        A[React App] --> B[Authentication]",
+    "documentation_url": "https://developer.safaricom.co.ke/",
+    "github_url": "https://github.com/mwakidenis/Green-Wells-LPG-System",
+    "package_manager_command": "",
+    "version": "",
+    "license": "",
+    "stars": 35,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": " 🐘",
+    "author_slug": "mwakidenis",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2025-12-08T00:20:07Z",
+    "updated_at": "2026-11-12T15:51:57Z",
+    "reviews": [],
+    "q": [
+      "location:nairobi"
+    ],
+    "last_activity": "2026-11-25T09:11:48Z"
   },
   {
     "id": 272679757,
@@ -6459,6 +6555,38 @@
     "last_activity": "2025-10-22T08:35:16Z"
   },
   {
+    "id": 1409151224,
+    "title": "Netflix-API",
+    "slug": "mwakidenis-netflix-api",
+    "type": "api",
+    "is_active": true,
+    "category": "utility",
+    "primary_language": "TypeScript",
+    "supported_frameworks": "",
+    "country": "Kenya",
+    "description": "A functional Netflix clone",
+    "code_snippet": "",
+    "documentation_url": "https://developers.themoviedb.org/3/getting-started/introduction",
+    "github_url": "https://github.com/mwakidenis/Netflix-API",
+    "package_manager_command": "",
+    "version": "",
+    "license": "GPL-3.0",
+    "stars": 24,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": " 🐘",
+    "author_slug": "mwakidenis",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2026-10-07T17:32:17Z",
+    "updated_at": "2026-11-01T04:51:01Z",
+    "reviews": [],
+    "q": [
+      "location:nairobi"
+    ],
+    "last_activity": "2026-11-25T09:10:07Z"
+  },
+  {
     "id": 1128957681,
     "title": "2026",
     "slug": "ronlin1-2026",
@@ -6488,7 +6616,7 @@
     "q": [
       "mobile money africa in:name,description,topics,readme"
     ],
-    "last_activity": "2026-11-24T20:50:17Z"
+    "last_activity": "2026-11-25T00:03:59Z"
   },
   {
     "id": 695051833,
@@ -6788,7 +6916,7 @@
     "primary_language": "Python",
     "supported_frameworks": "",
     "country": "Ouganda",
-    "description": "PyMoMo is a fully-typed, Python client library for the MTN Mobile Money and Airtel Money API",
+    "description": "Strictly typed Python SDK for MTN Mobile Money, Airtel Money, Wave, Safaricom M-Pesa, Paystack, Flutterwave, and Orange Money.",
     "code_snippet": "import py_momo_sdk\nfrom py_momo_sdk import PyMomoSDK, PyMomoSDKConfig\nprint(py_momo_sdk.__version__)",
     "documentation_url": "https://wkambale.github.io/pymomo/",
     "github_url": "https://github.com/wkambale/pymomo",
@@ -6803,7 +6931,7 @@
     "author_verified": 0,
     "status": "pending",
     "created_at": "2026-06-14T21:10:56Z",
-    "updated_at": "2026-11-24T14:21:29Z",
+    "updated_at": "2026-11-25T03:38:01Z",
     "reviews": [],
     "q": [
       "mobile money africa in:name,description,topics,readme"
@@ -6940,38 +7068,6 @@
     "last_activity": "2026-10-20T15:16:37Z"
   },
   {
-    "id": 1121580123,
-    "title": "Point-Of-Sale",
-    "slug": "mwakidenis-point-of-sale",
-    "type": "sdk",
-    "is_active": true,
-    "category": "fintech",
-    "primary_language": "Java",
-    "supported_frameworks": "",
-    "country": "Kenya",
-    "description": "A Java desktop POS app written in JavaFX. No hosting link provided as this is a desktop app. Package your app as a runnable JAR and directly run it on your PC.",
-    "code_snippet": "",
-    "documentation_url": "https://github.com/mwakidenis/Point-Of-Sale",
-    "github_url": "https://github.com/mwakidenis/Point-Of-Sale",
-    "package_manager_command": "",
-    "version": "",
-    "license": "MIT",
-    "stars": 20,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": " 🐘",
-    "author_slug": "mwakidenis",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2025-12-23T08:04:08Z",
-    "updated_at": "2026-11-12T15:59:50Z",
-    "reviews": [],
-    "q": [
-      "location:nairobi"
-    ],
-    "last_activity": "2026-11-24T22:48:47Z"
-  },
-  {
     "id": 321465978,
     "title": "Mpesa-Sdk-Net",
     "slug": "gabrieldwight-mpesa-sdk-net",
@@ -7002,7 +7098,7 @@
       "topic:mpesa",
       "topic:daraja"
     ],
-    "last_activity": "2026-10-12T15:26:49Z"
+    "last_activity": "2026-11-25T02:03:20Z"
   },
   {
     "id": 1237654499,
@@ -7098,7 +7194,7 @@
     "q": [
       "mobile money africa in:name,description,topics,readme"
     ],
-    "last_activity": "2026-11-24T14:52:03Z"
+    "last_activity": "2026-11-24T22:53:33Z"
   },
   {
     "id": 1251953699,
@@ -7585,38 +7681,6 @@
     "last_activity": "2025-10-11T10:19:09Z"
   },
   {
-    "id": 1158695964,
-    "title": "portfolio-api-admin-panel",
-    "slug": "mwakidenis-portfolio-api-admin-panel",
-    "type": "api",
-    "is_active": true,
-    "category": "utility",
-    "primary_language": "TypeScript",
-    "supported_frameworks": "",
-    "country": "Kenya",
-    "description": "",
-    "code_snippet": "",
-    "documentation_url": "https://github.com/mwakidenis/portfolio-api-admin-panel",
-    "github_url": "https://github.com/mwakidenis/portfolio-api-admin-panel",
-    "package_manager_command": "",
-    "version": "",
-    "license": "",
-    "stars": 17,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": " 🐘",
-    "author_slug": "mwakidenis",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2026-02-15T19:25:05Z",
-    "updated_at": "2026-11-12T15:56:53Z",
-    "reviews": [],
-    "q": [
-      "location:nairobi"
-    ],
-    "last_activity": "2026-11-24T22:48:06Z"
-  },
-  {
     "id": 841477973,
     "title": "Africa-AI-Incident-Observatory",
     "slug": "briella009-africa-ai-incident-observatory",
@@ -8095,70 +8159,6 @@
       "location:ethiopia"
     ],
     "last_activity": "2025-11-21T21:58:03Z"
-  },
-  {
-    "id": 1113907187,
-    "title": "DigiFarm",
-    "slug": "mwakidenis-digifarm",
-    "type": "sdk",
-    "is_active": true,
-    "category": "utility",
-    "primary_language": "JavaScript",
-    "supported_frameworks": "",
-    "country": "Kenya",
-    "description": "🌱🚜 A full-stack web application revolutionizing agricultural support by providing 🧠 intelligent crop diagnostics, 🛒 seamless marketplace integration, and 📚 a comprehensive farming knowledge hub. Built with ⚡ Django REST Framework backend and 🌐 React frontend.",
-    "code_snippet": "graph TB\n    subgraph Frontend[\"🖥️ Frontend Layer\"]\n        React[\"React 18 App\"]",
-    "documentation_url": "https://docs.djangoproject.com/",
-    "github_url": "https://github.com/mwakidenis/DigiFarm",
-    "package_manager_command": "",
-    "version": "",
-    "license": "",
-    "stars": 15,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": " 🐘",
-    "author_slug": "mwakidenis",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2025-12-10T16:20:46Z",
-    "updated_at": "2026-11-12T15:58:19Z",
-    "reviews": [],
-    "q": [
-      "location:nairobi"
-    ],
-    "last_activity": "2026-11-24T22:48:38Z"
-  },
-  {
-    "id": 1111997074,
-    "title": "MPESA-APP",
-    "slug": "mwakidenis-mpesa-app",
-    "type": "api",
-    "is_active": true,
-    "category": "fintech",
-    "primary_language": "C++",
-    "supported_frameworks": "Express,Flutter",
-    "country": "Kenya",
-    "description": "This project is a modern mobile payment application that integrates Safaricom’s M-Pesa Daraja API with a Flutter frontend and a Node.js + Express backend. It delivers a smooth and reliable payment experience by combining powerful backend processing with an intuitive mobile interface.",
-    "code_snippet": "",
-    "documentation_url": "https://github.com/mwakidenis/MPESA-APP",
-    "github_url": "https://github.com/mwakidenis/MPESA-APP",
-    "package_manager_command": "",
-    "version": "",
-    "license": "",
-    "stars": 15,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": " 🐘",
-    "author_slug": "mwakidenis",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2025-12-08T02:09:18Z",
-    "updated_at": "2026-11-24T22:37:21Z",
-    "reviews": [],
-    "q": [
-      "location:nairobi"
-    ],
-    "last_activity": "2026-11-24T22:48:03Z"
   },
   {
     "id": 724165536,
@@ -8706,6 +8706,38 @@
     "last_activity": "2025-10-10T09:52:26Z"
   },
   {
+    "id": 1111795089,
+    "title": "E-COMMERCE",
+    "slug": "mwakidenis-e-commerce",
+    "type": "api",
+    "is_active": true,
+    "category": "utility",
+    "primary_language": "TypeScript",
+    "supported_frameworks": "",
+    "country": "Kenya",
+    "description": "A full-stack E-Commerce web application built with the MERN stack + TypeScript (TSX). Features include JWT authentication, user roles, an admin dashboard, product management, and order tracking. The app also implements a complete CRUD API for seamless data operations.",
+    "code_snippet": "",
+    "documentation_url": "https://github.com/mwakidenis/E-COMMERCE",
+    "github_url": "https://github.com/mwakidenis/E-COMMERCE",
+    "package_manager_command": "",
+    "version": "",
+    "license": "",
+    "stars": 13,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": " 🐘",
+    "author_slug": "mwakidenis",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2025-12-07T16:43:54Z",
+    "updated_at": "2026-11-12T15:44:36Z",
+    "reviews": [],
+    "q": [
+      "location:nairobi"
+    ],
+    "last_activity": "2026-11-25T09:09:34Z"
+  },
+  {
     "id": 1280858916,
     "title": "comply54",
     "slug": "comply54-comply54",
@@ -8835,6 +8867,38 @@
     "last_activity": "2025-06-25T21:33:23Z"
   },
   {
+    "id": 1425899847,
+    "title": "tergniai-multilang",
+    "slug": "terngi-ai-tergniai-multilang",
+    "type": "sdk",
+    "is_active": true,
+    "category": "ai",
+    "primary_language": "Python",
+    "supported_frameworks": "FastAPI",
+    "country": "",
+    "description": "Open-source translation & AI conversation API for 96 languages, including the local languages most software leaves out. FastAPI, Azure Translator, Groq, MORENA.",
+    "code_snippet": "{\"error\": true, \"message\": \"Target language 'fr' not supported. ...\", \"status_code\": 400}",
+    "documentation_url": "http://localhost:8000/docs",
+    "github_url": "https://github.com/Terngi-AI/tergniai-multilang",
+    "package_manager_command": "pip install requirements-dev.lock",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "stars": 12,
+    "reviews_count": 0,
+    "average_rating": 0.0,
+    "author_name": "terngi-ai",
+    "author_slug": "terngi-ai",
+    "author_verified": 0,
+    "status": "pending",
+    "created_at": "2026-10-19T16:39:31Z",
+    "updated_at": "2026-11-21T16:25:14Z",
+    "reviews": [],
+    "q": [
+      "topic:african-languages"
+    ],
+    "last_activity": "2026-11-25T07:23:54Z"
+  },
+  {
     "id": 1183738319,
     "title": "mobile-money",
     "slug": "sublime247-mobile-money",
@@ -8865,38 +8929,6 @@
       "mobile money africa in:name,description,topics,readme"
     ],
     "last_activity": "2026-11-24T15:31:56Z"
-  },
-  {
-    "id": 1425899847,
-    "title": "tergniai-multilang",
-    "slug": "terngi-ai-tergniai-multilang",
-    "type": "sdk",
-    "is_active": true,
-    "category": "ai",
-    "primary_language": "Python",
-    "supported_frameworks": "FastAPI",
-    "country": "",
-    "description": "Open-source translation & AI conversation API for 96 languages, including the local languages most software leaves out. FastAPI, Azure Translator, Groq, MORENA.",
-    "code_snippet": "{\"error\": true, \"message\": \"Target language 'fr' not supported. ...\", \"status_code\": 400}",
-    "documentation_url": "http://localhost:8000/docs",
-    "github_url": "https://github.com/Terngi-AI/tergniai-multilang",
-    "package_manager_command": "pip install requirements-dev.lock",
-    "version": "v1.0.0",
-    "license": "MIT",
-    "stars": 12,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": "terngi-ai",
-    "author_slug": "terngi-ai",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2026-10-19T16:39:31Z",
-    "updated_at": "2026-11-21T16:25:14Z",
-    "reviews": [],
-    "q": [
-      "topic:african-languages"
-    ],
-    "last_activity": "2026-11-21T16:23:23Z"
   },
   {
     "id": 766697490,
@@ -9157,38 +9189,6 @@
       "location:rwanda"
     ],
     "last_activity": "2025-01-13T19:58:09Z"
-  },
-  {
-    "id": 1144584450,
-    "title": "SpeedRadius",
-    "slug": "mwakidenis-speedradius",
-    "type": "sdk",
-    "is_active": true,
-    "category": "utility",
-    "primary_language": "PHP",
-    "supported_frameworks": "",
-    "country": "Kenya",
-    "description": "SpeedRadius API PHP Mikrotik Billing System - Voucher management for Mikrotik Hotspot",
-    "code_snippet": "",
-    "documentation_url": "https://speedcomwifi.xyz",
-    "github_url": "https://github.com/mwakidenis/SpeedRadius",
-    "package_manager_command": "",
-    "version": "",
-    "license": "GPL-2.0",
-    "stars": 11,
-    "reviews_count": 0,
-    "average_rating": 0.0,
-    "author_name": " 🐘",
-    "author_slug": "mwakidenis",
-    "author_verified": 0,
-    "status": "pending",
-    "created_at": "2026-01-28T20:31:04Z",
-    "updated_at": "2026-11-12T16:56:43Z",
-    "reviews": [],
-    "q": [
-      "location:nairobi"
-    ],
-    "last_activity": "2026-11-24T22:47:57Z"
   },
   {
     "id": 1007980204,
