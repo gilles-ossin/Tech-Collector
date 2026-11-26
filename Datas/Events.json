@@ -5992,6 +5992,242 @@
         "data"
       ],
       "id": 231
+    },
+    {
+      "title": "Sycora AI Hackathon",
+      "slug": "sycora-ai-hackathon",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) hackathon Online",
+      "event_date": "2027-01-16",
+      "location": "En ligne",
+      "type": "Hackathon",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/sycora-ai-hackathon-i-spnx2y",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Sycora%2520AI%2520Hackathon,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Jan%252016-31%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Online,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-26T15:46:04+00:00",
+      "updated_at": "2026-11-26T15:46:04+00:00",
+      "eventDate": "2027-01-16",
+      "q": [
+        "hackathon",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 232
+    },
+    {
+      "title": "VENTURE PITCH ONLINE Vol.125 (Japan Tech & Startup Pitch)",
+      "slug": "venture-pitch-online-vol-125-japan-tech-startup-pitch",
+      "is_active": false,
+      "description": "Startup meetup Online",
+      "event_date": "2026-12-10",
+      "location": "En ligne",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/venture-pitch-online-vol-125-japan-tech-and-startup-pitch-qxpeyagd",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:VENTURE%2520PITCH%2520ONLINE%2520Vol.125%2520(Japan%2520Tech%2520%2526%2520Startup%2520Pitch),g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%252010%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Online,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-26T15:47:05+00:00",
+      "updated_at": "2026-11-26T15:47:05+00:00",
+      "eventDate": "2026-12-10",
+      "q": [
+        "meetup",
+        "pitch",
+        "tech",
+        "startup"
+      ],
+      "id": 233
+    },
+    {
+      "title": "WordCamp Uganda 2027",
+      "slug": "wordcamp-uganda-2027",
+      "is_active": false,
+      "description": "WordPress conference in Kampala, Uganda",
+      "event_date": "2027-03-12",
+      "location": "Kampala",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/word-camp-uganda-2027-ijtkyvnb",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:WordCamp%2520Uganda%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Mar%252012-13%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Kampala%252C%2520Uganda,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-26T15:47:05+00:00",
+      "updated_at": "2026-11-26T15:47:05+00:00",
+      "eventDate": "2027-03-12",
+      "q": [
+        "conference",
+        "uganda",
+        "kampala"
+      ],
+      "id": 234
+    },
+    {
+      "title": "Fintech & Payments Regulatory Compliance Conference",
+      "slug": "fintech-payments-regulatory-compliance-conference",
+      "is_active": false,
+      "description": "Fintech conference in Johannesburg, South Africa",
+      "event_date": "2027-03-17",
+      "location": "Johannesburg",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/fintech-and-payments-regulatory-compliance-conference-qao05vzk",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Fintech%2520%2526%2520Payments%2520Regulatory%2520Compliance%2520Conference,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Mar%252017-18%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Johannesburg%252C%2520South%2520Africa,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-26T15:47:05+00:00",
+      "updated_at": "2026-11-26T15:47:05+00:00",
+      "eventDate": "2027-03-17",
+      "q": [
+        "conference",
+        "africa",
+        "south africa",
+        "johannesburg",
+        "fintech"
+      ],
+      "id": 235
+    },
+    {
+      "title": "How I AI #22: Free AI Meetup in Canggu, Bali",
+      "slug": "how-i-ai-22-free-ai-meetup-in-canggu-bali",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) meetup in Bali, Indonesia",
+      "event_date": "2026-12-02",
+      "location": "Bali",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/how-i-ai-22-free-ai-meetup-in-canggu-bali-aggzcdgn",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:How%2520I%2520AI%2520%252322%253A%2520Free%2520AI%2520Meetup%2520in%2520Canggu%252C%2520Bali,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25202%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Bali%252C%2520Indonesia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-26T15:47:05+00:00",
+      "updated_at": "2026-11-26T15:47:05+00:00",
+      "eventDate": "2026-12-02",
+      "q": [
+        "meetup",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 236
+    },
+    {
+      "title": "NEAR Networking Mixer @ Blockchain Life Dubai",
+      "slug": "near-networking-mixer-blockchain-life-dubai",
+      "is_active": false,
+      "description": "Crypto / Blockchain meetup in Dubai, United Arab Emirates",
+      "event_date": "2026-12-02",
+      "location": "Dubai",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/near-networking-mixer-blockchain-life-dubai-kmxpanww",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:NEAR%2520Networking%2520Mixer%2520%2540%2520Blockchain%2520Life%2520Dubai,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25202%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Dubai%252C%2520United%2520Arab%2520Emirates,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-26T15:47:05+00:00",
+      "updated_at": "2026-11-26T15:47:05+00:00",
+      "eventDate": "2026-12-02",
+      "q": [
+        "meetup",
+        "blockchain"
+      ],
+      "id": 237
+    },
+    {
+      "title": "The Next AI Startups Worth Building Out of Bratislava",
+      "slug": "the-next-ai-startups-worth-building-out-of-bratislava",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) meetup in Bratislava, Slovakia",
+      "event_date": "2026-12-04",
+      "location": "Bratislava",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/the-next-ai-startups-worth-building-out-of-bratislava-rel58bec",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:The%2520Next%2520AI%2520Startups%2520Worth%2520Building%2520Out%2520of%2520Bratislava,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25204%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Bratislava%252C%2520Slovakia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-26T15:47:05+00:00",
+      "updated_at": "2026-11-26T15:47:05+00:00",
+      "eventDate": "2026-12-04",
+      "q": [
+        "meetup",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 238
+    },
+    {
+      "title": "Built in Slovakia, Sold Worldwide",
+      "slug": "built-in-slovakia-sold-worldwide",
+      "is_active": false,
+      "description": "Startup meetup in Bratislava, Slovakia",
+      "event_date": "2026-12-10",
+      "location": "Bratislava",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/built-in-slovakia-sold-worldwide-rg-gaakb",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Built%2520in%2520Slovakia%252C%2520Sold%2520Worldwide,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%252010%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Bratislava%252C%2520Slovakia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-26T15:47:05+00:00",
+      "updated_at": "2026-11-26T15:47:05+00:00",
+      "eventDate": "2026-12-10",
+      "q": [
+        "meetup",
+        "startup"
+      ],
+      "id": 239
+    },
+    {
+      "title": "AI & Tech Networking Event in Los Angeles by Ascent Valley",
+      "slug": "ai-tech-networking-event-in-los-angeles-by-ascent-valley-2",
+      "is_active": false,
+      "description": "Artificial Intelligence (AI) meetup in Los Angeles, United States",
+      "event_date": "2026-12-02",
+      "location": "Los Angeles",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/ai-and-tech-networking-event-in-los-angeles-by-ascent-valley-bvwksntd",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:AI%2520%2526%2520Tech%2520Networking%2520Event%2520in%2520Los%2520Angeles%2520by%2520Ascent%2520Valley,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25202%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Los%2520Angeles%252C%2520United%2520States,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-26T15:47:05+00:00",
+      "updated_at": "2026-11-26T15:47:05+00:00",
+      "eventDate": "2026-12-02",
+      "q": [
+        "meetup",
+        "tech",
+        "ai",
+        "artificial intelligence"
+      ],
+      "id": 240
     }
   ]
 }
