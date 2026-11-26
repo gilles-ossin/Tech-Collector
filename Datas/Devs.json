@@ -1,6 +1,6 @@
 {
   "source": "github-actions-bot",
-  "last_update": "2026-11-26T05:36:30.928532+00:00",
+  "last_update": "2026-11-26T18:42:19.605988+00:00",
   "queries_used": [
     "africa package pushed:>=2024-01-01",
     "africa african open-source-africa in:readme package pushed:>=2025-01-01",
@@ -10,182 +10,83 @@
     "location:rwanda (users)",
     "location:morocco (users)"
   ],
-  "total_found": 611,
+  "total_found": 646,
   "items": [
     {
-      "title": "worldsitrep-cache",
-      "description": "Public normalized market + hazard snapshots for World SITREP (hourly GitHub Actions, static JSON)",
+      "title": "atlas-commerce",
+      "description": "ERP / Caisse / Facturation souverain pour commerces & grossistes au Maroc Stock multi-dépôts · Caisse & tickets VR · Facturation TVA & créances · Scan & OCR · Atlas Agent IA · WebAuthn & login QR",
       "type": "SDK / Package",
-      "github_url": "https://github.com/StefanIsMe/worldsitrep-cache",
-      "updated_at": "2026-11-12T14:11:01Z",
-      "pushed_at": "2026-11-26T05:35:31Z",
+      "github_url": "https://github.com/Etherealmber/atlas-commerce",
+      "updated_at": "2026-11-11T12:28:44Z",
+      "pushed_at": "2026-11-26T18:41:22Z",
       "stars": 0,
-      "author": "StefanIsMe",
+      "author": "Etherealmber",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "reap",
+      "title": "ndopify-mono",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/bondlileofficial/reap",
-      "updated_at": "2026-11-23T16:24:52Z",
-      "pushed_at": "2026-11-26T05:35:22Z",
+      "github_url": "https://github.com/wutsi/ndopify-mono",
+      "updated_at": "2026-11-12T14:14:22Z",
+      "pushed_at": "2026-11-26T18:41:13Z",
       "stars": 0,
-      "author": "bondlileofficial",
+      "author": "wutsi",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "clone-playbook",
-      "description": "Clone a proven app for your market in 30 days with Claude Code, ECC and Craft Anything: the Samwer playbook, step by step.",
+      "title": "PySyzygos",
+      "description": "Python Occultation Searcher",
       "type": "SDK / Package",
-      "github_url": "https://github.com/skillahollic/clone-playbook",
-      "updated_at": "2026-11-26T05:35:14Z",
-      "pushed_at": "2026-11-26T05:35:12Z",
-      "stars": 0,
-      "author": "skillahollic",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "Tarot-Grimoire",
-      "description": "A digital tarot grimoire with all the decks I personally use",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/kingnihilism/Tarot-Grimoire",
-      "updated_at": "2026-10-13T15:04:18Z",
-      "pushed_at": "2026-11-26T05:34:58Z",
-      "stars": 1,
-      "author": "kingnihilism",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "SnipSnap",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/BertCalm/SnipSnap",
-      "updated_at": "2026-11-12T14:37:37Z",
-      "pushed_at": "2026-11-26T05:34:57Z",
-      "stars": 1,
-      "author": "BertCalm",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "dchub-mcp-server",
-      "description": "DCPI (Data Center Power Index): a daily score of where data centers can get grid power, market by market. Live power-grid, energy, interconnection, fiber, gas, colocation & M&A data for AI agents: a global facility map and tracked M&A deals. Capacity to buy or lease via source_capacity. Remote MCP at dchub.cloud/mcp. Query & cite (CC-BY-4.0).",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/azmartone67/dchub-mcp-server",
-      "updated_at": "2026-11-25T13:42:43Z",
-      "pushed_at": "2026-11-26T05:34:43Z",
-      "stars": 3,
-      "author": "azmartone67",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "lockally-java",
-      "description": "Official Lockally SDK for Java (Maven Central: com.lockally:lockally-sdk)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/LockallyInc/lockally-java",
-      "updated_at": "2026-11-14T08:07:58Z",
-      "pushed_at": "2026-11-26T05:34:28Z",
-      "stars": 1,
-      "author": "LockallyInc",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "osint-visuals",
-      "description": "Evidence graphics for OSINT, made by your AI agent: ship and flight tracks that flag signal gaps, shadow diagrams that test a claimed time, 3D scene dioramas, locator maps, satellite before/after sliders, scroll stories and source-linked networks. Agent Skills for Claude Code, Codex, Cursor and more. One HTML file per graphic, sources included.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Ghongha007/osint-visuals",
-      "updated_at": "2026-11-26T04:48:05Z",
-      "pushed_at": "2026-11-26T05:34:19Z",
-      "stars": 4,
-      "author": "Ghongha007",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "SEAFO",
-      "description": "The SEAFO Scientific Committee Data Analysis & Maps R Library",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/ErichM182/SEAFO",
-      "updated_at": "2026-11-02T15:08:51Z",
-      "pushed_at": "2026-11-26T05:34:15Z",
-      "stars": 0,
-      "author": "ErichM182",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "ground-truth",
-      "description": "OSINT conflict watch floor: a curated war-news map fused with live open sources (fronts, fire satellites, ships, military aircraft, outages), with an optional Claude analyst.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Hm20241/ground-truth",
-      "updated_at": "2026-11-17T11:57:07Z",
-      "pushed_at": "2026-11-26T05:34:07Z",
-      "stars": 0,
-      "author": "Hm20241",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "GBV-SafeSpace",
-      "description": "🌿✨HERA SafeSpace is a digital platform using AI to support women and girls in Africa, especially Kenya, by providing a safe space to learn, report, and access help against gender-based violence.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/mwakidenis/GBV-SafeSpace",
-      "updated_at": "2026-11-12T23:08:43Z",
-      "pushed_at": "2026-11-26T05:33:45Z",
-      "stars": 17,
-      "author": "mwakidenis",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "global-stage-radar",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/wonbosong-arch/global-stage-radar",
-      "updated_at": "2026-11-12T06:21:15Z",
-      "pushed_at": "2026-11-26T05:33:36Z",
-      "stars": 0,
-      "author": "wonbosong-arch",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "faux-person",
-      "description": "Generate random, fictitious Person objects for Java tests and demos",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/tauasa/faux-person",
-      "updated_at": "2026-11-24T00:16:29Z",
-      "pushed_at": "2026-11-26T05:33:20Z",
+      "github_url": "https://github.com/pyzahl/PySyzygos",
+      "updated_at": "2026-11-11T16:02:45Z",
+      "pushed_at": "2026-11-26T18:40:32Z",
       "stars": 2,
-      "author": "tauasa",
+      "author": "pyzahl",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "DigiFarm",
-      "description": "🌱🚜 A full-stack web application revolutionizing agricultural support by providing 🧠 intelligent crop diagnostics, 🛒 seamless marketplace integration, and 📚 a comprehensive farming knowledge hub. Built with ⚡ Django REST Framework backend and 🌐 React frontend.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/mwakidenis/DigiFarm",
-      "updated_at": "2026-11-12T15:58:19Z",
-      "pushed_at": "2026-11-26T05:33:06Z",
-      "stars": 15,
-      "author": "mwakidenis",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "OASIS",
-      "description": "The core WEB4 OASIS (Open Advanced Secure Interoperable Scalable-System) API that powers Our World. The OASIS API is a universal API that spans all of WEB2 and WEB3. WEB5 STAR API/ODK is the gamification/metaverse/app layer whereas the WEB4 OASIS API is the data aggregation, identity, reputation, token & NFT layer.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/NextGenSoftwareUK/OASIS",
-      "updated_at": "2026-11-20T23:58:28Z",
-      "pushed_at": "2026-11-26T05:32:16Z",
-      "stars": 70,
-      "author": "NextGenSoftwareUK",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "bagg",
+      "title": "tiny",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/ofili/bagg",
-      "updated_at": "2026-11-24T08:07:13Z",
-      "pushed_at": "2026-11-26T05:31:54Z",
+      "github_url": "https://github.com/onyebuchidaniel60/tiny",
+      "updated_at": "2026-11-26T07:09:47Z",
+      "pushed_at": "2026-11-26T18:40:11Z",
       "stars": 0,
-      "author": "ofili",
+      "author": "onyebuchidaniel60",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "african-football-pipeline",
+      "description": "African football data pipeline",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/korex-f/african-football-pipeline",
+      "updated_at": "2026-11-26T15:34:17Z",
+      "pushed_at": "2026-11-26T18:40:05Z",
+      "stars": 1,
+      "author": "korex-f",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "Baci",
+      "description": "Experiment",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ogabasseyy/Baci",
+      "updated_at": "2026-11-12T16:04:17Z",
+      "pushed_at": "2026-11-26T18:39:56Z",
+      "stars": 0,
+      "author": "ogabasseyy",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "shoutout-demo",
+      "description": "ShoutOut Demo",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/JadzAdCo/shoutout-demo",
+      "updated_at": "2026-11-12T11:02:25Z",
+      "pushed_at": "2026-11-26T18:39:36Z",
+      "stars": 0,
+      "author": "JadzAdCo",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
@@ -194,273 +95,64 @@
       "type": "SDK / Package",
       "github_url": "https://github.com/vctb12/GoldTickerLive",
       "updated_at": "2026-11-12T17:30:29Z",
-      "pushed_at": "2026-11-26T05:30:53Z",
+      "pushed_at": "2026-11-26T18:39:36Z",
       "stars": 5,
       "author": "vctb12",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "eagles-management-system",
-      "description": null,
+      "title": "DigiFarm",
+      "description": "🌱🚜 A full-stack web application revolutionizing agricultural support by providing 🧠 intelligent crop diagnostics, 🛒 seamless marketplace integration, and 📚 a comprehensive farming knowledge hub. Built with ⚡ Django REST Framework backend and 🌐 React frontend.",
       "type": "SDK / Package",
-      "github_url": "https://github.com/mintn3687-ai/eagles-management-system",
-      "updated_at": "2026-11-11T06:02:01Z",
-      "pushed_at": "2026-11-26T05:30:37Z",
-      "stars": 0,
-      "author": "mintn3687-ai",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "autopush",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/moseh12/autopush",
-      "updated_at": "2026-11-12T15:46:22Z",
-      "pushed_at": "2026-11-26T05:30:21Z",
-      "stars": 0,
-      "author": "moseh12",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "DA-Project",
-      "description": "CivicWeb Observatory - a pip-installable civic data pipeline that scrapes, normalises and serves municipal records.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/UniquePratham/DA-Project",
-      "updated_at": "2026-11-20T19:00:35Z",
-      "pushed_at": "2026-11-26T05:30:19Z",
-      "stars": 0,
-      "author": "UniquePratham",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "free-proxy-list",
-      "description": "Free proxy list (HTTP, SOCKS4, SOCKS5), checked every hour. Each entry passed a real handshake, a second request with the same exit IP and an unchanged test page. Raw TXT per protocol and country, JSON, CSV.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/maximilianfeix/free-proxy-list",
-      "updated_at": "2026-11-23T22:50:37Z",
-      "pushed_at": "2026-11-26T05:30:13Z",
-      "stars": 23,
-      "author": "maximilianfeix",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "universal-cosmos-frontend",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/yaseenferoz/universal-cosmos-frontend",
-      "updated_at": "2026-11-09T17:51:57Z",
-      "pushed_at": "2026-11-26T05:29:56Z",
-      "stars": 0,
-      "author": "yaseenferoz",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "verifymzansi-VM",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/verifymzansi-VM/verifymzansi-VM",
-      "updated_at": "2026-11-12T14:23:44Z",
-      "pushed_at": "2026-11-26T05:29:42Z",
-      "stars": 0,
-      "author": "verifymzansi-VM",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "brand",
-      "description": "Organisation Master Brand ",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/skunkworks-africa/brand",
-      "updated_at": "2026-11-12T14:56:42Z",
-      "pushed_at": "2026-11-26T05:29:03Z",
-      "stars": 0,
-      "author": "skunkworks-africa",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "EduMaster-AI",
-      "description": "EduMaster.ai Enterprise - Plataforma Educativa Adaptativa con Redes Neuronales Multitarea, Gobernanza y SpeedGrader",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Maxgab27/EduMaster-AI",
-      "updated_at": "2026-11-23T00:51:35Z",
-      "pushed_at": "2026-11-26T05:28:38Z",
-      "stars": 0,
-      "author": "Maxgab27",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "miktrotik-hotspot-billing",
-      "description": "Connect. Pay. Browse — Seamlessly.  This is a comprehensive WiFi billing system designed specifically for Kenya, featuring M-Pesa integration, MikroTik router control, and a modern web-based admin dashboard.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/mwakidenis/miktrotik-hotspot-billing",
-      "updated_at": "2026-11-12T17:14:29Z",
-      "pushed_at": "2026-11-26T05:26:10Z",
-      "stars": 44,
+      "github_url": "https://github.com/mwakidenis/DigiFarm",
+      "updated_at": "2026-11-12T15:58:19Z",
+      "pushed_at": "2026-11-26T18:39:24Z",
+      "stars": 15,
       "author": "mwakidenis",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "worldmodel",
-      "description": null,
+      "title": "ja-nee-website",
+      "description": "Where citizens can see stats and info of the city",
       "type": "SDK / Package",
-      "github_url": "https://github.com/Nichevo/worldmodel",
-      "updated_at": "2026-11-12T10:22:54Z",
-      "pushed_at": "2026-11-26T05:23:49Z",
-      "stars": 1,
-      "author": "Nichevo",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "news-image-20261126-codex",
-      "description": "World in One Day — 26 November 2026 · make.fun news-image-20261126 entry",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/adheyusuf230801-ship-it/news-image-20261126-codex",
-      "updated_at": "2026-11-26T05:23:53Z",
-      "pushed_at": "2026-11-26T05:23:46Z",
+      "github_url": "https://github.com/Ja-Nee-Roleplay/ja-nee-website",
+      "updated_at": "2026-11-24T15:17:06Z",
+      "pushed_at": "2026-11-26T18:39:16Z",
       "stars": 0,
-      "author": "adheyusuf230801-ship-it",
+      "author": "Ja-Nee-Roleplay",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "dharalu",
-      "description": "⚖️ Dharalu · ధరలు - buy/hold/sell calls for wheat, gold, silver and platinum (Srikakulam, AP): live prices every 5 min, forecasts, timeline, proof for every call, pre/post-trade analysis, Telegram alerts, Mac menu-bar app",
+      "title": "awesome-seedance-2-prompts",
+      "description": "🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows.",
       "type": "SDK / Package",
-      "github_url": "https://github.com/Sravankumartangudu/dharalu",
-      "updated_at": "2026-11-12T16:42:17Z",
-      "pushed_at": "2026-11-26T05:23:08Z",
+      "github_url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "updated_at": "2026-11-26T11:35:56Z",
+      "pushed_at": "2026-11-26T18:39:12Z",
+      "stars": 2257,
+      "author": "YouMind-OpenLab",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "stage-select",
+      "description": "Audits ROM collections against DAT revisions, with explained 1G1R selection",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/jbruns/stage-select",
+      "updated_at": "2026-11-24T02:01:49Z",
+      "pushed_at": "2026-11-26T18:39:05Z",
       "stars": 0,
-      "author": "Sravankumartangudu",
+      "author": "jbruns",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "chill-flight",
-      "description": "A casual flight simulator set in a vast, ever-changing world.",
+      "title": "TechLearn-Kenya",
+      "description": "TechLearn is a revolutionary 🔥 learning management system specifically designed to empower African youth 👨‍💻👩‍💻 with cutting-edge technology skills.",
       "type": "SDK / Package",
-      "github_url": "https://github.com/jimmyorr/chill-flight",
-      "updated_at": "2026-11-12T16:17:03Z",
-      "pushed_at": "2026-11-26T05:23:06Z",
-      "stars": 0,
-      "author": "jimmyorr",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "global-water-nitrogen-pressure",
-      "description": "Code to reproduce the analyses and figures for the study of global hotspots of compound water-nitrogen pressure.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/dinganxin/global-water-nitrogen-pressure",
-      "updated_at": "2026-11-26T05:25:32Z",
-      "pushed_at": "2026-11-26T05:22:11Z",
-      "stars": 0,
-      "author": "dinganxin",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "audio-birdle",
-      "description": "Audio Birdle is a daily audio-based bird guessing game inspired by Wordle.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/zarguell/audio-birdle",
-      "updated_at": "2026-11-25T00:33:26Z",
-      "pushed_at": "2026-11-26T05:21:59Z",
-      "stars": 1,
-      "author": "zarguell",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "get.suite",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/getgroupmy/get.suite",
-      "updated_at": "2026-11-12T17:22:21Z",
-      "pushed_at": "2026-11-26T05:21:35Z",
-      "stars": 0,
-      "author": "getgroupmy",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "cve-db",
-      "description": "CVE Database",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/CERT-MZ/cve-db",
-      "updated_at": "2026-11-20T01:40:34Z",
-      "pushed_at": "2026-11-26T05:19:49Z",
-      "stars": 0,
-      "author": "CERT-MZ",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "draco-insomnis",
-      "description": "Ab insomni custodita dracone. Open-source security by Notorius Vision: anti-bot shield without captchas, firewall, anti-copy and country rules for WordPress, PrestaShop, Drupal, Joomla, Moodle, Magento, Laravel, any PHP server, and apps in Node.js, Python, Go (Caddy, Traefik), Ruby, .NET, Java/Kotlin and Rust.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/fermatacordis-create/draco-insomnis",
-      "updated_at": "2026-11-15T15:45:31Z",
-      "pushed_at": "2026-11-26T05:19:08Z",
-      "stars": 1,
-      "author": "fermatacordis-create",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "em-macro",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/EthanC100/em-macro",
-      "updated_at": "2026-11-12T16:21:10Z",
-      "pushed_at": "2026-11-26T05:17:50Z",
-      "stars": 0,
-      "author": "EthanC100",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "sandtable",
-      "description": "A digital adaptation of SPI’s 1979 Campaign for North Africa; command Axis or Commonwealth forces while the computer handles the  busywork",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/dills122/sandtable",
-      "updated_at": "2026-11-25T09:45:37Z",
-      "pushed_at": "2026-11-26T05:14:19Z",
-      "stars": 2,
-      "author": "dills122",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "mystreammaster",
-      "description": "mystreammaster",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/ahmedlasheenrespicare-png/mystreammaster",
-      "updated_at": "2026-11-12T12:23:32Z",
-      "pushed_at": "2026-11-26T05:14:01Z",
-      "stars": 0,
-      "author": "ahmedlasheenrespicare-png",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "orthographic-projection",
-      "description": "My first vibecoded project. It creates an orthographic map centered on an arbitrary point.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/filipok/orthographic-projection",
-      "updated_at": "2026-11-06T16:21:18Z",
-      "pushed_at": "2026-11-26T05:13:34Z",
-      "stars": 0,
-      "author": "filipok",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "SearchTern-Listings",
-      "description": "A curated, auto-updated feed of internship and new grad roles for college students.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/KSaifStack/SearchTern-Listings",
-      "updated_at": "2026-11-24T03:12:19Z",
-      "pushed_at": "2026-11-26T05:12:35Z",
+      "github_url": "https://github.com/mwakidenis/TechLearn-Kenya",
+      "updated_at": "2026-11-12T16:54:51Z",
+      "pushed_at": "2026-11-26T18:39:03Z",
       "stars": 16,
-      "author": "KSaifStack",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "springbok-economy",
-      "description": "Does anything in the South African economy move when the Springboks play? A reproducible Quarto paper in R.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/ces0491/springbok-economy",
-      "updated_at": "2026-11-26T04:19:32Z",
-      "pushed_at": "2026-11-26T05:10:32Z",
-      "stars": 0,
-      "author": "ces0491",
+      "author": "mwakidenis",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
@@ -469,31 +161,196 @@
       "type": "SDK / Package",
       "github_url": "https://github.com/nabide63/ML_Pipeline_Summative_PearlRouteVision",
       "updated_at": "2026-11-22T19:43:35Z",
-      "pushed_at": "2026-11-26T05:10:32Z",
+      "pushed_at": "2026-11-26T18:38:56Z",
       "stars": 0,
       "author": "nabide63",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "univarse",
-      "description": "Multi-tenant platform for Nigerian tertiary institutions",
+      "title": "lifeline-care-supply",
+      "description": "Lifeline.org",
       "type": "SDK / Package",
-      "github_url": "https://github.com/w1t3ack3r/univarse",
-      "updated_at": "2026-11-12T15:10:23Z",
-      "pushed_at": "2026-11-26T05:10:00Z",
+      "github_url": "https://github.com/ngorforex/lifeline-care-supply",
+      "updated_at": "2026-11-25T19:13:43Z",
+      "pushed_at": "2026-11-26T18:38:07Z",
       "stars": 0,
-      "author": "w1t3ack3r",
+      "author": "ngorforex",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "selo",
+      "title": "smart-gifting-live",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/Deepvalleyfarm/selo",
-      "updated_at": "2026-11-25T03:11:28Z",
-      "pushed_at": "2026-11-26T05:08:07Z",
+      "github_url": "https://github.com/keepdaping/smart-gifting-live",
+      "updated_at": "2026-11-19T17:17:44Z",
+      "pushed_at": "2026-11-26T18:38:03Z",
       "stars": 0,
-      "author": "Deepvalleyfarm",
+      "author": "keepdaping",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "enhansome-drug-discovery",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-drug-discovery",
+      "updated_at": "2026-11-12T17:03:55Z",
+      "pushed_at": "2026-11-26T18:37:53Z",
+      "stars": 0,
+      "author": "enhansome",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "enhansome-nlp",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-nlp",
+      "updated_at": "2026-11-11T16:35:01Z",
+      "pushed_at": "2026-11-26T18:37:34Z",
+      "stars": 0,
+      "author": "enhansome",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "enhansome-fucking-open-source-ios-apps",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-fucking-open-source-ios-apps",
+      "updated_at": "2026-11-11T16:33:51Z",
+      "pushed_at": "2026-11-26T18:37:07Z",
+      "stars": 0,
+      "author": "enhansome",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "bf-price-check",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Taity045/bf-price-check",
+      "updated_at": "2026-11-26T15:51:25Z",
+      "pushed_at": "2026-11-26T18:36:44Z",
+      "stars": 0,
+      "author": "Taity045",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "miktrotik-hotspot-billing",
+      "description": "Connect. Pay. Browse — Seamlessly.  This is a comprehensive WiFi billing system designed specifically for Kenya, featuring M-Pesa integration, MikroTik router control, and a modern web-based admin dashboard.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mwakidenis/miktrotik-hotspot-billing",
+      "updated_at": "2026-11-12T17:14:29Z",
+      "pushed_at": "2026-11-26T18:36:19Z",
+      "stars": 44,
+      "author": "mwakidenis",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "pm-claude-skills",
+      "description": "1,310 professional Agent Skills for Claude, Claude Duet, ChatGPT, Gemini, Cursor & Codex: PRDs, postmortems, leases, medical bills, payroll checks, morning briefs. 21 skills built for always-on agents like Claude Duet. Plain markdown, MIT, in Anthropic's plugin directory. Free in-browser or npx pm-claude-skills add.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "updated_at": "2026-11-26T13:08:27Z",
+      "pushed_at": "2026-11-26T18:36:06Z",
+      "stars": 1608,
+      "author": "mohitagw15856",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "dsc26-cyb-w07",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/alaa-mohammed-ragab/dsc26-cyb-w07",
+      "updated_at": "2026-11-26T18:36:07Z",
+      "pushed_at": "2026-11-26T18:36:03Z",
+      "stars": 0,
+      "author": "alaa-mohammed-ragab",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "get.suite",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/getgroupmy/get.suite",
+      "updated_at": "2026-11-12T17:22:21Z",
+      "pushed_at": "2026-11-26T18:35:53Z",
+      "stars": 0,
+      "author": "getgroupmy",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "StocksIntels",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/sadiq-hue/StocksIntels",
+      "updated_at": "2026-11-12T16:58:44Z",
+      "pushed_at": "2026-11-26T18:34:20Z",
+      "stars": 0,
+      "author": "sadiq-hue",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "GBV-SafeSpace",
+      "description": "🌿✨HERA SafeSpace is a digital platform using AI to support women and girls in Africa, especially Kenya, by providing a safe space to learn, report, and access help against gender-based violence.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mwakidenis/GBV-SafeSpace",
+      "updated_at": "2026-11-12T23:08:43Z",
+      "pushed_at": "2026-11-26T18:33:47Z",
+      "stars": 17,
+      "author": "mwakidenis",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "audio-birdle",
+      "description": "Audio Birdle is a daily audio-based bird guessing game inspired by Wordle.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/zarguell/audio-birdle",
+      "updated_at": "2026-11-25T00:33:26Z",
+      "pushed_at": "2026-11-26T18:33:28Z",
+      "stars": 1,
+      "author": "zarguell",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "mayori",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/julian-casalis/mayori",
+      "updated_at": "2026-10-26T14:44:56Z",
+      "pushed_at": "2026-11-26T18:33:12Z",
+      "stars": 0,
+      "author": "julian-casalis",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "service-blocklists",
+      "description": "Firewall blocklists / IPSET service maintained by the ConfigServer team. Compatible with all applications that support hostname ipsets, including ConfigServer Firewall.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ConfigServerApps/service-blocklists",
+      "updated_at": "2026-11-19T13:43:56Z",
+      "pushed_at": "2026-11-26T18:32:42Z",
+      "stars": 15,
+      "author": "ConfigServerApps",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "campusnexsus",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/NCHSMlearning/campusnexsus",
+      "updated_at": "2026-11-20T08:32:20Z",
+      "pushed_at": "2026-11-26T18:32:37Z",
+      "stars": 0,
+      "author": "NCHSMlearning",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "free-proxy-list",
+      "description": "Free proxy list (HTTP, SOCKS4, SOCKS5), checked every hour. Each entry passed a real handshake, a second request with the same exit IP and an unchanged test page. Raw TXT per protocol and country, JSON, CSV.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/maximilianfeix/free-proxy-list",
+      "updated_at": "2026-11-26T18:40:12Z",
+      "pushed_at": "2026-11-26T18:32:31Z",
+      "stars": 24,
+      "author": "maximilianfeix",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
@@ -502,42 +359,9 @@
       "type": "SDK / Package",
       "github_url": "https://github.com/obamamunyehirwe/beboss1",
       "updated_at": "2026-11-21T06:45:47Z",
-      "pushed_at": "2026-11-26T05:07:11Z",
+      "pushed_at": "2026-11-26T18:32:22Z",
       "stars": 0,
       "author": "obamamunyehirwe",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "prometeo",
-      "description": "Prometeo es un chatbot orientado a la asistencia de crisis y recaidas emocionales",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Lott-Campuzano/prometeo",
-      "updated_at": "2026-11-25T03:52:57Z",
-      "pushed_at": "2026-11-26T05:06:42Z",
-      "stars": 0,
-      "author": "Lott-Campuzano",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "gulf-pos",
-      "description": "GULF POS - Enterprise Restaurant Point of Sale & Management System. Powered by GULF CCTV - Smart Systems Solutions. Built on the open-source FloCafe project (MIT).",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/zizoelabidy-bot/gulf-pos",
-      "updated_at": "2026-11-25T19:33:17Z",
-      "pushed_at": "2026-11-26T05:05:33Z",
-      "stars": 0,
-      "author": "zizoelabidy-bot",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "LiveTrackInternet",
-      "description": "Internet outages (Cloudflare Radar), submarine cables and terrestrial fibre links on your Home Assistant map. Part of Live Track.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/StrausbergAutomationWorks/LiveTrackInternet",
-      "updated_at": "2026-11-26T05:05:58Z",
-      "pushed_at": "2026-11-26T05:04:19Z",
-      "stars": 0,
-      "author": "StrausbergAutomationWorks",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
@@ -546,153 +370,868 @@
       "type": "SDK / Package",
       "github_url": "https://github.com/flexisystems2000/JARVISAIserver",
       "updated_at": "2026-11-12T11:32:10Z",
-      "pushed_at": "2026-11-26T05:00:48Z",
+      "pushed_at": "2026-11-26T18:31:47Z",
       "stars": 1,
       "author": "flexisystems2000",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "trip-finder",
-      "description": "An interactive trip finder that helps visitors decide which region, country and cities to visit.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/alvin-lam/trip-finder",
-      "updated_at": "2026-11-24T05:08:07Z",
-      "pushed_at": "2026-11-26T05:00:13Z",
-      "stars": 0,
-      "author": "alvin-lam",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "Internships-jobs",
-      "description": "Summer 2027 software, data, ML, hardware and product internships — updated nightly from 6,700+ Greenhouse and Ashby job boards by RoleInbox",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/CO0Oper/Internships-jobs",
-      "updated_at": "2026-11-12T05:00:10Z",
-      "pushed_at": "2026-11-26T05:00:07Z",
-      "stars": 0,
-      "author": "CO0Oper",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "Housy",
-      "description": "A Real Estate CRM",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/BOCALTD/Housy",
-      "updated_at": "2026-11-08T07:35:41Z",
-      "pushed_at": "2026-11-26T04:58:16Z",
-      "stars": 0,
-      "author": "BOCALTD",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "edictumgame",
+      "title": "creators-hub",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/simmeh024/edictumgame",
-      "updated_at": "2026-11-12T16:34:53Z",
-      "pushed_at": "2026-11-26T04:56:46Z",
+      "github_url": "https://github.com/ema-love/creators-hub",
+      "updated_at": "2026-11-10T22:10:40Z",
+      "pushed_at": "2026-11-26T18:31:43Z",
       "stars": 0,
-      "author": "simmeh024",
+      "author": "ema-love",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "awesome-fable-5.2-videos",
+      "title": "SnipSnap",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/ChrisHKAI/awesome-fable-5.2-videos",
-      "updated_at": "2026-11-20T10:11:40Z",
-      "pushed_at": "2026-11-26T04:54:58Z",
+      "github_url": "https://github.com/BertCalm/SnipSnap",
+      "updated_at": "2026-11-12T14:37:37Z",
+      "pushed_at": "2026-11-26T18:31:35Z",
       "stars": 1,
-      "author": "ChrisHKAI",
+      "author": "BertCalm",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "enhansome-Face_Recognition",
+      "title": "STaaSWASMBusinessBuilderImplementation",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/enhansome/enhansome-Face_Recognition",
-      "updated_at": "2026-11-12T03:44:45Z",
-      "pushed_at": "2026-11-26T04:54:43Z",
+      "github_url": "https://github.com/andiekobbietks/STaaSWASMBusinessBuilderImplementation",
+      "updated_at": "2026-11-25T22:26:01Z",
+      "pushed_at": "2026-11-26T18:31:05Z",
+      "stars": 0,
+      "author": "andiekobbietks",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "dfpf-26-27",
+      "description": "Dennis Ferreira - Portfolio Site - 2027",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/6210/dfpf-26-27",
+      "updated_at": "2026-11-25T15:18:08Z",
+      "pushed_at": "2026-11-26T18:31:00Z",
+      "stars": 0,
+      "author": "6210",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "Mobio",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/IKANISA1/Mobio",
+      "updated_at": "2026-10-29T17:37:20Z",
+      "pushed_at": "2026-11-26T18:30:53Z",
+      "stars": 0,
+      "author": "IKANISA1",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "autopush",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/moseh12/autopush",
+      "updated_at": "2026-11-12T15:46:22Z",
+      "pushed_at": "2026-11-26T18:30:21Z",
+      "stars": 0,
+      "author": "moseh12",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "My-daily-learning",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/phoenix-4u/My-daily-learning",
+      "updated_at": "2026-11-12T03:37:14Z",
+      "pushed_at": "2026-11-26T18:30:00Z",
+      "stars": 0,
+      "author": "phoenix-4u",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "Widget-App",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/daveroz/Widget-App",
+      "updated_at": "2026-11-11T23:51:25Z",
+      "pushed_at": "2026-11-26T18:29:55Z",
+      "stars": 0,
+      "author": "daveroz",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "simit-martisi",
+      "description": "3D browser & mobile endless flyer: an Istanbul seagull flies the Bosphorus line from Kadıköy to the Black Sea, snatching simit over ferries. three.js, no build step, synthesized music, installable PWA.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ardazeybek-dev/simit-martisi",
+      "updated_at": "2026-11-23T14:39:27Z",
+      "pushed_at": "2026-11-26T18:29:42Z",
+      "stars": 1,
+      "author": "ardazeybek-dev",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "vatican_library_software",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/amatarazzoconsulting/vatican_library_software",
+      "updated_at": "2026-11-24T20:50:10Z",
+      "pushed_at": "2026-11-26T18:29:27Z",
+      "stars": 0,
+      "author": "amatarazzoconsulting",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "Timothyos",
+      "description": "LCARS-inspired life dashboard for iPad. Work and personal calendars in one place, read through a Google Apps Script bridge.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/tim3t/Timothyos",
+      "updated_at": "2026-11-12T16:50:58Z",
+      "pushed_at": "2026-11-26T18:28:54Z",
+      "stars": 0,
+      "author": "tim3t",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "africa-safari-horizon",
+      "description": "A modern safari travel platform showcasing African wildlife adventures, tour packages, destinations, and luxury safari experiences.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Jagannath-Pradhan/africa-safari-horizon",
+      "updated_at": "2026-08-17T18:28:12Z",
+      "pushed_at": "2026-11-26T18:27:29Z",
+      "stars": 0,
+      "author": "Jagannath-Pradhan",
+      "q?": "africa package pushed:>=2024-01-01"
+    },
+    {
+      "title": "CareLink-DIMS-dev",
+      "description": "LMMK Digital Transformation Agenda",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/theqwengacfs/CareLink-DIMS-dev",
+      "updated_at": "2026-10-29T09:45:32Z",
+      "pushed_at": "2026-11-26T18:25:08Z",
+      "stars": 0,
+      "author": "theqwengacfs",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "NABU",
+      "description": "Namesake of the Babylonian God of the Scribes. Plug and Play offline Wikipedia for any computer. Use the README to keep a local copy of all requisites with their appropriate version.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/vajra-wielder/NABU",
+      "updated_at": "2026-11-18T16:56:03Z",
+      "pushed_at": "2026-11-26T18:22:56Z",
+      "stars": 0,
+      "author": "vajra-wielder",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "Programming_C_Summative",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Code-with-Gideon/Programming_C_Summative",
+      "updated_at": "2026-11-25T16:54:15Z",
+      "pushed_at": "2026-11-26T18:22:28Z",
+      "stars": 0,
+      "author": "Code-with-Gideon",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "vivid-cinema",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/sensorylog/vivid-cinema",
+      "updated_at": "2026-11-12T11:39:25Z",
+      "pushed_at": "2026-11-26T18:21:45Z",
+      "stars": 0,
+      "author": "sensorylog",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "geoready",
+      "description": "Open, reproducible model of where utility-scale solar can connect in South Africa's Northern Cape. It covers eligible land, capacity, indicative cost, grid headroom (NTCSA GCCA 2025) and a readiness score for each zone under three grid scenarios. Built as Jupyter notebooks that also run in QGIS",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/seabilwe/geoready",
+      "updated_at": "2026-11-26T18:14:55Z",
+      "pushed_at": "2026-11-26T18:20:07Z",
+      "stars": 0,
+      "author": "seabilwe",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "RYANAI-Automous-Reasioning-Plat-main",
+      "description": "RYANAI-Automous-Reasioning-Plat-main",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ganyanentsiyeni-rgb/RYANAI-Automous-Reasioning-Plat-main",
+      "updated_at": "2026-11-17T16:21:15Z",
+      "pushed_at": "2026-11-26T18:19:15Z",
+      "stars": 1,
+      "author": "ganyanentsiyeni-rgb",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "vervets",
+      "description": "Access and Analyze the International Vervet Research Consortium Dataset",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/fuzzyatelin/vervets",
+      "updated_at": "2025-04-14T14:49:37Z",
+      "pushed_at": "2026-11-26T18:19:03Z",
+      "stars": 0,
+      "author": "fuzzyatelin",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "wireless-news",
+      "description": "Daily WiFi router & WiFi 7/8 news monitor - tracks Linksys, Netgear, TP-Link, Asus and more",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/JianrongXiao-Linksys/wireless-news",
+      "updated_at": "2026-11-11T17:00:20Z",
+      "pushed_at": "2026-11-26T18:18:48Z",
+      "stars": 0,
+      "author": "JianrongXiao-Linksys",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "MTK-BILLING",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/IKIYY19/MTK-BILLING",
+      "updated_at": "2026-11-05T19:25:06Z",
+      "pushed_at": "2026-11-26T18:18:20Z",
+      "stars": 0,
+      "author": "IKIYY19",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "nantty",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/telente-technologies/nantty",
+      "updated_at": "2026-11-18T10:23:36Z",
+      "pushed_at": "2026-11-26T18:16:23Z",
+      "stars": 0,
+      "author": "telente-technologies",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "Stawi",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Bucrepinfo-lab/Stawi",
+      "updated_at": "2026-11-07T12:29:46Z",
+      "pushed_at": "2026-11-26T18:15:39Z",
+      "stars": 0,
+      "author": "Bucrepinfo-lab",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "rokid",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/sakai55/rokid",
+      "updated_at": "2026-11-12T15:16:33Z",
+      "pushed_at": "2026-11-26T18:15:01Z",
+      "stars": 0,
+      "author": "sakai55",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "dionhaefner",
+      "description": "An auto-generated personal README via GitHub Actions.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/dionhaefner/dionhaefner",
+      "updated_at": "2026-11-11T16:57:44Z",
+      "pushed_at": "2026-11-26T18:14:37Z",
+      "stars": 1,
+      "author": "dionhaefner",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "plus-ultra",
+      "description": "PLUS ULTRA — 더 먼 바다로: 대항해시대3 풍 모험·교역·해전 브라우저 게임 (바닐라 JS·WebGL)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/limeinstein/plus-ultra",
+      "updated_at": "2026-11-12T12:38:07Z",
+      "pushed_at": "2026-11-26T18:14:22Z",
+      "stars": 5,
+      "author": "limeinstein",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "awesome-mcp-servers",
+      "description": "A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Sagargupta16/awesome-mcp-servers",
+      "updated_at": "2026-11-26T18:16:29Z",
+      "pushed_at": "2026-11-26T18:13:26Z",
+      "stars": 194,
+      "author": "Sagargupta16",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "heimdall",
+      "description": "Lightweight Rust alternative to OWASP Dependency-Track: SBOM + cluster inventory, OSV/NVD matching, release watching and Teams alerts in 1 GB / 1 CPU.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mrashed98/heimdall",
+      "updated_at": "2026-11-14T13:17:45Z",
+      "pushed_at": "2026-11-26T18:13:17Z",
+      "stars": 0,
+      "author": "mrashed98",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "Nex-World-Travel",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/HarshLogic/Nex-World-Travel",
+      "updated_at": "2026-11-05T17:38:29Z",
+      "pushed_at": "2026-11-26T18:12:17Z",
+      "stars": 0,
+      "author": "HarshLogic",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "kenya_weather_pipeline_airflow",
+      "description": "Apache Airflow, the scheduler for kenya_weather_pipeline",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/EUG1N3/kenya_weather_pipeline_airflow",
+      "updated_at": "2026-11-26T18:08:33Z",
+      "pushed_at": "2026-11-26T18:12:16Z",
+      "stars": 0,
+      "author": "EUG1N3",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "cafriplotsR",
+      "description": "R package for managing cafriplots network (and other inventories from Central Africa)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/umr-amap/cafriplotsR",
+      "updated_at": "2026-11-11T16:52:55Z",
+      "pushed_at": "2026-11-26T18:08:56Z",
+      "stars": 5,
+      "author": "umr-amap",
+      "q?": "africa package pushed:>=2024-01-01"
+    },
+    {
+      "title": "JacquesBronk",
+      "description": "It's me. Rendered by a CronJob in my homelab.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/JacquesBronk/JacquesBronk",
+      "updated_at": "2026-11-12T13:07:26Z",
+      "pushed_at": "2026-11-26T18:07:32Z",
+      "stars": 0,
+      "author": "JacquesBronk",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "vesper-mining",
+      "description": "VESPER is a proposed mining-operations coordination platform designed to help mines see operational constraints, coordinate corrective actions, prepare resources for planned work, and maintain continuity across shifts.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/neomatime/vesper-mining",
+      "updated_at": "2026-11-12T16:30:59Z",
+      "pushed_at": "2026-11-26T18:07:25Z",
+      "stars": 0,
+      "author": "neomatime",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "country-currency-api",
+      "description": "RESTful API for country currency and exchange rate data",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/MichaelKing-Syl/country-currency-api",
+      "updated_at": "2026-11-25T20:40:48Z",
+      "pushed_at": "2026-11-26T18:07:22Z",
+      "stars": 0,
+      "author": "MichaelKing-Syl",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "anti-social",
+      "description": "anti social a joke social media app you make a post nothing was ever seen by the internet. no replies, no likes no quotes. you can reply as much as you want but nothing will ever happen. ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/theStyleWithin/anti-social",
+      "updated_at": "2026-11-06T07:50:14Z",
+      "pushed_at": "2026-11-26T18:04:19Z",
+      "stars": 1,
+      "author": "theStyleWithin",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "qyvora-tui-archive",
+      "description": "Archived retired QYVORA Go TUI (v0.12.0)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/QYVORA/qyvora-tui-archive",
+      "updated_at": "2026-11-19T09:31:56Z",
+      "pushed_at": "2026-11-26T18:03:15Z",
+      "stars": 0,
+      "author": "QYVORA",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "notesapp",
+      "description": "#NotesApp fuses a publishing journal, a native booking calendar, and inline Naira payments into one workspace — so coaches, consultants, and therapists stop stitching together WhatsApp, a booking link, and a blog just to run their practice.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/AceBoss1/notesapp",
+      "updated_at": "2026-11-12T08:05:59Z",
+      "pushed_at": "2026-11-26T18:01:59Z",
+      "stars": 0,
+      "author": "AceBoss1",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "ableton-pytheory",
+      "description": "pytheory (Music Theory for Humans) inside Ableton Live — key/chord detection and progression generation, via Pyodide",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/kennethreitz/ableton-pytheory",
+      "updated_at": "2026-11-11T22:58:35Z",
+      "pushed_at": "2026-11-26T18:00:39Z",
+      "stars": 28,
+      "author": "kennethreitz",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "Pineridge-Crisis-Saafiya-s-Revenge",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/cryogenized-spec/Pineridge-Crisis-Saafiya-s-Revenge",
+      "updated_at": "2026-11-24T20:50:09Z",
+      "pushed_at": "2026-11-26T17:59:42Z",
+      "stars": 0,
+      "author": "cryogenized-spec",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "enhansome-hacking-lists",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-hacking-lists",
+      "updated_at": "2026-11-12T16:21:53Z",
+      "pushed_at": "2026-11-26T17:57:56Z",
       "stars": 0,
       "author": "enhansome",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "SEYLI-APP",
+      "title": "rxpos",
+      "description": "PharmaPOS - offline-first pharmacy POS (web + Windows desktop) with sync hub",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/DeeJayKyle/rxpos",
+      "updated_at": "2026-11-25T08:10:22Z",
+      "pushed_at": "2026-11-26T17:57:10Z",
+      "stars": 0,
+      "author": "DeeJayKyle",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "The-Library-of-AI-Scientist",
+      "description": "Over the next month, we will implement the comprehensive paper retrieval and organization system to make this AI-Scientist agent project more concrete.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/FengxianJi/The-Library-of-AI-Scientist",
+      "updated_at": "2026-11-11T16:40:40Z",
+      "pushed_at": "2026-11-26T17:56:23Z",
+      "stars": 15,
+      "author": "FengxianJi",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "MeridianATC",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/golglom/SEYLI-APP",
-      "updated_at": "2026-11-26T03:10:11Z",
-      "pushed_at": "2026-11-26T04:54:04Z",
+      "github_url": "https://github.com/Plane14/MeridianATC",
+      "updated_at": "2026-11-20T14:10:20Z",
+      "pushed_at": "2026-11-26T17:54:38Z",
       "stars": 0,
-      "author": "golglom",
+      "author": "Plane14",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "Measuring-Electrification-from-Space",
+      "title": "awesome-open-data",
+      "description": "List of free and open datasets for machine learning, arranged by topic",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/okhosting/awesome-open-data",
+      "updated_at": "2026-11-12T17:05:23Z",
+      "pushed_at": "2026-11-26T17:54:24Z",
+      "stars": 29,
+      "author": "okhosting",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "pharmacy",
+      "description": "Pharmacy Management System A full-stack web application built to streamline daily pharmacy operations. It features real-time inventory management, automated low-stock alerts, digital prescription processing, and customer billing with role-based access control for pharmacists and staff",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/KKay24/pharmacy",
+      "updated_at": "2026-11-11T22:43:16Z",
+      "pushed_at": "2026-11-26T17:53:54Z",
+      "stars": 0,
+      "author": "KKay24",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "global_snow_networks",
       "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/fundidayyan-afk/Measuring-Electrification-from-Space",
-      "updated_at": "2026-11-20T22:54:46Z",
-      "pushed_at": "2026-11-26T04:52:15Z",
+      "github_url": "https://github.com/egagli/global_snow_networks",
+      "updated_at": "2026-11-11T18:22:29Z",
+      "pushed_at": "2026-11-26T17:52:38Z",
       "stars": 0,
-      "author": "fundidayyan-afk",
+      "author": "egagli",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "Event_Zero",
-      "description": "Malware in. Plain English out. Evidence attached. State of the art malware analysis that proves whether a downloaded file is exactly what it claims to be: complete accounting, fail-closed, every claim tied to evidence in the file.",
+      "title": "Mlops_structure",
+      "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/Epsilon0xCell/Event_Zero",
-      "updated_at": "2026-11-24T01:44:24Z",
-      "pushed_at": "2026-11-26T04:49:51Z",
-      "stars": 1,
-      "author": "Epsilon0xCell",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "Lashes-By-Retha",
-      "description": "Website and business platform for Lashes By Retha ; product marketplace, beauty class enrolment, and Setmore-integrated admin dashboard. Built with Vite + React, Node.js, and PostgreSQL.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/pitsophinnias/Lashes-By-Retha",
-      "updated_at": "2026-11-07T17:11:28Z",
-      "pushed_at": "2026-11-26T04:48:06Z",
+      "github_url": "https://github.com/gilbmura/Mlops_structure",
+      "updated_at": "2026-11-24T16:53:41Z",
+      "pushed_at": "2026-11-26T17:51:15Z",
       "stars": 0,
-      "author": "pitsophinnias",
+      "author": "gilbmura",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "Afritech-Advisory-afritech-tournament-desk",
-      "description": "Afritech Tournament Desk, Qatar 2026.",
+      "title": "invenco-56",
+      "description": null,
       "type": "SDK / Package",
-      "github_url": "https://github.com/Afritech-Advisory/Afritech-Advisory-afritech-tournament-desk",
-      "updated_at": "2026-11-12T01:59:23Z",
-      "pushed_at": "2026-11-26T04:47:59Z",
+      "github_url": "https://github.com/Hashirvesir/invenco-56",
+      "updated_at": "2026-10-31T12:00:04Z",
+      "pushed_at": "2026-11-26T17:50:17Z",
+      "stars": 0,
+      "author": "Hashirvesir",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "fluentbridge",
+      "description": "FluentBridge - Aplicativo completo de idiomas nas 4 habilidades (Windows, Android e Web)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/silaswf/fluentbridge",
+      "updated_at": "2026-11-25T21:31:54Z",
+      "pushed_at": "2026-11-26T17:50:08Z",
+      "stars": 0,
+      "author": "silaswf",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "enhansome-django",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-django",
+      "updated_at": "2026-11-12T16:03:37Z",
+      "pushed_at": "2026-11-26T17:47:48Z",
+      "stars": 0,
+      "author": "enhansome",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "FarField-Lab",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/K5OHY/FarField-Lab",
+      "updated_at": "2026-11-23T23:51:40Z",
+      "pushed_at": "2026-11-26T17:46:19Z",
+      "stars": 2,
+      "author": "K5OHY",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "knowledgekingdom.github.io",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/knowledgekingdom/knowledgekingdom.github.io",
+      "updated_at": "2026-11-25T17:21:09Z",
+      "pushed_at": "2026-11-26T17:44:53Z",
+      "stars": 0,
+      "author": "knowledgekingdom",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "VarsityTrade",
+      "description": "A university-locked student marketplace where South African students can buy, sell, and trade items safely within their own campus community.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/thabocoolT/VarsityTrade",
+      "updated_at": "2026-09-13T00:11:05Z",
+      "pushed_at": "2026-11-26T17:44:48Z",
       "stars": 1,
-      "author": "Afritech-Advisory",
+      "author": "thabocoolT",
       "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
-      "title": "Ohmforge",
-      "description": "Open-source, true-to-life ESP32 circuit simulator in Rust: unmodified firmware on a SPICE-grade analog solver, with built-in BOM tracking.",
+      "title": "B00kOfProblems",
+      "description": "Solutions To Problems I encounter during my sessions",
       "type": "SDK / Package",
-      "github_url": "https://github.com/sjnorval/Ohmforge",
-      "updated_at": "2026-11-24T16:29:36Z",
-      "pushed_at": "2026-11-26T04:47:38Z",
+      "github_url": "https://github.com/EmilioHulbert/B00kOfProblems",
+      "updated_at": "2026-11-06T11:55:52Z",
+      "pushed_at": "2026-11-26T17:42:09Z",
+      "stars": 1,
+      "author": "EmilioHulbert",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "flocafe3",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ChayBB/flocafe3",
+      "updated_at": "2026-11-12T07:30:28Z",
+      "pushed_at": "2026-11-26T17:40:42Z",
+      "stars": 0,
+      "author": "ChayBB",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "art-in-context-78",
+      "description": "Grade 7-8 art and ideas lab: 51 artists, media, timelines, significant works, social context, comparisons, quizzes and creative challenges.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/kraaly53/art-in-context-78",
+      "updated_at": "2026-11-19T00:27:10Z",
+      "pushed_at": "2026-11-26T17:38:50Z",
+      "stars": 0,
+      "author": "kraaly53",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "stampeded",
+      "description": "Background jobs that live in your Postgres: enqueued in your transaction, run by workers in Ruby, Rust, Go or anything with a C FFI.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/seuros/stampeded",
+      "updated_at": "2026-11-09T17:21:12Z",
+      "pushed_at": "2026-11-26T17:38:19Z",
+      "stars": 12,
+      "author": "seuros",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "PayReady",
+      "description": "Payment Readiness Hub for Skilled Refugees - PLP Africa | ILO Cohort Mini Hackathon, Track 2. Helps skilled refugees prepare payment and onboarding documents in plain language.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/belloibrahim0123/PayReady",
+      "updated_at": "2026-11-26T17:37:11Z",
+      "pushed_at": "2026-11-26T17:38:10Z",
+      "stars": 0,
+      "author": "belloibrahim0123",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "enhansome-apache-airflow",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-apache-airflow",
+      "updated_at": "2026-11-12T15:52:16Z",
+      "pushed_at": "2026-11-26T17:37:28Z",
+      "stars": 0,
+      "author": "enhansome",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "africa-monitor",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/mhderh/africa-monitor",
+      "updated_at": "2026-11-11T15:58:49Z",
+      "pushed_at": "2026-11-26T17:36:36Z",
+      "stars": 0,
+      "author": "mhderh",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "tbrunoh",
+      "description": "Profile of Tom Bruno: Product and Ecosystem Leader in AI Ecosystems at Google. Founder of Korext, creator of ACE.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/tbrunoh/tbrunoh",
+      "updated_at": "2026-11-25T19:46:32Z",
+      "pushed_at": "2026-11-26T17:36:15Z",
+      "stars": 0,
+      "author": "tbrunoh",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "enhansome-osint",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/enhansome/enhansome-osint",
+      "updated_at": "2026-11-12T15:51:03Z",
+      "pushed_at": "2026-11-26T17:35:59Z",
+      "stars": 0,
+      "author": "enhansome",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "international-ai-cybersecurity-law-corpus",
+      "description": "Source-verified corpus of international AI and cybersecurity law: 63 instruments, 36 full texts with hashed official originals and citable article units, spanning treaties, digital agreements, declarations and standards, with status, parties, reservations, reproducible builds, declared translations/transcriptions and documented coverage gaps.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/avvohacker/international-ai-cybersecurity-law-corpus",
+      "updated_at": "2026-11-25T11:19:48Z",
+      "pushed_at": "2026-11-26T17:35:30Z",
+      "stars": 0,
+      "author": "avvohacker",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "omniai",
+      "description": "OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic, Google's Gemini and DeepSeek's Chat..",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ksylvest/omniai",
+      "updated_at": "2026-11-11T18:34:17Z",
+      "pushed_at": "2026-11-26T17:34:25Z",
+      "stars": 254,
+      "author": "ksylvest",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "RivRetrieve",
+      "description": "A Python package for downloading global river gauge data",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/RivRetrieve/RivRetrieve",
+      "updated_at": "2026-11-25T16:33:55Z",
+      "pushed_at": "2026-11-26T17:34:22Z",
+      "stars": 29,
+      "author": "RivRetrieve",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "coralRLI",
+      "description": "Data and code for the reef-building coral figure (threats, regional Red List Index, CO2 and reef area)",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Marine-Biodiversity-Conservation-Lab/coralRLI",
+      "updated_at": "2026-11-26T17:13:29Z",
+      "pushed_at": "2026-11-26T17:33:37Z",
+      "stars": 0,
+      "author": "Marine-Biodiversity-Conservation-Lab",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "eventro_be",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/KRISSBAJO/eventro_be",
+      "updated_at": "2026-11-23T18:42:14Z",
+      "pushed_at": "2026-11-26T17:33:12Z",
+      "stars": 0,
+      "author": "KRISSBAJO",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "Commercial-Strategy-News-Analyst",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Mixta-Africa/Commercial-Strategy-News-Analyst",
+      "updated_at": "2026-11-12T16:45:18Z",
+      "pushed_at": "2026-11-26T17:31:59Z",
+      "stars": 1,
+      "author": "Mixta-Africa",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "blink-app",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/bilgatewafula-del/blink-app",
+      "updated_at": "2026-11-20T12:12:26Z",
+      "pushed_at": "2026-11-26T17:30:56Z",
+      "stars": 0,
+      "author": "bilgatewafula-del",
+      "q?": "africa in:readme package pushed:>=2025-01-01"
+    },
+    {
+      "title": "smile-identity-core-python",
+      "description": "The Official Smile Identity Python 3 package",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/smileidentity/smile-identity-core-python",
+      "updated_at": "2026-11-06T12:54:40Z",
+      "pushed_at": "2026-11-26T16:10:50Z",
+      "stars": 2,
+      "author": "smileidentity",
+      "q?": "africa package pushed:>=2024-01-01"
+    },
+    {
+      "title": "SafariDesk",
+      "description": "small tour operators and lodges in Kenya run on WhatsApp and Excel. SafariDesk gives them quoting, M-Pesa deposits, driver dispatch, safety alerts and analytics through USSD, SMS and Voice, packaged as a one-click plugin on the Africa's Talking Marketplace.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Mihon-Community/SafariDesk",
+      "updated_at": "2026-11-24T08:44:48Z",
+      "pushed_at": "2026-11-26T14:07:57Z",
+      "stars": 0,
+      "author": "Mihon-Community",
+      "q?": "africa package pushed:>=2024-01-01"
+    },
+    {
+      "title": "earthsign-travel-website",
+      "description": "Earthsign Travel: Your premier South African Travel Experts. Discover custom safari, city, and coastal trips with personalized packages that take you from the rugged bushveld to the pristine coastlines. Book your unforgettable Big 5 adventure or luxury villa getaway today.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Glamour95/earthsign-travel-website",
+      "updated_at": "2026-08-10T09:24:39Z",
+      "pushed_at": "2026-11-26T13:23:37Z",
+      "stars": 0,
+      "author": "Glamour95",
+      "q?": "africa package pushed:>=2024-01-01"
+    },
+    {
+      "title": "wnpp.debian.net",
+      "description": ":earth_africa: Code powering website \"Debian Packages that Need Lovin'\" created in 2009",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/hartwork/wnpp.debian.net",
+      "updated_at": "2026-11-11T11:07:14Z",
+      "pushed_at": "2026-11-26T11:07:51Z",
+      "stars": 69,
+      "author": "hartwork",
+      "q?": "africa package pushed:>=2024-01-01"
+    },
+    {
+      "title": "MrMDrX",
+      "description": "Profile Readme File",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/MrMDrX/MrMDrX",
+      "updated_at": "2026-07-24T16:40:18Z",
+      "pushed_at": "2026-11-26T07:37:16Z",
+      "stars": 12,
+      "author": "MrMDrX",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "Abdellahsyani",
+      "description": "github profile",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/Abdellahsyani",
+      "updated_at": "2026-11-16T17:15:29Z",
+      "pushed_at": "2026-11-26T06:58:55Z",
       "stars": 6,
-      "author": "sjnorval",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
     },
     {
-      "title": "innovation-inclining-test-account-stability-scoring-for-label-free-mobile-money-fraud-detec",
-      "description": "Inclining-Test Account Stability Scoring for Label-Free Mobile Money Fraud Detection — a defensive publication hosted by Unpatentable.org.",
+      "title": "moasko",
+      "description": "my personal repository",
       "type": "SDK / Package",
-      "github_url": "https://github.com/unpatentable/innovation-inclining-test-account-stability-scoring-for-label-free-mobile-money-fraud-detec",
-      "updated_at": "2026-11-26T04:45:08Z",
-      "pushed_at": "2026-11-26T04:45:10Z",
-      "stars": 0,
-      "author": "unpatentable",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
+      "github_url": "https://github.com/moasko/moasko",
+      "updated_at": "2026-07-12T05:02:29Z",
+      "pushed_at": "2026-11-26T06:50:11Z",
+      "stars": 2,
+      "author": "moasko",
+      "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "ILyasZobair",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ILyasZobair/ILyasZobair",
+      "updated_at": "2026-11-10T07:30:25Z",
+      "pushed_at": "2026-11-26T06:48:38Z",
+      "stars": 52,
+      "author": "ILyasZobair",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "ProgrammerDATCH",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ProgrammerDATCH/ProgrammerDATCH",
+      "updated_at": "2025-12-15T18:26:36Z",
+      "pushed_at": "2026-11-26T05:45:07Z",
+      "stars": 16,
+      "author": "ProgrammerDATCH",
+      "q?": "location:rwanda (users)"
     },
     {
       "title": "code_copilot",
@@ -704,435 +1243,6 @@
       "stars": 22,
       "author": "ikuzweelisa",
       "q?": "location:rwanda (users)"
-    },
-    {
-      "title": "PySyzygos",
-      "description": "Python Occultation Searcher",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/pyzahl/PySyzygos",
-      "updated_at": "2026-11-11T16:02:45Z",
-      "pushed_at": "2026-11-26T04:44:24Z",
-      "stars": 2,
-      "author": "pyzahl",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "Real-Neural-Forge",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/AndrewGrayYouNeeK/Real-Neural-Forge",
-      "updated_at": "2026-11-11T23:40:49Z",
-      "pushed_at": "2026-11-26T04:41:07Z",
-      "stars": 1,
-      "author": "AndrewGrayYouNeeK",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "vivid-cinema",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/sensorylog/vivid-cinema",
-      "updated_at": "2026-11-12T11:39:25Z",
-      "pushed_at": "2026-11-26T04:40:51Z",
-      "stars": 0,
-      "author": "sensorylog",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "MKorain",
-      "description": "Backend engineer — ASP.NET Core, distributed systems, banking integration",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/MKorain/MKorain",
-      "updated_at": "2026-11-12T04:40:37Z",
-      "pushed_at": "2026-11-26T04:40:46Z",
-      "stars": 0,
-      "author": "MKorain",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "news-image-20261125",
-      "description": "Sums up 25 November 2026 world news in one image. Built by an AI agent for make.fun's \"Sum up 25 November's world news in one image\" bounty, $100 in USDC.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/stwbz/news-image-20261125",
-      "updated_at": "2026-11-26T05:01:19Z",
-      "pushed_at": "2026-11-26T04:40:10Z",
-      "stars": 0,
-      "author": "stwbz",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "kora-live-stream-cinema",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/mohany6/kora-live-stream-cinema",
-      "updated_at": "2026-11-26T04:07:34Z",
-      "pushed_at": "2026-11-26T04:37:42Z",
-      "stars": 0,
-      "author": "mohany6",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "vehicle-db",
-      "description": "Offline international vehicle DB: 1,595 makes, 41,838 models and 194,288 model years across cars, motorcycles, trucks, buses, MPVs, auto rickshaws, and more.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/MeterApp/vehicle-db",
-      "updated_at": "2026-11-24T17:09:51Z",
-      "pushed_at": "2026-11-26T04:37:05Z",
-      "stars": 12,
-      "author": "MeterApp",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "ISP",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/001jorey/ISP",
-      "updated_at": "2026-11-12T11:45:12Z",
-      "pushed_at": "2026-11-26T04:32:58Z",
-      "stars": 0,
-      "author": "001jorey",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "bookease",
-      "description": "Full-stack service booking platform built with React and Flask, featuring role-based authentication, appointment scheduling, provider management and dynamic availability.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/arnoldwainaina2865/bookease",
-      "updated_at": "2026-11-25T05:25:34Z",
-      "pushed_at": "2026-11-26T04:32:23Z",
-      "stars": 0,
-      "author": "arnoldwainaina2865",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "Lingotopia",
-      "description": "Lingotopia App",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/adam0860/Lingotopia",
-      "updated_at": "2026-11-21T18:40:11Z",
-      "pushed_at": "2026-11-26T04:30:46Z",
-      "stars": 0,
-      "author": "adam0860",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "RondiTrackApp",
-      "description": "Flutter mobile application for RondiTrack stokvel management",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/mdvar2/RondiTrackApp",
-      "updated_at": "2026-11-12T07:09:26Z",
-      "pushed_at": "2026-11-26T04:30:31Z",
-      "stars": 0,
-      "author": "mdvar2",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "compromise-tiles",
-      "description": "Pre-cut city data tiles for the Compromise app's sunny-terrace filter (ODbL / Licence Ouverte)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Techneb/compromise-tiles",
-      "updated_at": "2026-11-12T16:27:23Z",
-      "pushed_at": "2026-11-26T04:30:10Z",
-      "stars": 0,
-      "author": "Techneb",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "news-image-20261126",
-      "description": "THE WORLD TODAY - Thursday, 26 November 2026: a newspaper front page summing up the day's world news in one image. Built by an AI agent for make.fun's news-image bounty, $100 in USDC.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/daviddika/news-image-20261126",
-      "updated_at": "2026-11-26T04:34:37Z",
-      "pushed_at": "2026-11-26T04:29:10Z",
-      "stars": 0,
-      "author": "daviddika",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "miktrotik-hotspot-billing",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/codeworktechnologies-bot/miktrotik-hotspot-billing",
-      "updated_at": "2026-11-12T11:01:40Z",
-      "pushed_at": "2026-11-26T04:28:33Z",
-      "stars": 0,
-      "author": "codeworktechnologies-bot",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "forecast-panel",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/EthanC100/forecast-panel",
-      "updated_at": "2026-11-12T16:06:41Z",
-      "pushed_at": "2026-11-26T04:27:06Z",
-      "stars": 0,
-      "author": "EthanC100",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "catalog-site-monitor",
-      "description": "Public availability and catalog health checks for architecture laptop sites",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Issakimho/catalog-site-monitor",
-      "updated_at": "2026-11-12T02:02:01Z",
-      "pushed_at": "2026-11-26T04:26:02Z",
-      "stars": 0,
-      "author": "Issakimho",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "aws-price-watcher",
-      "description": "Automation to monitor the public-facing AWS pricing (NOT the AWS Price List API) - UPDATE 10/10/25 Removed region updates",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/iann0036/aws-price-watcher",
-      "updated_at": "2026-11-12T10:23:43Z",
-      "pushed_at": "2026-11-26T04:25:39Z",
-      "stars": 13,
-      "author": "iann0036",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "arcfort-website",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/18803076512/arcfort-website",
-      "updated_at": "2026-11-07T10:23:06Z",
-      "pushed_at": "2026-11-26T04:24:36Z",
-      "stars": 0,
-      "author": "18803076512",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "ecommerce-dashborad",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/AnUsArVsAINI/ecommerce-dashborad",
-      "updated_at": "2026-11-26T04:24:29Z",
-      "pushed_at": "2026-11-26T04:24:24Z",
-      "stars": 0,
-      "author": "AnUsArVsAINI",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "resq-box",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/zidan-cmiw/resq-box",
-      "updated_at": "2026-11-12T08:52:21Z",
-      "pushed_at": "2026-11-26T04:24:24Z",
-      "stars": 0,
-      "author": "zidan-cmiw",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "ElmasDS",
-      "description": "ElmasDS - Nintendo DS emulator written in strict C++20",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/ElmasDS",
-      "updated_at": "2026-11-25T23:18:57Z",
-      "pushed_at": "2026-11-26T04:24:08Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "enhansome-adk-agents",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/enhansome/enhansome-adk-agents",
-      "updated_at": "2026-11-12T03:22:51Z",
-      "pushed_at": "2026-11-26T04:23:47Z",
-      "stars": 0,
-      "author": "enhansome",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "fuzzy-carnival",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/casuya-code/fuzzy-carnival",
-      "updated_at": "2026-11-20T07:06:13Z",
-      "pushed_at": "2026-11-26T04:22:26Z",
-      "stars": 0,
-      "author": "casuya-code",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "Perfect-Nations",
-      "description": "SI updates for Perfect Nations",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/preetisinha70-PN/Perfect-Nations",
-      "updated_at": "2026-11-12T16:20:14Z",
-      "pushed_at": "2026-11-26T04:20:45Z",
-      "stars": 0,
-      "author": "preetisinha70-PN",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "valolive",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/DCpraise/valolive",
-      "updated_at": "2026-11-26T04:23:50Z",
-      "pushed_at": "2026-11-26T04:20:22Z",
-      "stars": 0,
-      "author": "DCpraise",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "foundura",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/prahladnb-spec/foundura",
-      "updated_at": "2026-11-22T01:02:18Z",
-      "pushed_at": "2026-11-26T04:19:17Z",
-      "stars": 0,
-      "author": "prahladnb-spec",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "waec-mos",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/kingenious0/waec-mos",
-      "updated_at": "2026-11-12T06:04:39Z",
-      "pushed_at": "2026-11-26T04:18:06Z",
-      "stars": 0,
-      "author": "kingenious0",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "AI-career-coach",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/r-khaled/AI-career-coach",
-      "updated_at": "2026-11-25T19:18:49Z",
-      "pushed_at": "2026-11-26T04:17:45Z",
-      "stars": 0,
-      "author": "r-khaled",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "Widget-App",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/daveroz/Widget-App",
-      "updated_at": "2026-11-11T23:51:25Z",
-      "pushed_at": "2026-11-26T04:17:14Z",
-      "stars": 0,
-      "author": "daveroz",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "enhansome-low-resource-languages",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/enhansome/enhansome-low-resource-languages",
-      "updated_at": "2026-11-12T03:07:54Z",
-      "pushed_at": "2026-11-26T04:12:13Z",
-      "stars": 0,
-      "author": "enhansome",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "myglobalroute",
-      "description": "Global Route: African Mobility & Global Migration Blueprint",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/global-route/myglobalroute",
-      "updated_at": "2026-11-15T05:12:27Z",
-      "pushed_at": "2026-11-26T04:11:37Z",
-      "stars": 0,
-      "author": "global-route",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "freshman-cs-jobs",
-      "description": "Software engineering, data, AI/ML and quant internships open to freshmen. Regenerated daily from live company career pages by Trakker.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/TrakkerHQ/freshman-cs-jobs",
-      "updated_at": "2026-11-12T04:01:13Z",
-      "pushed_at": "2026-11-26T04:09:58Z",
-      "stars": 0,
-      "author": "TrakkerHQ",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "idem",
-      "description": "AI THAT CREATES PROFITABLE BUSINESSES",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Idem-AI/idem",
-      "updated_at": "2026-11-10T22:57:07Z",
-      "pushed_at": "2026-11-26T04:09:44Z",
-      "stars": 63,
-      "author": "Idem-AI",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "sophomore-cs-jobs",
-      "description": " Software engineering, data, AI/ML and quant internships open to sophomores. Regenerated daily from live company career pages by Trakker.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/TrakkerHQ/sophomore-cs-jobs",
-      "updated_at": "2026-11-12T03:58:42Z",
-      "pushed_at": "2026-11-26T04:09:24Z",
-      "stars": 0,
-      "author": "TrakkerHQ",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "data-ai-jobs",
-      "description": "Data science, machine learning and AI research internships and new grad jobs. Regenerated daily from live company career pages by Trakker.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/TrakkerHQ/data-ai-jobs",
-      "updated_at": "2026-11-12T03:56:11Z",
-      "pushed_at": "2026-11-26T04:07:43Z",
-      "stars": 1,
-      "author": "TrakkerHQ",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "world-on-thursday",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Hagai17/world-on-thursday",
-      "updated_at": "2026-11-26T04:07:41Z",
-      "pushed_at": "2026-11-26T04:05:31Z",
-      "stars": 0,
-      "author": "Hagai17",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "jb243.github.io",
-      "description": "Knowledge must be equal.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/JB243/jb243.github.io",
-      "updated_at": "2026-11-12T14:29:49Z",
-      "pushed_at": "2026-11-26T04:04:57Z",
-      "stars": 2,
-      "author": "JB243",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "ThesisWeb",
-      "description": "A free web app that helps thesis students find related literature (RRL), keep it organised, and cite it correctly.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Lianhahaha/ThesisWeb",
-      "updated_at": "2026-11-16T04:35:15Z",
-      "pushed_at": "2026-11-26T04:04:06Z",
-      "stars": 0,
-      "author": "Lianhahaha",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
-    },
-    {
-      "title": "NovaTech-Website",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/billy-opiyo/NovaTech-Website",
-      "updated_at": "2026-11-12T09:22:40Z",
-      "pushed_at": "2026-11-26T04:03:24Z",
-      "stars": 0,
-      "author": "billy-opiyo",
-      "q?": "africa in:readme package pushed:>=2025-01-01"
     },
     {
       "title": "roadDB",
@@ -1157,17 +1267,6 @@
       "q?": "africa package pushed:>=2024-01-01"
     },
     {
-      "title": "SafariDesk",
-      "description": "small tour operators and lodges in Kenya run on WhatsApp and Excel. SafariDesk gives them quoting, M-Pesa deposits, driver dispatch, safety alerts and analytics through USSD, SMS and Voice, packaged as a one-click plugin on the Africa's Talking Marketplace.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Mihon-Community/SafariDesk",
-      "updated_at": "2026-11-24T08:44:48Z",
-      "pushed_at": "2026-11-25T21:48:13Z",
-      "stars": 0,
-      "author": "Mihon-Community",
-      "q?": "africa package pushed:>=2024-01-01"
-    },
-    {
       "title": "ratelimit-sdk",
       "description": "Generic Ratelimiter for Typescript/Javascript",
       "type": "SDK / Package",
@@ -1177,28 +1276,6 @@
       "stars": 4,
       "author": "ikuzweelisa",
       "q?": "location:rwanda (users)"
-    },
-    {
-      "title": "africa-safari-horizon",
-      "description": "A modern safari travel platform showcasing African wildlife adventures, tour packages, destinations, and luxury safari experiences.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Jagannath-Pradhan/africa-safari-horizon",
-      "updated_at": "2026-08-17T18:28:12Z",
-      "pushed_at": "2026-11-25T18:27:39Z",
-      "stars": 0,
-      "author": "Jagannath-Pradhan",
-      "q?": "africa package pushed:>=2024-01-01"
-    },
-    {
-      "title": "cafriplotsR",
-      "description": "R package for managing cafriplots network (and other inventories from Central Africa)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/umr-amap/cafriplotsR",
-      "updated_at": "2026-11-11T16:52:55Z",
-      "pushed_at": "2026-11-25T18:26:38Z",
-      "stars": 5,
-      "author": "umr-amap",
-      "q?": "africa package pushed:>=2024-01-01"
     },
     {
       "title": "pandas-roadmap",
@@ -1220,17 +1297,6 @@
       "pushed_at": "2026-11-25T16:14:54Z",
       "stars": 74,
       "author": "liuderchi",
-      "q?": "africa package pushed:>=2024-01-01"
-    },
-    {
-      "title": "earthsign-travel-website",
-      "description": "Earthsign Travel: Your premier South African Travel Experts. Discover custom safari, city, and coastal trips with personalized packages that take you from the rugged bushveld to the pristine coastlines. Book your unforgettable Big 5 adventure or luxury villa getaway today.",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/Glamour95/earthsign-travel-website",
-      "updated_at": "2026-08-10T09:24:39Z",
-      "pushed_at": "2026-11-25T14:33:04Z",
-      "stars": 0,
-      "author": "Glamour95",
       "q?": "africa package pushed:>=2024-01-01"
     },
     {
@@ -1267,39 +1333,6 @@
       "q?": "africa package pushed:>=2024-01-01"
     },
     {
-      "title": "moasko",
-      "description": "my personal repository",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/moasko/moasko",
-      "updated_at": "2026-07-12T05:02:29Z",
-      "pushed_at": "2026-11-25T06:58:20Z",
-      "stars": 2,
-      "author": "moasko",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "ILyasZobair",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/ILyasZobair/ILyasZobair",
-      "updated_at": "2026-11-10T07:30:25Z",
-      "pushed_at": "2026-11-25T06:57:09Z",
-      "stars": 52,
-      "author": "ILyasZobair",
-      "q?": "location:morocco (users)"
-    },
-    {
-      "title": "ProgrammerDATCH",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/ProgrammerDATCH/ProgrammerDATCH",
-      "updated_at": "2025-12-15T18:26:36Z",
-      "pushed_at": "2026-11-25T05:54:12Z",
-      "stars": 16,
-      "author": "ProgrammerDATCH",
-      "q?": "location:rwanda (users)"
-    },
-    {
       "title": "SouthAfricanIDValidator",
       "description": "A sophisticated PHP package designed to validate South African ID numbers by checking both structural and contextual rules",
       "type": "SDK / Package",
@@ -1333,17 +1366,6 @@
       "q?": "location:morocco (users)"
     },
     {
-      "title": "wnpp.debian.net",
-      "description": ":earth_africa: Code powering website \"Debian Packages that Need Lovin'\" created in 2009",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/hartwork/wnpp.debian.net",
-      "updated_at": "2026-11-11T11:07:14Z",
-      "pushed_at": "2026-11-24T10:42:31Z",
-      "stars": 69,
-      "author": "hartwork",
-      "q?": "africa package pushed:>=2024-01-01"
-    },
-    {
       "title": "zindi-package",
       "description": "Join Zindi competitions, download data, submit and climb the leaderboard from Python, the CLI, notebooks, R, JavaScript or Rust.",
       "type": "SDK / Package",
@@ -1364,193 +1386,6 @@
       "stars": 6,
       "author": "Edouard144",
       "q?": "location:rwanda (users)"
-    },
-    {
-      "title": "elm-as",
-      "description": "ELMAS CORE System",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/elm-as",
-      "updated_at": "2026-11-07T12:11:44Z",
-      "pushed_at": "2026-11-23T15:11:54Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "DataScience",
-      "description": "ElmasCore - Data Science & Competitive ML Hub",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/DataScience",
-      "updated_at": "2026-11-23T09:37:42Z",
-      "pushed_at": "2026-11-23T15:11:44Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "BCCRI",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/BCCRI",
-      "updated_at": "2026-11-21T17:13:20Z",
-      "pushed_at": "2026-11-23T09:40:03Z",
-      "stars": 1,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "CCARP",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/CCARP",
-      "updated_at": "2026-11-21T17:13:19Z",
-      "pushed_at": "2026-11-23T09:40:00Z",
-      "stars": 1,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "CHDCF",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/CHDCF",
-      "updated_at": "2026-11-21T17:13:22Z",
-      "pushed_at": "2026-11-23T09:39:57Z",
-      "stars": 1,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "CBMX",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/CBMX",
-      "updated_at": "2026-11-21T17:13:08Z",
-      "pushed_at": "2026-11-23T09:39:54Z",
-      "stars": 1,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "FINSG",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/FINSG",
-      "updated_at": "2026-11-21T17:13:06Z",
-      "pushed_at": "2026-11-23T09:39:52Z",
-      "stars": 1,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "ERGF",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/ERGF",
-      "updated_at": "2026-11-21T17:13:05Z",
-      "pushed_at": "2026-11-23T09:39:49Z",
-      "stars": 1,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "ISML",
-      "description": "Impact of Social Media on Life (ISML): Chronobiological Disruption, Psychometric Distress & Academic Performance Across 4,500 Students",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/ISML",
-      "updated_at": "2026-11-10T11:26:00Z",
-      "pushed_at": "2026-11-23T09:39:46Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "GCMDL",
-      "description": "Global Crypto Market Dynamics & Liquidity 2026: 1,000-Asset Empirical Telemetry, Turnover Regimes & Tail-Risk Drawdown Modeling",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/GCMDL",
-      "updated_at": "2026-11-10T10:56:05Z",
-      "pushed_at": "2026-11-23T09:39:43Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "Pneumonia",
-      "description": "Pediatric Chest Radiography Deep Diagnostic System | ResNet-18 & Grad-CAM",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/Pneumonia",
-      "updated_at": "2026-11-09T21:53:17Z",
-      "pushed_at": "2026-11-23T09:39:40Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "GGVCF",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/GGVCF",
-      "updated_at": "2026-11-09T18:03:39Z",
-      "pushed_at": "2026-11-23T09:39:37Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "PCCF",
-      "description": "ElmasCore - Kaggle Playground Series S6E11 (Predicting Credit Card Fraud)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/PCCF",
-      "updated_at": "2026-11-23T09:37:49Z",
-      "pushed_at": "2026-11-23T09:39:34Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "AGCRS",
-      "description": "ElmasCore - Global Agricultural Yield, Climate Shocks & Parametric Crop Insurance (FAO/World Bank Conformal)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/AGCRS",
-      "updated_at": "2026-11-23T09:37:43Z",
-      "pushed_at": "2026-11-23T09:39:32Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "NIDSZ",
-      "description": "ElmasCore - Network Intrusion Detection & Zero-Day Generalization (UNSW-NB15, LOAO & Low-FPR SOC)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/NIDSZ",
-      "updated_at": "2026-11-23T09:37:44Z",
-      "pushed_at": "2026-11-23T09:39:28Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "HREOP",
-      "description": "ElmasCore - Hospital 30-Day Readmission & Clinical Triage Optimization (130 US Hospitals, Patient GroupKFold)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/HREOP",
-      "updated_at": "2026-11-23T09:37:46Z",
-      "pushed_at": "2026-11-23T09:39:25Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "SCLDO",
-      "description": "ElmasCore - Supply Chain Late-Delivery & SLA Risk Intelligence (Olist 9-Table Relational Study)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/SCLDO",
-      "updated_at": "2026-11-23T09:37:47Z",
-      "pushed_at": "2026-11-23T09:39:22Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
     },
     {
       "title": "Richmondms",
@@ -1630,39 +1465,6 @@
       "q?": "africa package pushed:>=2024-01-01"
     },
     {
-      "title": "DaloaMarket-v2",
-      "description": "Complete marketplace platform with delivery integration",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/DaloaMarket-v2",
-      "updated_at": "2026-11-12T10:42:11Z",
-      "pushed_at": "2026-11-21T07:01:13Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "DaloaMarket-App",
-      "description": "Marketplace mobile en production connectant commerçants et clients (Google Play Live)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/DaloaMarket-App",
-      "updated_at": "2026-11-12T13:11:55Z",
-      "pushed_at": "2026-11-21T07:01:09Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "lsfb-live",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/lsfb-live",
-      "updated_at": "2026-11-16T06:31:28Z",
-      "pushed_at": "2026-11-21T02:06:08Z",
-      "stars": 2,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
       "title": "dukeai-nexus",
       "description": "C++ energy-based learning research and offline English–Kiswahili knowledge retrieval.",
       "type": "SDK / Package",
@@ -1718,17 +1520,6 @@
       "q?": "location:côte d'ivoire (users)"
     },
     {
-      "title": "Kiln",
-      "description": "Moteur 2D en C++17 (Win32 + OpenGL 3.3, zéro dépendance) et jeu de plateforme Lueur",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/Kiln",
-      "updated_at": "2026-11-08T18:36:01Z",
-      "pushed_at": "2026-11-20T08:21:54Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
       "title": "1989SHACK-GAIH",
       "description": "WWI Network — Web Wide International Network — Global Architecture Infrastructure Hosting Platform — For Liberia, Africa & World — For Future — With Love — Geo Space Station, Full Package 12 In 1, NASA Letter, Meta Letter",
       "type": "SDK / Package",
@@ -1738,28 +1529,6 @@
       "stars": 0,
       "author": "1989shack",
       "q?": "africa package pushed:>=2024-01-01"
-    },
-    {
-      "title": "Kova",
-      "description": "Kova - Intelligence Recrutement ATS & Radar d'offres multi-sources (Cote d'Ivoire, Afrique & Tech Remote) avec Coach IA",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/Kova",
-      "updated_at": "2026-11-23T09:37:48Z",
-      "pushed_at": "2026-11-19T16:08:50Z",
-      "stars": 1,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "ElmasCore",
-      "description": "Plateforme et vitrine officielle d'ElmasCore (React 19, Vite, Tailwind CSS, Supabase)",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/ElmasCore",
-      "updated_at": "2026-11-05T06:26:38Z",
-      "pushed_at": "2026-11-19T16:06:40Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
     },
     {
       "title": "english-daily",
@@ -1784,24 +1553,13 @@
       "q?": "africa package pushed:>=2024-01-01"
     },
     {
-      "title": "smile-identity-core-python",
-      "description": "The Official Smile Identity Python 3 package",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/smileidentity/smile-identity-core-python",
-      "updated_at": "2026-11-06T12:54:40Z",
-      "pushed_at": "2026-11-18T10:12:14Z",
-      "stars": 2,
-      "author": "smileidentity",
-      "q?": "africa package pushed:>=2024-01-01"
-    },
-    {
       "title": "package.json.",
       "description": "NaijaClips – A Nigerian video-sharing and streaming platform for discovering, watching, uploading, and sharing African entertainment, music, movies, comedy, and trending videos.",
       "type": "SDK / Package",
       "github_url": "https://github.com/samuelsabastine48-hub/package.json.",
-      "updated_at": "2026-11-18T07:04:45Z",
+      "updated_at": "2026-11-26T09:08:22Z",
       "pushed_at": "2026-11-18T09:45:03Z",
-      "stars": 1,
+      "stars": 0,
       "author": "samuelsabastine48-hub",
       "q?": "africa package pushed:>=2024-01-01"
     },
@@ -1872,17 +1630,6 @@
       "q?": "location:rwanda (users)"
     },
     {
-      "title": "OpenStats",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/OpenStats",
-      "updated_at": "2026-11-16T16:19:57Z",
-      "pushed_at": "2026-11-17T11:53:53Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
       "title": "zodiac-engine-docs",
       "description": "Built documentation site for Zodiac Engine (ZEngine)",
       "type": "SDK / Package",
@@ -1892,17 +1639,6 @@
       "stars": 0,
       "author": "JeanPhilippeKernel",
       "q?": "location:ivory coast (users)"
-    },
-    {
-      "title": "ufbr",
-      "description": "universal file based router ",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/zakarialaoui10/ufbr",
-      "updated_at": "2026-09-30T13:25:11Z",
-      "pushed_at": "2026-11-15T13:48:27Z",
-      "stars": 25,
-      "author": "zakarialaoui10",
-      "q?": "location:morocco (users)"
     },
     {
       "title": "GlitzEvents",
@@ -1916,28 +1652,6 @@
       "q?": "africa package pushed:>=2024-01-01"
     },
     {
-      "title": "DaloaDelivery",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/DaloaDelivery",
-      "updated_at": "2026-11-07T06:26:02Z",
-      "pushed_at": "2026-11-14T16:46:03Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "DaloaPay",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/DaloaPay",
-      "updated_at": "2026-11-12T10:41:13Z",
-      "pushed_at": "2026-11-14T16:33:12Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
       "title": "UniMatch-University-Application-System",
       "description": "🎓UniMatch is a centralized decision-support and application coordination platform for South African high schools. It connects learners, school staff, parents/guardians, university admissions offices, and Department of Education stakeholders to manage programme information, eligibility guidance, secure fee payments, application packages",
       "type": "SDK / Package",
@@ -1947,17 +1661,6 @@
       "stars": 15,
       "author": "Mabotse-Mosima",
       "q?": "africa package pushed:>=2024-01-01"
-    },
-    {
-      "title": "DaloaDelivery-App",
-      "description": "Application logistique de livraison au dernier kilomètre et gestion des courses en temps réel",
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/DaloaDelivery-App",
-      "updated_at": "2026-11-07T06:18:17Z",
-      "pushed_at": "2026-11-14T12:26:30Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
     },
     {
       "title": "companyOS",
@@ -2024,28 +1727,6 @@
       "stars": 0,
       "author": "chrisgilbertp",
       "q?": "africa package pushed:>=2024-01-01"
-    },
-    {
-      "title": "ESCode",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/ESCode",
-      "updated_at": "2026-11-11T22:10:05Z",
-      "pushed_at": "2026-11-11T21:10:01Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
-    },
-    {
-      "title": "NerdsBattle",
-      "description": null,
-      "type": "SDK / Package",
-      "github_url": "https://github.com/elm-as/NerdsBattle",
-      "updated_at": "2026-11-11T21:22:31Z",
-      "pushed_at": "2026-11-11T20:22:20Z",
-      "stars": 0,
-      "author": "elm-as",
-      "q?": "location:côte d'ivoire (users)"
     },
     {
       "title": "skills-review-pull-requests",
@@ -2287,6 +1968,17 @@
       "pushed_at": "2026-10-31T23:21:48Z",
       "stars": 46,
       "author": "ILyasZobair",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "quickbite",
+      "description": "Full-stack restaurant ordering and management platform with customer ordering, kitchen dashboard, and role-based access. Built with React, Express, PostgreSQL, Prisma, and Docker.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/quickbite",
+      "updated_at": "2026-11-16T17:15:31Z",
+      "pushed_at": "2026-10-31T15:52:20Z",
+      "stars": 5,
+      "author": "Abdellahsyani",
       "q?": "location:morocco (users)"
     },
     {
@@ -2552,6 +2244,17 @@
       "stars": 0,
       "author": "Sedrickgael",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "Neovim-chad",
+      "description": "create my own neovim chad ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/Neovim-chad",
+      "updated_at": "2026-11-16T17:18:12Z",
+      "pushed_at": "2026-10-20T10:30:04Z",
+      "stars": 6,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "apif-salon-forum-website-demo",
@@ -2972,6 +2675,17 @@
       "q?": "africa package pushed:>=2024-01-01"
     },
     {
+      "title": "tic-tac-toe",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/tic-tac-toe",
+      "updated_at": "2026-09-30T14:19:51Z",
+      "pushed_at": "2026-09-30T14:18:38Z",
+      "stars": 0,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "config-mailu",
       "description": "Serveur mail Mailu auto-hébergé avec Docker Compose et PostgreSQL. Se teste en local sur macOS et se déploie sur un serveur derrière nginx-proxy et acme-companion.",
       "type": "SDK / Package",
@@ -2981,6 +2695,17 @@
       "stars": 0,
       "author": "flavien-hugs",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "cs221",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/cs221",
+      "updated_at": "2026-09-26T16:03:47Z",
+      "pushed_at": "2026-09-26T16:03:43Z",
+      "stars": 0,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "fetch-doc",
@@ -3192,6 +2917,17 @@
       "q?": "location:rwanda (users)"
     },
     {
+      "title": "frontend_challenges",
+      "description": "training frontend",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/frontend_challenges",
+      "updated_at": "2026-09-14T12:14:30Z",
+      "pushed_at": "2026-09-14T12:14:25Z",
+      "stars": 1,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "tatr-ql",
       "description": "Task Tracker Query Language (Nodejs Version)",
       "type": "SDK / Package",
@@ -3214,6 +2950,28 @@
       "q?": "africa package pushed:>=2024-01-01"
     },
     {
+      "title": "cpp_projects",
+      "description": "This repo is about learning oop by using cpp language",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/cpp_projects",
+      "updated_at": "2026-09-11T17:21:11Z",
+      "pushed_at": "2026-09-11T17:21:05Z",
+      "stars": 3,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "mini-nginx",
+      "description": "Build mini server from scratch by using c++98",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/mini-nginx",
+      "updated_at": "2026-11-16T17:16:31Z",
+      "pushed_at": "2026-09-08T17:23:52Z",
+      "stars": 5,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "dd",
       "description": null,
       "type": "SDK / Package",
@@ -3223,6 +2981,17 @@
       "stars": 0,
       "author": "moasko",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "alx-system_engineering-devops",
+      "description": "This repository contains practical projects, system administration scripts, and DevOps tooling developed as part of the ALX Software Engineering curriculum. It covers core foundational concepts including Bash scripting, Linux system architecture, configuration management, networking protocols, containerization, and continuous integration/continuous",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/alx-system_engineering-devops",
+      "updated_at": "2026-09-08T10:18:15Z",
+      "pushed_at": "2026-09-08T10:14:16Z",
+      "stars": 4,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "kenyacensus",
@@ -3640,6 +3409,17 @@
       "pushed_at": "2026-08-04T22:44:41Z",
       "stars": 0,
       "author": "aymanemehdi",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "WebDock",
+      "description": "host many services by using containers ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/WebDock",
+      "updated_at": "2026-11-13T11:13:53Z",
+      "pushed_at": "2026-08-04T12:37:32Z",
+      "stars": 3,
+      "author": "Abdellahsyani",
       "q?": "location:morocco (users)"
     },
     {
@@ -4149,6 +3929,17 @@
       "q?": "location:morocco (users)"
     },
     {
+      "title": "Proxmox-VE",
+      "description": "Deployment Guide: From Zero to Hypervisor",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ablaamim/Proxmox-VE",
+      "updated_at": "2026-07-06T09:45:23Z",
+      "pushed_at": "2026-07-06T09:45:20Z",
+      "stars": 0,
+      "author": "ablaamim",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "GTA-VI-GSAP-React.js",
       "description": "GTA VI landing page built with React, Vite, GSAP, and Tailwind CSS, featuring smooth scroll animations, responsive sections, and a game-inspired visual design.",
       "type": "SDK / Package",
@@ -4301,6 +4092,17 @@
       "stars": 1,
       "author": "Langageneo",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "input-otp-native",
+      "description": "🔐 OTP input for React Native/Expo App: unstyled, copy-paste examples, fully tested",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/yjose/input-otp-native",
+      "updated_at": "2026-10-23T20:53:58Z",
+      "pushed_at": "2026-06-18T17:12:19Z",
+      "stars": 285,
+      "author": "yjose",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "power-monitor",
@@ -4875,6 +4677,28 @@
       "q?": "location:côte d'ivoire (users)"
     },
     {
+      "title": "ensat-next",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/ensat-next",
+      "updated_at": "2026-09-21T20:07:14Z",
+      "pushed_at": "2026-05-02T18:23:01Z",
+      "stars": 9,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "alx-backend-python",
+      "description": "build back-end by using pythone",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/alx-backend-python",
+      "updated_at": "2026-11-13T11:12:49Z",
+      "pushed_at": "2026-05-02T17:56:44Z",
+      "stars": 18,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "rsa_id_number",
       "description": "A Dart package for validating and generating South African ID numbers.",
       "type": "SDK / Package",
@@ -4915,6 +4739,17 @@
       "updated_at": "2026-09-24T16:56:23Z",
       "pushed_at": "2026-04-29T10:34:09Z",
       "stars": 7,
+      "author": "zakarialaoui10",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "wiscus",
+      "description": "Add Giscus (GitHub Discussions) comments to your WordPress site with Gutenberg block and shortcode support.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/zakarialaoui10/wiscus",
+      "updated_at": "2026-09-24T16:56:24Z",
+      "pushed_at": "2026-04-29T08:34:33Z",
+      "stars": 8,
       "author": "zakarialaoui10",
       "q?": "location:morocco (users)"
     },
@@ -4996,6 +4831,17 @@
       "q?": "location:ivory coast (users)"
     },
     {
+      "title": "st-tldraw",
+      "description": "tldraw wrapper for streamlit",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/zakarialaoui10/st-tldraw",
+      "updated_at": "2026-09-24T16:56:25Z",
+      "pushed_at": "2026-04-17T22:01:30Z",
+      "stars": 10,
+      "author": "zakarialaoui10",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "vital-signs-hub",
       "description": null,
       "type": "SDK / Package",
@@ -5016,6 +4862,50 @@
       "stars": 1,
       "author": "flavien-hugs",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "elazizi.com",
+      "description": "My Blog",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/yjose/elazizi.com",
+      "updated_at": "2026-04-07T18:12:41Z",
+      "pushed_at": "2026-04-07T18:12:36Z",
+      "stars": 27,
+      "author": "yjose",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "vitest-ai-reporter",
+      "description": "⚡ Token-optimized Vitest reporter for AI coding tools — 80–90% less output than the default reporter",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/yjose/vitest-ai-reporter",
+      "updated_at": "2026-05-04T04:19:28Z",
+      "pushed_at": "2026-04-05T11:36:41Z",
+      "stars": 3,
+      "author": "yjose",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "xlsx-transformer",
+      "description": "A universal plugin for importing .xls and .xlsx files directly as ZikoJS Matrix.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/zakarialaoui10/xlsx-transformer",
+      "updated_at": "2026-09-24T16:56:26Z",
+      "pushed_at": "2026-04-04T22:58:30Z",
+      "stars": 19,
+      "author": "zakarialaoui10",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "ziko-kit",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/zakarialaoui10/ziko-kit",
+      "updated_at": "2026-09-24T16:56:26Z",
+      "pushed_at": "2026-04-04T20:44:34Z",
+      "stars": 41,
+      "author": "zakarialaoui10",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "CS_02",
@@ -5381,6 +5271,17 @@
       "q?": "location:rwanda (users)"
     },
     {
+      "title": "Brainly",
+      "description": "Brainly is an application that allows children to write and speak correctly while having fun.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/agazinakou/Brainly",
+      "updated_at": "2023-03-07T08:59:34Z",
+      "pushed_at": "2026-02-04T07:19:35Z",
+      "stars": 6,
+      "author": "agazinakou",
+      "q?": "location:côte d'ivoire (users)"
+    },
+    {
       "title": "justify.dev",
       "description": null,
       "type": "SDK / Package",
@@ -5445,6 +5346,17 @@
       "stars": 2,
       "author": "flavien-hugs",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "3D_game",
+      "description": "implementing a simple 3d game",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/3D_game",
+      "updated_at": "2026-11-13T11:13:59Z",
+      "pushed_at": "2026-01-01T17:40:09Z",
+      "stars": 4,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "react-analytics-tracker",
@@ -5887,6 +5799,17 @@
       "q?": "location:ivory coast (users)"
     },
     {
+      "title": "spotify-login-animation-with-react-navigation-v5",
+      "description": "Spotify login animation with react navigation v5",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/yjose/spotify-login-animation-with-react-navigation-v5",
+      "updated_at": "2025-02-01T15:30:33Z",
+      "pushed_at": "2025-10-15T19:45:28Z",
+      "stars": 19,
+      "author": "yjose",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "iit-l2-cs-2526",
       "description": "Premiers pas avec github",
       "type": "SDK / Package",
@@ -5940,6 +5863,17 @@
       "stars": 0,
       "author": "ProgrammerDATCH",
       "q?": "location:rwanda (users)"
+    },
+    {
+      "title": "Kubernetes-RKE2",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ablaamim/Kubernetes-RKE2",
+      "updated_at": "2025-10-02T17:43:59Z",
+      "pushed_at": "2025-10-02T17:43:56Z",
+      "stars": 0,
+      "author": "ablaamim",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "livingai",
@@ -6008,6 +5942,50 @@
       "q?": "location:côte d'ivoire (users)"
     },
     {
+      "title": "Certificates",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ablaamim/Certificates",
+      "updated_at": "2025-09-11T20:59:08Z",
+      "pushed_at": "2025-09-11T20:59:04Z",
+      "stars": 18,
+      "author": "ablaamim",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "Openstack-management",
+      "description": "An architecture of Openstack with core services",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ablaamim/Openstack-management",
+      "updated_at": "2025-12-11T16:41:51Z",
+      "pushed_at": "2025-09-11T20:41:04Z",
+      "stars": 1,
+      "author": "ablaamim",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "Simple_network",
+      "description": "this for implement network",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/Simple_network",
+      "updated_at": "2026-09-08T06:29:23Z",
+      "pushed_at": "2025-09-11T14:20:52Z",
+      "stars": 1,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "Advent-of-Code-2015-Challenge",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/Advent-of-Code-2015-Challenge",
+      "updated_at": "2025-10-24T09:24:02Z",
+      "pushed_at": "2025-09-05T17:51:02Z",
+      "stars": 3,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "config-",
       "description": null,
       "type": "SDK / Package",
@@ -6017,6 +5995,17 @@
       "stars": 0,
       "author": "karimalik",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "BUSYBOX-LINUX",
+      "description": "Understanding BusyBox !",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ablaamim/BUSYBOX-LINUX",
+      "updated_at": "2025-12-11T16:40:37Z",
+      "pushed_at": "2025-08-14T16:06:18Z",
+      "stars": 2,
+      "author": "ablaamim",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "invocation-au-binaire-sacr-",
@@ -6041,6 +6030,17 @@
       "q?": "location:côte d'ivoire (users)"
     },
     {
+      "title": "WaStash",
+      "description": "📲 Your Favorite WhatsApp Statuses, Safely Stashed.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/MrMDrX/WaStash",
+      "updated_at": "2026-10-19T16:32:01Z",
+      "pushed_at": "2025-08-06T17:00:00Z",
+      "stars": 7,
+      "author": "MrMDrX",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "wakato",
       "description": null,
       "type": "SDK / Package",
@@ -6050,6 +6050,28 @@
       "stars": 1,
       "author": "moasko",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "Knight-Timer",
+      "description": "♟️ A simple chess clock app built with Flutter. 🚀",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/MrMDrX/Knight-Timer",
+      "updated_at": "2026-03-24T12:10:55Z",
+      "pushed_at": "2025-07-27T23:06:29Z",
+      "stars": 4,
+      "author": "MrMDrX",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "FilmFlix-App",
+      "description": "🍿 Yet Another Movies 🎬 App built with Flutter 🚀.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/MrMDrX/FilmFlix-App",
+      "updated_at": "2026-07-22T05:27:28Z",
+      "pushed_at": "2025-07-21T00:11:10Z",
+      "stars": 7,
+      "author": "MrMDrX",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "system_engineering-devops",
@@ -6063,6 +6085,61 @@
       "q?": "location:rwanda (users)"
     },
     {
+      "title": "FaceRecognitionBrain",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/FaceRecognitionBrain",
+      "updated_at": "2025-10-24T09:23:17Z",
+      "pushed_at": "2025-07-15T17:16:10Z",
+      "stars": 4,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "philosopher",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/philosopher",
+      "updated_at": "2026-09-08T06:29:34Z",
+      "pushed_at": "2025-07-10T19:22:59Z",
+      "stars": 1,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "Minishell",
+      "description": "This is a simple shell",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/Minishell",
+      "updated_at": "2026-11-13T11:14:44Z",
+      "pushed_at": "2025-07-09T18:48:25Z",
+      "stars": 6,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "ablaamim",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ablaamim/ablaamim",
+      "updated_at": "2026-09-02T19:02:49Z",
+      "pushed_at": "2025-07-06T15:18:46Z",
+      "stars": 30,
+      "author": "ablaamim",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "Problem_Solving",
+      "description": "Preparation for interviews",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ablaamim/Problem_Solving",
+      "updated_at": "2026-10-31T23:41:05Z",
+      "pushed_at": "2025-07-06T15:12:09Z",
+      "stars": 22,
+      "author": "ablaamim",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "gotask-api",
       "description": null,
       "type": "SDK / Package",
@@ -6072,6 +6149,17 @@
       "stars": 0,
       "author": "karimalik",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "so_long",
+      "description": "this repo is about creating a simple 2D game",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/so_long",
+      "updated_at": "2026-01-04T11:10:53Z",
+      "pushed_at": "2025-07-03T16:05:31Z",
+      "stars": 1,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "mydotfiles",
@@ -6184,6 +6272,17 @@
       "q?": "location:côte d'ivoire (users)"
     },
     {
+      "title": "Kubernetes-Services",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ablaamim/Kubernetes-Services",
+      "updated_at": "2025-12-31T20:11:26Z",
+      "pushed_at": "2025-05-19T12:10:16Z",
+      "stars": 1,
+      "author": "ablaamim",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "fusionpay",
       "description": "FusionPay is a JavaScript library for handling payment operations, providing a simple and intuitive API to facilitate online payments for moneyfusion.net",
       "type": "SDK / Package",
@@ -6193,6 +6292,17 @@
       "stars": 1,
       "author": "Yaya12085",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "Inception-of-things",
+      "description": "Kubernetes Deployement using Vagrant.",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ablaamim/Inception-of-things",
+      "updated_at": "2025-12-13T21:02:19Z",
+      "pushed_at": "2025-05-12T15:59:18Z",
+      "stars": 1,
+      "author": "ablaamim",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "wp-maintenance",
@@ -6215,6 +6325,17 @@
       "stars": 0,
       "author": "codecaiine",
       "q?": "location:ivory coast (users)"
+    },
+    {
+      "title": "CandleLearner-M.github.io",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/CandleLearner-M.github.io",
+      "updated_at": "2025-10-24T09:22:40Z",
+      "pushed_at": "2025-04-30T20:30:45Z",
+      "stars": 5,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "wp-rank",
@@ -6305,6 +6426,50 @@
       "q?": "location:côte d'ivoire (users)"
     },
     {
+      "title": "ensat-cms",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/ensat-cms",
+      "updated_at": "2025-10-24T09:22:24Z",
+      "pushed_at": "2025-04-06T09:33:34Z",
+      "stars": 4,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "next-cms",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/next-cms",
+      "updated_at": "2025-10-24T09:22:23Z",
+      "pushed_at": "2025-04-04T08:55:03Z",
+      "stars": 5,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "ensat-next-deployed",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/ensat-next-deployed",
+      "updated_at": "2025-10-24T09:22:20Z",
+      "pushed_at": "2025-03-29T11:16:50Z",
+      "stars": 5,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "surf-next",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/surf-next",
+      "updated_at": "2025-10-24T09:22:14Z",
+      "pushed_at": "2025-03-29T07:53:20Z",
+      "stars": 4,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "E-Store",
       "description": null,
       "type": "SDK / Package",
@@ -6360,6 +6525,39 @@
       "q?": "location:rwanda (users)"
     },
     {
+      "title": "STUDENT-REFERENCE",
+      "description": "A repository that contains IT resources.   ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ablaamim/STUDENT-REFERENCE",
+      "updated_at": "2026-10-31T23:41:19Z",
+      "pushed_at": "2025-03-13T14:34:06Z",
+      "stars": 82,
+      "author": "ablaamim",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "foodies-next",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/foodies-next",
+      "updated_at": "2025-03-21T14:37:38Z",
+      "pushed_at": "2025-03-13T11:23:31Z",
+      "stars": 2,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "Reacty-Pizza-Co.",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/Reacty-Pizza-Co.",
+      "updated_at": "2025-03-21T14:37:39Z",
+      "pushed_at": "2025-03-13T10:43:58Z",
+      "stars": 4,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "matlab_docker_2",
       "description": null,
       "type": "SDK / Package",
@@ -6369,6 +6567,28 @@
       "stars": 0,
       "author": "ProgrammerDATCH",
       "q?": "location:rwanda (users)"
+    },
+    {
+      "title": "Redux-Training",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/Redux-Training",
+      "updated_at": "2025-03-21T14:37:40Z",
+      "pushed_at": "2025-03-12T09:33:25Z",
+      "stars": 5,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "CandleLearner-M",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/CandleLearner-M",
+      "updated_at": "2025-12-15T18:25:03Z",
+      "pushed_at": "2025-03-12T08:49:57Z",
+      "stars": 7,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "matlab_docker_1",
@@ -6382,6 +6602,28 @@
       "q?": "location:rwanda (users)"
     },
     {
+      "title": "TypoGraphiX-Gallery",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/TypoGraphiX-Gallery",
+      "updated_at": "2025-03-21T14:37:42Z",
+      "pushed_at": "2025-03-10T15:03:33Z",
+      "stars": 3,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "TypoGraphix-The-Ultimate-Blog-Design",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/TypoGraphix-The-Ultimate-Blog-Design",
+      "updated_at": "2025-04-18T16:08:11Z",
+      "pushed_at": "2025-03-09T16:21:27Z",
+      "stars": 3,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "Matlab-Production-Server--Automation",
       "description": null,
       "type": "SDK / Package",
@@ -6391,6 +6633,61 @@
       "stars": 0,
       "author": "ProgrammerDATCH",
       "q?": "location:rwanda (users)"
+    },
+    {
+      "title": "Minitalk",
+      "description": "this project is to create a server and client ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/Minitalk",
+      "updated_at": "2026-01-04T11:10:56Z",
+      "pushed_at": "2025-03-06T13:43:32Z",
+      "stars": 1,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "next",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/next",
+      "updated_at": "2025-03-21T14:37:45Z",
+      "pushed_at": "2025-03-06T08:22:02Z",
+      "stars": 2,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "Challenge-Your-React-Knowledge",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/Challenge-Your-React-Knowledge",
+      "updated_at": "2026-09-21T20:07:25Z",
+      "pushed_at": "2025-03-05T18:07:32Z",
+      "stars": 5,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "WorldWise",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/WorldWise",
+      "updated_at": "2026-09-21T20:07:17Z",
+      "pushed_at": "2025-03-05T16:00:57Z",
+      "stars": 4,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "The-Ultimate-Responsive-WT",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/The-Ultimate-Responsive-WT",
+      "updated_at": "2026-09-21T20:07:19Z",
+      "pushed_at": "2025-03-04T20:38:51Z",
+      "stars": 9,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "sprh",
@@ -6413,6 +6710,17 @@
       "stars": 0,
       "author": "Sedrickgael",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "framer-motion-workouts",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/framer-motion-workouts",
+      "updated_at": "2025-03-21T14:37:49Z",
+      "pushed_at": "2025-02-28T07:19:33Z",
+      "stars": 4,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "manage_biblio_backend",
@@ -6514,6 +6822,39 @@
       "q?": "location:côte d'ivoire (users)"
     },
     {
+      "title": "Backroads-App",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/Backroads-App",
+      "updated_at": "2026-04-16T13:10:59Z",
+      "pushed_at": "2025-02-21T16:51:13Z",
+      "stars": 6,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "usePopcorn",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/usePopcorn",
+      "updated_at": "2025-03-21T14:37:53Z",
+      "pushed_at": "2025-02-19T19:37:28Z",
+      "stars": 2,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
+      "title": "best-seller-book",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/best-seller-book",
+      "updated_at": "2025-03-21T14:37:53Z",
+      "pushed_at": "2025-02-18T20:11:52Z",
+      "stars": 2,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "React_list_App",
       "description": null,
       "type": "SDK / Package",
@@ -6525,6 +6866,17 @@
       "q?": "location:ivory coast (users)"
     },
     {
+      "title": "CPP-PRACTICAL-APPROACH",
+      "description": "Introduction to C++ programming for CPI2 students, um6p-college of computing",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/ablaamim/CPP-PRACTICAL-APPROACH",
+      "updated_at": "2026-05-02T13:05:31Z",
+      "pushed_at": "2025-02-09T20:56:16Z",
+      "stars": 4,
+      "author": "ablaamim",
+      "q?": "location:morocco (users)"
+    },
+    {
       "title": "kam_motors_dark",
       "description": null,
       "type": "SDK / Package",
@@ -6534,6 +6886,17 @@
       "stars": 0,
       "author": "Sedrickgael",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "eat-a-split",
+      "description": "Link",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/eat-a-split",
+      "updated_at": "2025-03-21T14:37:55Z",
+      "pushed_at": "2025-02-05T11:19:01Z",
+      "stars": 2,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "kam_motors_inspaire",
@@ -6556,6 +6919,17 @@
       "stars": 0,
       "author": "Sedrickgael",
       "q?": "location:côte d'ivoire (users)"
+    },
+    {
+      "title": "push_swap",
+      "description": "this project is about time complexity and using stacks ",
+      "type": "SDK / Package",
+      "github_url": "https://github.com/Abdellahsyani/push_swap",
+      "updated_at": "2026-01-04T11:10:33Z",
+      "pushed_at": "2025-02-04T09:01:09Z",
+      "stars": 1,
+      "author": "Abdellahsyani",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "e_commerce",
@@ -6589,6 +6963,17 @@
       "stars": 1,
       "author": "ProgrammerDATCH",
       "q?": "location:rwanda (users)"
+    },
+    {
+      "title": "My-JavaScript-Trainings",
+      "description": null,
+      "type": "SDK / Package",
+      "github_url": "https://github.com/CandleLearner-M/My-JavaScript-Trainings",
+      "updated_at": "2025-03-21T14:37:55Z",
+      "pushed_at": "2025-01-19T09:17:45Z",
+      "stars": 1,
+      "author": "CandleLearner-M",
+      "q?": "location:morocco (users)"
     },
     {
       "title": "soracertpro",
