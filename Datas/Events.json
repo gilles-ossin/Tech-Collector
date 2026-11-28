@@ -6228,6 +6228,213 @@
         "artificial intelligence"
       ],
       "id": 240
+    },
+    {
+      "title": "MCT NAIJA AI SUMMIT 2026",
+      "slug": "mct-naija-ai-summit-2026",
+      "is_active": false,
+      "description": "Tech conference in Lagos, Nigeria",
+      "event_date": "2026-12-05",
+      "location": "Lagos",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/mct-naija-ai-summit-2026-fgt5bqam",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:MCT%2520NAIJA%2520AI%2520SUMMIT%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25205%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Lagos%252C%2520Nigeria,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-28T08:25:17+00:00",
+      "updated_at": "2026-11-28T08:25:17+00:00",
+      "eventDate": "2026-12-05",
+      "q": [
+        "conference",
+        "summit",
+        "nigeria",
+        "lagos",
+        "tech",
+        "ai"
+      ],
+      "id": 241
+    },
+    {
+      "title": "TechSup Meetup ✕ YADRO",
+      "slug": "techsup-meetup-yadro",
+      "is_active": false,
+      "description": "IT meetup in Moscow, Russia and Online",
+      "event_date": "2026-12-10",
+      "location": "Moscow & Hybride",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/tech-sup-meetup-yadro-iexio-lg",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:TechSup%2520Meetup%2520%25E2%259C%2595%2520YADRO,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%252010%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Moscow%252C%2520Russia%2520and%2520Online,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-28T08:27:26+00:00",
+      "updated_at": "2026-11-28T08:27:26+00:00",
+      "eventDate": "2026-12-10",
+      "q": [
+        "meetup"
+      ],
+      "id": 242
+    },
+    {
+      "title": "GDG Maseru DevFest",
+      "slug": "gdg-maseru-devfest",
+      "is_active": false,
+      "description": "Google conference in Maseru, Lesotho",
+      "event_date": "2026-12-12",
+      "location": "Maseru",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/gdg-maseru-dev-fest-atp5rq2c",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:GDG%2520Maseru%2520DevFest,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%252012%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Maseru%252C%2520Lesotho,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-28T08:27:26+00:00",
+      "updated_at": "2026-11-28T08:27:26+00:00",
+      "eventDate": "2026-12-12",
+      "q": [
+        "conference",
+        "devfest"
+      ],
+      "id": 243
+    },
+    {
+      "title": "DevFest Kenitra 2026",
+      "slug": "devfest-kenitra-2026",
+      "is_active": false,
+      "description": "Google conference in Kenitra, Morocco",
+      "event_date": "2026-12-12",
+      "location": "Kenitra",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/dev-fest-kenitra-2026-12vu0ycp",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:DevFest%2520Kenitra%25202026,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%252012%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Kenitra%252C%2520Morocco,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-28T08:27:26+00:00",
+      "updated_at": "2026-11-28T08:27:26+00:00",
+      "eventDate": "2026-12-12",
+      "q": [
+        "conference",
+        "devfest",
+        "morocco"
+      ],
+      "id": 244
+    },
+    {
+      "title": "HR World Summit South Africa 2027",
+      "slug": "hr-world-summit-south-africa-2027",
+      "is_active": false,
+      "description": "HR / Hiring / Recruiting conference in Johannesburg, South Africa",
+      "event_date": "2027-06-11",
+      "location": "Johannesburg",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/hr-world-summit-south-africa-2027-f4ryksm3",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:HR%2520World%2520Summit%2520South%2520Africa%25202027,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Jun%252011%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Johannesburg%252C%2520South%2520Africa,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-28T08:27:26+00:00",
+      "updated_at": "2026-11-28T08:27:26+00:00",
+      "eventDate": "2027-06-11",
+      "q": [
+        "conference",
+        "summit",
+        "africa",
+        "south africa",
+        "johannesburg"
+      ],
+      "id": 245
+    },
+    {
+      "title": "Founders Friday Bangkok: Networking, Startup Pitches",
+      "slug": "founders-friday-bangkok-networking-startup-pitches",
+      "is_active": false,
+      "description": "Startup meetup in Bangkok, Thailand",
+      "event_date": "2026-12-04",
+      "location": "Bangkok",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/founders-friday-bangkok-networking-startup-pitches-2atkzz3l",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Founders%2520Friday%2520Bangkok%253A%2520Networking%252C%2520Startup%2520Pitches,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%25204%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Bangkok%252C%2520Thailand,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-28T08:27:26+00:00",
+      "updated_at": "2026-11-28T08:27:26+00:00",
+      "eventDate": "2026-12-04",
+      "q": [
+        "meetup",
+        "startup"
+      ],
+      "id": 246
+    },
+    {
+      "title": "How Americans Do Business: Talk + Startup Pitch Session",
+      "slug": "how-americans-do-business-talk-startup-pitch-session",
+      "is_active": false,
+      "description": "Startup meetup in Tbilisi, Georgia",
+      "event_date": "2026-12-13",
+      "location": "Tbilisi",
+      "type": "Meetup",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/how-americans-do-business-talk-startup-pitch-session-74eg36rr",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:How%2520Americans%2520Do%2520Business%253A%2520Talk%2520%252B%2520Startup%2520Pitch%2520Session,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Dec%252013%25202026,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Tbilisi%252C%2520Georgia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-28T08:27:26+00:00",
+      "updated_at": "2026-11-28T08:27:26+00:00",
+      "eventDate": "2026-12-13",
+      "q": [
+        "meetup",
+        "pitch",
+        "startup"
+      ],
+      "id": 247
+    },
+    {
+      "title": "Testing Talks Conference 2027 Sydney",
+      "slug": "testing-talks-conference-2027-sydney",
+      "is_active": false,
+      "description": "Testing / QA conference in Sydney, Australia",
+      "event_date": "2027-08-05",
+      "location": "Sydney",
+      "type": "Conférence",
+      "organizer_username": null,
+      "organizer_name": null,
+      "link": "https://dev.events/conferences/testing-talks-conference-2027-sydney-pjs4-dgs",
+      "attendees_count": null,
+      "img": [
+        "https://res.cloudinary.com/eduardsi/image/upload/w_1000,c_fit,co_white,l_text:Lato_80_bold:Testing%2520Talks%2520Conference%25202027%2520Sydney,g_north_west,x_100,y_100/w_1000,c_fit,co_white,l_text:Lato_40:Aug%25205%25202027,g_north_west,x_100,y_360/w_1000,c_fit,co_white,l_text:Lato_40_bold:Sydney%252C%2520Australia,g_north_west,x_100,y_430/devevents-og_o00xcs.png"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-28T08:27:26+00:00",
+      "updated_at": "2026-11-28T08:27:26+00:00",
+      "eventDate": "2027-08-05",
+      "q": [
+        "conference"
+      ],
+      "id": 248
     }
   ]
 }
