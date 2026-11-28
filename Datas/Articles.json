@@ -27547,6 +27547,35 @@
       "created_at": "2026-11-27T10:52:17Z",
       "updated_at": "2026-11-27T21:02:08+00:00",
       "id": 875
+    },
+    {
+      "title": "Afrique du Sud: malgré son revers aux municipales, l'ANC garde les grandes villes grâce à des coalitions",
+      "slug": "afrique-du-sud-malgre-son-revers-aux-municipales-l-anc-garde-les-grandes-villes-grace-a-des-coalitions",
+      "is_active": false,
+      "summary": "Trois semaines après les élections municipales, on connaît désormais la composition de tous les conseils municipaux, le nom des maires et les différentes ententes entre partis en Afrique du Sud. Dans un paysage politique fracturé, la plupart des villes sud-africaines sont désormais dirigées par des coalitions. C'est ainsi que le parti de Nelson Mandela, affaibli après avoir enregistré son pire score électoral – à peine plus de 30% –, reste tout de même au pouvoir dans la plupart des grandes vill",
+      "content": {
+        "title": "Afrique du Sud: malgré son revers aux municipales, l'ANC garde les grandes villes grâce à des coalitions",
+        "subtitle": "",
+        "desc": "Trois semaines après les élections municipales, on connaît désormais la composition de tous les conseils municipaux, le nom des maires et les différentes ententes entre partis en Afrique du Sud. Dans un paysage politique fracturé, la plupart des villes sud-africaines sont désormais dirigées par des coalitions. C'est ainsi que le parti de Nelson Mandela, affaibli après avoir enregistré son pire score électoral – à peine plus de 30% –, reste tout de même au pouvoir dans la plupart des grandes villes, dont Johannesburg, mais perd le poste de maire.",
+        "sections": []
+      },
+      "author_name": "RFI",
+      "author_username": null,
+      "tags": [
+        "Afrique",
+        "RFI Afrique"
+      ],
+      "link": "https://www.rfi.fr/fr/afrique/20261127-afrique-du-sud-malgr%C3%A9-son-revers-aux-municipales-l-anc-garde-les-grandes-villes-gr%C3%A2ce-%C3%A0-des-coalitions",
+      "q": [
+        "afrique"
+      ],
+      "img": [
+        "https://s.rfi.fr/media/display/245b1474-eaa6-11f1-a36b-f9cf020caef6/w:1024/p:16x9/2026-11-19T135011Z-2140210104-RC2DMOA34MKN-RTRMADP-3-SAFRICA-POLITICS.jpg"
+      ],
+      "status": "pending",
+      "created_at": "2026-11-27T22:23:11Z",
+      "updated_at": "2026-11-28T07:11:53+00:00",
+      "id": 876
     }
   ]
 }
